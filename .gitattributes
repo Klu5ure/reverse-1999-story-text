@@ -1,0 +1,4 @@
+# 纯文本归档统一使用 LF，避免不同平台换行差异造成整份文件重写
+* text=auto eol=lf
+*.md text eol=lf
+*.json text eol=lf

@@ -1,0 +1,52 @@
+{
+  "zh-CN": {
+    "sections": 2706,
+    "linesRendered": 146802,
+    "linesMissing": 0,
+    "untranslatedSections": 0,
+    "linesTotalInScenes": 149969,
+    "linesReachable": 146244,
+    "linesArchivedExcluded": 3716,
+    "linesUnwalked": 9
+  },
+  "zh-TW": {
+    "sections": 2706,
+    "linesRendered": 141290,
+    "linesMissing": 5469,
+    "untranslatedSections": 94,
+    "linesTotalInScenes": 149969,
+    "linesReachable": 146244,
+    "linesArchivedExcluded": 3716,
+    "linesUnwalked": 9
+  },
+  "en": {
+    "sections": 2706,
+    "linesRendered": 141330,
+    "linesMissing": 5440,
+    "untranslatedSections": 82,
+    "linesTotalInScenes": 149969,
+    "linesReachable": 146244,
+    "linesArchivedExcluded": 3716,
+    "linesUnwalked": 9
+  },
+  "ja": {
+    "sections": 2706,
+    "linesRendered": 141300,
+    "linesMissing": 5471,
+    "untranslatedSections": 82,
+    "linesTotalInScenes": 149969,
+    "linesReachable": 146244,
+    "linesArchivedExcluded": 3716,
+    "linesUnwalked": 9
+  },
+  "ko": {
+    "sections": 2706,
+    "linesRendered": 141274,
+    "linesMissing": 5484,
+    "untranslatedSections": 95,
+    "linesTotalInScenes": 149969,
+    "linesReachable": 146244,
+    "linesArchivedExcluded": 3716,
+    "linesUnwalked": 9
+  }
+}
