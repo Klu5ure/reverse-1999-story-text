@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 017 · 1 sections
 
-[← Previous chapter](../extras/016-Fortune Knot Lantern.md) · [Contents](../README.md) · [Next chapter →](../extras/018-Assassin Observation Result.md)
+[← Previous chapter](../extras/016-Fortune%20Knot%20Lantern.md) · [Contents](../README.md) · [Next chapter →](../extras/018-Assassin%20Observation%20Result.md)
 
 ## 01 · COL-800003 · 【2.8】启示录变相【收藏品】
 
@@ -24,4 +24,4 @@
 
 ---
 
-[← Previous chapter](../extras/016-Fortune Knot Lantern.md) · [Contents](../README.md) · [Next chapter →](../extras/018-Assassin Observation Result.md)
+[← Previous chapter](../extras/016-Fortune%20Knot%20Lantern.md) · [Contents](../README.md) · [Next chapter →](../extras/018-Assassin%20Observation%20Result.md)

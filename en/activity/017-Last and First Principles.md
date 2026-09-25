@@ -2,7 +2,7 @@
 
 > Events · Chapter 017 · 24 sections
 
-[← Previous chapter](../activity/016-The Turquoise Serpent Club.md) · [Contents](../README.md) · [Next chapter →](../activity/018-The Temporal Scale.md)
+[← Previous chapter](../activity/016-The%20Turquoise%20Serpent%20Club.md) · [Contents](../README.md) · [Next chapter →](../activity/018-The%20Temporal%20Scale.md)
 
 ## 01 · CH36101-01 · That Uncanny Green
 
@@ -1215,4 +1215,4 @@ Regarding the Space Monitor Project team's celebration party, just remember to c
 
 ---
 
-[← Previous chapter](../activity/016-The Turquoise Serpent Club.md) · [Contents](../README.md) · [Next chapter →](../activity/018-The Temporal Scale.md)
+[← Previous chapter](../activity/016-The%20Turquoise%20Serpent%20Club.md) · [Contents](../README.md) · [Next chapter →](../activity/018-The%20Temporal%20Scale.md)

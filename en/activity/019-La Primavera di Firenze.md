@@ -2,7 +2,7 @@
 
 > Events · Chapter 019 · 30 sections
 
-[← Previous chapter](../activity/018-The Temporal Scale.md) · [Contents](../README.md) · [Next chapter →](../activity/020-Drama in Athens.md)
+[← Previous chapter](../activity/018-The%20Temporal%20Scale.md) · [Contents](../README.md) · [Next chapter →](../activity/020-Drama%20in%20Athens.md)
 
 ## 01 · CH305101-01 · Particles of Chaos · 1/2
 
@@ -1857,4 +1857,4 @@ I respect your decision. When you're ready for a story, go find your friends. Th
 
 ---
 
-[← Previous chapter](../activity/018-The Temporal Scale.md) · [Contents](../README.md) · [Next chapter →](../activity/020-Drama in Athens.md)
+[← Previous chapter](../activity/018-The%20Temporal%20Scale.md) · [Contents](../README.md) · [Next chapter →](../activity/020-Drama%20in%20Athens.md)

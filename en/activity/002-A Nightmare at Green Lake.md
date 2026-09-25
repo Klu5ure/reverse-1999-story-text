@@ -2,7 +2,7 @@
 
 > Events · Chapter 002 · 36 sections
 
-[← Previous chapter](../activity/001-The Theft of the Rimet Cup.md) · [Contents](../README.md) · [Next chapter →](../activity/003-Journey to Mor Pankh.md)
+[← Previous chapter](../activity/001-The%20Theft%20of%20the%20Rimet%20Cup.md) · [Contents](../README.md) · [Next chapter →](../activity/003-Journey%20to%20Mor%20Pankh.md)
 
 ## 01 · GLN-01 · A Letter from a Stranger
 
@@ -1720,4 +1720,4 @@ That's the end of the horror story, which is not that horrible, though.
 
 ---
 
-[← Previous chapter](../activity/001-The Theft of the Rimet Cup.md) · [Contents](../README.md) · [Next chapter →](../activity/003-Journey to Mor Pankh.md)
+[← Previous chapter](../activity/001-The%20Theft%20of%20the%20Rimet%20Cup.md) · [Contents](../README.md) · [Next chapter →](../activity/003-Journey%20to%20Mor%20Pankh.md)

@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 019 · 7 sections
 
-[← Previous chapter](../character/018-Mesmer Jr.md) · [Contents](../README.md) · [Next chapter →](../character/020-An-an Lee.md)
+[← Previous chapter](../character/018-Mesmer%20Jr.md) · [Contents](../README.md) · [Next chapter →](../character/020-An-an%20Lee.md)
 
 ## 01 · BBT-01 · On the Road
 
@@ -720,4 +720,4 @@ Sonetto nods faintly, then changes the subject.
 
 ---
 
-[← Previous chapter](../character/018-Mesmer Jr.md) · [Contents](../README.md) · [Next chapter →](../character/020-An-an Lee.md)
+[← Previous chapter](../character/018-Mesmer%20Jr.md) · [Contents](../README.md) · [Next chapter →](../character/020-An-an%20Lee.md)

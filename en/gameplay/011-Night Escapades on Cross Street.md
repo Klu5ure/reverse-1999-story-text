@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 011 · 12 sections
 
-[← Previous chapter](../gameplay/010-On the Thousandth Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/012-Fuga a 3 Soggetti.md)
+[← Previous chapter](../gameplay/010-On%20the%20Thousandth%20Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/012-Fuga%20a%203%20Soggetti.md)
 
 ## 01 · CH23601-01 · Bird Companion
 
@@ -834,4 +834,4 @@ It glides up over the eaves and soars above the streets of London, riding the wi
 
 ---
 
-[← Previous chapter](../gameplay/010-On the Thousandth Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/012-Fuga a 3 Soggetti.md)
+[← Previous chapter](../gameplay/010-On%20the%20Thousandth%20Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/012-Fuga%20a%203%20Soggetti.md)

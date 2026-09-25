@@ -2,7 +2,7 @@
 
 > Events · Chapter 020 · 15 sections
 
-[← Previous chapter](../activity/019-La Primavera di Firenze.md) · [Contents](../README.md) · [Next chapter →](../activity/021-Polymerized Dreams.md)
+[← Previous chapter](../activity/019-La%20Primavera%20di%20Firenze.md) · [Contents](../README.md) · [Next chapter →](../activity/021-Polymerized%20Dreams.md)
 
 ## 01 · CH305201-01 · In the Ancient City-State · 1/2
 
@@ -986,4 +986,4 @@ Yet the frantic mob chasing them does not yet seem to have diminished.
 
 ---
 
-[← Previous chapter](../activity/019-La Primavera di Firenze.md) · [Contents](../README.md) · [Next chapter →](../activity/021-Polymerized Dreams.md)
+[← Previous chapter](../activity/019-La%20Primavera%20di%20Firenze.md) · [Contents](../README.md) · [Next chapter →](../activity/021-Polymerized%20Dreams.md)

@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 007 · 7 sections
 
-[← Previous chapter](../mainline/006-The Prisoner in the Cave.md) · [Contents](../README.md) · [Next chapter →](../mainline/008-E lucevan le stelle.md)
+[← Previous chapter](../mainline/006-The%20Prisoner%20in%20the%20Cave.md) · [Contents](../README.md) · [Next chapter →](../mainline/008-E%20lucevan%20le%20stelle.md)
 
 ## 01 · 5SP-01 · Lovely Meeting
 
@@ -649,4 +649,4 @@ This is the last code he didn't give anyone.
 
 ---
 
-[← Previous chapter](../mainline/006-The Prisoner in the Cave.md) · [Contents](../README.md) · [Next chapter →](../mainline/008-E lucevan le stelle.md)
+[← Previous chapter](../mainline/006-The%20Prisoner%20in%20the%20Cave.md) · [Contents](../README.md) · [Next chapter →](../mainline/008-E%20lucevan%20le%20stelle.md)

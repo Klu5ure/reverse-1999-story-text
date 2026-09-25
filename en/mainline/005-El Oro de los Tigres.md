@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 005 · 53 sections
 
-[← Previous chapter](../mainline/004-Nouvelles et Textes pour Rien.md) · [Contents](../README.md) · [Next chapter →](../mainline/006-The Prisoner in the Cave.md)
+[← Previous chapter](../mainline/004-Nouvelles%20et%20Textes%20pour%20Rien.md) · [Contents](../README.md) · [Next chapter →](../mainline/006-The%20Prisoner%20in%20the%20Cave.md)
 
 ## 01 · 4TH-01 · An Old Umbrella
 
@@ -2430,4 +2430,4 @@ May the good luck go with you. Happy birthday to you.
 
 ---
 
-[← Previous chapter](../mainline/004-Nouvelles et Textes pour Rien.md) · [Contents](../README.md) · [Next chapter →](../mainline/006-The Prisoner in the Cave.md)
+[← Previous chapter](../mainline/004-Nouvelles%20et%20Textes%20pour%20Rien.md) · [Contents](../README.md) · [Next chapter →](../mainline/006-The%20Prisoner%20in%20the%20Cave.md)

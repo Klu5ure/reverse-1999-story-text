@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 034 · 14 sections
 
-[← Previous chapter](../gameplay/033-天使娜娜 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/035-Shadow of the Sun.md)
+[← Previous chapter](../gameplay/033-天使娜娜%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/035-Shadow%20of%20the%20Sun.md)
 
 ## 01 · COL-310200 · 【2.2】洛佩拉玩法剧情00
 
@@ -1137,4 +1137,4 @@ Lopera looks up, only able to see her father's towering shoulders.
 
 ---
 
-[← Previous chapter](../gameplay/033-天使娜娜 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/035-Shadow of the Sun.md)
+[← Previous chapter](../gameplay/033-天使娜娜%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/035-Shadow%20of%20the%20Sun.md)

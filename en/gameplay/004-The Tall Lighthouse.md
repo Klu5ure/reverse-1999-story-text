@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 004 · 8 sections
 
-[← Previous chapter](../gameplay/003-The Small Room.md) · [Contents](../README.md) · [Next chapter →](../gameplay/005-Dawn Arrives as Usual.md)
+[← Previous chapter](../gameplay/003-The%20Small%20Room.md) · [Contents](../README.md) · [Next chapter →](../gameplay/005-Dawn%20Arrives%20as%20Usual.md)
 
 ## 01 · CH17703-01 · Periodical Suffering
 
@@ -867,4 +867,4 @@ She takes a deep breath and opens her eyes.
 
 ---
 
-[← Previous chapter](../gameplay/003-The Small Room.md) · [Contents](../README.md) · [Next chapter →](../gameplay/005-Dawn Arrives as Usual.md)
+[← Previous chapter](../gameplay/003-The%20Small%20Room.md) · [Contents](../README.md) · [Next chapter →](../gameplay/005-Dawn%20Arrives%20as%20Usual.md)

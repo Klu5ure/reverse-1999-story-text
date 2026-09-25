@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 015 · 9 sections
 
-[← Previous chapter](../gameplay/014-Trophy of the Past Glory.md) · [Contents](../README.md) · [Next chapter →](../gameplay/016-One Flew Over the Old House.md)
+[← Previous chapter](../gameplay/014-Trophy%20of%20the%20Past%20Glory.md) · [Contents](../README.md) · [Next chapter →](../gameplay/016-One%20Flew%20Over%20the%20Old%20House.md)
 
 ## 01 · COL-305301 · 牙仙玩法剧情01
 
@@ -708,4 +708,4 @@ The tooth is a reminder of the price I will pay for choosing the wrong path on i
 
 ---
 
-[← Previous chapter](../gameplay/014-Trophy of the Past Glory.md) · [Contents](../README.md) · [Next chapter →](../gameplay/016-One Flew Over the Old House.md)
+[← Previous chapter](../gameplay/014-Trophy%20of%20the%20Past%20Glory.md) · [Contents](../README.md) · [Next chapter →](../gameplay/016-One%20Flew%20Over%20the%20Old%20House.md)

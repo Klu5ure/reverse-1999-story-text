@@ -2,7 +2,7 @@
 
 > Events · Chapter 005 · 33 sections
 
-[← Previous chapter](../activity/004-Revival! The Uluru Games.md) · [Contents](../README.md) · [Next chapter →](../activity/006-Farewell, Rayashki.md)
+[← Previous chapter](../activity/004-Revival!%20The%20Uluru%20Games.md) · [Contents](../README.md) · [Next chapter →](../activity/006-Farewell,%20Rayashki.md)
 
 ## 01 · NS-01 · Safe Travel
 
@@ -2990,4 +2990,4 @@ She flips over a page and continues reading.
 
 ---
 
-[← Previous chapter](../activity/004-Revival! The Uluru Games.md) · [Contents](../README.md) · [Next chapter →](../activity/006-Farewell, Rayashki.md)
+[← Previous chapter](../activity/004-Revival!%20The%20Uluru%20Games.md) · [Contents](../README.md) · [Next chapter →](../activity/006-Farewell,%20Rayashki.md)

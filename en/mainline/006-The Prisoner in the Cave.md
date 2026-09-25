@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 006 · 48 sections
 
-[← Previous chapter](../mainline/005-El Oro de los Tigres.md) · [Contents](../README.md) · [Next chapter →](../mainline/007-Star.md)
+[← Previous chapter](../mainline/005-El%20Oro%20de%20los%20Tigres.md) · [Contents](../README.md) · [Next chapter →](../mainline/007-Star.md)
 
 ## 01 · 5TH-01 · Bon Voyage
 
@@ -2444,4 +2444,4 @@ A fleet in black is breaking the waves and sailing toward the island.
 
 ---
 
-[← Previous chapter](../mainline/005-El Oro de los Tigres.md) · [Contents](../README.md) · [Next chapter →](../mainline/007-Star.md)
+[← Previous chapter](../mainline/005-El%20Oro%20de%20los%20Tigres.md) · [Contents](../README.md) · [Next chapter →](../mainline/007-Star.md)

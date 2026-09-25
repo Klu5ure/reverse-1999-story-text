@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 008 · 8 sections
 
-[← Previous chapter](../gameplay/007-Flying to the Past.md) · [Contents](../README.md) · [Next chapter →](../gameplay/009-The San Francisco Kids.md)
+[← Previous chapter](../gameplay/007-Flying%20to%20the%20Past.md) · [Contents](../README.md) · [Next chapter →](../gameplay/009-The%20San%20Francisco%20Kids.md)
 
 ## 01 · CH19603-01 · Tristan Chord
 
@@ -904,4 +904,4 @@ She walks outside without looking back.
 
 ---
 
-[← Previous chapter](../gameplay/007-Flying to the Past.md) · [Contents](../README.md) · [Next chapter →](../gameplay/009-The San Francisco Kids.md)
+[← Previous chapter](../gameplay/007-Flying%20to%20the%20Past.md) · [Contents](../README.md) · [Next chapter →](../gameplay/009-The%20San%20Francisco%20Kids.md)

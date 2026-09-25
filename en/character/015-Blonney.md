@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 015 · 7 sections
 
-[← Previous chapter](../character/014-La Source.md) · [Contents](../README.md) · [Next chapter →](../character/016-Diggers.md)
+[← Previous chapter](../character/014-La%20Source.md) · [Contents](../README.md) · [Next chapter →](../character/016-Diggers.md)
 
 ## 01 · WFS-01 · The Girl in the Back Seat · 1/2
 
@@ -556,4 +556,4 @@ She knows—its loyal groans and the wind rushing past her will always be intert
 
 ---
 
-[← Previous chapter](../character/014-La Source.md) · [Contents](../README.md) · [Next chapter →](../character/016-Diggers.md)
+[← Previous chapter](../character/014-La%20Source.md) · [Contents](../README.md) · [Next chapter →](../character/016-Diggers.md)

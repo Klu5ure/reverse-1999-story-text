@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 007 · 10 sections
 
-[← Previous chapter](../character/006-X.md) · [Contents](../README.md) · [Next chapter →](../character/008-A Knight.md)
+[← Previous chapter](../character/006-X.md) · [Contents](../README.md) · [Next chapter →](../character/008-A%20Knight.md)
 
 ## 01 · AGD-01 · The Night Before
 
@@ -889,4 +889,4 @@ She looks out the window, turning her gaze to the stormy sky.
 
 ---
 
-[← Previous chapter](../character/006-X.md) · [Contents](../README.md) · [Next chapter →](../character/008-A Knight.md)
+[← Previous chapter](../character/006-X.md) · [Contents](../README.md) · [Next chapter →](../character/008-A%20Knight.md)

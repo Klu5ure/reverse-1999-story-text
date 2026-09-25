@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 002 · 6 sections
 
-[← Previous chapter](../character/001-Oliver Fog.md) · [Contents](../README.md) · [Next chapter →](../character/003-Dikke.md)
+[← Previous chapter](../character/001-Oliver%20Fog.md) · [Contents](../README.md) · [Next chapter →](../character/003-Dikke.md)
 
 ## 01 · TMOT-01 · The Exiles
 
@@ -481,4 +481,4 @@ It was the same look she always wore when she stepped onto the stage.
 
 ---
 
-[← Previous chapter](../character/001-Oliver Fog.md) · [Contents](../README.md) · [Next chapter →](../character/003-Dikke.md)
+[← Previous chapter](../character/001-Oliver%20Fog.md) · [Contents](../README.md) · [Next chapter →](../character/003-Dikke.md)

@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 062 · 5 sections
 
-[← Previous chapter](../gameplay/061-Wandering on the Shore.md) · [Contents](../README.md) · [Next chapter →](../gameplay/063-2.2 · 赛季剧情.md)
+[← Previous chapter](../gameplay/061-Wandering%20on%20the%20Shore.md) · [Contents](../README.md) · [Next chapter →](../gameplay/063-2.2%20·%20赛季剧情.md)
 
 ## 01 · COL-400601 · 开场
 
@@ -495,4 +495,4 @@ Before her lay another sheet of paper. The local chronicle has been completed. T
 
 ---
 
-[← Previous chapter](../gameplay/061-Wandering on the Shore.md) · [Contents](../README.md) · [Next chapter →](../gameplay/063-2.2 · 赛季剧情.md)
+[← Previous chapter](../gameplay/061-Wandering%20on%20the%20Shore.md) · [Contents](../README.md) · [Next chapter →](../gameplay/063-2.2%20·%20赛季剧情.md)

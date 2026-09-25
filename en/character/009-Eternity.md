@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 009 · 8 sections
 
-[← Previous chapter](../character/008-A Knight.md) · [Contents](../README.md) · [Next chapter →](../character/010-Zeno.md)
+[← Previous chapter](../character/008-A%20Knight.md) · [Contents](../README.md) · [Next chapter →](../character/010-Zeno.md)
 
 ## 01 · TW-01 · An Old Dream Left
 
@@ -747,4 +747,4 @@ The water rises, then silently falls back to its origin.
 
 ---
 
-[← Previous chapter](../character/008-A Knight.md) · [Contents](../README.md) · [Next chapter →](../character/010-Zeno.md)
+[← Previous chapter](../character/008-A%20Knight.md) · [Contents](../README.md) · [Next chapter →](../character/010-Zeno.md)

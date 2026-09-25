@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 041 · 9 sections
 
-[← Previous chapter](../gameplay/040-The Great Trickster.md) · [Contents](../README.md) · [Next chapter →](../gameplay/042-Gap Month.md)
+[← Previous chapter](../gameplay/040-The%20Great%20Trickster.md) · [Contents](../README.md) · [Next chapter →](../gameplay/042-Gap%20Month.md)
 
 ## 01 · COL-311401 · Editor of Genius
 
@@ -1023,4 +1023,4 @@ The employee unwraps the package and gently places a thin booklet on the desk.
 
 ---
 
-[← Previous chapter](../gameplay/040-The Great Trickster.md) · [Contents](../README.md) · [Next chapter →](../gameplay/042-Gap Month.md)
+[← Previous chapter](../gameplay/040-The%20Great%20Trickster.md) · [Contents](../README.md) · [Next chapter →](../gameplay/042-Gap%20Month.md)

@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 001 · 11 sections
 
-← Previous chapter · [Contents](../README.md) · [Next chapter →](../mainline/002-In Our Time.md)
+← Previous chapter · [Contents](../README.md) · [Next chapter →](../mainline/002-In%20Our%20Time.md)
 
 ## 01 · PRO-01 · Rock 'n' Roll Radio
 
@@ -407,4 +407,4 @@ I am here to protect you.
 
 ---
 
-← Previous chapter · [Contents](../README.md) · [Next chapter →](../mainline/002-In Our Time.md)
+← Previous chapter · [Contents](../README.md) · [Next chapter →](../mainline/002-In%20Our%20Time.md)

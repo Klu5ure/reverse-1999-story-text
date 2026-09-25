@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 010 · 2 sections
 
-[← Previous chapter](../extras/009-Last and First Principles.md) · [Contents](../README.md) · [Next chapter →](../extras/011-Polymerized Dreams.md)
+[← Previous chapter](../extras/009-Last%20and%20First%20Principles.md) · [Contents](../README.md) · [Next chapter →](../extras/011-Polymerized%20Dreams.md)
 
 **This chapter has no English text.** Read it in [简体中文](../../zh-CN/extras/010-世纪末尺度.md).
 
@@ -12,4 +12,4 @@
 
 ---
 
-[← Previous chapter](../extras/009-Last and First Principles.md) · [Contents](../README.md) · [Next chapter →](../extras/011-Polymerized Dreams.md)
+[← Previous chapter](../extras/009-Last%20and%20First%20Principles.md) · [Contents](../README.md) · [Next chapter →](../extras/011-Polymerized%20Dreams.md)

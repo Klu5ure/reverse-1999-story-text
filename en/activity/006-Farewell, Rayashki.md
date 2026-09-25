@@ -2,7 +2,7 @@
 
 > Events · Chapter 006 · 55 sections
 
-[← Previous chapter](../activity/005-Notes on Shuori.md) · [Contents](../README.md) · [Next chapter →](../activity/007-Floor it! To the Golden City.md)
+[← Previous chapter](../activity/005-Notes%20on%20Shuori.md) · [Contents](../README.md) · [Next chapter →](../activity/007-Floor%20it!%20To%20the%20Golden%20City.md)
 
 ## 01 · FR-01 · Welcoming Ceremony · 1/2
 
@@ -2873,4 +2873,4 @@ At that moment, I decided to go and see for myself. And so I arrived at Rayashki
 
 ---
 
-[← Previous chapter](../activity/005-Notes on Shuori.md) · [Contents](../README.md) · [Next chapter →](../activity/007-Floor it! To the Golden City.md)
+[← Previous chapter](../activity/005-Notes%20on%20Shuori.md) · [Contents](../README.md) · [Next chapter →](../activity/007-Floor%20it!%20To%20the%20Golden%20City.md)

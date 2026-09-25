@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 009 · 8 sections
 
-[← Previous chapter](../gameplay/008-Through the Glass.md) · [Contents](../README.md) · [Next chapter →](../gameplay/010-On the Thousandth Night.md)
+[← Previous chapter](../gameplay/008-Through%20the%20Glass.md) · [Contents](../README.md) · [Next chapter →](../gameplay/010-On%20the%20Thousandth%20Night.md)
 
 ## 01 · CH20601-01 · "An Offer"
 
@@ -1137,4 +1137,4 @@ The culprit feigns ignorance, rubbing off the remaining scent of banana in his p
 
 ---
 
-[← Previous chapter](../gameplay/008-Through the Glass.md) · [Contents](../README.md) · [Next chapter →](../gameplay/010-On the Thousandth Night.md)
+[← Previous chapter](../gameplay/008-Through%20the%20Glass.md) · [Contents](../README.md) · [Next chapter →](../gameplay/010-On%20the%20Thousandth%20Night.md)

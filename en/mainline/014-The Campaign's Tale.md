@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 014 · 55 sections
 
-[← Previous chapter](../mainline/013-A Long Long Way.md) · [Contents](../README.md) · [Next chapter →](../mainline/015-On Another's Sorrow.md)
+[← Previous chapter](../mainline/013-A%20Long%20Long%20Way.md) · [Contents](../README.md) · [Next chapter →](../mainline/015-On%20Another's%20Sorrow.md)
 
 ## 01 · 12TH-01 · Quiet is the River Bank · 1/2
 
@@ -3664,4 +3664,4 @@ Five days later
 
 ---
 
-[← Previous chapter](../mainline/013-A Long Long Way.md) · [Contents](../README.md) · [Next chapter →](../mainline/015-On Another's Sorrow.md)
+[← Previous chapter](../mainline/013-A%20Long%20Long%20Way.md) · [Contents](../README.md) · [Next chapter →](../mainline/015-On%20Another's%20Sorrow.md)

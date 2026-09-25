@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 013 · 11 sections
 
-[← Previous chapter](../gameplay/012-Fuga a 3 Soggetti.md) · [Contents](../README.md) · [Next chapter →](../gameplay/014-Trophy of the Past Glory.md)
+[← Previous chapter](../gameplay/012-Fuga%20a%203%20Soggetti.md) · [Contents](../README.md) · [Next chapter →](../gameplay/014-Trophy%20of%20the%20Past%20Glory.md)
 
 ## 01 · CH34701-01 · The Cage
 
@@ -910,4 +910,4 @@ A house consumed by fierce flames.
 
 ---
 
-[← Previous chapter](../gameplay/012-Fuga a 3 Soggetti.md) · [Contents](../README.md) · [Next chapter →](../gameplay/014-Trophy of the Past Glory.md)
+[← Previous chapter](../gameplay/012-Fuga%20a%203%20Soggetti.md) · [Contents](../README.md) · [Next chapter →](../gameplay/014-Trophy%20of%20the%20Past%20Glory.md)

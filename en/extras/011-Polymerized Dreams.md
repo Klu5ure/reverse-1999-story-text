@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 011 · 2 sections
 
-[← Previous chapter](../extras/010-The Temporal Scale.md) · [Contents](../README.md) · [Next chapter →](../extras/012-埃里克角色.md)
+[← Previous chapter](../extras/010-The%20Temporal%20Scale.md) · [Contents](../README.md) · [Next chapter →](../extras/012-埃里克角色.md)
 
 ## 01 · COL-2038522 · 【S02】聚合浪潮02.2
 
@@ -100,4 +100,4 @@ X pulls out the broken communicator.
 
 ---
 
-[← Previous chapter](../extras/010-The Temporal Scale.md) · [Contents](../README.md) · [Next chapter →](../extras/012-埃里克角色.md)
+[← Previous chapter](../extras/010-The%20Temporal%20Scale.md) · [Contents](../README.md) · [Next chapter →](../extras/012-埃里克角色.md)

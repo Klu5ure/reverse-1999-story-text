@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 009 · 1 sections
 
-[← Previous chapter](../extras/008-The Turquoise Serpent Club.md) · [Contents](../README.md) · [Next chapter →](../extras/010-The Temporal Scale.md)
+[← Previous chapter](../extras/008-The%20Turquoise%20Serpent%20Club.md) · [Contents](../README.md) · [Next chapter →](../extras/010-The%20Temporal%20Scale.md)
 
 ## 01 · COL-203620 · 【3.6】人们向何处去13.2
 
@@ -69,4 +69,4 @@ Another flicker of her "eye." She runs her fingers over the letter on the desk.
 
 ---
 
-[← Previous chapter](../extras/008-The Turquoise Serpent Club.md) · [Contents](../README.md) · [Next chapter →](../extras/010-The Temporal Scale.md)
+[← Previous chapter](../extras/008-The%20Turquoise%20Serpent%20Club.md) · [Contents](../README.md) · [Next chapter →](../extras/010-The%20Temporal%20Scale.md)

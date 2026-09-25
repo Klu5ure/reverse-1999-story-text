@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 003 · 8 sections
 
-[← Previous chapter](../character/002-Charlie.md) · [Contents](../README.md) · [Next chapter →](../character/004-aliEn T.md)
+[← Previous chapter](../character/002-Charlie.md) · [Contents](../README.md) · [Next chapter →](../character/004-aliEn%20T.md)
 
 ## 01 · TLD-01 · Flakes of Light
 
@@ -610,4 +610,4 @@ And the sun would rise once more.
 
 ---
 
-[← Previous chapter](../character/002-Charlie.md) · [Contents](../README.md) · [Next chapter →](../character/004-aliEn T.md)
+[← Previous chapter](../character/002-Charlie.md) · [Contents](../README.md) · [Next chapter →](../character/004-aliEn%20T.md)

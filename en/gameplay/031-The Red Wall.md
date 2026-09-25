@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 031 · 8 sections
 
-[← Previous chapter](../gameplay/030-J · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/032-Bedtime Story.md)
+[← Previous chapter](../gameplay/030-J%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/032-Bedtime%20Story.md)
 
 ## 01 · COL-309701 · Near or Far
 
@@ -790,4 +790,4 @@ She still remembers the sticky feeling that oozed from the mirror. To prevent he
 
 ---
 
-[← Previous chapter](../gameplay/030-J · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/032-Bedtime Story.md)
+[← Previous chapter](../gameplay/030-J%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/032-Bedtime%20Story.md)

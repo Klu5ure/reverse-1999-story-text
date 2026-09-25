@@ -2,7 +2,7 @@
 
 > Events · Chapter 009 · 42 sections
 
-[← Previous chapter](../activity/008-Route 77_ The Haunted Highway.md) · [Contents](../README.md) · [Next chapter →](../activity/010-Last Evenings on Earth.md)
+[← Previous chapter](../activity/008-Route%2077_%20The%20Haunted%20Highway.md) · [Contents](../README.md) · [Next chapter →](../activity/010-Last%20Evenings%20on%20Earth.md)
 
 ## 01 · LD-01 · First Day Back in London · 1/2
 
@@ -2717,4 +2717,4 @@ Whatever the truth of the matter, the Uluru qualifiers have brought tangible ben
 
 ---
 
-[← Previous chapter](../activity/008-Route 77_ The Haunted Highway.md) · [Contents](../README.md) · [Next chapter →](../activity/010-Last Evenings on Earth.md)
+[← Previous chapter](../activity/008-Route%2077_%20The%20Haunted%20Highway.md) · [Contents](../README.md) · [Next chapter →](../activity/010-Last%20Evenings%20on%20Earth.md)

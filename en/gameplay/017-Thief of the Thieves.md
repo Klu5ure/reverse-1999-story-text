@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 017 · 9 sections
 
-[← Previous chapter](../gameplay/016-One Flew Over the Old House.md) · [Contents](../README.md) · [Next chapter →](../gameplay/018-The Puppy and the Hippie.md)
+[← Previous chapter](../gameplay/016-One%20Flew%20Over%20the%20Old%20House.md) · [Contents](../README.md) · [Next chapter →](../gameplay/018-The%20Puppy%20and%20the%20Hippie.md)
 
 ## 01 · COL-306201 · 梅兰妮玩法剧情01
 
@@ -846,4 +846,4 @@ In the exhibition hall full of miracles and legacies, countless shiny "test ques
 
 ---
 
-[← Previous chapter](../gameplay/016-One Flew Over the Old House.md) · [Contents](../README.md) · [Next chapter →](../gameplay/018-The Puppy and the Hippie.md)
+[← Previous chapter](../gameplay/016-One%20Flew%20Over%20the%20Old%20House.md) · [Contents](../README.md) · [Next chapter →](../gameplay/018-The%20Puppy%20and%20the%20Hippie.md)

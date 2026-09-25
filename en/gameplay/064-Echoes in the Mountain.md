@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 064 · 6 sections
 
-[← Previous chapter](../gameplay/063-2.2 · 赛季剧情.md) · [Contents](../README.md) · [Next chapter →](../gameplay/065-A Series of Dusks.md)
+[← Previous chapter](../gameplay/063-2.2%20·%20赛季剧情.md) · [Contents](../README.md) · [Next chapter →](../gameplay/065-A%20Series%20of%20Dusks.md)
 
 ## 01 · COL-600601 · 剧情片段 01
 
@@ -562,4 +562,4 @@ Upon ending the communication, Semmelweis places the communication device back i
 
 ---
 
-[← Previous chapter](../gameplay/063-2.2 · 赛季剧情.md) · [Contents](../README.md) · [Next chapter →](../gameplay/065-A Series of Dusks.md)
+[← Previous chapter](../gameplay/063-2.2%20·%20赛季剧情.md) · [Contents](../README.md) · [Next chapter →](../gameplay/065-A%20Series%20of%20Dusks.md)

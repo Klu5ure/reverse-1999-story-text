@@ -2,7 +2,7 @@
 
 > Events · Chapter 015 · 33 sections
 
-[← Previous chapter](../activity/014-A Flowing Feast.md) · [Contents](../README.md) · [Next chapter →](../activity/016-The Turquoise Serpent Club.md)
+[← Previous chapter](../activity/014-A%20Flowing%20Feast.md) · [Contents](../README.md) · [Next chapter →](../activity/016-The%20Turquoise%20Serpent%20Club.md)
 
 ## 01 · SU-01 · Prophecy
 
@@ -2531,4 +2531,4 @@ One jumps up and vanishes away the moment it hits the water.
 
 ---
 
-[← Previous chapter](../activity/014-A Flowing Feast.md) · [Contents](../README.md) · [Next chapter →](../activity/016-The Turquoise Serpent Club.md)
+[← Previous chapter](../activity/014-A%20Flowing%20Feast.md) · [Contents](../README.md) · [Next chapter →](../activity/016-The%20Turquoise%20Serpent%20Club.md)

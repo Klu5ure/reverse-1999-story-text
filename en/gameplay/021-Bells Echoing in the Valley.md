@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 021 · 45 sections
 
-[← Previous chapter](../gameplay/020-Between Dusts and Stars.md) · [Contents](../README.md) · [Next chapter →](../gameplay/022-Above the Snow Melt.md)
+[← Previous chapter](../gameplay/020-Between%20Dusts%20and%20Stars.md) · [Contents](../README.md) · [Next chapter →](../gameplay/022-Above%20the%20Snow%20Melt.md)
 
 ## 01 · COL-307201 · Prologue: Last Echoes in the Forest
 
@@ -956,4 +956,4 @@ Inside the envelope, the letter is blank.
 
 ---
 
-[← Previous chapter](../gameplay/020-Between Dusts and Stars.md) · [Contents](../README.md) · [Next chapter →](../gameplay/022-Above the Snow Melt.md)
+[← Previous chapter](../gameplay/020-Between%20Dusts%20and%20Stars.md) · [Contents](../README.md) · [Next chapter →](../gameplay/022-Above%20the%20Snow%20Melt.md)

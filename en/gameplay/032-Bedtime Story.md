@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 032 · 25 sections
 
-[← Previous chapter](../gameplay/031-The Red Wall.md) · [Contents](../README.md) · [Next chapter →](../gameplay/033-天使娜娜 · 玩法故事.md)
+[← Previous chapter](../gameplay/031-The%20Red%20Wall.md) · [Contents](../README.md) · [Next chapter →](../gameplay/033-天使娜娜%20·%20玩法故事.md)
 
 ## 01 · COL-309801 · Welcome!
 
@@ -842,4 +842,4 @@ or a sword suspended by a single hair?*
 
 ---
 
-[← Previous chapter](../gameplay/031-The Red Wall.md) · [Contents](../README.md) · [Next chapter →](../gameplay/033-天使娜娜 · 玩法故事.md)
+[← Previous chapter](../gameplay/031-The%20Red%20Wall.md) · [Contents](../README.md) · [Next chapter →](../gameplay/033-天使娜娜%20·%20玩法故事.md)

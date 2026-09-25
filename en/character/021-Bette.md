@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 021 · 8 sections
 
-[← Previous chapter](../character/020-An-an Lee.md) · [Contents](../README.md) · [Next chapter →](../character/022-Fatutu.md)
+[← Previous chapter](../character/020-An-an%20Lee.md) · [Contents](../README.md) · [Next chapter →](../character/022-Fatutu.md)
 
 ## 01 · LF-01 · A Cry Across Time
 
@@ -842,4 +842,4 @@ The last film of the 1930s.
 
 ---
 
-[← Previous chapter](../character/020-An-an Lee.md) · [Contents](../README.md) · [Next chapter →](../character/022-Fatutu.md)
+[← Previous chapter](../character/020-An-an%20Lee.md) · [Contents](../README.md) · [Next chapter →](../character/022-Fatutu.md)

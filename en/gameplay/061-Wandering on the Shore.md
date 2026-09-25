@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 061 · 3 sections
 
-[← Previous chapter](../gameplay/060-The First Epic.md) · [Contents](../README.md) · [Next chapter →](../gameplay/062-The Story of a Besieged Town.md)
+[← Previous chapter](../gameplay/060-The%20First%20Epic.md) · [Contents](../README.md) · [Next chapter →](../gameplay/062-The%20Story%20of%20a%20Besieged%20Town.md)
 
 ## 01 · COL-400402 · The Inheritors
 
@@ -65,4 +65,4 @@ Sophia at the edge of her patience at last, reluctantly closes her magazine, int
 
 ---
 
-[← Previous chapter](../gameplay/060-The First Epic.md) · [Contents](../README.md) · [Next chapter →](../gameplay/062-The Story of a Besieged Town.md)
+[← Previous chapter](../gameplay/060-The%20First%20Epic.md) · [Contents](../README.md) · [Next chapter →](../gameplay/062-The%20Story%20of%20a%20Besieged%20Town.md)

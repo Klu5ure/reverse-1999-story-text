@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 011 · 52 sections
 
-[← Previous chapter](../mainline/010-Tristes Tropiques.md) · [Contents](../README.md) · [Next chapter →](../mainline/012-Paradise Regained.md)
+[← Previous chapter](../mainline/010-Tristes%20Tropiques.md) · [Contents](../README.md) · [Next chapter →](../mainline/012-Paradise%20Regained.md)
 
 ## 01 · 9TH-01 · Prologue · 1/2
 
@@ -2633,4 +2633,4 @@ Ugh. I can't stand the way poets talk.
 
 ---
 
-[← Previous chapter](../mainline/010-Tristes Tropiques.md) · [Contents](../README.md) · [Next chapter →](../mainline/012-Paradise Regained.md)
+[← Previous chapter](../mainline/010-Tristes%20Tropiques.md) · [Contents](../README.md) · [Next chapter →](../mainline/012-Paradise%20Regained.md)

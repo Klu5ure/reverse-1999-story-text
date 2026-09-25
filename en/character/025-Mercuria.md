@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 025 · 7 sections
 
-[← Previous chapter](../character/024-Tennant.md) · [Contents](../README.md) · [Next chapter →](../gameplay/001-Light to the Tavern.md)
+[← Previous chapter](../character/024-Tennant.md) · [Contents](../README.md) · [Next chapter →](../gameplay/001-Light%20to%20the%20Tavern.md)
 
 ## 01 · CH1919-01 · Sunday Morning
 
@@ -668,4 +668,4 @@ AJ signs wildly, looking as though he is on the verge of tears.
 
 ---
 
-[← Previous chapter](../character/024-Tennant.md) · [Contents](../README.md) · [Next chapter →](../gameplay/001-Light to the Tavern.md)
+[← Previous chapter](../character/024-Tennant.md) · [Contents](../README.md) · [Next chapter →](../gameplay/001-Light%20to%20the%20Tavern.md)

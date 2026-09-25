@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 025 · 15 sections
 
-[← Previous chapter](../gameplay/024-Trudge in the Long Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/026-曲娘 · 玩法故事.md)
+[← Previous chapter](../gameplay/024-Trudge%20in%20the%20Long%20Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/026-曲娘%20·%20玩法故事.md)
 
 ## 01 · COL-308001 · Ignition
 
@@ -908,4 +908,4 @@ Return to that familiar place. The place you belong.
 
 ---
 
-[← Previous chapter](../gameplay/024-Trudge in the Long Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/026-曲娘 · 玩法故事.md)
+[← Previous chapter](../gameplay/024-Trudge%20in%20the%20Long%20Night.md) · [Contents](../README.md) · [Next chapter →](../gameplay/026-曲娘%20·%20玩法故事.md)

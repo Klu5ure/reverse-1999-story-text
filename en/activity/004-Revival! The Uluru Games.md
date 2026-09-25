@@ -2,7 +2,7 @@
 
 > Events · Chapter 004 · 48 sections
 
-[← Previous chapter](../activity/003-Journey to Mor Pankh.md) · [Contents](../README.md) · [Next chapter →](../activity/005-Notes on Shuori.md)
+[← Previous chapter](../activity/003-Journey%20to%20Mor%20Pankh.md) · [Contents](../README.md) · [Next chapter →](../activity/005-Notes%20on%20Shuori.md)
 
 ## 01 · RUG-01 · Roller Coaster
 
@@ -2555,4 +2555,4 @@ yet the Uluru Stadium shall remain forever.
 
 ---
 
-[← Previous chapter](../activity/003-Journey to Mor Pankh.md) · [Contents](../README.md) · [Next chapter →](../activity/005-Notes on Shuori.md)
+[← Previous chapter](../activity/003-Journey%20to%20Mor%20Pankh.md) · [Contents](../README.md) · [Next chapter →](../activity/005-Notes%20on%20Shuori.md)

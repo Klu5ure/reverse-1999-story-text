@@ -2,7 +2,7 @@
 
 > Events · Chapter 011 · 51 sections
 
-[← Previous chapter](../activity/010-Last Evenings on Earth.md) · [Contents](../README.md) · [Next chapter →](../activity/012-1987 Cosmic Overture.md)
+[← Previous chapter](../activity/010-Last%20Evenings%20on%20Earth.md) · [Contents](../README.md) · [Next chapter →](../activity/012-1987%20Cosmic%20Overture.md)
 
 ## 01 · SC-01 · Fresh Police Story
 
@@ -3673,4 +3673,4 @@ With that, the two figures in black vanish out the door.
 
 ---
 
-[← Previous chapter](../activity/010-Last Evenings on Earth.md) · [Contents](../README.md) · [Next chapter →](../activity/012-1987 Cosmic Overture.md)
+[← Previous chapter](../activity/010-Last%20Evenings%20on%20Earth.md) · [Contents](../README.md) · [Next chapter →](../activity/012-1987%20Cosmic%20Overture.md)

@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 065 · 19 sections
 
-[← Previous chapter](../gameplay/064-Echoes in the Mountain.md) · [Contents](../README.md) · [Next chapter →](../gameplay/066-The Syndrome of Silence.md)
+[← Previous chapter](../gameplay/064-Echoes%20in%20the%20Mountain.md) · [Contents](../README.md) · [Next chapter →](../gameplay/066-The%20Syndrome%20of%20Silence.md)
 
 ## 01 · COL-600901 · A Nightmare
 
@@ -1652,4 +1652,4 @@ One simple sentence stops her cold. She turns, trying to pierce the smiling old 
 
 ---
 
-[← Previous chapter](../gameplay/064-Echoes in the Mountain.md) · [Contents](../README.md) · [Next chapter →](../gameplay/066-The Syndrome of Silence.md)
+[← Previous chapter](../gameplay/064-Echoes%20in%20the%20Mountain.md) · [Contents](../README.md) · [Next chapter →](../gameplay/066-The%20Syndrome%20of%20Silence.md)

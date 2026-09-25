@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 022 · 5 sections
 
-[← Previous chapter](../extras/021-Chirper.md) · [Contents](../README.md) · [Next chapter →](../extras/023-To the New World.md)
+[← Previous chapter](../extras/021-Chirper.md) · [Contents](../README.md) · [Next chapter →](../extras/023-To%20the%20New%20World.md)
 
 ## 01 · COL-8002601 · 【2.6】小径01
 
@@ -326,4 +326,4 @@ As Octavia retreats, slowly fading into the distance, she quietly adds—
 
 ---
 
-[← Previous chapter](../extras/021-Chirper.md) · [Contents](../README.md) · [Next chapter →](../extras/023-To the New World.md)
+[← Previous chapter](../extras/021-Chirper.md) · [Contents](../README.md) · [Next chapter →](../extras/023-To%20the%20New%20World.md)

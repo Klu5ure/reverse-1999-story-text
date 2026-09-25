@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 013 · 51 sections
 
-[← Previous chapter](../mainline/012-Paradise Regained.md) · [Contents](../README.md) · [Next chapter →](../mainline/014-The Campaign's Tale.md)
+[← Previous chapter](../mainline/012-Paradise%20Regained.md) · [Contents](../README.md) · [Next chapter →](../mainline/014-The%20Campaign's%20Tale.md)
 
 ## 01 · 11TH-01 · After the Flood
 
@@ -3214,4 +3214,4 @@ What is particularly concerning is that the majority of Foundation staff and Lap
 
 ---
 
-[← Previous chapter](../mainline/012-Paradise Regained.md) · [Contents](../README.md) · [Next chapter →](../mainline/014-The Campaign's Tale.md)
+[← Previous chapter](../mainline/012-Paradise%20Regained.md) · [Contents](../README.md) · [Next chapter →](../mainline/014-The%20Campaign's%20Tale.md)

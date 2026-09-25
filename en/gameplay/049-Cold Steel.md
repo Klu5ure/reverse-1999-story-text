@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 049 · 9 sections
 
-[← Previous chapter](../gameplay/048-玛尔纱 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/050-贝丽尔 · 玩法故事.md)
+[← Previous chapter](../gameplay/048-玛尔纱%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/050-贝丽尔%20·%20玩法故事.md)
 
 ## 01 · COL-313201 · A Leaf on Blood-Stained Water
 
@@ -1070,4 +1070,4 @@ Corvus steps to the rear window. The horizon glows pale with a new dawn.
 
 ---
 
-[← Previous chapter](../gameplay/048-玛尔纱 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/050-贝丽尔 · 玩法故事.md)
+[← Previous chapter](../gameplay/048-玛尔纱%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/050-贝丽尔%20·%20玩法故事.md)

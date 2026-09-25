@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 007 · 3 sections
 
-[← Previous chapter](../extras/006-雷米特杯兑换活动.md) · [Contents](../README.md) · [Next chapter →](../extras/008-The Turquoise Serpent Club.md)
+[← Previous chapter](../extras/006-雷米特杯兑换活动.md) · [Contents](../README.md) · [Next chapter →](../extras/008-The%20Turquoise%20Serpent%20Club.md)
 
 ## 01 · COL-2030509 · 【S01】翡冷翠之春05.2
 
@@ -113,4 +113,4 @@ They left behind a magnificent spring for Florence.
 
 ---
 
-[← Previous chapter](../extras/006-雷米特杯兑换活动.md) · [Contents](../README.md) · [Next chapter →](../extras/008-The Turquoise Serpent Club.md)
+[← Previous chapter](../extras/006-雷米特杯兑换活动.md) · [Contents](../README.md) · [Next chapter →](../extras/008-The%20Turquoise%20Serpent%20Club.md)

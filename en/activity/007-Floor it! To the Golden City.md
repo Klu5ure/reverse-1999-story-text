@@ -2,7 +2,7 @@
 
 > Events · Chapter 007 · 58 sections
 
-[← Previous chapter](../activity/006-Farewell, Rayashki.md) · [Contents](../README.md) · [Next chapter →](../activity/008-Route 77_ The Haunted Highway.md)
+[← Previous chapter](../activity/006-Farewell,%20Rayashki.md) · [Contents](../README.md) · [Next chapter →](../activity/008-Route%2077_%20The%20Haunted%20Highway.md)
 
 ## 01 · FT-01 · Weekend Fever · 1/2
 
@@ -3278,4 +3278,4 @@ They fill the room, each one marred by a web of cracks.
 
 ---
 
-[← Previous chapter](../activity/006-Farewell, Rayashki.md) · [Contents](../README.md) · [Next chapter →](../activity/008-Route 77_ The Haunted Highway.md)
+[← Previous chapter](../activity/006-Farewell,%20Rayashki.md) · [Contents](../README.md) · [Next chapter →](../activity/008-Route%2077_%20The%20Haunted%20Highway.md)

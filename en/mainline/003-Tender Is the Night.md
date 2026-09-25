@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 003 · 45 sections
 
-[← Previous chapter](../mainline/002-In Our Time.md) · [Contents](../README.md) · [Next chapter →](../mainline/004-Nouvelles et Textes pour Rien.md)
+[← Previous chapter](../mainline/002-In%20Our%20Time.md) · [Contents](../README.md) · [Next chapter →](../mainline/004-Nouvelles%20et%20Textes%20pour%20Rien.md)
 
 ## 01 · 2ND-01 · Courtesy · 1/2
 
@@ -1522,4 +1522,4 @@ Sotheby searches all over the place, and stops before the crucible.
 
 ---
 
-[← Previous chapter](../mainline/002-In Our Time.md) · [Contents](../README.md) · [Next chapter →](../mainline/004-Nouvelles et Textes pour Rien.md)
+[← Previous chapter](../mainline/002-In%20Our%20Time.md) · [Contents](../README.md) · [Next chapter →](../mainline/004-Nouvelles%20et%20Textes%20pour%20Rien.md)

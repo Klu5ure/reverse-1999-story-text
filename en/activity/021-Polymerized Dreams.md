@@ -2,7 +2,7 @@
 
 > Events · Chapter 021 · 29 sections
 
-[← Previous chapter](../activity/020-Drama in Athens.md) · [Contents](../README.md) · [Next chapter →](../character/001-Oliver Fog.md)
+[← Previous chapter](../activity/020-Drama%20in%20Athens.md) · [Contents](../README.md) · [Next chapter →](../character/001-Oliver%20Fog.md)
 
 ## 01 · PD-01 · A New Gate Opened
 
@@ -1648,4 +1648,4 @@ In that moment, standing on the bridge between two worlds, two forms of inorgani
 
 ---
 
-[← Previous chapter](../activity/020-Drama in Athens.md) · [Contents](../README.md) · [Next chapter →](../character/001-Oliver Fog.md)
+[← Previous chapter](../activity/020-Drama%20in%20Athens.md) · [Contents](../README.md) · [Next chapter →](../character/001-Oliver%20Fog.md)

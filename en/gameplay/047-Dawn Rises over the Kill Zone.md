@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 047 · 11 sections
 
-[← Previous chapter](../gameplay/046-A Shadow's Weight.md) · [Contents](../README.md) · [Next chapter →](../gameplay/048-玛尔纱 · 玩法故事.md)
+[← Previous chapter](../gameplay/046-A%20Shadow's%20Weight.md) · [Contents](../README.md) · [Next chapter →](../gameplay/048-玛尔纱%20·%20玩法故事.md)
 
 ## 01 · COL-312601 · La Belle Époque
 
@@ -820,4 +820,4 @@ Then, she steps forward into the forest, no longer as just Marianne, but as Sent
 
 ---
 
-[← Previous chapter](../gameplay/046-A Shadow's Weight.md) · [Contents](../README.md) · [Next chapter →](../gameplay/048-玛尔纱 · 玩法故事.md)
+[← Previous chapter](../gameplay/046-A%20Shadow's%20Weight.md) · [Contents](../README.md) · [Next chapter →](../gameplay/048-玛尔纱%20·%20玩法故事.md)

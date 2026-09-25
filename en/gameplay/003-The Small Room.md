@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 003 · 8 sections
 
-[← Previous chapter](../gameplay/002-Flowing in the Wind.md) · [Contents](../README.md) · [Next chapter →](../gameplay/004-The Tall Lighthouse.md)
+[← Previous chapter](../gameplay/002-Flowing%20in%20the%20Wind.md) · [Contents](../README.md) · [Next chapter →](../gameplay/004-The%20Tall%20Lighthouse.md)
 
 ## 01 · CH17701-01 · Dog Door
 
@@ -1159,4 +1159,4 @@ The key that will finally unlock my door.
 
 ---
 
-[← Previous chapter](../gameplay/002-Flowing in the Wind.md) · [Contents](../README.md) · [Next chapter →](../gameplay/004-The Tall Lighthouse.md)
+[← Previous chapter](../gameplay/002-Flowing%20in%20the%20Wind.md) · [Contents](../README.md) · [Next chapter →](../gameplay/004-The%20Tall%20Lighthouse.md)

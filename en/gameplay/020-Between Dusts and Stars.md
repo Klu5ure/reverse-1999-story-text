@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 020 · 37 sections
 
-[← Previous chapter](../gameplay/019-As the Sand Remembered.md) · [Contents](../README.md) · [Next chapter →](../gameplay/021-Bells Echoing in the Valley.md)
+[← Previous chapter](../gameplay/019-As%20the%20Sand%20Remembered.md) · [Contents](../README.md) · [Next chapter →](../gameplay/021-Bells%20Echoing%20in%20the%20Valley.md)
 
 ## 01 · COL-307001 · Prologue: The Procrastination Syndrome
 
@@ -768,4 +768,4 @@ You put a form on his desk.
 
 ---
 
-[← Previous chapter](../gameplay/019-As the Sand Remembered.md) · [Contents](../README.md) · [Next chapter →](../gameplay/021-Bells Echoing in the Valley.md)
+[← Previous chapter](../gameplay/019-As%20the%20Sand%20Remembered.md) · [Contents](../README.md) · [Next chapter →](../gameplay/021-Bells%20Echoing%20in%20the%20Valley.md)

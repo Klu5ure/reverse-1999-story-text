@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 007 · 7 sections
 
-[← Previous chapter](../gameplay/006-Silver Knot.md) · [Contents](../README.md) · [Next chapter →](../gameplay/008-Through the Glass.md)
+[← Previous chapter](../gameplay/006-Silver%20Knot.md) · [Contents](../README.md) · [Next chapter →](../gameplay/008-Through%20the%20Glass.md)
 
 ## 01 · CH19601-01 · Glory Days in Lisbon
 
@@ -788,4 +788,4 @@ No matter whether you rage against it, take every moment you can, or give up hal
 
 ---
 
-[← Previous chapter](../gameplay/006-Silver Knot.md) · [Contents](../README.md) · [Next chapter →](../gameplay/008-Through the Glass.md)
+[← Previous chapter](../gameplay/006-Silver%20Knot.md) · [Contents](../README.md) · [Next chapter →](../gameplay/008-Through%20the%20Glass.md)

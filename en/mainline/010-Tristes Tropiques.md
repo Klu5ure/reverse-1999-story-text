@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 010 · 64 sections
 
-[← Previous chapter](../mainline/009-Vereinsamt.md) · [Contents](../README.md) · [Next chapter →](../mainline/011-Folie et Déraison.md)
+[← Previous chapter](../mainline/009-Vereinsamt.md) · [Contents](../README.md) · [Next chapter →](../mainline/011-Folie%20et%20Déraison.md)
 
 ## 01 · 8TH-01 · Unshakable Justice
 
@@ -3021,4 +3021,4 @@ Its owner has yet to come up with a more ingenious way to win. But at least it p
 
 ---
 
-[← Previous chapter](../mainline/009-Vereinsamt.md) · [Contents](../README.md) · [Next chapter →](../mainline/011-Folie et Déraison.md)
+[← Previous chapter](../mainline/009-Vereinsamt.md) · [Contents](../README.md) · [Next chapter →](../mainline/011-Folie%20et%20Déraison.md)

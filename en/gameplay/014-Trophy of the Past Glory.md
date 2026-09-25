@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 014 · 5 sections
 
-[← Previous chapter](../gameplay/013-To Slay a Tiger.md) · [Contents](../README.md) · [Next chapter →](../gameplay/015-The Old Teeth & The Worn Marks.md)
+[← Previous chapter](../gameplay/013-To%20Slay%20a%20Tiger.md) · [Contents](../README.md) · [Next chapter →](../gameplay/015-The%20Old%20Teeth%20&%20The%20Worn%20Marks.md)
 
 **This chapter has no English text.** Read it in [简体中文](../../zh-CN/gameplay/014-昨日金杯.md).
 
@@ -18,4 +18,4 @@
 
 ---
 
-[← Previous chapter](../gameplay/013-To Slay a Tiger.md) · [Contents](../README.md) · [Next chapter →](../gameplay/015-The Old Teeth & The Worn Marks.md)
+[← Previous chapter](../gameplay/013-To%20Slay%20a%20Tiger.md) · [Contents](../README.md) · [Next chapter →](../gameplay/015-The%20Old%20Teeth%20&%20The%20Worn%20Marks.md)

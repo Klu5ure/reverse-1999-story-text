@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 018 · 1 sections
 
-[← Previous chapter](../extras/017-Apocalypsis cum figuris.md) · [Contents](../README.md) · [Next chapter →](../extras/019-箱中巡游.md)
+[← Previous chapter](../extras/017-Apocalypsis%20cum%20figuris.md) · [Contents](../README.md) · [Next chapter →](../extras/019-箱中巡游.md)
 
 ## 01 · COL-800004 · 【s01】刺客观测反馈【收藏品】
 
@@ -16,4 +16,4 @@
 
 ---
 
-[← Previous chapter](../extras/017-Apocalypsis cum figuris.md) · [Contents](../README.md) · [Next chapter →](../extras/019-箱中巡游.md)
+[← Previous chapter](../extras/017-Apocalypsis%20cum%20figuris.md) · [Contents](../README.md) · [Next chapter →](../extras/019-箱中巡游.md)

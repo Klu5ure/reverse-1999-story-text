@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 016 · 129 sections
 
-[← Previous chapter](../gameplay/015-The Old Teeth & The Worn Marks.md) · [Contents](../README.md) · [Next chapter →](../gameplay/017-Thief of the Thieves.md)
+[← Previous chapter](../gameplay/015-The%20Old%20Teeth%20&%20The%20Worn%20Marks.md) · [Contents](../README.md) · [Next chapter →](../gameplay/017-Thief%20of%20the%20Thieves.md)
 
 ## 01 · COL-305602 · 洁西卡玩法故事【十四行诗】1
 
@@ -1556,4 +1556,4 @@ A beautiful melody comes out from the end of her flute, sending ripples across t
 
 ---
 
-[← Previous chapter](../gameplay/015-The Old Teeth & The Worn Marks.md) · [Contents](../README.md) · [Next chapter →](../gameplay/017-Thief of the Thieves.md)
+[← Previous chapter](../gameplay/015-The%20Old%20Teeth%20&%20The%20Worn%20Marks.md) · [Contents](../README.md) · [Next chapter →](../gameplay/017-Thief%20of%20the%20Thieves.md)

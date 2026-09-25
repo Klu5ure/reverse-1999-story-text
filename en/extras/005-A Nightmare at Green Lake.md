@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 005 · 1 sections
 
-[← Previous chapter](../extras/004-第十章 · 补充片段.md) · [Contents](../README.md) · [Next chapter →](../extras/006-雷米特杯兑换活动.md)
+[← Previous chapter](../extras/004-第十章%20·%20补充片段.md) · [Contents](../README.md) · [Next chapter →](../extras/006-雷米特杯兑换活动.md)
 
 ## 01 · COL-200201 · 【1.2】绿湖噩梦-0
 
@@ -59,4 +59,4 @@ The two young people who are away from the others are now in each other's arms.
 
 ---
 
-[← Previous chapter](../extras/004-第十章 · 补充片段.md) · [Contents](../README.md) · [Next chapter →](../extras/006-雷米特杯兑换活动.md)
+[← Previous chapter](../extras/004-第十章%20·%20补充片段.md) · [Contents](../README.md) · [Next chapter →](../extras/006-雷米特杯兑换活动.md)

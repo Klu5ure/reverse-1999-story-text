@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 012 · 9 sections
 
-[← Previous chapter](../gameplay/011-Night Escapades on Cross Street.md) · [Contents](../README.md) · [Next chapter →](../gameplay/013-To Slay a Tiger.md)
+[← Previous chapter](../gameplay/011-Night%20Escapades%20on%20Cross%20Street.md) · [Contents](../README.md) · [Next chapter →](../gameplay/013-To%20Slay%20a%20Tiger.md)
 
 ## 01 · CH30601-01 · Exhaustion
 
@@ -836,4 +836,4 @@ He raises the shovel and plunges it into the earth.
 
 ---
 
-[← Previous chapter](../gameplay/011-Night Escapades on Cross Street.md) · [Contents](../README.md) · [Next chapter →](../gameplay/013-To Slay a Tiger.md)
+[← Previous chapter](../gameplay/011-Night%20Escapades%20on%20Cross%20Street.md) · [Contents](../README.md) · [Next chapter →](../gameplay/013-To%20Slay%20a%20Tiger.md)

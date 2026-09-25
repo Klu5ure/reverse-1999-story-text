@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 010 · 8 sections
 
-[← Previous chapter](../gameplay/009-The San Francisco Kids.md) · [Contents](../README.md) · [Next chapter →](../gameplay/011-Night Escapades on Cross Street.md)
+[← Previous chapter](../gameplay/009-The%20San%20Francisco%20Kids.md) · [Contents](../README.md) · [Next chapter →](../gameplay/011-Night%20Escapades%20on%20Cross%20Street.md)
 
 ## 01 · CH20603-01 · The Bonfire Party
 
@@ -1076,4 +1076,4 @@ Can be just like tonight.
 
 ---
 
-[← Previous chapter](../gameplay/009-The San Francisco Kids.md) · [Contents](../README.md) · [Next chapter →](../gameplay/011-Night Escapades on Cross Street.md)
+[← Previous chapter](../gameplay/009-The%20San%20Francisco%20Kids.md) · [Contents](../README.md) · [Next chapter →](../gameplay/011-Night%20Escapades%20on%20Cross%20Street.md)

@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 066 · 5 sections
 
-[← Previous chapter](../gameplay/065-A Series of Dusks.md) · [Contents](../README.md) · [Next chapter →](../wilderness/001-槲寄生 · 荒原互动.md)
+[← Previous chapter](../gameplay/065-A%20Series%20of%20Dusks.md) · [Contents](../README.md) · [Next chapter →](../wilderness/001-槲寄生%20·%20荒原互动.md)
 
 ## 01 · COL-603200 · In Front of the Door
 
@@ -220,4 +220,4 @@ Coppélia tries to swing her arms to the beat of the chant, but she's stopped by
 
 ---
 
-[← Previous chapter](../gameplay/065-A Series of Dusks.md) · [Contents](../README.md) · [Next chapter →](../wilderness/001-槲寄生 · 荒原互动.md)
+[← Previous chapter](../gameplay/065-A%20Series%20of%20Dusks.md) · [Contents](../README.md) · [Next chapter →](../wilderness/001-槲寄生%20·%20荒原互动.md)

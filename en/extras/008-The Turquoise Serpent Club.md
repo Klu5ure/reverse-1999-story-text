@@ -2,7 +2,7 @@
 
 > Additional Fragments · Chapter 008 · 1 sections
 
-[← Previous chapter](../extras/007-La Primavera di Firenze.md) · [Contents](../README.md) · [Next chapter →](../extras/009-Last and First Principles.md)
+[← Previous chapter](../extras/007-La%20Primavera%20di%20Firenze.md) · [Contents](../README.md) · [Next chapter →](../extras/009-Last%20and%20First%20Principles.md)
 
 ## 01 · COL-203513 · 【3.5】绿松石蛇俱乐部08.2
 
@@ -28,4 +28,4 @@ The wind howls, swallowing her body and voice.
 
 ---
 
-[← Previous chapter](../extras/007-La Primavera di Firenze.md) · [Contents](../README.md) · [Next chapter →](../extras/009-Last and First Principles.md)
+[← Previous chapter](../extras/007-La%20Primavera%20di%20Firenze.md) · [Contents](../README.md) · [Next chapter →](../extras/009-Last%20and%20First%20Principles.md)

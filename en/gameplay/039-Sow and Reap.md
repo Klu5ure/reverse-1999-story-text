@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 039 · 8 sections
 
-[← Previous chapter](../gameplay/038-Beyond the Coastline.md) · [Contents](../README.md) · [Next chapter →](../gameplay/040-The Great Trickster.md)
+[← Previous chapter](../gameplay/038-Beyond%20the%20Coastline.md) · [Contents](../README.md) · [Next chapter →](../gameplay/040-The%20Great%20Trickster.md)
 
 ## 01 · COL-311001 · Descent of Frost
 
@@ -1010,4 +1010,4 @@ Thank You                                                         For Watching
 
 ---
 
-[← Previous chapter](../gameplay/038-Beyond the Coastline.md) · [Contents](../README.md) · [Next chapter →](../gameplay/040-The Great Trickster.md)
+[← Previous chapter](../gameplay/038-Beyond%20the%20Coastline.md) · [Contents](../README.md) · [Next chapter →](../gameplay/040-The%20Great%20Trickster.md)

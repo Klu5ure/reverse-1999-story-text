@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 002 · 8 sections
 
-[← Previous chapter](../gameplay/001-Light to the Tavern.md) · [Contents](../README.md) · [Next chapter →](../gameplay/003-The Small Room.md)
+[← Previous chapter](../gameplay/001-Light%20to%20the%20Tavern.md) · [Contents](../README.md) · [Next chapter →](../gameplay/003-The%20Small%20Room.md)
 
 ## 01 · CH16603-01 · Dripping Inside the Hourglass
 
@@ -728,4 +728,4 @@ But he feels now that he is no longer as he was.
 
 ---
 
-[← Previous chapter](../gameplay/001-Light to the Tavern.md) · [Contents](../README.md) · [Next chapter →](../gameplay/003-The Small Room.md)
+[← Previous chapter](../gameplay/001-Light%20to%20the%20Tavern.md) · [Contents](../README.md) · [Next chapter →](../gameplay/003-The%20Small%20Room.md)

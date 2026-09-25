@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 043 · 10 sections
 
-[← Previous chapter](../gameplay/042-Gap Month.md) · [Contents](../README.md) · [Next chapter →](../gameplay/044-In Her Own Reflection.md)
+[← Previous chapter](../gameplay/042-Gap%20Month.md) · [Contents](../README.md) · [Next chapter →](../gameplay/044-In%20Her%20Own%20Reflection.md)
 
 ## 01 · COL-311701 · Earthbound
 
@@ -759,4 +759,4 @@ Kiperina laughs along.
 
 ---
 
-[← Previous chapter](../gameplay/042-Gap Month.md) · [Contents](../README.md) · [Next chapter →](../gameplay/044-In Her Own Reflection.md)
+[← Previous chapter](../gameplay/042-Gap%20Month.md) · [Contents](../README.md) · [Next chapter →](../gameplay/044-In%20Her%20Own%20Reflection.md)

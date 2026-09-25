@@ -2,7 +2,7 @@
 
 > Events · Chapter 003 · 28 sections
 
-[← Previous chapter](../activity/002-A Nightmare at Green Lake.md) · [Contents](../README.md) · [Next chapter →](../activity/004-Revival! The Uluru Games.md)
+[← Previous chapter](../activity/002-A%20Nightmare%20at%20Green%20Lake.md) · [Contents](../README.md) · [Next chapter →](../activity/004-Revival!%20The%20Uluru%20Games.md)
 
 ## 01 · JMP-01 · The Stargazers
 
@@ -1999,4 +1999,4 @@ She suddenly realizes something.
 
 ---
 
-[← Previous chapter](../activity/002-A Nightmare at Green Lake.md) · [Contents](../README.md) · [Next chapter →](../activity/004-Revival! The Uluru Games.md)
+[← Previous chapter](../activity/002-A%20Nightmare%20at%20Green%20Lake.md) · [Contents](../README.md) · [Next chapter →](../activity/004-Revival!%20The%20Uluru%20Games.md)

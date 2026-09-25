@@ -2,7 +2,7 @@
 
 > Events · Chapter 010 · 48 sections
 
-[← Previous chapter](../activity/009-Chronicles of Uluru_ London Dawning.md) · [Contents](../README.md) · [Next chapter →](../activity/011-Showdown in Chinatown.md)
+[← Previous chapter](../activity/009-Chronicles%20of%20Uluru_%20London%20Dawning.md) · [Contents](../README.md) · [Next chapter →](../activity/011-Showdown%20in%20Chinatown.md)
 
 ## 01 · LEE-01 · A Message Delivered · 1/2
 
@@ -3645,4 +3645,4 @@ A familiar ballad leaves Barcarola's lips.
 
 ---
 
-[← Previous chapter](../activity/009-Chronicles of Uluru_ London Dawning.md) · [Contents](../README.md) · [Next chapter →](../activity/011-Showdown in Chinatown.md)
+[← Previous chapter](../activity/009-Chronicles%20of%20Uluru_%20London%20Dawning.md) · [Contents](../README.md) · [Next chapter →](../activity/011-Showdown%20in%20Chinatown.md)

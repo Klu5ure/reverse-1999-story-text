@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 018 · 8 sections
 
-[← Previous chapter](../gameplay/017-Thief of the Thieves.md) · [Contents](../README.md) · [Next chapter →](../gameplay/019-As the Sand Remembered.md)
+[← Previous chapter](../gameplay/017-Thief%20of%20the%20Thieves.md) · [Contents](../README.md) · [Next chapter →](../gameplay/019-As%20the%20Sand%20Remembered.md)
 
 ## 01 · COL-306301 · A Warm Call
 
@@ -913,4 +913,4 @@ The noise of the happy cheering crowd faintly comes out from the cabin.
 
 ---
 
-[← Previous chapter](../gameplay/017-Thief of the Thieves.md) · [Contents](../README.md) · [Next chapter →](../gameplay/019-As the Sand Remembered.md)
+[← Previous chapter](../gameplay/017-Thief%20of%20the%20Thieves.md) · [Contents](../README.md) · [Next chapter →](../gameplay/019-As%20the%20Sand%20Remembered.md)

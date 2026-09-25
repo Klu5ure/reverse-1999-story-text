@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 004 · 41 sections
 
-[← Previous chapter](../mainline/003-Tender Is the Night.md) · [Contents](../README.md) · [Next chapter →](../mainline/005-El Oro de los Tigres.md)
+[← Previous chapter](../mainline/003-Tender%20Is%20the%20Night.md) · [Contents](../README.md) · [Next chapter →](../mainline/005-El%20Oro%20de%20los%20Tigres.md)
 
 ## 01 · 3RD-01 · Chaldean Oracles
 
@@ -1696,4 +1696,4 @@ There is a gentle push at the back; Vertin finds herself standing outside the do
 
 ---
 
-[← Previous chapter](../mainline/003-Tender Is the Night.md) · [Contents](../README.md) · [Next chapter →](../mainline/005-El Oro de los Tigres.md)
+[← Previous chapter](../mainline/003-Tender%20Is%20the%20Night.md) · [Contents](../README.md) · [Next chapter →](../mainline/005-El%20Oro%20de%20los%20Tigres.md)

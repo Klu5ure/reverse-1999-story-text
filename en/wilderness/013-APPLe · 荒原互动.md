@@ -2,7 +2,7 @@
 
 > Wilderness Interaction · Chapter 013 · 3 sections
 
-[← Previous chapter](../wilderness/012-无线电小姐 · 荒原互动.md) · [Contents](../README.md) · [Next chapter →](../wilderness/014-星之眼 · 荒原互动.md)
+[← Previous chapter](../wilderness/012-无线电小姐%20·%20荒原互动.md) · [Contents](../README.md) · [Next chapter →](../wilderness/014-星之眼%20·%20荒原互动.md)
 
 ## 01 · COL-302820101 · 【2.2】荒原经营驯化【APPLe】
 
@@ -20,4 +20,4 @@
 
 ---
 
-[← Previous chapter](../wilderness/012-无线电小姐 · 荒原互动.md) · [Contents](../README.md) · [Next chapter →](../wilderness/014-星之眼 · 荒原互动.md)
+[← Previous chapter](../wilderness/012-无线电小姐%20·%20荒原互动.md) · [Contents](../README.md) · [Next chapter →](../wilderness/014-星之眼%20·%20荒原互动.md)

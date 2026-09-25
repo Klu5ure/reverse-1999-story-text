@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 060 · 4 sections
 
-[← Previous chapter](../gameplay/059-A Night Visit to the Lake.md) · [Contents](../README.md) · [Next chapter →](../gameplay/061-Wandering on the Shore.md)
+[← Previous chapter](../gameplay/059-A%20Night%20Visit%20to%20the%20Lake.md) · [Contents](../README.md) · [Next chapter →](../gameplay/061-Wandering%20on%20the%20Shore.md)
 
 ## 01 · COL-400301 · 开场
 
@@ -174,4 +174,4 @@ The boy standing aside raises his eyebrows and bursts into laughter, as though h
 
 ---
 
-[← Previous chapter](../gameplay/059-A Night Visit to the Lake.md) · [Contents](../README.md) · [Next chapter →](../gameplay/061-Wandering on the Shore.md)
+[← Previous chapter](../gameplay/059-A%20Night%20Visit%20to%20the%20Lake.md) · [Contents](../README.md) · [Next chapter →](../gameplay/061-Wandering%20on%20the%20Shore.md)

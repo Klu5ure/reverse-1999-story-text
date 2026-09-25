@@ -2,7 +2,7 @@
 
 > Events · Chapter 018 · 47 sections
 
-[← Previous chapter](../activity/017-Last and First Principles.md) · [Contents](../README.md) · [Next chapter →](../activity/019-La Primavera di Firenze.md)
+[← Previous chapter](../activity/017-Last%20and%20First%20Principles.md) · [Contents](../README.md) · [Next chapter →](../activity/019-La%20Primavera%20di%20Firenze.md)
 
 ## 01 · TTS-01 · "Fin-de-Siècle"
 
@@ -377,4 +377,4 @@ Reporter: James Welles/Dorey Johnson
 
 ---
 
-[← Previous chapter](../activity/017-Last and First Principles.md) · [Contents](../README.md) · [Next chapter →](../activity/019-La Primavera di Firenze.md)
+[← Previous chapter](../activity/017-Last%20and%20First%20Principles.md) · [Contents](../README.md) · [Next chapter →](../activity/019-La%20Primavera%20di%20Firenze.md)

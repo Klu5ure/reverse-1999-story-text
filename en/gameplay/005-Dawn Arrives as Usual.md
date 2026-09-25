@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 005 · 8 sections
 
-[← Previous chapter](../gameplay/004-The Tall Lighthouse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/006-Silver Knot.md)
+[← Previous chapter](../gameplay/004-The%20Tall%20Lighthouse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/006-Silver%20Knot.md)
 
 ## 01 · CH18601-01 · Crushed Butterflies
 
@@ -785,4 +785,4 @@ Then at the edge of her shadow, a familiar face.
 
 ---
 
-[← Previous chapter](../gameplay/004-The Tall Lighthouse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/006-Silver Knot.md)
+[← Previous chapter](../gameplay/004-The%20Tall%20Lighthouse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/006-Silver%20Knot.md)

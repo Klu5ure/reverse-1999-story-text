@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 015 · 65 sections
 
-[← Previous chapter](../mainline/014-The Campaign's Tale.md) · [Contents](../README.md) · [Next chapter →](../activity/001-The Theft of the Rimet Cup.md)
+[← Previous chapter](../mainline/014-The%20Campaign's%20Tale.md) · [Contents](../README.md) · [Next chapter →](../activity/001-The%20Theft%20of%20the%20Rimet%20Cup.md)
 
 ## 01 · 13TH-01 · Reckoning Time
 
@@ -5322,4 +5322,4 @@ Appendix: Lost Era Relics Inventory
 
 ---
 
-[← Previous chapter](../mainline/014-The Campaign's Tale.md) · [Contents](../README.md) · [Next chapter →](../activity/001-The Theft of the Rimet Cup.md)
+[← Previous chapter](../mainline/014-The%20Campaign's%20Tale.md) · [Contents](../README.md) · [Next chapter →](../activity/001-The%20Theft%20of%20the%20Rimet%20Cup.md)

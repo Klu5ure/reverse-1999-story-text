@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 012 · 49 sections
 
-[← Previous chapter](../mainline/011-Folie et Déraison.md) · [Contents](../README.md) · [Next chapter →](../mainline/013-A Long Long Way.md)
+[← Previous chapter](../mainline/011-Folie%20et%20Déraison.md) · [Contents](../README.md) · [Next chapter →](../mainline/013-A%20Long%20Long%20Way.md)
 
 ## 01 · 10TH-01 · Annum Novum Faustum et Beatum
 
@@ -3917,4 +3917,4 @@ I respect your decision. When you're ready for a story, go find your friends. Th
 
 ---
 
-[← Previous chapter](../mainline/011-Folie et Déraison.md) · [Contents](../README.md) · [Next chapter →](../mainline/013-A Long Long Way.md)
+[← Previous chapter](../mainline/011-Folie%20et%20Déraison.md) · [Contents](../README.md) · [Next chapter →](../mainline/013-A%20Long%20Long%20Way.md)

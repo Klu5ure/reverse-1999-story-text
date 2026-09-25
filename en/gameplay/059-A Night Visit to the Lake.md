@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 059 · 4 sections
 
-[← Previous chapter](../gameplay/058-无名者 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/060-The First Epic.md)
+[← Previous chapter](../gameplay/058-无名者%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/060-The%20First%20Epic.md)
 
 ## 01 · COL-400201 · 开场
 
@@ -179,4 +179,4 @@ Let the kids play a little longer.
 
 ---
 
-[← Previous chapter](../gameplay/058-无名者 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/060-The First Epic.md)
+[← Previous chapter](../gameplay/058-无名者%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/060-The%20First%20Epic.md)

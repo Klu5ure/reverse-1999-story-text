@@ -2,7 +2,7 @@
 
 > Events · Chapter 012 · 36 sections
 
-[← Previous chapter](../activity/011-Showdown in Chinatown.md) · [Contents](../README.md) · [Next chapter →](../activity/013-The Midnight Whistle.md)
+[← Previous chapter](../activity/011-Showdown%20in%20Chinatown.md) · [Contents](../README.md) · [Next chapter →](../activity/013-The%20Midnight%20Whistle.md)
 
 ## 01 · CO-01 · How to Find Shelter
 
@@ -2592,4 +2592,4 @@ That's all I wanted to share today. I believe that one day in the distant future
 
 ---
 
-[← Previous chapter](../activity/011-Showdown in Chinatown.md) · [Contents](../README.md) · [Next chapter →](../activity/013-The Midnight Whistle.md)
+[← Previous chapter](../activity/011-Showdown%20in%20Chinatown.md) · [Contents](../README.md) · [Next chapter →](../activity/013-The%20Midnight%20Whistle.md)

@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 002 · 48 sections
 
-[← Previous chapter](../mainline/001-This Is Tomorrow.md) · [Contents](../README.md) · [Next chapter →](../mainline/003-Tender Is the Night.md)
+[← Previous chapter](../mainline/001-This%20Is%20Tomorrow.md) · [Contents](../README.md) · [Next chapter →](../mainline/003-Tender%20Is%20the%20Night.md)
 
 ## 01 · 1ST-01 · Wretched Brats · 1/4
 
@@ -1476,4 +1476,4 @@ Enough. What we said tonight is just between you and me.
 
 ---
 
-[← Previous chapter](../mainline/001-This Is Tomorrow.md) · [Contents](../README.md) · [Next chapter →](../mainline/003-Tender Is the Night.md)
+[← Previous chapter](../mainline/001-This%20Is%20Tomorrow.md) · [Contents](../README.md) · [Next chapter →](../mainline/003-Tender%20Is%20the%20Night.md)

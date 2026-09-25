@@ -2,7 +2,7 @@
 
 > Events · Chapter 013 · 46 sections
 
-[← Previous chapter](../activity/012-1987 Cosmic Overture.md) · [Contents](../README.md) · [Next chapter →](../activity/014-A Flowing Feast.md)
+[← Previous chapter](../activity/012-1987%20Cosmic%20Overture.md) · [Contents](../README.md) · [Next chapter →](../activity/014-A%20Flowing%20Feast.md)
 
 ## 01 · CH31101-01 · Travel Notice · 1/2
 
@@ -3258,4 +3258,4 @@ Written aboard the "Danube Dawn"
 
 ---
 
-[← Previous chapter](../activity/012-1987 Cosmic Overture.md) · [Contents](../README.md) · [Next chapter →](../activity/014-A Flowing Feast.md)
+[← Previous chapter](../activity/012-1987%20Cosmic%20Overture.md) · [Contents](../README.md) · [Next chapter →](../activity/014-A%20Flowing%20Feast.md)

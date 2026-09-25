@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 006 · 8 sections
 
-[← Previous chapter](../gameplay/005-Dawn Arrives as Usual.md) · [Contents](../README.md) · [Next chapter →](../gameplay/007-Flying to the Past.md)
+[← Previous chapter](../gameplay/005-Dawn%20Arrives%20as%20Usual.md) · [Contents](../README.md) · [Next chapter →](../gameplay/007-Flying%20to%20the%20Past.md)
 
 ## 01 · CH18603-01 · Queries in the Hall
 
@@ -1021,4 +1021,4 @@ She smiles, looking into what she believes to be the robot's eyes.
 
 ---
 
-[← Previous chapter](../gameplay/005-Dawn Arrives as Usual.md) · [Contents](../README.md) · [Next chapter →](../gameplay/007-Flying to the Past.md)
+[← Previous chapter](../gameplay/005-Dawn%20Arrives%20as%20Usual.md) · [Contents](../README.md) · [Next chapter →](../gameplay/007-Flying%20to%20the%20Past.md)

@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 024 · 12 sections
 
-[← Previous chapter](../gameplay/023-卡卡尼亚 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/025-Reunion of Fires.md)
+[← Previous chapter](../gameplay/023-卡卡尼亚%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/025-Reunion%20of%20Fires.md)
 
 ## 01 · COL-307901 · The Challenger
 
@@ -956,4 +956,4 @@ A new path is carved out between the waters.
 
 ---
 
-[← Previous chapter](../gameplay/023-卡卡尼亚 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/025-Reunion of Fires.md)
+[← Previous chapter](../gameplay/023-卡卡尼亚%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/025-Reunion%20of%20Fires.md)

@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 040 · 8 sections
 
-[← Previous chapter](../gameplay/039-Sow and Reap.md) · [Contents](../README.md) · [Next chapter →](../gameplay/041-Ruinas Gloriosas y Directrices de Metáforas.md)
+[← Previous chapter](../gameplay/039-Sow%20and%20Reap.md) · [Contents](../README.md) · [Next chapter →](../gameplay/041-Ruinas%20Gloriosas%20y%20Directrices%20de%20Metáforas.md)
 
 ## 01 · COL-311100 · 【2.5】菲林士多玩法剧情00
 
@@ -800,4 +800,4 @@ Noire powers up the computer, and a blue glow washes over her face.
 
 ---
 
-[← Previous chapter](../gameplay/039-Sow and Reap.md) · [Contents](../README.md) · [Next chapter →](../gameplay/041-Ruinas Gloriosas y Directrices de Metáforas.md)
+[← Previous chapter](../gameplay/039-Sow%20and%20Reap.md) · [Contents](../README.md) · [Next chapter →](../gameplay/041-Ruinas%20Gloriosas%20y%20Directrices%20de%20Metáforas.md)

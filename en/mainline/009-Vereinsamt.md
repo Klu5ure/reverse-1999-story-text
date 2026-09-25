@@ -2,7 +2,7 @@
 
 > Main Story · Chapter 009 · 61 sections
 
-[← Previous chapter](../mainline/008-E lucevan le stelle.md) · [Contents](../README.md) · [Next chapter →](../mainline/010-Tristes Tropiques.md)
+[← Previous chapter](../mainline/008-E%20lucevan%20le%20stelle.md) · [Contents](../README.md) · [Next chapter →](../mainline/010-Tristes%20Tropiques.md)
 
 ## 01 · 7TH-01 · The Secret of the Diagonal
 
@@ -4400,4 +4400,4 @@ I'll bring a few decks of cards. And can someone tell me why we're only consider
 
 ---
 
-[← Previous chapter](../mainline/008-E lucevan le stelle.md) · [Contents](../README.md) · [Next chapter →](../mainline/010-Tristes Tropiques.md)
+[← Previous chapter](../mainline/008-E%20lucevan%20le%20stelle.md) · [Contents](../README.md) · [Next chapter →](../mainline/010-Tristes%20Tropiques.md)

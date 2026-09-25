@@ -2,7 +2,7 @@
 
 > Events · Chapter 008 · 49 sections
 
-[← Previous chapter](../activity/007-Floor it! To the Golden City.md) · [Contents](../README.md) · [Next chapter →](../activity/009-Chronicles of Uluru_ London Dawning.md)
+[← Previous chapter](../activity/007-Floor%20it!%20To%20the%20Golden%20City.md) · [Contents](../README.md) · [Next chapter →](../activity/009-Chronicles%20of%20Uluru_%20London%20Dawning.md)
 
 ## 01 · THH-01 · A Trail of Footprints · 1/2
 
@@ -2747,4 +2747,4 @@ Are the cunning, ubiquitous critters annoying you again? Don't take that as bad 
 
 ---
 
-[← Previous chapter](../activity/007-Floor it! To the Golden City.md) · [Contents](../README.md) · [Next chapter →](../activity/009-Chronicles of Uluru_ London Dawning.md)
+[← Previous chapter](../activity/007-Floor%20it!%20To%20the%20Golden%20City.md) · [Contents](../README.md) · [Next chapter →](../activity/009-Chronicles%20of%20Uluru_%20London%20Dawning.md)

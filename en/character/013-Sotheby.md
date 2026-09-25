@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 013 · 8 sections
 
-[← Previous chapter](../character/012-Eagle.md) · [Contents](../README.md) · [Next chapter →](../character/014-La Source.md)
+[← Previous chapter](../character/012-Eagle.md) · [Contents](../README.md) · [Next chapter →](../character/014-La%20Source.md)
 
 ## 01 · TLE-01 · Dining Etiquette
 
@@ -1162,4 +1162,4 @@ Cristallo takes it and puts it in her mouth.
 
 ---
 
-[← Previous chapter](../character/012-Eagle.md) · [Contents](../README.md) · [Next chapter →](../character/014-La Source.md)
+[← Previous chapter](../character/012-Eagle.md) · [Contents](../README.md) · [Next chapter →](../character/014-La%20Source.md)

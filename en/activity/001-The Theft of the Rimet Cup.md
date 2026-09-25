@@ -2,7 +2,7 @@
 
 > Events · Chapter 001 · 39 sections
 
-[← Previous chapter](../mainline/015-On Another's Sorrow.md) · [Contents](../README.md) · [Next chapter →](../activity/002-A Nightmare at Green Lake.md)
+[← Previous chapter](../mainline/015-On%20Another's%20Sorrow.md) · [Contents](../README.md) · [Next chapter →](../activity/002-A%20Nightmare%20at%20Green%20Lake.md)
 
 ## 01 · TRC-01 · The Leading Ones · 1/2
 
@@ -1738,4 +1738,4 @@ Wasn't that simple? You can do it alone at home—try it and see what pattern yo
 
 ---
 
-[← Previous chapter](../mainline/015-On Another's Sorrow.md) · [Contents](../README.md) · [Next chapter →](../activity/002-A Nightmare at Green Lake.md)
+[← Previous chapter](../mainline/015-On%20Another's%20Sorrow.md) · [Contents](../README.md) · [Next chapter →](../activity/002-A%20Nightmare%20at%20Green%20Lake.md)

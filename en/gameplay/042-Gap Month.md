@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 042 · 11 sections
 
-[← Previous chapter](../gameplay/041-Ruinas Gloriosas y Directrices de Metáforas.md) · [Contents](../README.md) · [Next chapter →](../gameplay/043-Doomsday & The Days After.md)
+[← Previous chapter](../gameplay/041-Ruinas%20Gloriosas%20y%20Directrices%20de%20Metáforas.md) · [Contents](../README.md) · [Next chapter →](../gameplay/043-Doomsday%20&%20The%20Days%20After.md)
 
 ## 01 · COL-311601 · An Unexpected Visitor
 
@@ -643,4 +643,4 @@ Hissabeth looks unconvinced. Yet to head off the inevitable argument, Pointer ra
 
 ---
 
-[← Previous chapter](../gameplay/041-Ruinas Gloriosas y Directrices de Metáforas.md) · [Contents](../README.md) · [Next chapter →](../gameplay/043-Doomsday & The Days After.md)
+[← Previous chapter](../gameplay/041-Ruinas%20Gloriosas%20y%20Directrices%20de%20Metáforas.md) · [Contents](../README.md) · [Next chapter →](../gameplay/043-Doomsday%20&%20The%20Days%20After.md)

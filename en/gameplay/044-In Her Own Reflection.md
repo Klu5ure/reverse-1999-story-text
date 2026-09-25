@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 044 · 11 sections
 
-[← Previous chapter](../gameplay/043-Doomsday & The Days After.md) · [Contents](../README.md) · [Next chapter →](../gameplay/045-A Moment on the White Expanse.md)
+[← Previous chapter](../gameplay/043-Doomsday%20&%20The%20Days%20After.md) · [Contents](../README.md) · [Next chapter →](../gameplay/045-A%20Moment%20on%20the%20White%20Expanse.md)
 
 ## 01 · COL-312001 · Little Explorers
 
@@ -792,4 +792,4 @@ Then, toward her reflection, she leaps into the depths of the pool.
 
 ---
 
-[← Previous chapter](../gameplay/043-Doomsday & The Days After.md) · [Contents](../README.md) · [Next chapter →](../gameplay/045-A Moment on the White Expanse.md)
+[← Previous chapter](../gameplay/043-Doomsday%20&%20The%20Days%20After.md) · [Contents](../README.md) · [Next chapter →](../gameplay/045-A%20Moment%20on%20the%20White%20Expanse.md)

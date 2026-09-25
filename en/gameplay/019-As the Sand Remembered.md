@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 019 · 11 sections
 
-[← Previous chapter](../gameplay/018-The Puppy and the Hippie.md) · [Contents](../README.md) · [Next chapter →](../gameplay/020-Between Dusts and Stars.md)
+[← Previous chapter](../gameplay/018-The%20Puppy%20and%20the%20Hippie.md) · [Contents](../README.md) · [Next chapter →](../gameplay/020-Between%20Dusts%20and%20Stars.md)
 
 ## 01 · COL-306601 · 37玩法剧情00
 
@@ -889,4 +889,4 @@ The debate would keep going in the coming days.
 
 ---
 
-[← Previous chapter](../gameplay/018-The Puppy and the Hippie.md) · [Contents](../README.md) · [Next chapter →](../gameplay/020-Between Dusts and Stars.md)
+[← Previous chapter](../gameplay/018-The%20Puppy%20and%20the%20Hippie.md) · [Contents](../README.md) · [Next chapter →](../gameplay/020-Between%20Dusts%20and%20Stars.md)

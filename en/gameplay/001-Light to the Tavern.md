@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 001 · 8 sections
 
-[← Previous chapter](../character/025-Mercuria.md) · [Contents](../README.md) · [Next chapter →](../gameplay/002-Flowing in the Wind.md)
+[← Previous chapter](../character/025-Mercuria.md) · [Contents](../README.md) · [Next chapter →](../gameplay/002-Flowing%20in%20the%20Wind.md)
 
 ## 01 · CH16601-01 · The Third and the Ninth
 
@@ -945,4 +945,4 @@ On the night of the year's beginning, the main street of Pèi City is at its liv
 
 ---
 
-[← Previous chapter](../character/025-Mercuria.md) · [Contents](../README.md) · [Next chapter →](../gameplay/002-Flowing in the Wind.md)
+[← Previous chapter](../character/025-Mercuria.md) · [Contents](../README.md) · [Next chapter →](../gameplay/002-Flowing%20in%20the%20Wind.md)

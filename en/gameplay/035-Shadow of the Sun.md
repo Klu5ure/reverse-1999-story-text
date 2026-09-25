@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 035 · 11 sections
 
-[← Previous chapter](../gameplay/034-Into the Rainforest.md) · [Contents](../README.md) · [Next chapter →](../gameplay/036-纸信圈儿 · 玩法故事.md)
+[← Previous chapter](../gameplay/034-Into%20the%20Rainforest.md) · [Contents](../README.md) · [Next chapter →](../gameplay/036-纸信圈儿%20·%20玩法故事.md)
 
 ## 01 · COL-310401 · Slithering Snails
 
@@ -665,4 +665,4 @@ She gently kisses the dented edge of the medal.
 
 ---
 
-[← Previous chapter](../gameplay/034-Into the Rainforest.md) · [Contents](../README.md) · [Next chapter →](../gameplay/036-纸信圈儿 · 玩法故事.md)
+[← Previous chapter](../gameplay/034-Into%20the%20Rainforest.md) · [Contents](../README.md) · [Next chapter →](../gameplay/036-纸信圈儿%20·%20玩法故事.md)

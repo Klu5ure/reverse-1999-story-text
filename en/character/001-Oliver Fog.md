@@ -2,7 +2,7 @@
 
 > Character Stories · Chapter 001 · 9 sections
 
-[← Previous chapter](../activity/021-Polymerized Dreams.md) · [Contents](../README.md) · [Next chapter →](../character/002-Charlie.md)
+[← Previous chapter](../activity/021-Polymerized%20Dreams.md) · [Contents](../README.md) · [Next chapter →](../character/002-Charlie.md)
 
 ## 01 · TSOO-01 · The Prison of Fog
 
@@ -480,4 +480,4 @@ I found myself weeping, the tears falling beyond my control.
 
 ---
 
-[← Previous chapter](../activity/021-Polymerized Dreams.md) · [Contents](../README.md) · [Next chapter →](../character/002-Charlie.md)
+[← Previous chapter](../activity/021-Polymerized%20Dreams.md) · [Contents](../README.md) · [Next chapter →](../character/002-Charlie.md)

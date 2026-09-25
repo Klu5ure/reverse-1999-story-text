@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 038 · 11 sections
 
-[← Previous chapter](../gameplay/037-From the Depths of Space.md) · [Contents](../README.md) · [Next chapter →](../gameplay/039-Sow and Reap.md)
+[← Previous chapter](../gameplay/037-From%20the%20Depths%20of%20Space.md) · [Contents](../README.md) · [Next chapter →](../gameplay/039-Sow%20and%20Reap.md)
 
 ## 01 · COL-310801 · 【2.4】芭卡洛儿玩法剧情01
 
@@ -751,4 +751,4 @@ All she can do is wish her child well.
 
 ---
 
-[← Previous chapter](../gameplay/037-From the Depths of Space.md) · [Contents](../README.md) · [Next chapter →](../gameplay/039-Sow and Reap.md)
+[← Previous chapter](../gameplay/037-From%20the%20Depths%20of%20Space.md) · [Contents](../README.md) · [Next chapter →](../gameplay/039-Sow%20and%20Reap.md)

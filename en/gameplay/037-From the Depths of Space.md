@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 037 · 14 sections
 
-[← Previous chapter](../gameplay/036-纸信圈儿 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/038-Beyond the Coastline.md)
+[← Previous chapter](../gameplay/036-纸信圈儿%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/038-Beyond%20the%20Coastline.md)
 
 ## 01 · COL-310700 · "Humanitarian" Management
 
@@ -873,4 +873,4 @@ Even these two rational scholars can't help but marvel at the surreal brilliance
 
 ---
 
-[← Previous chapter](../gameplay/036-纸信圈儿 · 玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/038-Beyond the Coastline.md)
+[← Previous chapter](../gameplay/036-纸信圈儿%20·%20玩法故事.md) · [Contents](../README.md) · [Next chapter →](../gameplay/038-Beyond%20the%20Coastline.md)

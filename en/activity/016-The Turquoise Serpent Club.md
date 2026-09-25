@@ -2,7 +2,7 @@
 
 > Events · Chapter 016 · 52 sections
 
-[← Previous chapter](../activity/015-Spring Unending.md) · [Contents](../README.md) · [Next chapter →](../activity/017-Last and First Principles.md)
+[← Previous chapter](../activity/015-Spring%20Unending.md) · [Contents](../README.md) · [Next chapter →](../activity/017-Last%20and%20First%20Principles.md)
 
 ## 01 · TTSC-01 · Butterfly Effect · 1/2
 
@@ -2812,4 +2812,4 @@ This whole damned world is coming to an end!
 
 ---
 
-[← Previous chapter](../activity/015-Spring Unending.md) · [Contents](../README.md) · [Next chapter →](../activity/017-Last and First Principles.md)
+[← Previous chapter](../activity/015-Spring%20Unending.md) · [Contents](../README.md) · [Next chapter →](../activity/017-Last%20and%20First%20Principles.md)

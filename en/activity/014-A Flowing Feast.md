@@ -2,7 +2,7 @@
 
 > Events · Chapter 014 · 36 sections
 
-[← Previous chapter](../activity/013-The Midnight Whistle.md) · [Contents](../README.md) · [Next chapter →](../activity/015-Spring Unending.md)
+[← Previous chapter](../activity/013-The%20Midnight%20Whistle.md) · [Contents](../README.md) · [Next chapter →](../activity/015-Spring%20Unending.md)
 
 ## 01 · AFF-01 · The French Express
 
@@ -2378,4 +2378,4 @@ Go on. Savor the war. There'll be another after this. No need to worry about thi
 
 ---
 
-[← Previous chapter](../activity/013-The Midnight Whistle.md) · [Contents](../README.md) · [Next chapter →](../activity/015-Spring Unending.md)
+[← Previous chapter](../activity/013-The%20Midnight%20Whistle.md) · [Contents](../README.md) · [Next chapter →](../activity/015-Spring%20Unending.md)

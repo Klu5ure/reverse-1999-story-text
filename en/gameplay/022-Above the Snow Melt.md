@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 022 · 7 sections
 
-[← Previous chapter](../gameplay/021-Bells Echoing in the Valley.md) · [Contents](../README.md) · [Next chapter →](../gameplay/023-卡卡尼亚 · 玩法故事.md)
+[← Previous chapter](../gameplay/021-Bells%20Echoing%20in%20the%20Valley.md) · [Contents](../README.md) · [Next chapter →](../gameplay/023-卡卡尼亚%20·%20玩法故事.md)
 
 ## 01 · COL-307301 · The New Curator
 
@@ -702,4 +702,4 @@ X and the girl picked it up, and only then did people begin to notice it.
 
 ---
 
-[← Previous chapter](../gameplay/021-Bells Echoing in the Valley.md) · [Contents](../README.md) · [Next chapter →](../gameplay/023-卡卡尼亚 · 玩法故事.md)
+[← Previous chapter](../gameplay/021-Bells%20Echoing%20in%20the%20Valley.md) · [Contents](../README.md) · [Next chapter →](../gameplay/023-卡卡尼亚%20·%20玩法故事.md)

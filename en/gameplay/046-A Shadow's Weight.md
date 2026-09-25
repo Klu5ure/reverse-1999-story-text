@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 046 · 11 sections
 
-[← Previous chapter](../gameplay/045-A Moment on the White Expanse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/047-Dawn Rises over the Kill Zone.md)
+[← Previous chapter](../gameplay/045-A%20Moment%20on%20the%20White%20Expanse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/047-Dawn%20Rises%20over%20the%20Kill%20Zone.md)
 
 ## 01 · COL-312501 · Stewardess-in-Training
 
@@ -779,4 +779,4 @@ She hugs the knitted red cloak tightly to her chest.
 
 ---
 
-[← Previous chapter](../gameplay/045-A Moment on the White Expanse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/047-Dawn Rises over the Kill Zone.md)
+[← Previous chapter](../gameplay/045-A%20Moment%20on%20the%20White%20Expanse.md) · [Contents](../README.md) · [Next chapter →](../gameplay/047-Dawn%20Rises%20over%20the%20Kill%20Zone.md)

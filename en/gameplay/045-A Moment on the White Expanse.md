@@ -2,7 +2,7 @@
 
 > Gameplay Stories · Chapter 045 · 9 sections
 
-[← Previous chapter](../gameplay/044-In Her Own Reflection.md) · [Contents](../README.md) · [Next chapter →](../gameplay/046-A Shadow's Weight.md)
+[← Previous chapter](../gameplay/044-In%20Her%20Own%20Reflection.md) · [Contents](../README.md) · [Next chapter →](../gameplay/046-A%20Shadow's%20Weight.md)
 
 ## 01 · COL-312101 · A Mission · 1/2
 
@@ -688,4 +688,4 @@ But the burn of liquor never comes. Instead, cool water soothes his throat.
 
 ---
 
-[← Previous chapter](../gameplay/044-In Her Own Reflection.md) · [Contents](../README.md) · [Next chapter →](../gameplay/046-A Shadow's Weight.md)
+[← Previous chapter](../gameplay/044-In%20Her%20Own%20Reflection.md) · [Contents](../README.md) · [Next chapter →](../gameplay/046-A%20Shadow's%20Weight.md)
