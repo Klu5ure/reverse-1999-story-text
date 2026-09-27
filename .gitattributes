@@ -5,3 +5,6 @@
 
 # Preserve final PDF bytes
 *.pdf binary
+
+# Preserve delivered TXT bytes (UTF-8, CRLF), matching the local ZIP.
+txt/** -text

@@ -1,0 +1,364 @@
+第十章 · 补充片段
+
+目录 / Contents
+
+01  第十章10-22.3
+02  第十章10-25
+03  第十章10-11.2
+
+────────────────────
+
+01  第十章10-22.3
+
+Crater, Sanctuary
+火山神殿·山巅
+
+Moldir: We've reached the target area. The sanctuary is directly below us.
+莫莉德尔：这里就是神殿的正上方了，乌尔里希组长！
+
+Ulrich: This will be a race against the clock.
+乌尔里希：海平面上升的速度很快，我们的时间不多了。
+
+Before the helicopter can even stabilize, Moldir leaps out, guiding Ulrich from the cabin.
+未等直升机停稳，中尉便率先跃下，接应着意识唤醒者走出了机舱。
+
+Ulrich: Now's the time. Give me a hand with the record player while I generate the magnetic field.
+乌尔里希：事不宜迟，立刻开始设置唱片机，生成稳定性磁场……
+
+Ulrich: Damn it! The field is totally unstable. I can't accurately calibrate the record player under these conditions.
+乌尔里希：该死！这里的地磁情况在不停变动，唱片机无法校准至理想调校状态！
+
+Ulrich: The asymmetrical nuclide R in the air is far denser than anything we've ever had in the lab.
+乌尔里希：这与我之前的两千三百次实验的情况都不一样，大气中非对称核素R的浓度超乎想象！
+
+Ulrich: There are too many variables. There's no way to be sure that "Regulus" will function as expected.
+乌尔里希：变量太多，在这种情况下，我甚至无法确定“星锑”能否如我们所期望的那般奏效……
+
+The ferrofluid fractures into scattered dots, then coalesces.
+磁流体混乱地将自己分散成无数小点，而后又猛烈聚拢。
+
+Ulrich: Calm down, Ulrich. First, get the latest asymmetrical nuclide R reading and make the necessary adjustments. Then we'll deal with the signal interference. If I can find the pattern of the geomagnetic change—
+乌尔里希：总之先检测环境中非对称核素R的浓度，对应调整实验数值；接下来改进信号处理算法，设置防护设施；要是能推导地磁场变化规律……
+
+Ulrich: For Flux's sake! The device is frozen. Somebody help me out here.
+乌尔里希：**的[拉普拉斯脏话]——这个装置冻坏了，有人能搭把手——
+
+Another quake in ice and earth all but topples Ulrich. Above, Olitiau's screech pierces the air.
+自脚下的又一次震动险些将磁流体震倒。与此同时，头顶传来了奥利图欧的啸叫。
+
+Moldir: Be careful, Ulrich.
+莫莉德尔：小心，乌尔里希组长。
+
+Moldir steadies Ulrich just in time.
+中尉眼疾手快地扶住了研究员。
+
+Moldir: Leave the monitoring device to me. I can fix it. Buddy, keep those creatures off of us.
+莫莉德尔：只是被冻坏了的话，这个环境监测装置交由我修理。嚼嚼松果，排除那些干扰实验的魔物！
+
+Buddy Fairchild: Ain't gotta tell me twice. But, Lieutenant, that thing don't look like no Olitiau I ever seen.
+嚼嚼松果：中尉，那似乎不是普通的奥利图欧，那中间的是……
+
+A great boney creature spreads its wings and dives toward them, followed by a swarm of Olitiaus, eager to feast.
+白骨构成的庞大生物遮蔽天空，领着疯狂的奥利图欧向山巅的众人袭来。
+
+Buddy Fairchild: Heavens to Betsy! Now this'll be a tough nut to crack.
+嚼嚼松果：哇！好一块硬骨头！
+
+Moldir: Prepare to engage. Hold them off while Ulrich works on the record. There is no room for error.
+莫莉德尔：……各位，做好战斗准备，保护组长完成实验！
+
+02  第十章10-25
+
+Mountainside, Sanctuary
+火山神殿·山坡
+
+Guard: *pant* I knew this wouldn't exactly be a Sunday stroll. Urgh!
+护卫兵：呼……这和国家公园里那些登山步道可不一样。
+
+The guard pushes another obstructing boulder aside with effort.
+护卫兵费劲地推开又一块拦路的巨石。
+
+Guard: But I didn't think we'd literally be carving our own trail through the wilderness.
+护卫兵：这可是未经开发的野生登山路线——！
+
+Guard: Boss, at this rate, the world'll be in absolute bedlam by the time we reach the top.
+护卫兵：老板，照这个速度，等我们爬到山顶，整个世界说不定都已经变成餐桌上的黏鹰嘴豆粥了……
+
+Ulrich: Hold on.
+乌尔里希：稍等。
+
+Ulrich: Let me check the map Lieutenant gave me.
+乌尔里希：让我再研究一下莫莉德尔中尉的地图……
+
+Guard: Lieutenant Moldir ... As grateful as I am that she set us free—which I absolutely am—I have to say, this isn't exactly the type of freedom I imagined.
+护卫兵：好心的中尉女士——说实话，如果不是她好意相救，我们恐怕也早成为重塑之手的阶下囚了。
+
+There's a rustling sound.
+身侧响起难辨出处的窸窣声。
+
+Guard: Who's there?
+护卫兵：什么东西？！
+
+The guard fumbles for her gun, only to smash her elbow against the very boulder she just moved.
+生物的求生本能让护卫兵跳开了两步，想要抽出枪，手肘却撞在了刚刚被她推开的巨石上。
+
+Guard: Tch! Ouch!
+护卫兵：嘶——好痛！
+
+Several critter-like creatures burst forth from the snow.
+几只“类魔精生物”从雪地里蹿了出来。
+
+Penguins: Gaaahh!
+企鹅：嘎——嘎嘎嘎！嘎——！
+
+Ulrich: Penguins? Here?
+乌尔里希：——企鹅？
+
+The penguins charge toward the climbers, their beaks already pecking at the coats.
+极地恶兽争先恐后地冲向登山者，粗短的喙已经啄上了他们的衣服。
+
+Guard: Hey! Give that grenade back!
+护卫兵：嘿！别叼我的手榴弹！
+
+Guard: Uhh. "No interference," right, boss? I mean, you're not going to make me fight a penguin, are you? Look at their little faces!
+护卫兵：天哪老板……我不想对野生动物使用武力，我、我做不到——
+
+???: All members of the Sentinel Unit Antarctic Advance Party, attention!
+？？？：近卫团南极特勤先遣分队——立正！
+
+Ulrich: ...?
+乌尔里希：……？
+
+The penguins wobble into a perfectly aligned row, like well-trained circus performers. Or perhaps even soldiers.
+企鹅们如马戏团里训练有素的演员一般，摇摇晃晃地列成一个横排。
+
+???: Alrighty, let's see what we got here. Rookie guard, check.
+？？？：菜鸟护卫兵，确认。
+
+???: Awakened researcher with a fish tank for a head, check.
+？？？：鱼缸头意识唤醒者，确认。
+
+Buddy Fairchild: Mr. Ulrich! Allow me to apologize for the shock my jits have given ya.
+嚼嚼松果：十分抱歉，乌尔里希组长！我的队员给您带来了一点不便。
+
+Buddy Fairchild: They're jumpier 'n a spring cricket at the moment. Lot of 'em just lost some dear friends o' theirs after gettin' back from Florida—brutal, really.
+嚼嚼松果：大伙仍处于创伤后的精神恢复期，他们不久前才遭受了一场空前绝后的劫难，从佛罗里达归乡的企鹅族群几乎遭到了灭顶之灾。
+
+The little rodent standing before Ulrich snaps off a salute.
+站在面前身材矮小的啮齿目哺乳动物向磁流体敬礼。
+
+Ulrich: Penguins in Florida?
+乌尔里希：……佛罗里达？
+
+Guard: And a squirrel in Antarctica?
+护卫兵：……松鼠？
+
+Buddy Fairchild: Not just any squirrel—yer lookin' at a sergeant, missy! Sergeant Buddy Fairchild, reportin' for duty!
+嚼嚼松果：军衔是中士，请叫我嚼嚼松果中士，组长！
+
+Buddy Fairchild: We been waitin' here on account o' the lieutenant's order.
+嚼嚼松果：我受中尉所托，于此等候您的光临。
+
+Buddy Fairchild: I been tasked with bein' yer Official Antarctic guide, and it's a good thing too, 'cause ya sure ain't gon' find no one else to guide ya 'round these parts.
+嚼嚼松果：您可以将我看作是南极这片冰洲上最专业的向导——毕竟除我以外，你在此刻的南极找不到第二名向导了。
+
+Guard: The lieutenant ... You mean Moldir?
+护卫兵：中尉……是莫莉德尔中尉！
+
+Buddy Fairchild: Sure as shootin'. Her message came in earlier today—told me yer fixin' to scale that there mountain and gave me the job o' gettin' ya there.
+嚼嚼松果：是的，早些时候我收到了她的通讯讯息，派遣我前来帮助二位攀登这座火山。
+
+Penguins: Ga-gah!
+企鹅：嘎！嘎嘎！
+
+In unison, the entire penguin squad delivers a textbook Zeno salute.
+全体企鹅一起敬了个标准的芝诺军礼。
+
+Guard: Ah, Moldir, I could kiss you!
+护卫兵：好心的中尉女士，感谢您……
+
+Ulrich: So, em, Sergeant Fairchild, you and these, uh, troops, are under Moldir's command?
+乌尔里希：你……呃，嚼嚼松果中士，你们也是隶属于她的小队吗？
+
+Ulrich struggles to process the surreal scenario.
+磁流体明显还无法消化眼前的现实。
+
+Buddy Fairchild: Let's skip the pleasantries, shall we? The lieutenant's orders were clear as the day is long.
+嚼嚼松果：嚼嚼松果中士不允许在如此关键的时刻说上再多一句废话！中尉已经跟我沟通过了。
+
+Buddy Fairchild: If ya really wanna help yer friends and save the world, then we better get yer bee-hinds up that mountain quicker 'n a cat on a hot tin roof and get that record playin'.
+嚼嚼松果：你们需要尝试帮助闯进遗址里的朋友拯救世界，并实验那个搭载了了不起元素的唱片。
+
+Buddy Fairchild: Now let's get movin' 'fore the Manus get their ritual goin'!
+嚼嚼松果：而这一切的关键在于——赶在仪式开始前登顶这座山！
+
+Guard: "Save the world"? I had no idea she thought so highly of us.
+护卫兵：“拯救世界”……？原来那位女士对我们有这么高的评价——
+
+Buddy Fairchild clasps his hands behind his back, tapping the ground with his feet.
+松鼠中士麻溜地背起手，他的脚板不耐烦地拍打着地面。
+
+Buddy Fairchild: Hmm. Now, let's see here.
+嚼嚼松果：嗯……
+
+Circling Ulrich with paws still firmly behind his back, Buddy Fairchild sizes him up with a critical eye.
+松鼠中士背着手绕组长一圈，带着审视的目光上下打量了它一番。
+
+Buddy Fairchild: Mountain ain't no Everest, but it's sure as a storm in July to be a tough climb for ya'll big-n-tall'uns.
+嚼嚼松果：我们脚下虽然不是南极洲最高的火山，但接下来的路对于你们这些高个子而言，依然有一定攀登难度。
+
+Buddy Fairchild: Well, can't never could. Buckle up, folks! I don't wanna see no bodies tumblin' down the mountain, ya hear?
+嚼嚼松果：做好心理准备，伙计们！可别像颗松果一样滚下山了。
+
+03  第十章10-11.2
+
+Mountainside, Sanctuary
+火山神殿·山坡
+
+Guard: *pant* I knew this wouldn't exactly be a Sunday stroll. Urgh!
+护卫兵：呼……这和国家公园里那些登山步道可不一样。
+
+The guard pushes another obstructing boulder aside with effort.
+护卫兵费劲地推开又一块拦路的巨石。
+
+Guard: But I didn't think we'd literally be carving our own trail through the wilderness.
+护卫兵：这可是未经开发的野生登山路线——！
+
+Guard: Boss, at this rate, the world'll be in absolute bedlam by the time we reach the top.
+护卫兵：老板，照这个速度，等我们爬到山顶，整个世界说不定都已经变成餐桌上的黏鹰嘴豆粥了……
+
+Ulrich: Hold on.
+乌尔里希：稍等。
+
+Ulrich: Let me check the map Lieutenant gave me.
+乌尔里希：让我再研究一下莫莉德尔中尉的地图……
+
+Guard: Lieutenant Moldir ... As grateful as I am that she set us free—which I absolutely am—I have to say, this isn't exactly the type of freedom I imagined.
+护卫兵：好心的中尉女士——说实话，如果不是她好意相救，我们恐怕也早成为重塑之手的阶下囚了。
+
+There's a rustling sound.
+身侧响起难辨出处的窸窣声。
+
+Guard: Who's there?
+护卫兵：什么东西？！
+
+The guard fumbles for her gun, only to smash her elbow against the very boulder she just moved.
+生物的求生本能让护卫兵跳开了两步，想要抽出枪，手肘却撞在了刚刚被她推开的巨石上。
+
+Guard: Tch! Ouch!
+护卫兵：嘶——好痛！
+
+Several critter-like creatures burst forth from the snow.
+几只“类魔精生物”从雪地里蹿了出来。
+
+Penguins: Gaaahh!
+企鹅：嘎——嘎嘎嘎！嘎——！
+
+Penguins: ...
+企鹅：……
+
+Guard: ...
+护卫兵：……
+
+Ulrich: ...
+乌尔里希：……
+
+Ulrich: Penguins? Here?
+乌尔里希：——企鹅？
+
+The penguins charge toward the climbers, their beaks already pecking at the coats.
+极地恶兽争先恐后地冲向登山者，粗短的喙已经啄上了他们的衣服。
+
+Guard: Hey! Give that grenade back!
+护卫兵：嘿！别叼我的手榴弹！
+
+Guard: Uhh. "No interference," right, boss? I mean, you're not going to make me fight a penguin, are you? Look at their little faces!
+护卫兵：天哪老板……我不想对野生动物使用武力，我、我做不到——
+
+???: All members of the Sentinel Unit Antarctic Advance Party, attention!
+？？？：近卫团南极特勤先遣分队——立正！
+
+Ulrich: ...?
+乌尔里希：……？
+
+The penguins wobble into a perfectly aligned row, like well-trained circus performers. Or perhaps even soldiers.
+企鹅们如马戏团里训练有素的演员一般，摇摇晃晃地列成一个横排。
+
+???: Alrighty, let's see what we got here. Rookie guard, check.
+？？？：菜鸟护卫兵，确认。
+
+???: Awakened researcher with a fish tank for a head, check.
+？？？：鱼缸头意识唤醒者，确认。
+
+Buddy Fairchild: Mr. Ulrich! Allow me to apologize for the shock my jits have given ya.
+嚼嚼松果：十分抱歉，乌尔里希组长！我的队员给您带来了一点不便。
+
+Buddy Fairchild: They're jumpier 'n a spring cricket at the moment. Lot of 'em just lost some dear friends o' theirs after gettin' back from Florida—brutal, really.
+嚼嚼松果：大伙仍处于创伤后的精神恢复期，他们不久前才遭受了一场空前绝后的劫难，从佛罗里达归乡的企鹅族群几乎遭到了灭顶之灾。
+
+The little rodent standing before Ulrich snaps off a salute.
+站在面前身材矮小的啮齿目哺乳动物向磁流体敬礼。
+
+Ulrich: Penguins in Florida?
+乌尔里希：……佛罗里达？
+
+Guard: And a squirrel in Antarctica?
+护卫兵：……松鼠？
+
+Buddy Fairchild: Not just any squirrel—yer lookin' at a sergeant, missy! Sergeant Buddy Fairchild, reportin' for duty!
+嚼嚼松果：军衔是中士，请叫我嚼嚼松果中士，组长！
+
+Buddy Fairchild: We been waitin' here on account o' the lieutenant's order.
+嚼嚼松果：我受中尉所托，于此等候您的光临。
+
+Buddy Fairchild: I been tasked with bein' yer Official Antarctic guide, and it's a good thing too, 'cause ya sure ain't gon' find no one else to guide ya 'round these parts.
+嚼嚼松果：您可以将我看作是南极这片冰洲上最专业的向导——毕竟除我以外，你在此刻的南极找不到第二名向导了。
+
+Guard: The lieutenant ... You mean Moldir?
+护卫兵：中尉……是莫莉德尔中尉！
+
+Buddy Fairchild: Sure as shootin'. Her message came in earlier today—told me yer fixin' to scale that there mountain and gave me the job o' gettin' ya there.
+嚼嚼松果：是的，早些时候我收到了她的通讯讯息，派遣我前来帮助二位攀登这座火山。
+
+Penguins: Ga-gah!
+企鹅：嘎！嘎嘎！
+
+In unison, the entire penguin squad delivers a textbook Zeno salute.
+全体企鹅一起敬了个标准的芝诺军礼。
+
+Guard: Ah, Moldir, I could kiss you!
+护卫兵：好心的中尉女士，感谢您……
+
+Ulrich: So, em, Sergeant Fairchild, you and these, uh, troops, are under Moldir's command?
+乌尔里希：你……呃，嚼嚼松果中士，你们也是隶属于她的小队吗？
+
+Ulrich struggles to process the surreal scenario.
+磁流体明显还无法消化眼前的现实。
+
+Buddy Fairchild: Let's skip the pleasantries, shall we? The lieutenant's orders were clear as the day is long.
+嚼嚼松果：嚼嚼松果中士不允许在如此关键的时刻说上再多一句废话！
+中尉已经跟我沟通过了。
+
+Buddy Fairchild: If ya really wanna help yer friends and save the world, then we better get yer bee-hinds up that mountain quicker 'n a cat on a hot tin roof and get that record playin'.
+嚼嚼松果：你们需要尝试帮助闯进遗址里的朋友拯救世界，并实验那个搭载了了不起元素的唱片。
+
+Buddy Fairchild: Now let's get movin' 'fore the Manus get their ritual goin'!
+嚼嚼松果：而这一切的关键在于——赶在仪式开始前登顶这座山！
+
+Guard: "Save the world"? I had no idea she thought so highly of us.
+护卫兵：“拯救世界”……？原来那位女士对我们有这么高的评价——
+
+Buddy Fairchild clasps his hands behind his back, tapping the ground with his feet.
+松鼠中士麻溜地背起手，他的脚板不耐烦地拍打着地面。
+
+Buddy Fairchild: Hmm. Now, let's see here.
+嚼嚼松果：嗯……
+
+Circling Ulrich with paws still firmly behind his back, Buddy Fairchild sizes him up with a critical eye.
+松鼠中士背着手绕组长一圈，带着审视的目光上下打量了它一番。
+
+Buddy Fairchild: Mountain ain't no Everest, but it's sure as a storm in July to be a tough climb for ya'll big-n-tall'uns.
+嚼嚼松果：我们脚下虽然不是南极洲最高的火山，但接下来的路对于你们这些高个子而言，依然有一定攀登难度。
+
+Buddy Fairchild: Well, can't never could. Buckle up, folks! I don't wanna see no bodies tumblin' down the mountain, ya hear?
+嚼嚼松果：做好心理准备，伙计们！可别像颗松果一样滚下山了。

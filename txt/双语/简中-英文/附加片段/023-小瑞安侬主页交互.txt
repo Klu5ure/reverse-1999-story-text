@@ -1,0 +1,78 @@
+小瑞安侬主页交互
+
+目录 / Contents
+
+01  【3.7】小瑞安侬主页交互
+
+────────────────────
+
+01  【3.7】小瑞安侬主页交互
+
+Vertin: Hrrn ...
+维尔汀：呜……
+
+Vertin: What ...
+维尔汀：什……
+
+选项 / Choices
+
+1. [English text unavailable]
+1. story_option_meileier_txtleft|-585#14#1|1|1314666
+
+2. [English text unavailable]
+2. story_option_meileier_txtright|554#201#1|1
+
+共同接续 / Shared continuation
+
+Hmm ...? Vertin?
+梅蕾尔：嗯？维尔汀？
+
+Are you alright? You don't exactly look like you've slept well.
+梅雷尔：怎么了？维尔汀？你看起来好像没睡好……
+
+Why don't you rest a little longer? As long as you need. We'll be right here with you.
+梅雷尔：你不需要这样一个人硬撑，维尔汀，无论何时我们都会陪在你的身边。
+
+选项 / Choices
+
+1. [English text unavailable]
+1. story_option_meileier_circlelight|0#0#1|0|1314666
+
+2. [English text unavailable]
+2. story_option_meileier_circlelight|-500#-300#1|0
+
+3. [English text unavailable]
+3. story_option_meileier_circlelight|500#300#1|0
+
+分支 1 / Branch 1
+
+Hm? What are you—Ouch!
+什么？！等一下，疼！
+
+So ... this isn't a dream, then.
+看来只是错觉。
+
+Shouldn't you be pinching yourself, not me?
+如果你怀疑在做梦，是不是该掐你自己？！
+
+分支 2 / Branch 2
+
+Hmm ... She's even softer than I'd expected.
+嗯……她比看上去更柔软。
+
+Heh-heh. Would you like to hold her? She does like to cuddle.
+嘿嘿，要抱抱小家伙吗？她就和外表一样圆！
+
+Go on, borrow her for a bit—have a little nap together.
+我把她借给你，你可以带着她去偷个懒，睡个好觉。
+
+分支 3 / Branch 3
+
+Your head must be feeling heavy, right?
+我想你一定觉得脑袋很沉。
+
+That's because she's just settled down on your hat.
+因为这小家伙在你的帽子上安了家。
+
+I think she likes you ... or your hat, at least.
+我想她喜欢你，或者你的帽子。

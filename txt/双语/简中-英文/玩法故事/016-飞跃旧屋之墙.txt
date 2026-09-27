@@ -1,0 +1,3855 @@
+飞跃旧屋之墙
+One Flew Over the Old House
+
+目录 / Contents
+
+01  洁西卡玩法故事【十四行诗】1
+02  洁西卡玩法故事【十四行诗】3
+03  洁西卡玩法故事【十四行诗】4
+04  洁西卡玩法故事【十四行诗】5.1
+05  洁西卡玩法故事【十四行诗】5.2
+06  洁西卡玩法故事【十四行诗】5.3
+07  洁西卡玩法故事【金蜜儿】1
+08  洁西卡玩法故事【教室06】21.2
+09  洁西卡玩法故事【教室06】21.3
+10  洁西卡玩法故事【办公室02】23.2
+11  洁西卡玩法故事【办公室02】23.3
+12  洁西卡玩法故事【禁闭室04】28.2
+13  洁西卡玩法故事【禁闭室04】28.3
+14  洁西卡玩法故事【常驻-食堂】1
+15  洁西卡玩法故事【常驻-图书馆】1
+16  洁西卡玩法故事【常驻-教室】1
+17  洁西卡玩法故事【常驻-教育】1
+18  洁西卡玩法故事【金蜜儿】3
+19  洁西卡玩法故事【常驻-教育】2
+20  洁西卡玩法故事【常驻-休息】1
+21  洁西卡玩法故事【常驻-休息】2
+22  洁西卡玩法故事【常驻-休息】3
+23  洁西卡玩法故事【常驻-测验】4
+24  洁西卡玩法故事【失败剧情】
+25  洁西卡玩法故事【成功剧情】
+26  洁西卡玩法故事【十四行诗】2.1
+27  洁西卡玩法故事【十四行诗】2.2
+28  洁西卡玩法故事【十四行诗】2.3
+29  洁西卡玩法故事【金蜜儿】4
+30  洁西卡玩法故事【金蜜儿】2.1
+31  洁西卡玩法故事【金蜜儿】2.2
+32  洁西卡玩法故事【金蜜儿】2.3
+33  洁西卡玩法故事【牙仙】3.1
+34  洁西卡玩法故事【牙仙】3.2
+35  洁西卡玩法故事【牙仙】3.3
+36  洁西卡玩法故事【玛蒂尔达】1.1
+37  洁西卡玩法故事【玛蒂尔达】1.2
+38  洁西卡玩法故事【玛蒂尔达】1.3
+39  洁西卡玩法故事【食堂03】3.1
+40  洁西卡玩法故事【金蜜儿】5.1
+41  洁西卡玩法故事【食堂03】3.2
+42  洁西卡玩法故事【食堂03】3.3
+43  洁西卡玩法故事【图书馆02】8.1
+44  洁西卡玩法故事【图书馆02】8.2
+45  洁西卡玩法故事【图书馆02】8.3
+46  洁西卡玩法故事【厕所01】12.1
+47  洁西卡玩法故事【厕所01】12.2
+48  洁西卡玩法故事【厕所01】12.3
+49  洁西卡玩法故事【教室02】17.1
+50  洁西卡玩法故事【教室02】17.2
+51  洁西卡玩法故事【金蜜儿】5.2
+52  洁西卡玩法故事【教室02】17.3
+53  洁西卡玩法故事【禁闭室01】25.1
+54  洁西卡玩法故事【禁闭室01】25.2
+55  洁西卡玩法故事【禁闭室01】25.3
+56  洁西卡玩法故事【常驻-教育】3
+57  洁西卡玩法故事【常驻-教育】4
+58  洁西卡玩法故事【常驻-教育】5
+59  洁西卡玩法故事【金蜜儿】5.3
+60  洁西卡玩法故事【牙仙】1
+61  洁西卡玩法故事【牙仙】2
+62  洁西卡玩法故事【牙仙】4
+63  洁西卡玩法故事【牙仙】5.1
+64  洁西卡玩法故事【牙仙】5.2
+65  洁西卡玩法故事【牙仙】5.3
+66  洁西卡玩法故事【维尔汀】1
+67  洁西卡玩法故事【维尔汀】2
+68  洁西卡玩法故事【维尔汀】3
+69  洁西卡玩法故事【恐怖通】1.1
+70  洁西卡玩法故事【恐怖通】1.2
+71  洁西卡玩法故事【恐怖通】1.3
+72  洁西卡玩法故事【恐怖通】2
+73  洁西卡玩法故事【恐怖通】3
+74  洁西卡玩法故事【恐怖通】4
+75  洁西卡玩法故事【恐怖通】5.1
+76  洁西卡玩法故事【恐怖通】5.2
+77  洁西卡玩法故事【恐怖通】5.3
+78  洁西卡玩法故事【玛蒂尔达】2
+79  洁西卡玩法故事【玛蒂尔达】3
+80  洁西卡玩法故事【玛蒂尔达】4
+81  洁西卡玩法故事【食堂01】1
+82  洁西卡玩法故事【食堂02】2
+83  洁西卡玩法故事【食堂04】4
+84  洁西卡玩法故事【食堂05】5
+85  洁西卡玩法故事【食堂06】6.1
+86  洁西卡玩法故事【图书馆01】7
+87  洁西卡玩法故事【图书馆03】9
+88  洁西卡玩法故事【图书馆04】10.1
+89  洁西卡玩法故事【图书馆05】11
+90  洁西卡玩法故事【厕所02】13
+91  洁西卡玩法故事【厕所03】14
+92  洁西卡玩法故事【厕所04】15.1
+93  洁西卡玩法故事【教室01】16
+94  洁西卡玩法故事【教室03】18
+95  洁西卡玩法故事【教室04】19
+96  洁西卡玩法故事【教室05】20
+97  洁西卡玩法故事【教室06】21.1
+98  洁西卡玩法故事【办公室01】22
+99  洁西卡玩法故事【办公室02】23.1
+100  洁西卡玩法故事【办公室03】24
+101  洁西卡玩法故事【禁闭室02】26
+102  洁西卡玩法故事【禁闭室03】27
+103  洁西卡玩法故事【禁闭室04】28.1
+104  洁西卡玩法故事【主框】1.1
+105  洁西卡玩法故事【主框】1.2
+106  洁西卡玩法故事【主框】1.3
+107  洁西卡玩法故事【主框】1.4
+108  洁西卡玩法故事【主框】1.5
+109  洁西卡玩法故事【主框】1.6
+110  洁西卡玩法故事【主框】1.7
+111  洁西卡玩法故事【主框】2.1
+112  洁西卡玩法故事【主框】2.2
+113  洁西卡玩法故事【主框】2.3
+114  洁西卡玩法故事【主框】3.1
+115  洁西卡玩法故事【主框】4.1
+116  洁西卡玩法故事【主框】5.1
+117  洁西卡玩法故事【主框】5.2
+118  洁西卡玩法故事【主框】11
+119  洁西卡玩法故事【主框-二周目】1
+120  洁西卡玩法故事【主框-三周目】1
+121  洁西卡玩法故事【玛蒂尔达】5.2
+122  洁西卡玩法故事【玛蒂尔达】5.3
+123  洁西卡玩法故事【玛蒂尔达】5.1
+124  洁西卡玩法故事【食堂06】6.2
+125  洁西卡玩法故事【食堂06】6.3
+126  洁西卡玩法故事【图书馆04】10.2
+127  洁西卡玩法故事【图书馆04】10.3
+128  洁西卡玩法故事【厕所04】15.2
+129  洁西卡玩法故事【厕所04】15.4
+
+────────────────────
+
+01  洁西卡玩法故事【十四行诗】1
+
+Jessica: *Sniffs* You smell like something else this time.
+洁西卡：你身上还有别的东西的味道。
+
+Sonetto: Pardon? Well, there's no need to come up so close...
+十四行诗：你说什么？呃，这距离有些太近了……
+
+The deer sniffs around the visitor and reaches out to search her.
+小鹿的鼻子耸动着，她伸出手，好奇地在来客的身上摸索。
+
+Jessica: Hmm? Is this a present for me?
+洁西卡：嗯，这是你给我的礼物吗？
+
+She watches Sonetto take out a round, red, sweet-smelling fruit from her pocket.
+她看着十四行诗从口袋中掏出了一个圆圆的，红红的，散发着甜美香味的植物果实。
+
+Jessica: That's what I was talking about.
+洁西卡：……就是它的味道。
+
+Sonetto: No. This is a teaching aid for today's lesson. We aren't doing anything too difficult, just a simple test of...
+十四行诗：礼物？不，不是……这是今天认知课程的教具。课程不会太难，只是简单地测试下……
+
+Jessica: Thank you! I like this sun.
+洁西卡：谢谢！我很喜欢这个太阳。
+
+Sonetto: Wh-What?
+十四行诗：什……什么？
+
+Jessica: This, the sun you brought. It smells delicious.
+洁西卡：这个，你带了太阳给我，它闻起来很好吃。
+
+Sonetto: No, Ms Jessica. This is an apple. It's a crop from the Rose family. In the meantime, the Sun is a star…
+十四行诗：太阳？不，不不，洁西卡小姐，这个是苹果。是一种蔷薇科植物，而太阳是一颗恒星……
+
+Jessica: It's red, round and warm. That's what the sun is like.
+洁西卡：它是红的，又是圆的，还有温度，它就是太阳。
+
+Sonetto: Warm ... That's probably because I kept it in my pocket.
+十四行诗：温度……可能是因为我放得过于贴身了。
+
+Jessica: Nice, I have a delicious sun now!
+洁西卡：多好啊，我有了一颗美味的太阳！
+
+Sonetto: Please don't consume the teaching aid ... *sighs*
+十四行诗：啊，请不要食用教具——唉……
+
+Sonetto: I will be in touch again soon for future lessons.
+十四行诗：关于后续课程的安排……我还会再次联系你的。
+
+02  洁西卡玩法故事【十四行诗】3
+
+Sonetto: Ms. Jessica? What are you doing here?
+十四行诗：洁西卡小姐？你这是在做什么？
+
+Jessica: I'm trying to make a hole in the ceiling, so I can use some fresh air in the room.
+洁西卡：我想试试可不可以给房顶开个洞，这里的空气不太好。
+
+Sonetto: This could be dangerous, please do not act on this idea... Our class will begin soon, please...
+十四行诗：请不要有这种危险的想法……今天的课程就要开始了，请尽快……
+
+Jessica: Hmm? You brought a new friend today.
+洁西卡：咦？你今天带了新朋友来。
+
+Sonetto: Yes. Given what has happened in the last two times, I have made some adjustments to my teaching strategy.
+十四行诗：是的。考虑到之前的状况，我想我们换一种教学方式会好一点。
+
+Kitten: Meow.
+猫：喵呜——
+
+Jessica: Hmm, I've never had a friend like this.
+洁西卡：嗯？我没见过这种朋友。
+
+Sonetto: This is a cat. An animal that is safer to touch than those arcane creatures.
+十四行诗：是一只猫，比神秘动物的安全系数高一些。
+
+Sonetto: And they are ... very adorable... That's one of the reasons why people like to keep them around in the house.
+十四行诗：而且很，很可爱……怪不得大家都喜欢在家里饲养它们。
+
+Jessica: It smells like plant. Well, more specifically ... like the grass under the sun.
+洁西卡：它身上有一股植物的味道。嗯……像是一片被阳光照耀过的草地。
+
+Sonetto: That's right. I'm surprised you would say that.
+十四行诗：是的！我很惊讶你会这么说。
+
+Sonetto: It smells more like wheat to me. Do you know what wheat is? It's one of the ingredients to make bread... Of course, cat is no material for bread...
+十四行诗：我感觉闻起来更像小麦。小麦你知道吗？它可以用来做面包——当然，我不是指猫可以用来做面包……
+
+Jessica: I know what bread and friends are. Of course you can't eat a friend, so it's not edible.
+洁西卡：我知道面包，我也知道朋友。朋友确实不可以用来食用，所以它不能吃。
+
+Sonetto: I'm very glad that you get to understand this!
+十四行诗：我很高兴你能认识到这点！
+
+Sonetto: Seems like the adjustment I made is an effective one. This is good.
+十四行诗：看来改变方向的办法是有效的，这太好了。
+
+Kitten: Meow, meow ...
+猫：喵，喵喵——
+
+Sonetto: It's quite tame, compared to the Carbuncles.
+十四行诗：它看起来比卡邦克鲁要温顺些。
+
+Jessica: No, it's ferocious.
+洁西卡：不，它很凶猛。
+
+Sonetto: Ferocious?
+十四行诗：凶猛？
+
+Kitten: Meow ...
+猫：喵……
+
+Jessica: It has sharp blades in its paws ...
+洁西卡：它的爪子里藏着利刃。
+
+Kitten: *angry*
+猫：喵啊——
+
+Jessica: And beast's teeth in the mouth.
+洁西卡：嘴里长着猛兽的牙齿。
+
+Sonetto: ...!
+十四行诗：——！
+
+Uncomfortable with the sudden petting, the kitten shows its teeth and gives a couple of hisses. Then it jumps on top of a high cupboard like a spring.
+这份不请自来的抚摸并不舒适，小猫龇着牙齿叫了两声，像个弹簧一般弹到了高处的柜子顶上。
+
+Jessica: Look at that amazing jump!
+洁西卡：还有如此优秀的弹跳能力。
+
+Jessica: Oh, that's impressive! An awesome friend from the human world.
+洁西卡：人类世界的朋友，真厉害啊！
+
+03  洁西卡玩法故事【十四行诗】4
+
+Jessica: This is … Oh, I know. It's a book.
+洁西卡：这个我知道，这是一本书。
+
+Sonetto: Yes, this is a book. People praise books to be the ladder of human progress, and through books humans are able to obtain more insights. Our lesson starts from this book today.
+十四行诗：是的，书。人们将其誉为知识的阶梯，并借由它获得更高的思路。我们今天的教学，就由书本开始入手。
+
+Jessica: Are we going to climb a ladder today?
+洁西卡：我们要开始上楼梯了吗？
+
+Sonetto: In terms of knowledge and in a spiritual sense, yes. I can tell that you are a very sensitive and perceptive person, Ms. Jessica. All you need is a systematic method to study and some opportunities to engage new things.
+十四行诗：从知识与精神的层面来说，没有错。我认为洁西卡小姐的观察能力和感知能力都很强，目前缺乏的是系统性的教育和与事物接触的契机。
+
+Sonetto: I'm confident that you will have more opportunities after you successfully pass the assessment. Don't worry, Timekeeper ... always keeps her words.
+十四行诗：我想在你成功完成评估之后，这些机会会越来越多。请放心，司辰……她是不会食言的。
+
+Sonetto: Since we are not allowed to go outside, we can learn through books.
+十四行诗：在不能接触外面世界的时间里，我们可以通过书籍来培养认知。
+
+Jessica: Why? This book doesn't have many words.
+洁西卡：这书为什么没有字？
+
+Jessica: I only see a few words between these blocks ... The blocks look just like what Jennifer used to make!
+洁西卡：只有这些方块儿的缝隙里有……这些方块儿，看起来像珍妮弗做出来的那些东西！
+
+Sonetto: These are drawings, Ms. Jessica. In fact, they are the same kind of creation that Ms. Blonney has been doing.
+十四行诗：这是画，洁西卡小姐。实际上，它和金蜜儿小姐的创作确实属于是同一类。
+
+Sonetto: When we look at them, we are looking at different corners of the world.
+十四行诗：当我们看着它们，就像亲眼看到了外面的世界。
+
+Jessica's fingertips gently swipe across the pages.
+洁西卡的指尖自书页之上轻轻滑过。
+
+Jessica: They are beautiful.
+洁西卡：它真漂亮。
+
+Sonetto: You can ... see the beauty of it?
+十四行诗：你能……感受到画作的美丽之处吗？
+
+Sonetto: How amazing. To appreciate a drawing usually takes aesthetic knowledge and life experience... I wouldn't have thought you can...
+十四行诗：这真令人惊讶。欣赏画作常常需要拥有一定的知识储备与个人经历……我本以为……
+
+Sonetto: No, never mind... It seems like you're very talented at this.
+十四行诗：不，没什么……看来你在这方面非常有天赋。
+
+Jessica: What about those words in the space between the blocks? They don't seem like stories to me.
+洁西卡：旁边的这些文字是什么？读起来不像故事。
+
+Sonetto: These are poems. Most people believe that poems and drawings have a lot in common, and that's why they are always presented next to each other.
+十四行诗：那是诗歌。大多数人认为诗歌与绘画是相通的，所以它们经常一起出现。
+
+Jessica: Are they like Jennifer's stories?
+洁西卡：就像珍妮弗写的那些故事一样吗？
+
+Sonetto: Not exactly, but by definition, yes, they all belong to literature.
+十四行诗：有略微的差别，但严格来讲确实都属于文学范畴。
+
+Sonetto: Drawings evoke feelings, and people project these feelings into words to create poems. This is a form of writing that possesses an immaterial nature and can pass on feelings unreservedly ...
+十四行诗：人们会把从画作当中感受到的情绪倾注于文字，形成另一种全新的体验。它比起故事要更加缥缈，可以更加纯粹地传递情感……
+
+Sonetto: Well, about that... Mr. Zima used to say that I was overthinking it. He said poems aren't as complicated as I thought …
+十四行诗：嗯，关于这点……冬先生曾说我想得太多，诗歌或许不是那么复杂的东西……
+
+Jessica: You seem to like them a lot.
+洁西卡：你看起来很喜欢它们。
+
+Sonetto: Hmm? Me?
+十四行诗：我，我吗？
+
+Jessica: Yeah. Both your temperature and tone went up when you talked about them.
+洁西卡：嗯，你说起这些的时候体温升高，声调也高了很多。
+
+Sonetto: ...
+十四行诗：……
+
+Jessica: Very funny. Since you like them so much, they must be very interesting!
+洁西卡：唔……能让你这样喜欢，它们真是有意思的东西！
+
+04  洁西卡玩法故事【十四行诗】5.1
+
+Sonetto: What is this...?
+十四行诗：这是……？
+
+A piece of paper, slightly wrinkled, is captured in her hand. On that paper writes a strangely rhymed sentence in a kid's handwriting.
+十四行诗手中的纸张微微发皱，上面的文字歪歪扭扭，句子有着奇怪的节奏。
+
+Sonetto: Is this ... a poem? Written by you?
+十四行诗：是……诗歌吗？洁西卡小姐创作的……？
+
+Jessica: Yes, it's a present for you, to thank you for bringing me the delicious sun, the boomerang with funny taste, the ferocious new friend ...
+洁西卡：是的，是送给你的礼物。你给我带来了美味的太阳、气味奇怪的回旋镖，和勇猛的新朋友。
+
+Jessica: And spending so much time with me!
+洁西卡：还陪我玩儿了这么久！
+
+Jessica: I hope you enjoy it! I can't make good stuff like Jennifer's works, but I think I know how to write stories like hers.
+洁西卡：我希望你能喜欢！我做不出珍妮弗的东西，但我想我知道怎样写像珍妮弗那样的故事。
+
+Jessica: Hmm, as I remember ...
+洁西卡：嗯，我记得……
+
+05  洁西卡玩法故事【十四行诗】5.2
+
+Jessica: Alright, exactly what I want!
+洁西卡：嗯嗯～就是这样！
+
+Apple is another sun
+Sweet and warm
+Yet banana is the moon
+Resting by a bitter roof
+苹果是另一种太阳，温暖而美味。
+香蕉是月亮，照亮味道苦涩的夜。
+
+Sonetto: This is ... fantastic! Very impressive for a beginner! I truly appreciate this present of yours.
+十四行诗：这……很精彩。对于一位新手诗人来说，能创作出这样的内容真是令人惊叹！谢谢你的礼物。
+
+Sonetto: I will report these improvements to the Foundation. I'm certain that this will look good in your final assessment.
+十四行诗：关于这些进步……我都会如实反馈给基金会的。我想这会对你的最终评估会有帮助。
+
+Sonetto: Please keep up with the hard work so that one day we can have you in Timekeeper's crew.
+十四行诗：请继续努力，争取早日加入到司辰的队伍当中。
+
+06  洁西卡玩法故事【十四行诗】5.3
+
+Jessica: Alright, exactly what I want!
+洁西卡：嗯嗯～就是这样！
+
+Apple is a great ball of fire,
+and I know how to throw a moon!
+苹果是大火球，
+月亮被我丢出去！
+
+Sonetto: This is ... very inspiring. Thank you for getting me this special present.
+十四行诗：这……很，很有启发性的创作。非常感谢你能如此用心地为我准备这样的礼物。
+
+Sonetto: What an unusual perspective, and the wording was also very... But I...I'm not sure if you can call it a poe...
+十四行诗：这首诗歌角度十分奇妙，文字也……但我，我不确定这能否真的算作……
+
+Sonetto: *Sigh* I think we have pushed you too hard.
+十四行诗：唉。我想，我们的课程安排还是过于紧凑了。
+
+Sonetto: No. I should have given you enough time to really absorb these new things... No, I must have done something wrong in the teaching... Or maybe I just haven't yet found the beauty of this work...
+十四行诗：应该预留一个吸收知识的时间……不，我想，这其中也许是因为我的教学方式有了偏差……或者说我的鉴赏能力还没有达到……
+
+Sonetto: Hopefully her final result will be ... satisfactory.
+十四行诗：但愿最后考核……的结果会是理想的。
+
+07  洁西卡玩法故事【金蜜儿】1
+
+Jessica: Jennifer! You're here! Hurray!
+洁西卡：珍妮弗！你来见我了——太好了！
+
+Blonney: Hi, Hello! Okay, there's no need to be overexcited... Err, go easy on the hugs...
+金蜜儿：嗨……你好，我想你不用这么兴奋……呃，抱得太紧……
+
+Jessica: Oh, sorry! I did that again...
+洁西卡：啊！对不起，我又弄疼你了……
+
+Jessica: I thought you were not coming. I know you said you would, but I am still worried.
+洁西卡：我总以为你不会来看我了，虽然你说过会来，但我还是担心。
+
+Blonney: I might strike people as a person who doesn't value credibility, but ... as I have promised you, I will never disappear on you again.
+金蜜儿：或许我看起来是有点没信誉，但……我对你保证了，我不会和过去一样，消失之后就再也不回来。
+
+Blonney: I know you are always there waiting for me. Like a puppy at the door. Although it is just an image in my head, knowing that you are waiting for me would make me think about you more often.
+金蜜儿：我知道你在等我。就像是小狗等在别墅前，虽然看不见，但知道有人眼巴巴地等着，心里也会挂念一些。
+
+Jessica: You thought about me?
+洁西卡：你会挂念我吗？
+
+Blonney: Of course... Of course I do!
+金蜜儿：当然——当然会了！
+
+Blonney: Vertin told me you've been sent to some behavior modification school, which made me uneasy for quite a while.
+金蜜儿：我听维尔汀说你被送去了什么行为矫正学校，可是担心了好一阵子呢。
+
+Jessica: Wow... I never thought you'd be worried about me...
+洁西卡：哇……我从没有想过你居然也会担心我……
+
+Blonney: Ahem. You also heard those horror stories, right? They usually take place in deserted campsites, in the countryside, or in boarding schools—especially modification schools!
+金蜜儿：咳，你听我说，你也知道“恐怖故事”对吧。除了营地故事、乡村故事之外，最广为人知的就是寄宿学校恐怖故事了，其中教管学校尤甚……
+
+Blonney: Strange female teachers, bizarre whimpers in the middle of the night, and ghosts in the toilet...
+金蜜儿：这里会有古怪的女老师，半夜奇怪的哭泣声，在厕所里或许还有幽灵——
+
+Jessica: Yes, they are all true!
+洁西卡：没错，这都是真的！
+
+Blonney: All true? Here?!
+金蜜儿：都是真的？在……在这儿？！
+
+Jessica: We indeed have strange female teachers, and ... whimpers in the middle of the night.
+洁西卡：可怕的女老师是真的，夜晚的哭泣声……也有。
+
+Jessica: In the washroom ... sometimes people can hear weird noises.
+洁西卡：厕所里面的事儿我不太清楚，但我晚上睡觉的时候，听到过那儿有声音。
+
+Jessica: Perhaps it is a ghost, or a serpent, I can't be sure.
+洁西卡：或许那是幽灵，也或许那是一只大蛇，说不好。
+
+Jessica: I may go check it later, so I can tell you what it is!
+洁西卡：晚些时候，我可以去那儿看看，这样我就可以告诉你它是什么啦！
+
+Blonney: That's awful. I must talk to Vertin and get you out of here. Don't worry. It won't take long.
+金蜜儿：天啊，这……这太糟糕了，我得找维尔汀想办法把你快点儿捞出来。别怕，我们动作会很快的！
+
+Jessica: Hmm? But I'm not afraid at all.
+洁西卡：嗯？但我一点儿也不害怕啊。
+
+Blonney: You aren't afraid?
+金蜜儿：你不害怕？
+
+Jessica: No, 'cause I'm also one of them, and maybe the most badass one!
+洁西卡：我不害怕，因为我也是“怪物”之一，或许我还是这里最厉害的怪物呢！
+
+Blonney: The girl in dismay in the boarding school ... turns out to be another monster?
+金蜜儿：寄宿学校中柔弱的女主角……也是外来的怪物？
+
+Blonney: Good. Sounds like an exciting script!
+金蜜儿：这好像……是个不错的剧本！
+
+08  洁西卡玩法故事【教室06】21.2
+
+Squashed Critter: *sobs* Roar!
+压扁的魔精：呜呜——嗷嗷——！
+
+Jessica: Oomph ... Just hold on! I'll try harder ...
+洁西卡：唔……你——坚持下！我再使点力气……
+
+Jessica: *pants*
+洁西卡：呼，呼……
+
+Squashed Critter: Ugh ...
+压扁的魔精：呜……
+
+Jessica: I'm so sorry ... I thought I had grown strong enough to pull you off.
+洁西卡：真抱歉……我以为我最近力气变大，可以把你从上面扯下来呢。
+
+Jessica: It seems I need some Mr. Bites, like those biting bugs in the forest! Hmm, but how am I going to find them here?
+洁西卡：看来还是需要那些爱咬东西的先生……就像森林里的那些咬咬啮齿虫！唔，到底哪里会有呢？
+
+09  洁西卡玩法故事【教室06】21.3
+
+Jessica: Oh, I get it!
+洁西卡：对啦，我知道啦！
+
+Jessica: Andy! Andy will be able to bite through the mucus and get you down!
+洁西卡：安迪，是安迪，安迪一定能咬断这些粘液，把你救下来的！
+
+Jessica rummages through her pockets and places a small bug on the chair.
+左掏掏，右找找，一只小虫放在了椅面上。
+
+Squashed Critter: Chirr, chirr!!
+压扁的魔精：咕……叽叽！
+
+Jessica: Almost there, Andy!
+洁西卡：还差一点点了，安迪！
+
+The mucus snaps, and the squishy critter jumps off, whimpering with delight.
+粘液断裂，扁扁的魔精嗖的一下跳起，欣喜得呜咽起来。
+
+Squashed Critter: Chirr!! Chirr boo-hoo!
+压扁的魔精：唧唧！！唧唧呜呜！
+
+Jessica: Great! You're free!
+洁西卡：太好了！你自由啦！
+
+Squashed Critter: Chirr, chirr!!
+压扁的魔精：唧——唧！！
+
+They cheer and applaud for the long-lost freedom.
+他们为自由而欢呼喝彩。
+
+10  洁西卡玩法故事【办公室02】23.2
+
+Jessica: I gotta get out of here!
+洁西卡：——我得赶紧离开这里！
+
+11  洁西卡玩法故事【办公室02】23.3
+
+Jessica: Oh right!
+洁西卡：啊！对了！
+
+With a flick of her hand, her long hair becomes short, and her little hooves turn into shiny leather shoes.
+手轻轻挥过，长头发变成了短头发，小蹄子变为了亮皮鞋。
+
+Managing Teacher: Hmm? You are ...
+管理教员：嗯？您是……
+
+Instructor: Hello. I... Keys, forgot.
+训导教员：您好。我——钥匙，忘。了。
+
+Managing Teacher: Instructor, what's going on?
+管理教员：训导教员女士，您怎么了？
+
+Instructor: ...Lock. Not open.
+训导教员：……锁。不、开。
+
+Managing Teacher: Did you forget your key to the office?
+管理教员：您忘带了钥匙，打不开办公室的门了？
+
+Managing Teacher: I have a spare one with me. Here you are.
+管理教员：我这里还有一把备用钥匙，您先拿着用吧。
+
+Managing Teacher: I remember you once told me you had a throat problem last year when you were teaching in another school. I know you must be working hard to take good care of that difficult student, but please don't forget to take care of yourself.
+管理教员：我记得您去年在其他学校任职时也曾患过喉疾，最近那个麻烦学生不好带，您也要多注意身体。
+
+Instructor: ...Thank.
+训导教员：……谢。
+
+12  洁西卡玩法故事【禁闭室04】28.2
+
+Soft and slimy.
+软软的，粘粘的。
+
+Jessica: Ah! I think I stepped on something ...
+洁西卡：啊！我好像踩到了什么……
+
+Jessica: Mmm ... Something is stuck to my hoof. Eww ...
+洁西卡：嗯……有什么粘在我的蹄子上了，真难受……
+
+Shaking her hooves, the deer lowers her head.
+甩甩蹄子，小鹿低下头去。
+
+Jessica: Oops ... I'm sorry. Are you the boy's friend, Andy?
+洁西卡：哎呀……真是抱歉，你是好朋友安迪吗？
+
+The tiny Shamir worm called "Andy" is squashed flat and no longer moves.
+被唤作“安迪”的小小的沙米尔虫被踩得扁扁的。一动也不动了。
+
+... Then, more "Andys" gather.
+……随后，更多的“安迪”聚集了过来。
+
+Jessica: Ouch ... That hurts!
+洁西卡：唔……好痛！
+
+Jessica: The "Andys" are biting me. Ouch, another bite!
+洁西卡：安迪们在咬我，哎呀！又咬了一下！
+
+Jessica: That hurts! Stop biting me! Ouch!
+洁西卡：好痛！别再——咬了！哎呀！
+
+13  洁西卡玩法故事【禁闭室04】28.3
+
+Jessica: Oh. It's ... an Andy!
+洁西卡：这是——安迪！
+
+Jessica: I already have an Andy. Even though it likes to bite ... I'm still its friend!
+洁西卡：我也有一个安迪啦，虽然它喜欢咬人……不过，我也想和它做朋友！
+
+Jessica: I know how to make friends, but ... Andy is too small to be kept in a cave ...
+洁西卡：我知道怎么交朋友，嗯……安迪太小了，山洞可留不住安迪……
+
+Jessica: I need to find a very, very small cave!
+洁西卡：我得去找一个很小很小的山洞才行！
+
+14  洁西卡玩法故事【常驻-食堂】1
+
+Jessica: Grrrrr …
+洁西卡：唔……
+
+Jessica: *sniffs* It smells good as usual today!
+洁西卡：*嗅嗅*……今天也好香啊！
+
+Jessica: Let's see what food there is today ...
+洁西卡：让我看看……会有什么食物呢？
+
+15  洁西卡玩法故事【常驻-图书馆】1
+
+Librarian: ... Have you finished the book already?
+管理员：……这本书你已经读完了吗？
+
+Jessica: Yeah. There are so few pictures in it, so it didn't take long!
+洁西卡：嗯，它里面的图片太少了，我一下子就看完啦！
+
+Librarian: ... I had no idea this was an ... illustrated book.
+管理员：……我还是第一次知道这册……是插图本。
+
+16  洁西卡玩法故事【常驻-教室】1
+
+The sound of footsteps echoes clearly in the empty classroom.
+空荡荡的教室清晰地回荡着脚步声。
+
+Jessica: Hmm ... As I remember, this is a table ... and this is a chair!
+洁西卡：唔……我记得，这是桌子……这是椅子！
+
+Jessica: But why are they laid out like this?
+洁西卡：但是，为什么要把它们摊开，摆成这样呢？
+
+Jessica: They don't look good at all this way ... Alright! Let me stack them on top of each other ...
+洁西卡：这样一点儿也不好看……嗯！让我试试把它们摞起来……
+
+17  洁西卡玩法故事【常驻-教育】1
+
+Beep: CO-092146, Jessica.
+提示音：CO-092146，学员洁西卡。
+
+Beep: Please recover your consciousness and be prepared to take up today's study.
+提示音：请确认神志清醒并进入教学状态，请确认神志清醒并进入教学状态。
+
+Jessica: *Yawns* ... Hmm?
+洁西卡：嗯……嗯？
+
+Instructor: Ms Jessica, today's first lesson will start shortly.
+训导教员：洁西卡小姐，今天的课程即将开始。
+
+After a while in the classroom.
+在教室内度过了一段时间。
+
+18  洁西卡玩法故事【金蜜儿】3
+
+Jessica: Jennifer, have you finished the script? You seem much better now.
+洁西卡：珍妮弗，你的剧本写完了吗？你看起来精神很好。
+
+Blonney: It's done! All finished! I have even found a sponsor -- who is not my dad!
+金蜜儿：写完了！全写完了！我甚至已经找到了投资人——而且这个投资人不是我爸爸！
+
+Blonney: That is to say, he is actually interested in my story! I will be shooting a new movie soon!
+金蜜儿：也就是说，他真的看中了我的剧本！我又要拍一部新的电影了！
+
+Jessica: "Shooting a movie" like you did? Shall I get my friends back here?
+洁西卡：你们还要那样“拍电影”吗？那我是不是得请我的朋友们再回来一趟？
+
+Blonney: No, we are not doing that anymore. People don't use real monsters in real filming. We have a team for props.
+金蜜儿：啊？不，不需要了，电影不需要“真正的怪物”的，我们有自己的道具组。
+
+Jessica: Oh … fine.
+洁西卡：哦……好吧……
+
+Blonney: Don't worry about me. My dad is very proud of what I have achieved.
+金蜜儿：别担心，我爸爸很开心我能有这样的成就。
+
+Blonney: He's finally more comfortable around his friends and their successful sons and daughters. Well, a movie director is not a great accomplishment, but it's still better than an ignoramus fooling around all day.
+金蜜儿：这让他在朋友之间有了脸面，再怎么说电影导演也比不学无术的傻瓜好一些。
+
+Blonney: So he has also chipped in quite a lot of money, which allowed me to hire us some pros for the props.
+金蜜儿：所以他给了我很多资金，我就去找了真正的专业道具制作人。
+
+Jessica: The men you chose must be the best of their kinds.
+洁西卡：你找到的人一定是最厉害的人。
+
+Blonney: Haha, thanks for the approval. Anyway, everything has been going on so well. The next step is to cast some actors.
+金蜜儿：哈哈，感谢你对我眼光的认可。总而言之，一切顺利进行中，接下来我的工作就是去找些合适的演员。
+
+Jessica: You mean Jason and the others?
+洁西卡：你还会找杰森他们吗？
+
+Blonney: No, of course not.
+金蜜儿：不，当然不是。
+
+Blonney: They are just amateurs. You and I have created such an interesting story together, so this time ... I have to find some professionals to play the roles. It's going to be a big search, followed by many careful auditions!
+金蜜儿：那都是不专业的演员，我们一起想了这么有趣的剧本，这一次——我一定要找些更专业的演员！好好地试镜，仔细筛查！
+
+Jessica: So you're looking for a new "girl protagonist"? That sounds nice. I'm happy as long as you are.
+洁西卡：你要找一个新的“女主角”了吗？那也很好，你开心，我就一样开心。
+
+Blonney: What a nice and kind-hearted little deer you are. Who wouldn't like you? What that instructor said is purely awful.
+金蜜儿：你真是一头善良的小鹿。谁会不喜欢你呢？那个教员说的真是糟糕。
+
+Blonney: Promise me that you won't stress yourself out in here. The courses designed by the Foundation must be hard.
+金蜜儿：你要留神不要累到自己，基金会的课程一定很辛苦。
+
+Blonney: Ah! Time is up, I gotta go. Till next time, Jessica.
+金蜜儿：啊！时间到了，我要走了。下次再见了，洁西卡。
+
+Jessica: Are you leaving, Jennifer? We still have time ...
+洁西卡：你要走了吗，珍妮弗？结束的时间还没到呢……
+
+Blonney: Sorry for that. I have two auditions to go. I will come back to see you afterwards, okay?
+金蜜儿：很抱歉，我还有两场试镜要跟，之后我会再来陪你的，好吗？
+
+Jessica: ...
+洁西卡：……
+
+Jessica: Okay, I'll be waiting for you.
+洁西卡：好吧。我会等你的。
+
+Blonney: It won't take long, dear. I promise I will come to you once the auditions are over!
+金蜜儿：马上，亲爱的，我保证忙完试镜就过来找你！
+
+19  洁西卡玩法故事【常驻-教育】2
+
+Beep: CO-092146, Jessica.
+提示音：CO-092146，学员洁西卡。
+
+Beep: You have been distracted for over 30 seconds. Attention control failure detected. Please refocus on your studies.
+提示音：检测到注意力不集中超过30秒，请尽快进入学习状态。
+
+Jessica: You annoying thing, still noisy as ever.
+洁西卡：你这个吵闹的家伙，声音总是这么大。
+
+Jessica: Why can't you be like those little conchs with all kinds of patterns? They always speak softly, and have the most gentle and beautiful voices!
+洁西卡：为什么不学学那些花色奇怪的小螺呢？它们总是轻声细语，声音还十分动听！
+
+20  洁西卡玩法故事【常驻-休息】1
+
+Beep: CO-092146, Jessica.
+提示音：CO-092146，学员洁西卡。
+
+Beep: The entrance to the dormitory is closing in 10 minutes. Please be inside your room and ready to rest.
+提示音：宿舍将于十分钟后封锁，请确保您已进入休憩状态。
+
+Jessica: Little trumpet, you said the exact same thing yesterday. Why don't you say something different?
+洁西卡：昨天你也是这么说的，小喇叭，说点不一样的东西给我听吧？
+
+21  洁西卡玩法故事【常驻-休息】2
+
+Beep: CO-092146, Jessica.
+提示音：CO-092146，学员洁西卡。
+
+Beep: The entrance of the dormitory is closing in 10 minutes. Please be inside your room and ready to rest.
+提示音：宿舍将于十分钟后封锁，请确保您已进入休憩状态。
+
+Jessica: Good night, weird little speaker.
+洁西卡：你也晚安，奇怪的小喇叭～
+
+22  洁西卡玩法故事【常驻-休息】3
+
+Jessica: *Sleeping* Mmm ...
+洁西卡：呼……呼呼……
+
+Jessica: Abhaile ... dul abhaile ...
+洁西卡：回……回，回家……
+
+Jessica: !!!
+洁西卡：——！
+
+Jessica: Oh, it was just a dream.
+洁西卡：……原来，是梦啊。
+
+23  洁西卡玩法故事【常驻-测验】4
+
+Instructor: We will be using the same set of questions you did before the enrollment: Societal Level Preliminary Test A-001 (revised ed.).
+训导教员：本次试题，仍旧为《社会化基础测试题A-001（修订版）》。
+
+Instructor: Please take a serious attitude to the test, and provide answers to the questions I ask.
+训导教员：请端正仪态，集中精神，并根据我的提问作答。
+
+Instructor: Now, close your eyes. You will see a sheet of white light. Place your finger on the designated spot.
+训导教员：闭上眼睛，你将看到一面白光，将手指放在你应当触碰的位置。
+
+24  洁西卡玩法故事【失败剧情】
+
+Instructor: I am very sorry, Ms. Jessica. The test results indicate that you have not met the socialization standards recognized by the Foundation.
+训导教员：很遗憾，洁西卡小姐。测试结果表明，你并未达到基金会认可的社会化标准。
+
+Instructor: In other words, you failed the test.
+训导教员：换而言之，你没有通过测试。
+
+Jessica: Oh, what does that mean? Did I lose this game?
+洁西卡：唔，这是什么意思？我在这局游戏里输了吗？
+
+Jessica: Like being caught in hide-and-seek, or like the awakened witch being stopped by the clever girl?
+洁西卡：就像捉迷藏被抓到，就像苏醒的女巫被聪明的女孩阻止？
+
+Instructor: It is clear that your knowledge and behavior are not up to par. We cannot let you graduate.
+训导教员：显然，你的知识与行为都未脱蒙昧，我们不能让你毕业。
+
+Jessica: Do I have to continue with this odd game, Ms. Instructor?
+洁西卡：我还要继续玩这个奇怪的游戏吗，教员小姐？
+
+Jessica: Well, it might be monotonous and boring, and the stories you tell are always the same, but I'll keep playing.
+洁西卡：虽然它单调又无聊，你讲的故事也总是一个模样，不过，我还可以继续玩下去。
+
+Instructor: ... Looks like we still have a long way to go.
+训导教员：……看来，我们还有很长的路要走。
+
+25  洁西卡玩法故事【成功剧情】
+
+Instructor: Congratulations, Ms. Jessica, your final exam marks have met the graduation criteria.
+训导教员：恭喜你，洁西卡小姐，你的期末考核成绩达到了毕业标准。
+
+Instructor: I am glad to see that you've gotten rid of your past bad habits and begun to walk the path of reason under the tutelage of our school.
+训导教员：很高兴看到你摆脱了过去的不良习惯，在我校的教导下迈入了理性的道路。
+
+Instructor: Here is your Certificate of Social Adaptation.
+训导教员：这是你的社会适应证书。
+
+Jessica: It's gorgeous. Look at the shimmering gold color. I could make up a great story about it!
+洁西卡：这个纸壳子真漂亮，看这些闪闪发亮的金色，我能为它编一个好故事！
+
+Instructor: ...
+训导教员：……
+
+Blonney: Good! Jessica! You're a graduate now!
+金蜜儿：太棒了，洁西卡！你现在是毕业生了！
+
+Jessica: Jennifer, you're here!
+洁西卡：珍妮弗，你来找我玩了！
+
+Blonney: Of course. It's your final exam day, so I gave the crew a vacation and came here early in the morning. Many others are also waiting for you.
+金蜜儿：当然了，今天可是你最终考核的日子。我给剧组放了个假，一大早就到这儿等你了。不光是我，洁西卡，等着你的人可不少呢。
+
+Sonetto: That's awesome. Congratulations on passing the test, Ms. Jessica.
+十四行诗：恭喜你顺利通过考核，洁西卡小姐。
+
+Jessica: Whoa! Everyone's come to see me!
+洁西卡：哇！大家都来找我了！
+
+Jessica: I have no idea what "graduation" is, but I like it. Can I graduate again?
+洁西卡：虽然我不知道“毕业”是什么，但我喜欢毕业，我还能再毕业一次吗？
+
+Vertin: You'll have plenty more time to spend with people after this.
+维尔汀：在这之后，你还有的是时间与人相处。
+
+Vertin: I look forward to it. Outside the correctional school and beyond Green Lake, there are many games, many fresh ideas, and many stories to uncover. I'm looking forward to exploring the outside world with you.
+维尔汀：在教管学校之外、绿湖之外，还有许多游戏，许多新鲜点子，许多超越想象的故事。我很期待和你一起探索外面的世界。
+
+Jessica: I sure would love to, Vertin! A world full of stories and unexpected surprises ... Let's go now!
+洁西卡：我当然乐意，维尔汀！外面的世界，更多故事，更多想不到的好东西……我们现在就出发吧！
+
+Blonney: Hey, Jessica, wait! We forgot something important!
+金蜜儿：嘿，洁西卡，等等！我们忘了一件重要的事！
+
+Blonney: It's your graduation. Graduation, of course, comes with uniforms, flowers, and, most importantly, a party! We've got to party and dance all night!
+金蜜儿：这可是你的毕业典礼。毕业当然要有制服，有鲜花，还有最重要的——派对、跳舞、彻夜狂欢！
+
+Blonney: I brought all the stuff. Here, put this on.
+金蜜儿：喏，我可都带来了。来，穿上这个。
+
+Jessica: Is this a costume? Like a white veil and a mask?
+洁西卡：这是戏服吗？就像白纱，就像面具？
+
+Blonney: No, this is different! It's a graduation uniform, symbolizing a new stage in your life. It has a lot of special meanings.
+金蜜儿：不，这可不一样！这是毕业制服，代表你跨入了新的阶段。它有各种各样的象征意义。
+
+Blonney: But right now, it's you and only you that matter.
+金蜜儿：不过现在，最重要的是你，且只有你。
+
+Blonney: Look at that camera over there. They've come to take your graduation pictures!
+金蜜儿：看那边的镜头，他们来为你拍毕业照了——
+
+Everyone: Happy graduation!
+全员：毕业快乐！
+
+A fun-filled adventure comes to a close.
+一段充满风趣的冒险落下帷幕。
+
+The child born in the laboratory has gained a lot from it.
+生于实验室内的孩子从中获得了许多。
+
+But there is still fun to be explored in this little corner of the world.
+被其弃置于身后的这小小一隅中，尚有趣闻值得品味。
+
+Don't worry, we will come back.
+别担心，我们还有机会。
+
+26  洁西卡玩法故事【十四行诗】2.1
+
+Jessica: Sonetto! I'm so happy to see you again!
+洁西卡：十四行诗——你又来看我了！
+
+Sonetto: Good day, Ms. Jessica... Oh! I'm very... Yes, thank you for the passionate welcome. Please ... you can let me go now, we are starting the lesson now.
+十四行诗：你好，洁西卡小姐——噢！我很……很感谢你的热情，但请你……先放开我，我们今天依旧是要上课的。
+
+Jessica: Did you bring another present? What's in this big sack?
+洁西卡：今天你也给我带礼物了吗？这个大纸袋里的都是什么？
+
+In her curious gaze, the young teacher stands by the podium, holding a paper bag in her arms. She clears her throat, and tries to speak in a way that resembles a experienced teacher as much as possible.
+在洁西卡好奇的目光中，年轻的小老师抱着纸袋站在讲台前。她稍微清了清嗓子，尽可能地像是一名老师那样开口。
+
+Sonetto: Ahem... Before we start, I should emphasize again that this is a cognition class, which is different from other meetings we had in a more casual setting. Given your performance in our last lesson, I believe we should start with the basics.
+十四行诗：咳咳——我想我需要再次解释一下，这是认知课程，和一般性质的会面有一定的差别……但鉴于你上次的表现，我想我们应该从最基础的开始。
+
+Sonetto: Ms. Jessica, could you please tell me what this is?
+十四行诗：洁西卡小姐，你能告诉我这个是什么吗？
+
+Jessica: This?
+洁西卡：这个？
+
+Sonetto: Based on what happened last time, it seems that, in the process of recognizing a new object, you are more used to observing the object's color, shape, and temperature and associating them with the things you know.
+十四行诗：从我们上次的交流来看，我认为你似乎更习惯从颜色、形状和温度的角度联系自己已知的概念做判断。
+
+Sonetto takes a banana out of the paper bag and leaves it on the table.
+十四行诗从纸袋里拿出一只香蕉摆在桌面上。
+
+Sonetto: That's why I would assume that ... you might recognize this as something similar to the moon. However, we all know this is not the actual moon. We need to introduce you to some other ways to identify and categorize a new object, like…
+十四行诗：所以我猜测……你很可能认为这是一弯月亮。但我们都能看出来，这并不是月亮，所以你需要增加一些别的角度来辅助认知，比如……
+
+27  洁西卡玩法故事【十四行诗】2.2
+
+Jessica: Huh? The moon?
+洁西卡：月亮？
+
+Jessica: What is the moon?
+洁西卡：什么是月亮？
+
+Sonetto: Hmm? Jessica, you should know what the moon is. Just like the sun, it is in the sky ...
+十四行诗：嗯？不……洁西卡，你应该知道月亮的，它和太阳对应，都在天上……
+
+Jessica: But you are holding it right now. I thought I knew what the moon is, but now I'm confused ...
+洁西卡：可你把它拿在手上了，我本来是明白的，可你让我更糊涂了……
+
+Sonetto: Um … My apologies. I guess I should redo the lesson plan now ...
+十四行诗：啊……抱歉，我想我应该重新整理一下教案……
+
+28  洁西卡玩法故事【十四行诗】2.3
+
+Jessica: What are you talking about, Sonetto? Of course it's not the moon.
+洁西卡：你在说什么呢，十四行诗？这当然不是月亮啦。
+
+Sonetto: Emm? This is promising, you seem to be a lot better than...
+十四行诗：嗯？太好了，看来你的情况比我想的更……
+
+Jessica: It's a boomerang.
+洁西卡：这是一只回旋镖。
+
+Sonetto: What? A boomer-… what?
+十四行诗：回……什么？
+
+Jessica: The serial killer's weapon in the stories. It curves at the midpoint of its body, looks like an "L," and it's yellow. The killer can throw it out to cut down the victim's head and it will fly back itself, while the head will become the killer's collection.
+洁西卡：杀人狂的武器。一种两头弯曲的东西，丢出去可以飞回来，在故事里它就是黄色的。它可以割下别人的脑袋，而脑袋会变为杀人狂的收藏品。
+
+Sonetto: No, you have mistaken it! Ms. Jessica...
+十四行诗：不，不是这样的！洁西卡小姐……
+
+Jessica: But I don't get it. It's not sharp enough to cause any damage.
+洁西卡：但是我不太明白。它摸上去并不锋利，看起来不能对其他动物造成什么伤害。
+
+Sonetto: Be ... because it is just a banana ...? It's a plant and a fruit, the edible kind. It's never used for cut ... cutting people's heads off.
+十四行诗：因，因为它是香蕉啊……它也是一种植物，一种水果，可以食用。绝不是用来割，割下……
+
+Jessica: It's edible?
+洁西卡：可以食用？
+
+Sonetto: Wait!
+十四行诗：啊！
+
+Jessica: Hmm... Banana, tastes funny...
+洁西卡：嗯嗯……香蕉的味道，好奇怪……
+
+Sonetto: Please stop! You have to peel it first! No, I mean ... please stop eating our teaching aids!
+十四行诗：不，不可以连着皮一起吃！不，不对！我是说……请不要再食用教具了！
+
+29  洁西卡玩法故事【金蜜儿】4
+
+Campus Security: You! Stop right there! We don't allow unauthorized personnel in here!
+校内警卫：你们！停下脚步！没有进出许可的人员不得入内！
+
+Blonney: Don't be a goose, just throw it in if you can't get in here!
+金蜜儿：动作麻利点，不能进来就把它丢进来！
+
+Bodyguard: But ... Ms. Jennifer...
+保镖：可是……珍妮弗小姐……
+
+Blonney: Hurry up! Oh it would break, so what? How much would a TV cost?
+金蜜儿：动作加快！坏了就坏了，难道一台电视还值什么钱吗？
+
+Blonney: Phew... I'm here again! Though I'm a little late. There were more people at the audition than I expected.
+金蜜儿：呼——我来啦，虽然晚了一点儿，试镜的人比我想的要多多了。
+
+Jessica: J-Jennifer, what's this?
+洁西卡：珍……珍妮弗，这是什么东西呀？
+
+Blonney: This? This is the latest television, you can watch it without cables and the antennae.
+金蜜儿：这？这是最新款的电视，不接电线和天线一样能看～
+
+Blonney: The press said it was developed by Laplace Scientific Computing Center. Inspired by the rare Dalpobeast, it is the most advanced biomimicry and the most beautiful child of modern arcanum and science.
+金蜜儿：报纸上说它来自拉普拉斯科算中心，以难得一见的达泊兽为原型创作，是最时髦的仿生科技，当代神秘学与新科学最美丽的孩子……
+
+Blonney: Perhaps I'm a bit carried away, but it is indeed a good product.
+金蜜儿：或许这话有些浮夸，不过它的确很好用。
+
+Blonney: That's why I brought it here, along with these...
+金蜜儿：所以我带来了它，还有这些——
+
+Blonney opens that gigantic alligator skin shoulder bag she carries. The bag, very much resembles an alligator, throw up a great pile of tapes from its wide-open mouth.
+金蜜儿敞开巨大的鳄鱼皮单肩包，而它也确实像是鳄鱼一样嘴巴大开，哇哇地吐出了一整桌的磁带。
+
+Jessica: What are ... these?
+洁西卡：这是……什么？
+
+Blonney: These are the tapes of the auditions. Some people couldn't come to the audition in person, so they sent these tapes instead to give the job a shot. I have brought them all, let's watch them together.
+金蜜儿：试镜记录——有些人不能到达现场，所以用这个代替自己到场，好让我来过目。现在我把它们带来，我们就可以一起看了。
+
+Jessica: But this is your movie. Is it okay for me to watch them?
+洁西卡：这是你的电影，我也能一起看吗？
+
+Blonney: These are the auditions for the girl protagonist, and aren't you ... the archetype of this character? Of course you are qualified to evaluate them.
+金蜜儿：这些都是女主角，而你……不是我女主角的原型吗？你当然有资格看了。
+
+As one of the tapes is inserted in the slot, a pretty girl appears on the screen.
+磁带被插入卡槽，一位靓丽的年轻姑娘出现在屏幕前。
+
+Blonney: Good. Beautiful green eyes.
+金蜜儿：不错的绿眼睛。
+
+Jessica: Wow, her hair is as shiny and smooth as silk. I wish I could feel it with my own hands!
+洁西卡：啊，她的头发像是一把漂亮的丝线——真想摸一摸！
+
+Blonney puts in another tape. Another girl, younger and more timid, shows up.
+金蜜儿换了一张磁带，另一位更年轻，但也更加害羞的姑娘出现在屏幕前。
+
+Jessica: I like her. Her voice is soft, just like a lark's chirping.
+洁西卡：我喜欢她，她说话的声音很柔和，像是小鸟儿在叫～
+
+Blonney: But ... she's not enough. Something is ... missing.
+金蜜儿：但……还不够，还不……不太够。
+
+Tapes, one after another, disappear in the TV and get spitted out again. Nothing shows up on the TV is satisfactory enough for the director.
+磁带一张接一张地被电视机吞进肚子里，又一张接一张地吐出来，无论如何，导演仍旧心有不满。
+
+Blonney: That's awful. No. 1's hair is not soft enough, No. 4's eyes are not green enough, No. 7's are too green. No. 9, not bad, but her wrists aren't delicate ...
+金蜜儿：一号的头发不够柔顺，四号的眼睛不够绿，七号眼睛又太绿了，九号似乎是一个不错的选择，可她的手腕却不足纤细……
+
+Blonney: None of them is perfect for the part. I had a very particular image in my head when I started the first draft.
+金蜜儿：她们都不是完美的女主角。我在构想第一个剧本时就有过完美的女主角了。
+
+Blonney: Brown hair, green eyes, slender figure, the face of a young girl, with a slightly nonchalant look on her face...
+金蜜儿：棕头发，绿眼睛，身材纤细一些，少女模样，脸上或许得再带一点儿冷淡的感觉……
+
+Campus Security: Time is up, please leave the room now.
+校内警卫：探视时间已经到了，请退出房间。
+
+Jessica: Looks like we can only watch more "TV" together next time, Jennifer ... I gotta go.
+洁西卡：看起来我们只能下次再一起看“电视”了，珍妮弗……我得走了。
+
+Blonney: Fine, we will continue next time. Wait, no, wait a minute... Brown hair, green eyes, slender figure, isn't it you?
+金蜜儿：好吧，我们下次再……等等，不，等等——棕头发、绿眼睛、纤细身材的少女不就是你吗！
+
+Jessica: Me?
+洁西卡：我？
+
+Blonney: It's you! You have the brown hair and the green eyes, and a pretty small face!
+金蜜儿：你！就是你！你有棕头发和绿眼睛，也有一张漂亮的小脸！
+
+Blonney: You are how I get the idea of this movie, you were heavily involved in the creation process. There's no one better than you to play the part!
+金蜜儿：我的电影是从你身上开始构思的，它和你有关，让你来拍一定更合适！
+
+Jessica: Fabulous! Jennifer, you mean ... I get to be your protagonist?! That's GREAT!
+洁西卡：珍妮弗，你是说……我还能做你的女主角吗！这真是太好了！
+
+Campus Security: Enough chatting, ladies. Please end your conversation and leave the room now.
+校内警卫：探视时间已经到了，小姐们。请停止交流，退出房间。
+
+Blonney: Hey! Don't interrupt us!
+金蜜儿：嘿！别打断我们说话！
+
+Blonney: ... Jessica, don't worry, you will still be my lead actress!
+金蜜儿：……洁西卡，别担心，你还是我的女主角！
+
+Blonney: I'll come back for you in a little while. For now, let's call it a day, okay?
+金蜜儿：再过不久我还会过来找你的，今天我们就先到这里，好吗？
+
+Jessica: Okay. I'll be waiting for you!
+洁西卡：我明白啦，我会等你再来的！
+
+30  洁西卡玩法故事【金蜜儿】2.1
+
+Blonney: Come, look at this.
+金蜜儿：来，看看这个。
+
+Jessica: Jennifer, your face. You don't look ... well.
+Did you take some purple or yellow herbs? Or did you just not get enough sleep?
+洁西卡：珍妮弗，你的脸色看起来……不大好。
+你吃了紫色或是黄色的草药吗？还是没有睡足够久的觉？
+
+Blonney: Umm. What's wrong? My face? What ... *yawns* ... what about it?
+金蜜儿：我的脸？怎么……哈啊……怎么了？
+
+Jessica: There are two dark arches below your eyes. You look just like my critter friend who took that strange herb...
+洁西卡：你的眼睛下面有两个黑黑的半圆形，就像是我的魔精朋友吃了奇怪草药之后的模样……
+
+Blonney: ...These are just dark circles around the eyes.
+金蜜儿：……我想这是黑眼圈。
+
+Blonney: I haven't slept well for two or three nights. Need at least five spas and fifteen beauty sleeps to repair my skin.
+金蜜儿：因为我已经连续两三天没好好睡觉了……估计至少得做五次SPA和睡十五次美容觉，才能让我的皮肤恢复如初。
+
+Blonney: But this is not important ... at least not for now.
+金蜜儿：但这不重要……至少现在不重要。
+
+The young girl with blonde hair, about to doze off in any minute, supports her head with one hand, and taps on the script drafts with the other.
+年轻金发姑娘瞌睡不断，摇摇晃晃地撑着脑袋，用手在稿纸上点了点。
+
+Blonney: The script is finally taking shape. I wanna talk to you about how the story should unfold ... I'm kinda lost at the moment.
+金蜜儿：我的剧本已经初具雏形了，我想和你聊聊它的走向……我有点不知道该怎么写下去了。
+
+Jessica: Your script ... Like the one we used to play?
+洁西卡：剧本……就像是之前我们演的那种剧本吗？
+
+Blonney: Sort of, but I've spent more time on this one, so it's definitely better.
+金蜜儿：算是，不过比那个更用心，也更好看。
+
+Blonney: This story was inspired by our last conversation. A story where the girl protagonist is in fact the most horrific monster.
+金蜜儿：上次我们的对话给了我启发，我写了一个“女主角”正是“最可怕的怪物”的故事。
+
+Blonney: But ... it won't make sense. Why would a monster be willing to stay in a boarding school?
+金蜜儿：但……我不明白，为什么怪物会乖乖在寄宿学院生活呢？
+
+31  洁西卡玩法故事【金蜜儿】2.2
+
+Jessica: Oh ... I see.
+洁西卡：哦……我明白了。
+
+Jessica: You don't know how to continue with the story. I know what I can do to help.
+洁西卡：你写不下去这个故事了，我知道如何处理那些写不完的故事——
+
+Blonney: Wha- ....
+金蜜儿：什……
+
+Blonney: Hey! Je-Jessica! It's not edible!
+金蜜儿：嘿——洁，洁西卡！这不是吃的！
+
+Blonney: Bad girl! Spit it out!
+金蜜儿：坏孩子！吐出来！
+
+32  洁西卡玩法故事【金蜜儿】2.3
+
+Jessica: Well ... Maybe the soup is good there?
+洁西卡：嗯……也许是因为这里的汤很好喝？
+
+Blonney: Good. You mean good food. Good. Keep going.
+金蜜儿：伙食优秀？嗯……很好，接着说。
+
+Jessica: Very funny. There are also people and things in the school, and they are interesting, great fun!
+洁西卡：学校里有其他的人和东西，他们很有意思，很好玩！
+
+Blonney: What? That is, social interactions ... Wait, social? Why would such a powerful monster have the need to socialize?
+金蜜儿：社交价值……社交？那么强大的“怪物”也需要社交吗？
+
+Jessica: Social! I've "learned" that word from the game!
+洁西卡：社交！这个词我从游戏中“学习”到过！
+
+Jessica: My smileless friend said it's an important part of human society, but also what I'm doing worst at. I must work hard to "learn" it so people will like me.
+洁西卡：不爱笑的朋友说这是人类社会中重要的一环，也是我最为薄弱的地方，我需要好好地“学习”它才能得到大家的喜欢。
+
+Jessica: Otherwise I'll be nothing but a "freak". She said that's why I don't have any friends.
+洁西卡：不然的话，我就是一个“怪胎”了。她说正是因此，我才一个好朋友都没有的。
+
+Blonney: ...
+金蜜儿：……
+
+Blonney: Your smileless friend? Who is that?
+金蜜儿：不爱笑的朋友？那是谁？
+
+Jessica: Who's that? Just a smileless friend. She calls herself "Instructor."
+洁西卡：嗯？就是不爱笑的朋友，一位自称“教员”的朋友。
+
+Blonney: Don't listen to that bullsh- ... *clears throat* what she said.
+金蜜儿：别听她放——嗯，咳……别听她胡说。
+
+Jessica: Bull ... What?
+洁西卡：放……什么？
+
+Blonney: Nothing, don't pick up those words!
+金蜜儿：没什么，别学这个！
+
+Blonney puts on a face as serious as she possibly can, and puts away the notebook and the pen in her hand.
+金蜜儿尽量严肃地板起脸，收起手中的本子与圆珠笔。
+
+Blonney: Don't take her words seriously, you are not some freak. Even ... even if you are, you are a freak that has friends.
+金蜜儿：但也别听她的话，你不是什么怪胎。就……就算你是，你也已经有朋友了。
+
+Blonney: Vertin, Ms. Tooth Fairy, and me ... we are all your friends, understand?
+金蜜儿：我、维尔汀、牙仙女士，我想我们都是你的朋友，知道了吗？
+
+Jessica: What? I'm your friend already?
+洁西卡：啊！我是你的朋友了吗？
+
+Blonney: Of course, since the beginning of everything. I only give names to my favorite friends, Jessica.
+金蜜儿：当然，早就是了。我只会为我喜欢的朋友取名字，洁西卡。
+
+33  洁西卡玩法故事【牙仙】3.1
+
+Tooth Fairy: Watch out!
+牙仙：当心！
+
+Tooth Fairy: Are you hurt?
+牙仙：有没有伤到哪里？
+
+Jessica: No, I'm fine. It's much bigger here! It feels so nice to run and jump without constraint.
+洁西卡：不，完全没有。这里的地方大多了！可以完全伸展开肢体的感觉真好。
+
+Tooth Fairy: Looks like indoor trainings are far from enough for you... I should have applied for an outing.
+牙仙：封闭式训练场对你来说还是过于保守了……我应该为你申请外出许可的。
+
+Tooth Fairy: You have very good stamina.
+牙仙：你的体能看起来相当不错。
+
+Jessica: What is stamina?
+洁西卡：什么是体能？
+
+Tooth Fairy: It means... you can jump high, run for long distance, and almost never feel tired after playing for such a long time.
+牙仙：就是……跳得高，跑得久，玩这么长时间都不会疲倦。
+
+Jessica: Why? I don't get it. Why would anyone get tired from playing? I had so much fun in every meeting with you.
+洁西卡：真奇怪，为什么会因为玩耍而疲倦呢？每次和你见面都会有有意思的东西呀。
+
+Jessica: I like you, Tooth Fairy!
+洁西卡：我喜欢牙仙！
+
+Tooth Fairy: I'm glad to see you enjoying this.
+牙仙：你高兴的话就太好了。
+
+Tooth Fairy: These closed-off trainings must be burdensome to you, but as long as you keep working on them... Vertin will sort out the rest for you.
+牙仙：封闭课程对你应该有些难度，但只要坚持过去……剩下的维尔汀会解决的。
+
+Jessica: I know! She seems trustworthy.
+洁西卡：嗯嗯！她看起来很值得信任。
+
+Tooth Fairy: She's very reliable... Are you feeling a bit tired?
+牙仙：她很可靠……现在你感到疲倦了吗？
+
+34  洁西卡玩法故事【牙仙】3.2
+
+Jessica: Yeah, a little!
+洁西卡：嗯，我的确有一点点累了！
+
+Jessica: Maybe we should take a break and play a different game!
+洁西卡：或许我们应该休息一会儿，换一个游戏玩！
+
+Tooth Fairy: Perhaps next time.
+牙仙：或许下次吧。
+
+Tooth Fairy: Your heart rate is higher than usual. We should rest.
+牙仙：你的心率高于平时许多，我们应该休息了。
+
+35  洁西卡玩法故事【牙仙】3.3
+
+Jessica: Not at all.
+洁西卡：完全没有。
+
+Jessica: I can jump over a few more stumps like this!
+洁西卡：这样的木头我还能再跳过去好几个！
+
+Tooth Fairy: Your physical strength is way beyond my expectation. In a good way, of course. This is a satisfying result. Now, we only have one more test to do.
+牙仙：你的身体素质出乎我的预料。当然，是好的方向上。这是个令人高兴的结果。现在，我们就差最后一次检查了。
+
+Jessica: Will that be our last meeting?
+洁西卡：下次就是我们最后一次见面了吗？
+
+Tooth Fairy: Temporarily, yes. Once you have completed the curriculum, we should be able to see each other more often.
+牙仙：是暂时的，等你完成课程之后，我们就能经常见面了。
+
+Jessica: Wow! GREAT!
+洁西卡：哇！那太好了！
+
+36  洁西卡玩法故事【玛蒂尔达】1.1
+
+Jessica: ♪～♪～
+洁西卡：♪～♪～
+
+???: Hey, you!
+？？？：嘿，你！
+
+Jessica: ♪～♪～
+洁西卡：♪～♪～
+
+???: Are you kid...
+？？？：什……
+
+???: Hey! Can't you hear me?!
+？？？：喂！你没听到吗！
+
+Jessica: Hmm? Who are you?
+洁西卡：嗯？你是谁？
+
+A hasty shade of gold sweeps past her.
+洁西卡的眼前闪过一抹亮眼的金色。
+
+The next moment, something bumps into her.
+有什么东西撞了上来。
+
+Jessica: Whoa!
+洁西卡：啊——！
+
+Matilda: Ah, ahem... so you...you are new here.
+玛蒂尔达：咳，咳咳……你，你就是这里的新学生吗？
+
+Jessica: Yes, I'm "studying" here.
+洁西卡：对，我是在这里“学习”。
+
+Jessica: Are you a new friend? I've never seen you before. You must have come here after me.
+洁西卡：你是这里的新朋友吗？我从没见过你，你是在我之后来到这儿的吧。
+
+Matilda: Ha, as if Ms. Bouanich would be the junior to a little deer!
+玛蒂尔达：哼，布翁尼小姐怎么可能是你这样一头鹿儿的后辈！
+
+Matilda: But... You are the person that Sonetto keeps coming back to visit. You! What's so special about you...
+玛蒂尔达：但……就是你让十四行诗围着你团团打转，你到底有什么特殊的……
+
+37  洁西卡玩法故事【玛蒂尔达】1.2
+
+Jessica: Hyah!
+洁西卡：嘿啊！
+
+Matilda: Wah!
+玛蒂尔达：哇啊！
+
+Matilda: Y-You stepped on the great Ma-Matilda with your hoof! How dare you!
+玛蒂尔达：你——你居然用鹿蹄子踩伟大的玛……玛蒂尔达！真是没礼貌！
+
+Jessica: Hyaah!
+洁西卡：嘿啊啊！
+
+Matilda: Ouch! That hurts!
+玛蒂尔达：呀！好疼！
+
+38  洁西卡玩法故事【玛蒂尔达】1.3
+
+Jessica: Hmm, did you get hurt just now? I don't understand any of your words ...
+洁西卡：奇怪，你有撞到哪里吗？你说的话，我怎么一句也听不明白……
+
+Jessica: I know Sonetto, but she never mentioned a friend like you.
+洁西卡：我知道十四行诗，不过她从没提到过你这样的朋友。
+
+Matilda: What?!
+玛蒂尔达：什么？！
+
+Matilda: Listen! I'm Matilda Bouanich, the Top 3 student in school, the monitor assistant, and the speaker of graceful French.
+玛蒂尔达：听……听好了，我叫玛蒂尔达！是校前三名的优秀学生，纪律协助教员，优美法语的使用者——玛蒂尔达·布翁尼！
+
+Jessica: Okay, Matilda.
+洁西卡：好的，玛蒂尔达。
+
+Jessica: Are you also here to listen to the stories told by those smileless people?
+洁西卡：你也要在这里听那些不爱笑的家伙讲故事吗？
+
+Matilda: Stories? No! How is it possible that I would be locked in here with you people!
+玛蒂尔达：讲故事？不！我怎么会被关到教管学校！
+
+Matilda: As a matter of fact, I have come to instruct you.
+玛蒂尔达：嗯～实际上，我是作为你的指导者而来～
+
+Matilda: Ahem, listen!
+玛蒂尔达：接下来的课程就由我来教导你！
+
+Matilda: The best student could only be me. I will definitely …
+玛蒂尔达：我一定比十四行诗……更能胜任这份工作！我一定会成为第一名的！
+
+Jessica: Oh! So you're my new friend then!
+洁西卡：哦！那你就是我的新朋友了！
+
+Matilda: Friend?! No way ... whoa!!
+玛蒂尔达：朋友？才不……哇啊！
+
+Matilda: Let, let me down! Gosh, I'm not used to this height! Put me down, now!!
+玛蒂尔达：天啊，这儿好高——快，快放我下来！
+
+39  洁西卡玩法故事【食堂03】3.1
+
+Jessica: The smell ... It's the delicious soup again!
+洁西卡：这个香味……今天又是好喝的汤！
+
+Jessica: More, more ... Hmm?
+洁西卡：多来点多来点……嗯？
+
+40  洁西卡玩法故事【金蜜儿】5.1
+
+Jessica: Jennifer, hey!
+洁西卡：你来了，珍妮弗！
+
+Jessica: You're much earlier this time. Got less work on the movie recently?
+洁西卡：你比之前来得早许多，现在你的电影没那么忙了吗？
+
+Blonney: Of course! I have postponed the filming, and you -- my leading actress, please pass these exams and leave this place as soon as possible. My team and I can't put off the dates for too long, understand?
+金蜜儿：当然了，我将拍摄时间后延了，但你——女主角小姐，你最好快点通过考试，快点毕业，我和我的团队可不能等太久，知道了吗？
+
+Jessica: Okay. II'll work hard on those books!
+洁西卡：好的，我会努力看那些书！
+
+Jessica: I'll win the next game, um ... I mean, I'll at least get a B!
+洁西卡：下一次游戏我会赢的，不……至少，至少得到B级！
+
+Blonney: Ha... You are funny.
+金蜜儿：哈——真好玩儿。
+
+Blonney: Don't push yourself too hard. If you become too smart, this blondie fool won't be able to pull tricks on you anymore.
+金蜜儿：也记得别太用功了，如果你变成“聪明又机灵”的小鹿，我这样脑袋空空的金发姑娘可就骗不住你了。
+
+Blonney: Come, try a few poses for me. I will take a couple of short videos of you for my sponsors so that they will know why I insist on waiting for you.
+金蜜儿：来，摆几个造型。我先给你拍摄一些短镜头，拿回去糊弄糊弄我的投资商，告诉他我们的等待有多值得。
+
+41  洁西卡玩法故事【食堂03】3.2
+
+Jessica: What's going on? My stomach ... hurts a bit ...
+洁西卡：怎么回事？我的肚子……有点疼……
+
+Jessica: Feels like I just had expired poisonous mushrooms ...
+洁西卡：就像是吃了过期的毒蘑菇一样……
+
+Jessica: I think I need some white mycelium. I always feel better after eating that ...
+洁西卡：我想我得去找点儿白色的菌丝吃，我吃了那个总会感觉好很多……
+
+42  洁西卡玩法故事【食堂03】3.3
+
+She bows and takes a closer look at the pot. There are strands of dark brown hair and a couple of footprints left next to the soup pot.
+弯下身子，仔细观察，汤锅旁留有几个脚印与一小撮深褐色的绒毛。
+
+Jessica: Is this ... hair?
+洁西卡：这是……毛发？
+
+43  洁西卡玩法故事【图书馆02】8.1
+
+Librarian: Hello, is there anything particular you are looking for?
+管理员：你好，你在找什么？
+
+The deer girl walks among the shelves.
+眼前的鹿女孩在书架间来回穿梭着。
+
+Jessica: ...
+洁西卡：……
+
+Librarian: Principle of Arcane Skills? Or Boyo Crittish?
+管理员：是这本《神秘术理论》，还是这本《啵呦啵呦魔精语课堂》？
+
+Librarian: Or... Are you here for that "Man in Books"?
+管理员：难道说……你也是听说了那个灵验的“书中人”才来的？
+
+44  洁西卡玩法故事【图书馆02】8.2
+
+Jessica: I'm here for Coo Coo Ga Ga. Please help me find it.
+洁西卡：我是为了《咕噜咕噜嘎嘎嘎》来的，请帮我找找吧。
+
+Librarian: I don't think we have that book here, Ms. ...
+管理员：我想我们这儿没有那本书，小姐……
+
+Jessica: *sobs*
+洁西卡：呜呜……
+
+Librarian: O-Oh! I mean ... We have an extensive collection, so I'm sure I can find you the book you're looking for. Please wait a moment!
+管理员：不……不是的！我们的藏书量很广，我一定能为你找到你想要的书的，请稍等！
+
+Jessica: Heh heh.
+洁西卡：嘿嘿。
+
+Principle of Arcane Skills, Boyo Crittish, The Witch's Crucible: An Introduction to Potions, Making an Americano with Bananas, The Book of Political Jokes ...
+《神秘术理论》、《啵呦啵呦魔精语课堂》、《女巫的坩埚：魔药学入门》、《如何用香蕉烹饪美式咖啡》、《政治笑话合集》……
+
+The deer girl has found a better way to get books than borrowing them.
+小鹿姑娘找到了比借书更好的获取书的方法。
+
+45  洁西卡玩法故事【图书馆02】8.3
+
+Jessica: What is "Man in Books"?
+洁西卡：“书中人”是什么？
+
+Librarian: Oh, em, some random rumors among the students...
+管理员：噢，呃，就是一些学生间的传言……
+
+Librarian: You know, "Pray to the man in Books then you will pass the exam with full marks"... That kind of childish wish.
+管理员：你知道的，“向书中人祈祷就能百分百通过考试”之类的……小孩子的愿望。
+
+Librarian: But since you have no idea what I am talking about, then please stay quiet! And help yourself.
+管理员：不过既然你不知道……那……保持安静！然后，请你自便。
+
+46  洁西卡玩法故事【厕所01】12.1
+
+Jessica: The sign says "toilet" ... So this is what a toilet is like? Doesn't seem anything like those in stories ...
+洁西卡：这里的牌子挂着“厕所”……原来厕所是这样的地方吗？和故事里描述的不大一样呀……
+
+47  洁西卡玩法故事【厕所01】12.2
+
+Jessica: Hmm ... Maybe this is what a "washroom" looks like in this school ...
+洁西卡：唔……或者说，这就是这所学校里的“厕所”……
+
+Jessica: It's not much different from my room, just darker.
+洁西卡：这儿和我的房间没什么区别，只是黑一些。
+
+Jessica: Does that mean I can use my room as a "washroom" at night?
+洁西卡：那到了晚上，我也可以直接在房间里上厕所吗？
+
+48  洁西卡玩法故事【厕所01】12.3
+
+Jessica: Hmm ... Let me take another tour ...
+洁西卡：嗯……让我再看看……
+
+She steps across the puddles, wandering around in this empty space beneath the ground. She has found nothing.
+洁西卡的蹄子趟过小水洼，在空荡荡的地下游荡了一圈，并没有任何收获。
+
+Jessica: Thank goodness I don't have to use it. It's even dirtier than Green Lake.
+洁西卡：还好我不需要在这儿上厕所，这里比绿湖还不如呢。
+
+49  洁西卡玩法故事【教室02】17.1
+
+An empty, dusty classroom. It hasn't been used for a while.
+空无一人的教室内满是灰尘，显然已久未使用。
+
+Jessica: I like the sunshine here, but it's too quiet. There are no friends around.
+洁西卡：这里的阳光真好。就是太安静了，没有朋友。
+
+50  洁西卡玩法故事【教室02】17.2
+
+Jessica: Well ... I don't like such a quiet place.
+洁西卡：嗯……我可不喜欢这么安静的地方。
+
+Jessica: Even though my friends aren't here, I can still make a lot of noise on my own!
+洁西卡：虽然没有朋友，但我也可以发出很大的声音！
+
+Jessica: Come on! Let's roar! Rooooar!
+洁西卡：来吧！让我吼叫吧！嗷嗷哦！
+
+51  洁西卡玩法故事【金蜜儿】5.2
+
+Blonney: Yes...! Very good, now look into the camera...
+金蜜儿：嗯——！好姿势，对，再看看镜头……
+
+Blonney: Good ... Everyone loves a cute, innocent girl ...
+金蜜儿：是的……没人不喜欢文静可爱的小姑娘……
+
+Blonney: But it still feels like something is missing ...
+金蜜儿：不过，总感觉还是差点儿什么……
+
+52  洁西卡玩法故事【教室02】17.3
+
+The fawn spins around, the tip of her tail brushing against a dusty chair friend with an odd bulge.
+小鹿儿转了个身，尾巴尖儿蹭过了一位沾满了灰尘的、带有奇异凸起的椅子朋友。
+
+Chair: ...!
+椅子：……！
+
+Jessica: Ouch!
+洁西卡：痛！
+
+Chair: ...
+椅子：……
+
+Jessica: This chair ... bites?
+洁西卡：这椅子……会咬人？
+
+53  洁西卡玩法故事【禁闭室01】25.1
+
+Jessica: Wow! There really are houses here.
+洁西卡：哦！这里真的有一排小屋。
+
+Jessica: Was Vertin in here before? Is it one of the interesting places she talked about?
+洁西卡：维尔汀在这里面待过吗？这里也是她说的那些有趣的地方之一？
+
+Jessica: Hmm? Is someone in here?
+洁西卡：嗯？里面有人？
+
+Boy's Voice: Hey! Anyone there? Anyone hear me? I heard your footsteps... Two people, maybe?
+男孩的声音：嘿！外面有人吗？听得到我说话吗？我听到脚步声了！两个人？
+
+Boy's Voice: Oh, please... I'm so bored in the guardhouse...
+男孩的声音：哦——拜托了，禁闭室太无聊了……
+
+Boy's Voice: Please stay and talk to me, pleeeease!
+男孩的声音：你就陪我聊聊天吧，求求你了——
+
+54  洁西卡玩法故事【禁闭室01】25.2
+
+Jessica: Huh ... The black door is talking.
+洁西卡：嗯……黑洞洞的门在说话。
+
+Jessica: Like my friends in the cave.
+洁西卡：就像是我洞穴里的那些朋友。
+
+Jessica: They always made noise at first. Maybe this one is the same. I should leave him here to shout until he loses his voice.
+洁西卡：刚开始他们总喜欢吵闹。或许这个人也一样，我得出去散散心，等他的嗓子喊到发不出声再回来～
+
+Her footsteps sound crisp and clear as she trots away.
+蹄声清脆，渐行渐远。
+
+55  洁西卡玩法故事【禁闭室01】25.3
+
+Boy's Voice: *sobs* Is anyone else here? I don't want to stay alone anymore!
+男孩的声音：呜……难道这儿只有我一个人吗？我不想一个人待着了——！
+
+Jessica: ...
+洁西卡：……
+
+Jessica: I can hear you.
+洁西卡：我听得到。
+
+Boy's Voice: Oh! Awesome! Hmm? Just you alone? Ah, whatever...
+男孩的声音：噢！太好了！嗯？只有一个人吗？不过无所谓……
+
+Boy's Voice: Talk to me. Tell me anything!
+男孩的声音：陪我聊聊天吧！
+
+Jessica: Huh? Can't you come out of it?
+洁西卡：你不能出来吗？
+
+Boy's Voice: Are you new here? Of course not.
+男孩的声音：你是新来的？当然不可能。
+
+Jessica: Alright. What would you like to know?
+洁西卡：那好吧。你想聊点什么？
+
+Boy's Voice: Oh yes! There are sooo many things I want to talk about ...!
+男孩的声音：哦，太好了，我想聊的事儿可多了……！
+
+Boy's Voice: Let me see where to start ...
+男孩的声音：让我慢慢和你说……
+
+56  洁西卡玩法故事【常驻-教育】3
+
+Instructor: Ms. Jessica, please sit properly.
+训导教员：洁西卡小姐，请端正坐姿。
+
+Instructor: The class will begin shortly.
+训导教员：我们的授课马上就要开始了。
+
+Jessica: Oh ... Another boring game ...
+洁西卡：嗯……又是无聊的游戏……
+
+Jessica: I must do something to make it fun ...
+洁西卡：我得想办法让它变得有趣一点儿……
+
+Spent some time in the classroom.
+在教室内度过了一段时间。
+
+57  洁西卡玩法故事【常驻-教育】4
+
+The sound of hoof steps goes into the classroom.
+一串蹄声踏入教室。
+
+Jessica: I'm ready!
+洁西卡：我准备好啦！
+
+Jessica: Hmm?
+洁西卡：嗯？
+
+Jessica: ... Is the smileless friend late today?
+洁西卡：……不爱笑的朋友今天迟到了吗？
+
+Instructor: Ahem ... Get ready for class.
+训导教员：咳咳——准备上课。
+
+Jessica: Hello, smileless friend.
+洁西卡：你好，不爱笑的朋友～
+
+After a while in the classroom.
+在教室内度过了一段时间。
+
+58  洁西卡玩法故事【常驻-教育】5
+
+Beep: CO-092146, Student Jessica.
+提示音：C0-092146，学员洁西卡。
+
+Beep: Please make sure you are sitting properly and prepare yourself for class.
+提示音：请确认您的身体姿态正常，并已准备好进入教学状态。
+
+Jessica: Hm? But ... they all sit on their chairs like this in the book.
+洁西卡：嗯？可是……我看到书里的大家都是这么坐椅子的呀？
+
+Instructor: Ms. Jessica! Please return to your seat!
+训导教员：洁西卡小姐！请返回到你的专属座位上去！
+
+Instructor: This chair is too small for you!
+训导教员：这张椅子太小了，它无法容纳你的身体！
+
+As she stands up, the narrow chair remains stuck to the deer's body.
+站起身子，窄小的单人椅卡在了小鹿的身体上。
+
+Jessica: Oh, looks like the chair wants to be my friend, too!
+洁西卡：哎呀，看来椅子也想和我做朋友呀！
+
+Sitting or standing, she has spent some time in the classroom.
+无论如何，她在教室内度过了一段时间。
+
+59  洁西卡玩法故事【金蜜儿】5.3
+
+Blonney: Whoa! I almost got chills. It gives me the creeps. You were born a horror movie star.
+金蜜儿：哇哦……我都要起鸡皮疙瘩了，你真是生下来就适合做恐怖片女主角这一行啊。
+
+Blonney: You should show up more in my movies, the future star of Hollywood, Ms. Deer of the Green Lake Campsite.
+金蜜儿：以后多来我的电影里走走吧，好莱坞的明日之星——来自绿湖营地的小鹿小姐。
+
+60  洁西卡玩法故事【牙仙】1
+
+Tooth Fairy: Hello, Ms. Jessica. Allow me to properly introduce myself. I'm Tooth Fairy, one of the medical members of SPDM.
+牙仙：你好，洁西卡小姐。请容我正式地自我介绍一下——我叫牙仙，是基金会第一防线学校的医疗成员。
+
+Jessica: Are you here to play with me?
+洁西卡：你是来陪我玩儿的吗？
+
+Tooth Fairy: I will try to make the process less tedious, though my task is not to play with you.
+牙仙：实际上，我接到的任务并非如此。不过我会尽量使过程不那么枯燥。
+
+Tooth Fairy: The Foundation has sent me to run a physical examination for you. This shouldn't take long.
+牙仙：基金会派我来为你执行身体检查，这不会耽误你太多时间。
+
+Jessica: What is a physical examination?
+洁西卡：什么是身体检查？
+
+Tooth Fairy: Considering your current stage of development, it would take us some time to adequately explain the term to you. You may take it as a less interesting game... Like "Do As I Say" .
+牙仙：基于你目前的情况，想解释清楚会有些难度。你可以把它当成一场无趣的游戏——像是“我说你做”那一类的互动游戏。
+
+Jessica: Oh ... Is it like what those people in white did in Zeno?
+洁西卡：啊……和那些穿着白衣服的、芝诺的人一样，对吗？
+
+Tooth Fairy: No ... I think our game will be much gentler.
+牙仙：不……我想这要温和许多。
+
+Tooth Fairy: If you are willing to cooperate ... maybe I can prepare something more interesting for our next appointment.
+牙仙：如果你能配合的话……下次到访的时候，我或许可以为你准备些更有趣的东西。
+
+Jessica: Really?
+洁西卡：真的吗？
+
+Tooth Fairy: I will try my best.
+牙仙：我会尽可能地争取。
+
+Jessica: So what should I do now? Are you giving me pills as well?
+洁西卡：那我需要做什么呢，你也要喂我吃药片儿吗？
+
+Tooth Fairy: Before we get to that, please lower your body and squat for me, so that I can easily lay my hands on you... That's right, thank you, Ms. Jessica.
+牙仙：在此之前，先请你蹲下，让我更好触碰到你的身体……很好，感谢你的配合，洁西卡小姐。
+
+Tooth Fairy: Now, follow me. Say "ah"...
+牙仙：来，和我说，啊——
+
+Jessica: Ahhh.
+洁西卡：啊——
+
+Tooth Fairy: Good... Very good... You have very beautiful teeth.
+牙仙：很好……非常好……你的牙齿很漂亮。
+
+Jessica: Eau ... iul ...?
+(Beau ... tiful ...?)
+洁西卡：飘哦……俩……？<漂……亮……？>
+
+Tooth Fairy: Exactly. This means you are in good health.
+牙仙：是的，这代表你很健康。
+
+Jessica: Is the "physical examination" over?
+洁西卡：“身体检查”结束了吗？
+
+Tooth Fairy: If you are asking about this particular component of the test, yes. But there will be more health assessments in the near future, which means we will see each other again.
+牙仙：如果你问的是这一项检查的话，是的。但还有其余的检查，我们还会再次见面的。
+
+Jessica: Then I hope the next one is more fun, like catching a giant, furry friend!
+洁西卡：那我希望下次会比这次更有趣，像是抓一些很大的毛茸茸朋友之类的！
+
+Tooth Fairy: I'm afraid that may be slightly challenging. Please don't get your hope up because I would hate to disappoint you. Till then.
+牙仙：那恐怕有些难度，但愿你对此没有过高的期待。那么，我们下次再见。
+
+61  洁西卡玩法故事【牙仙】2
+
+Tooth Fairy: Hello, Ms. Jessica.
+牙仙：你好，洁西卡小姐。
+
+Jessica: You really ARE here again.
+洁西卡：你真的来了。
+
+Jessica: I love it! You keep your promise.
+洁西卡：你说话算话，我很喜欢！
+
+Tooth Fairy: I am so glad that I didn't let you down. You were very cooperative in our last meeting, and the result was also pleasing.
+牙仙：我很高兴没让你失望。上次的检查你配合得非常好，结果也非常理想。
+
+Tooth Fairy: As I promised to you earlier, I have prepared some gifts for you, so that we can try out a new game during the coming test.
+牙仙：像我答应你的，这次我们要换些别的游戏，我也为此准备了礼物。
+
+Tooth Fairy: I should clarify beforehand that this is still a test, not a game. We need to give you an evaluation on your mental stability.
+牙仙：但我还是要说明，这仍旧是测试，是有关你的精神稳定程度的评估。
+
+Tooth Fairy: Please relax, and don't stress yourself. Take this as a special story time—I remember you are very fond of stories.
+牙仙：我希望你不要有太多压力，把这当作特殊的故事时间——我记得你喜欢故事。
+
+Jessica: What can I offer you? How about a story? You know, like the exciting ones Jennifer told!
+洁西卡：我能给你什么呢？一个故事怎么样？就像珍妮弗那样让人感到兴奋的那种！
+
+Tooth Fairy: Tell me about your dreams. The ones you have repeatedly described to us.
+牙仙：我希望你可以给我讲讲你的梦境。我记得……你曾多次向我们讲述过那些梦境。
+
+Jessica: Yes, and I always dream the same dream these days.
+洁西卡：是的，我最近也经常重复着那样的梦境。
+
+Tooth Fairy: Always?
+牙仙：经常？
+
+Jessica: I dreamed of myself wandering in the woods ...
+洁西卡：我经常梦见自己在森林里漫步……
+
+Tooth Fairy: Is it the same woods by Green Lake?
+牙仙：是绿湖的那片森林吗？
+
+Jessica: No, no. It was brighter, with a gentler breeze, and the air smelled like acorns. The sound of a babbling brook came from afar, along with birds' chirping. It was like a song.
+洁西卡：不，不是。梦里的森林更明亮，风也更温柔，空气中有橡子的清新气味。溪流声与鸟鸣声会从远处传来，就像一支歌。
+
+Tooth Fairy: It sounds like a beautiful place... Have you ever been there?
+牙仙：听起来是个很美的地方……你曾经去过那样的地方吗？
+
+Jessica: I don't know.
+洁西卡：我不清楚。
+
+Jessica: But it felt familiar in the dream, as if I was meant to be there.
+洁西卡：但梦中的我很熟悉，好像我天生就该在那里一样。
+
+Tooth Fairy: ...I see. Then perhaps I have brought the right gift with me.
+牙仙：……我明白了。或许，我今天选择的礼物是正确的。
+
+Jessica: This is …?
+洁西卡：这是什么？
+
+Tooth Fairy: An instrument, people call it "The Tin Whistle".
+牙仙：一种乐器，人们通常把它称作爱尔兰哨笛。
+
+Tooth Fairy: You will love its sound.
+牙仙：你会喜欢它的声音的。
+
+62  洁西卡玩法故事【牙仙】4
+
+Tooth Fairy: Stunning ... This is a ... Maltese tiger.
+牙仙：真是惊人……这是一只……马耳他虎……
+
+Jessica: So, do I look real?
+洁西卡：怎么样？像吗？
+
+Tooth Fairy: I have never seen one of those blue tigers with my own eyes... Your arcane skill is fascinating. May I have a look at the teeth in your current form?
+牙仙：我并未见过真正的蓝虎……这神秘学能力真奇妙。可以让我看看你的牙齿吗？
+
+Jessica: Ahhh.
+洁西卡：啊——
+
+Tooth Fairy: So that's what they look like... it is worthwhile to get you out of the school.
+牙仙：原来它们的牙齿是这样的……看来这次户外申请很值得。
+
+Jessica: Check this out!
+洁西卡：还可以这样！
+
+Tooth Fairy: Interesting, very interesting. A Globster …
+牙仙：格罗布斯特……有趣，很有趣。
+
+Jessica: Ahhh... o u ae a een inere in ee?
+(Are you interested in teeth?)
+洁西卡：啊——里夺诶啊吃很噶心嗯趣吗？<你对牙齿很感兴趣吗？>
+
+Tooth Fairy: I'm afraid that is my only hobby. The more bizarre and strange the teeth look, the more I feel fond of them.
+牙仙：收集牙齿恐怕是我唯一的爱好了。越奇怪，越特殊的牙齿，我越喜欢。
+
+Tooth Fairy: One of the reasons I traveled around the world was to collect different types of teeth.
+牙仙：我去各地冒险就是为了收藏各种各样的牙齿。
+
+Jessica: I see. Thank you for taking me to the forest!
+I thought I had to wait a much longer time to get some fresh air!
+洁西卡：原来是这样。谢谢你带我到森林里玩儿！我以为我要很久之后才能呼吸到新鲜空气了！
+
+Tooth Fairy: This is, in fact, another test of your arcanum stability. So it was beneficial to both of us.
+牙仙：其实这也是一场测试，有关你的神秘术稳定性。
+
+Tooth Fairy: Outside of Green Lake, your abilities have declined, making it difficult to maintain the transformation stably ... I have documented it all.
+牙仙：在绿湖之外，你的能力有所衰退，难以长期维持变化，稳定性明显下降……这些我都已经记录下来了。
+
+Tooth Fairy: The school will make adjustments to your Arcane Skill training regimen to reduce the intensity of your training.
+牙仙：这所学校会对你的神秘术训练方案进行调整，降低训练的强度。
+
+Tooth Fairy: And I ... got to see a variety of different teeth, so it was beneficial to both of us.
+牙仙：而我……也见识到了许多不同的牙齿。这是一场双赢。
+
+Tooth Fairy: Thank you, Jessica.
+牙仙：谢谢你，洁西卡。
+
+Tooth Fairy: The test is over, we still have some time before the end of today's outing.
+You may enjoy your free time now. Just remember, do not walk out of my sight.
+牙仙：测试结束，距离外出的截止时间还有一阵儿。
+你可以自由地玩耍了。只是记得，不要离开我的视线范围。
+
+Jessica: Wow! Tooth Fairy, you're the best!
+洁西卡：哇——！牙仙，你真好！
+
+Jessica: I will make you happy as well! I know the word for this behavior, it's called a tooth ... for a tooth!
+洁西卡：我也会让你快乐起来的！我明白这个叫什么，是报……报恩！
+
+Tooth Fairy: ...Hmm?
+牙仙：……嗯？
+
+63  洁西卡玩法故事【牙仙】5.1
+
+Jessica: ♪～♪～
+洁西卡：♪～♪～
+
+Staff Member: CO-092146, Jessica. A letter for you.
+工作人员：CO-092146，学员洁西卡，有你的信。
+
+Jessica: ...!
+洁西卡：——！
+
+64  洁西卡玩法故事【牙仙】5.2
+
+Tooth Fairy - Letter: Dear Ms. Jessica,
+Thank you for the lovely gift. Your teeth are almost the same as those of humans. I will add them to my collection. Please take good care of yourself.
+牙仙-书信：洁西卡小姐，非常感谢你的赠予。你的牙齿看起来与人类的牙齿区别并不大。我会把它放入我的收藏中，请你也注意自己的健康。
+
+Tooth Fairy - Letter: Sincerely Yours
+Tooth Fairy
+牙仙-书信：牙仙，敬上。
+
+65  洁西卡玩法故事【牙仙】5.3
+
+Tooth Fairy - Letter: Dear Ms. Jessica,
+Thank you for the generous gift.
+牙仙-书信：洁西卡小姐，非常感谢你的赠予。
+
+Tooth Fairy - Letter: It was to my surprise that your baby teeth look like this ... They are unexpectedly unique. I will cherish this special gift from you. Please take good care of yourself.
+牙仙-书信：令我意外的是，这竟然是你的乳牙……它看起来如此特殊，在我的意料之外。我一定会珍藏这份礼物，也请你注意自己的健康。
+
+Tooth Fairy - Letter: Sincerely Yours
+Tooth Fairy
+牙仙-书信：牙仙，敬上。
+
+66  洁西卡玩法故事【维尔汀】1
+
+Vertin: Okay. I see.
+维尔汀：好的，我明白了。
+
+On the other side of the door, the girl sitting in the room is fiddling with a tree branch in her hands -- most likely it was a trophy taken from the only hazel tree in the Behavior Modification School.
+门内的女孩儿正摆弄着手里的枝条，它很可能来自那棵教管学校里唯一的榛树。
+
+Jessica: ♪～♪～
+洁西卡：♪～♪～
+
+Vertin: ...
+维尔汀：……
+
+Vertin: ......
+维尔汀：…………
+
+Vertin: Jessica, I was told that you have been running around in the school behind the instructors and breaking quite a lot of stuff.
+维尔汀：洁西卡，我听说你一个人在教管学校到处乱跑，破坏了不少东西。
+
+Jessica: I don't get it. I was just trying to do some exercise.
+洁西卡：我不太明白，我只是想活动下我的身体。
+
+Vertin: Maybe we can find you another way to exercise. Something gentler.
+维尔汀：下次试试换另一种方法来活动吧，一种更温和的方法。
+
+Vertin: Acting without thinking may get you in trouble. However, if we adopt the right approach, we may smooth the problems away.
+维尔汀：盲目行动有时会造成不利的结果。选择适合的方法，能让事情变得更顺利。
+
+Jessica: Um ... The right approach? Sounds hard to understand.
+洁西卡：唔……方法？听起来很难懂。
+
+Jessica: Anyway, look, I got this branch! That was one big hazel tree!
+洁西卡：但我获得了这个枝条！看呀，那棵榛树可真大啊！
+
+Vertin: Yes. I heard this school was once deserted, and that's why these trees happily showed up in here in the first place.
+维尔汀：确实。听说这个学校曾荒废过一段时间，树木由此而生长。
+
+Vertin: Making me feel nostalgic for the good old days.
+维尔汀：这场景真是令人怀念。
+
+Jessica: ...?
+洁西卡：……？
+
+Vertin: You can walk down this hallway and turn left at the end, then turn right... All the Foundation's schools share an astonishingly similar design. I'm almost certain that I can walk from here to the office with my eyes closed.
+维尔汀：从这条走廊一直走到头，向左，再向右……基金会下属学校的地形都惊人的相似。我闭着眼睛似乎都能从这个地方走到办公室。
+
+Jessica: The office?
+洁西卡：办公室？
+
+Vertin: A room for the instructors to prepare for classes and rest.
+维尔汀：一个供教员们备课与休息的地方。
+
+Vertin: That is a lovely tiara you made from the hazel tree branches.
+维尔汀：你编的榛树花冠很好看。
+
+Jessica: You can take it! Oh, but you're already wearing a hat ... There's probably no room for it ...
+洁西卡：我可以把它送给你！啊……不过你戴着帽子了，或许你不能戴这个了……
+
+Vertin: Thank you. I will be happy to wear it. But please remember what I just told you -- don't run around in the school by yourself again.
+维尔汀：不，谢谢你的礼物，我会佩戴它的。但请记得我说的，下次不要再乱跑了。
+
+67  洁西卡玩法故事【维尔汀】2
+
+Vertin: Here.
+维尔汀：给。
+
+Jessica: What ...?
+洁西卡：这是什么？
+
+Vertin: This was Sonetto's notebook when she was in school.
+维尔汀：是十四行诗的读书笔记。
+
+Vertin: I hope you find it helpful.
+维尔汀：希望它能对你的课程成绩有所帮助。
+
+Jessica: How did you get her notes?
+洁西卡：她的笔记为什么会在你这里呢？
+
+Vertin: It's a long story.
+维尔汀：……说来话长。
+
+Vertin: Do you remember what I told you earlier, "the right approach helps you to smooth things out"?
+维尔汀：你还记不记得我说的——“方法更重要”。
+
+Jessica: Yes.
+洁西卡：我记得。
+
+Jessica: And I remember the "office" you talked about.
+洁西卡：我也记得你说的办公室。
+
+Vertin: Good.
+维尔汀：那就好。
+
+Vertin: Sonetto always takes detailed notes. In this notebook, you will find all the key points to memorize and the "approaches" to understanding the knowledge.
+维尔汀：十四行诗的笔记十分详尽。笔记内除了必要的知识点，还有如何理解那些知识点的“方法”。
+
+Vertin: These are very good methods. With this notebook, I was able to stay out of that guardhouse for a long time because of doing poorly in homeworks or exams.
+维尔汀：它们非常有效。有了它的帮助后，我在很长一段时间内没再因为成绩问题进过禁闭室……
+
+Jessica: Guardhouse?
+洁西卡：禁闭室？
+
+Vertin: A kind of punishment. If they have anything similar here ... it should be in that darkest corner behind the teaching building.
+维尔汀：一种惩罚手段。如果这里也有的话……它应该在教学楼后面那个最阴暗的小角落里。
+
+Jessica: So, you are trying to help me?
+洁西卡：所以，你这是为了帮助我？
+
+Vertin: Yes.
+维尔汀：是的。
+
+Vertin: It'd be great for us if you could successfully pass the exam.
+维尔汀：如果你能通过考试，那对我们来说是件好事。
+
+Jessica: Okay.
+洁西卡：……
+
+Jessica: I see!
+洁西卡：我明白了！
+
+Vertin: ...Good.
+维尔汀：……嗯。
+
+68  洁西卡玩法故事【维尔汀】3
+
+Jessica: Is this the key?
+洁西卡：这是钥匙吗？
+
+Vertin: Yes.
+维尔汀：是的。
+
+Vertin: I have settled a room for you in my suitcase, right next to your best friend Jennifer's room. This is the key to it.
+维尔汀：我在箱子里为你布置好了房间，就在你喜欢的珍妮弗的隔壁。这是它的钥匙。
+
+Vertin: Of course, the decoration isn't solely made by myself. Blonney, Ms. Tooth Fairy, and Sonetto ... everyone took part in preparing the room.
+维尔汀：当然，不只我，金蜜儿、牙仙、十四行诗……他们都非常积极地参与了。
+
+Jessica: What about that guy with glasses? Um, Horro ... Horropedia! He's not here?
+洁西卡：那个戴眼镜的人，恐怖……恐怖通他没有参加吗？
+
+Vertin: No. Just like you, he is not yet allowed to leave.
+维尔汀：他还没能脱身。和你一样。
+
+Jessica: Like me?
+洁西卡：和我一样？
+
+Vertin: He has been grounded for violating the regulations and being absent from duty without permission.
+维尔汀：因为违反纪律问题和擅自离岗，他经历了一段时间的禁闭。
+
+Vertin: He is going to stay in the School of Discipline and Behavior Modification for a while before he's permitted to return to duty again.
+维尔汀：现在，他还要在行为教管矫正学校待上一小段时间，才能重获自由。
+
+Jessica: School of Discipline and Behavior Modification ... which is, here?
+洁西卡：行为教管矫正学校……那就是，这里？
+
+Vertin: That's right. Maybe you should go find him.
+维尔汀：没错，或许你可以去找他聊聊天。
+
+Vertin: He is warm-hearted and will be glad to help.
+维尔汀：以他的性格，应该会乐于帮助你。
+
+Jessica: Help ... me?
+洁西卡：帮助……我？
+
+Jessica: Thank you. I don't know what that means, but chatting is great. I like to chat!
+洁西卡：我不明白，不过聊天很好，我喜欢聊天！
+
+69  洁西卡玩法故事【恐怖通】1.1
+
+Horropedia: Oh, hey!
+恐怖通：哦，嘿！
+
+Horropedia: Isn't that our defeated great villain? What an honor to meet you! Are you also looking for food in this shabby canteen?
+恐怖通：这不是我们失败的大反派吗？真荣幸，你也来这个破破烂烂的食堂里找东西吃？
+
+Jessica: It's you? Vertin told me about you. You're also studying here, right?
+洁西卡：是你？我听维尔汀说过你的事情，你也在这里学习对吗？
+
+Horropedia: Of course. We all "study" here until we give them the answers they want in the exams.
+恐怖通：当然了。我们都得在这儿“学习”，直到考试时能给出他们满意的答案。
+
+Horropedia: Good thing is I'm a master of those exams, but you ...
+恐怖通：值得高兴的是我精通于此。倒是你——
+
+Horropedia: Seriously, what's wrong with you?! Can't believe you were actually persuaded to surrender as the great villain! All the other villains are ashamed of you! You made a box office bomb!
+恐怖通：说真的，这究竟是怎么回事！作为一个最终BOSS竟然被人劝降，这简直是反派界的耻辱，烂片预定！
+
+Jessica: I'm not sure what you're talking about.
+洁西卡：我不太理解你的话。
+
+Horropedia: But I didn't expect you here ...
+恐怖通：不过没想到还能在这儿见到……
+
+Horropedia: Wait ... Here! Oh no no no ... SHOOT!
+恐怖通：嗯……？在这儿！不，不不……这太糟糕了！
+
+Horropedia: You're being re-educated here, which means ... Damn! If they manage to modify you, this movie will become one of the worst works of all time!
+恐怖通：你现在在这里改造就意味着……该死，你要是被改造成功了，这部作品的风评可就真的没有挽回的余地了！
+
+Jessica: You're weird.
+洁西卡：你真奇怪。
+
+Jessica: You have no friends to talk to, either? Well, it's still nice to talk to yourself. It helps kill time! I often do that.
+洁西卡：你也没有能说话的朋友吗？不过自言自语是很不错的事情，可以打发时间！我常常自言自语。
+
+Horropedia: Alright, I do have few friends ... But I-I'm not talking to myself!
+恐怖通：好吧，我的确没什么朋友——但这，这也不是自言自语！
+
+Horropedia: Anyway, Jessica, this is between you and me. How far do you think you have mastered the knowledge they taught you here?
+恐怖通：嘿，洁西卡，你悄悄告诉我，你觉得你知识掌握得如何？
+
+Jessica: What knowledge? I don't know.
+洁西卡：什么知识？我不清楚。
+
+Horropedia: Alright, I'm gonna ask you a few questions. Just answer them ...
+恐怖通：这样，我来问你几道问题，你回答它们……
+
+70  洁西卡玩法故事【恐怖通】1.2
+
+Horropedia: Oh shoot, we're screwed ...
+恐怖通：哦，完了，这下彻底完了……
+
+Horropedia: There's nothing we can do to save this lousy ending!
+恐怖通：烂作的结局已经不可挽回了！
+
+Jessica: ...?
+洁西卡：……？
+
+Horropedia: We gotta learn to face the reality. We gotta ...
+恐怖通：我们得学会面对现实，得学会这个……
+
+71  洁西卡玩法故事【恐怖通】1.3
+
+Horropedia: Great!
+恐怖通：哦！嘿！好样的！
+
+Horropedia: Look at you, my little genius! You even broke the monitoring device they gave you!
+恐怖通：瞧瞧你，我的小天才，你甚至弄坏了他们给你的监控器！
+
+Jessica: 'Cause it keeps nagging, which is annoying.
+洁西卡：因为它太吵了，让我心烦。
+
+Horropedia: Genius, absolutely a genius.
+恐怖通：天才，毫无疑问的天才。
+
+Horropedia: Now follow me. I'll make you the greatest villain ever! Well, at least we'll get a few more stars on the horror movie rating page!
+恐怖通：跟着我一起来吧，我绝对能把你塑造成史上最精彩的大反派——或者说，至少让我们在恐怖电影评价页上多几颗星！
+
+Horropedia: For the great course! I'll see you tonight in the corridor!
+恐怖通：为了这份伟大的事业，晚上，我们走廊见！
+
+72  洁西卡玩法故事【恐怖通】2
+
+Horropedia: Hey, here.
+恐怖通：嘿，这边。
+
+Jessica: Why are you hiding behind the statue?
+洁西卡：你为什么藏在雕像下面？
+
+Horropedia: Tell me why you are standing there without cover first, big girl! Now crouch ... Oh wait, you can't do that right now.
+恐怖通：我还想问你这个大个子怎么还站着！快蹲——哦，你现在不方便。
+
+Horropedia: Anyway, stay down. Come over here!
+恐怖通：总之，压低身子，过来！
+
+Horropedia: Look at this, soda. It's hard to get one of these here. Now take a sip, as the first step to trying out new things.
+恐怖通：瞧瞧这个，碳酸饮料，这东西可不好弄，你可以尝尝看，做个新尝试。
+
+Jessica: Ouch! It's biting me ... my tongue.
+洁西卡：哇！它在咬我……我的舌头。
+
+Horropedia: No, no, no. Don't throw it away! It's precious! You can't imagine how much effort I made to bring it through the security check at the gate!
+恐怖通：诶诶诶——别扔！这东西可不容易搞！你知道通过入口审查要死多少脑细胞吗？
+
+Horropedia: But um ... I never thought you'd actually come.
+恐怖通：唔，不过……我没想到你真的会过来。
+
+Jessica: You told me to.
+洁西卡：是你叫我过来的。
+
+Horropedia: Great! Thank goodness you're willing to listen to me. This bomb has got a silver lining.
+恐怖通：是的！没错！超级棒！你能听我话就是这部烂片儿里最精彩的部分了。
+
+Jessica: What? So, what are you trying to tell me?
+洁西卡：你要告诉我什么？
+
+Horropedia: Ways to skip classes, of course! Don't you find those lectures very annoying?
+恐怖通：当然是逃课心得！怎么，你不觉得那些教员嘴里念叨的东西烦得不行吗？
+
+Jessica: Yeah they are. I usually ignore them.
+洁西卡：嗯，确实不好听。我一般不听。
+
+Horropedia: So you have even gone THIS far without the master's teaching. That's my little genius! I hereby declare the first class over. Now cheers!
+恐怖通：无师自通，真是我的小天才。这节课，我宣布，直接跳过——来，干杯！
+
+Jessica: ...
+洁西卡：……
+
+Horropedia: Don't give me that face. You may not get to have it next time.
+恐怖通：别摆出那副表情，到时候你想喝都喝不到。
+
+Jessica: ...
+洁西卡：……
+
+Jessica: Ouch! It bit me again!
+洁西卡：哇！它还是咬我！
+
+73  洁西卡玩法故事【恐怖通】3
+
+Horropedia: Today we're going to start the course officially.
+恐怖通：今天我们该进入正式课程了！
+
+Jessica: Uh-huh.
+洁西卡：嗯。
+
+Horropedia: On ... HOW TO CREATE THE GREATEST VILLAIN!
+恐怖通：如何——塑造——完美——大反派！
+
+Jessica: Uh-huh.
+洁西卡：嗯。
+
+Horropedia: First of all, what is a villain?
+恐怖通：首先，反派是什么？
+
+Jessica: Uh-huh.
+洁西卡：嗯。
+
+Horropedia: ...
+恐怖通：……
+
+Horropedia: I see how you dealt with the lectures.
+恐怖通：我算是知道你怎么对付那些教员的了。
+
+He sighs helplessly and tries to go on.
+他无奈地叹了口气，试图继续讲下去。
+
+Horropedia: Rule No. 1: never surrender, which means to never do anything like you did to Vertin.
+恐怖通：第一条定律：绝不能被劝降，就像你对维尔汀做的那样。
+
+Horropedia: I have to admit she's quite the persuader, good at convincing people, but you're the greatest villain in the story. You can't just listen to some crap and buy it ...
+恐怖通：我承认她口才很好，煽动能力了得。但你作为整个剧情里最幕后的存在，你不能轻易地接受别人给你的东西……
+
+Horropedia: Hey ... Save the last sip for me.
+恐怖通：你得……
+
+Jessica: *gulps*
+洁西卡：咕嘟嘟……
+
+Horropedia: ... Save the last sip for me.
+恐怖通：……你给我留一口。
+
+Jessica: No.
+洁西卡：不要。
+
+Horropedia: You weren't even a fan last time! More than half a can was poured on that stupid bush!
+恐怖通：你上次还不愿意喝！大半听都喂了那丛该死的灌木！
+
+Jessica: Now I am.
+洁西卡：我现在愿意喝了。
+
+Horropedia: ...
+恐怖通：……
+
+Horropedia: Ah, fine. I'll accept this one. A villain who is also a fan of soda, kinda unique. That's gonna make our story more interesting.
+恐怖通：好吧，我接受，喜欢喝碳酸饮料的反派角色还算是有特色，这会为我们的故事增添色彩。
+
+Horropedia: Anyway, Rule No. 2 ...
+恐怖通：第二条定律……
+
+Jessica: What's this?
+洁西卡：这是什么？
+
+Horropedia: Hey, hands off! It's my gun.
+恐怖通：嘿，别动！那是我的枪。
+
+Jessica: What's a gun?
+洁西卡：枪是什么？
+
+Horropedia: A gun is a sophisticated machine with a carefully designed structure. It's dangerous, which makes it a good weapon for villains.
+恐怖通：枪就是一种很精密的机械，需要严格遵守设计结构，也很危险，很适合用来当反派的武器。
+
+Jessica: I AM the villain. Can I use it?
+洁西卡：我就是反派，我能使用它吗？
+
+Horropedia: Thank goodness! I never thought you would realize what a villain should do at this point! Now take it but keep your finger off the trigger and listen to me carefully. Rule No. 2 is ...
+恐怖通：谢天谢地，没想到你在这时候觉醒了反派的自觉。拿好了，不要碰扳机，现在老老实实地听我说。第二条定律就是——
+
+Horropedia: Oh my! Stop drinking!! Gosh! It's completely empty!
+恐怖通：你不要再喝了！！我的天啊——现在一点儿都没了！
+
+74  洁西卡玩法故事【恐怖通】4
+
+Horropedia: Glug... Ahh! Nice!
+恐怖通：咕嘟嘟——啊！爽快！
+
+Jessica: Glug ... Hah!
+洁西卡：咕嘟嘟——哈！
+
+Horropedia: See, this gun doesn't use normal bullets, but special ones.
+恐怖通：你看，这把枪不是靠子弹运转的，它使用的是这种特殊填充弹。
+
+Jessica: Ahem, is it made with slime mold?
+洁西卡：咳，这是黏菌吗？
+
+Horropedia: No no, no no no, slime mold can never work as well as it does.
+恐怖通：不不，不不不，黏菌可没这么好的效果。
+
+Horropedia: It's made with the cobweb of a sand spider, which has excellent adhesion and endurance.
+恐怖通：这是用沙蜘蛛的丝做成的，黏连性极好，韧度也佳。
+
+Jessica: What about this? It's greasy, and smells good!
+洁西卡：那这个，这是什么？它香喷喷的，还油滋滋的！
+
+Horropedia: Nuts, I stole them from the canteen. Go slow with them.
+恐怖通：坚果，是我食堂里偷来的，省着点吃。
+
+Horropedia: Let's continue. See, mix the two of them, and dry up the mixture ...
+恐怖通：我接着和你说，你看，把这两种物质混合到一起，然后晾干……
+
+Horropedia: Wait till it gets a crust ...
+恐怖通：外部有硬壳之后……
+
+Horropedia: Woo-hoo!
+恐怖通：哇哦!
+
+Horropedia: Perfect! It works so well!
+恐怖通：完美！效果绝佳！
+
+Horropedia: It took me a really long time to invent this formula.
+恐怖通：这可是我研究了好久才研究出来的配方。
+
+Jessica: Oh.
+洁西卡：哦～
+
+Horropedia: ...
+恐怖通：……
+
+Horropedia: Did we forget our purpose?
+恐怖通：咱们现在这样是不是忘了本来的目的？
+
+Jessica: What purpose?
+洁西卡：什么目的？
+
+Horropedia: Hmm, having no purpose is also a kind of purpose, huh? Nah, forget it.
+恐怖通：没有目的也算是一种目的吗？算了，无所谓了。
+
+Beep: Stu...student ... Je...Jessica...
+提示音：学，员……洁……洁西……
+
+The barely fixed speaker is still trying to fulfill its duty, making protesting noises at the rule-breaking duo.
+破破烂烂的监控器仍在努力履行它的职责，向着违反规定的二人发出抗议的声响。
+
+Horropedia: Humph, damn. We're spotted. Run!
+恐怖通：该死，我们被发现了，赶紧溜！
+
+75  洁西卡玩法故事【恐怖通】5.1
+
+Horropedia: Alright, we don't have much time, because I've passed the exam and am about to go.
+恐怖通：很好，留给我们的时间所剩无几，因为我考试通过，马上就能走人了。
+
+Horropedia: Since we have done nothing significant, we should try doing some. C'mon.
+恐怖通：虽然咱们什么也没干——但是，来，该试试正经的了。
+
+76  洁西卡玩法故事【恐怖通】5.2
+
+Horropedia: Alas ... I knew it.
+恐怖通：唉……我就知道会是这样。
+
+Horropedia: It's okay. Maybe you can pass the final exam.
+恐怖通：不过也好，或许你期末考试能够顺利通过呢？
+
+Horropedia: Cunning exam-oriented student, go take your way to Rome! I'll be waiting at Vertin's!
+恐怖通：狡猾的应试教育者啊，去走你的罗马大道吧！我在维尔汀那儿等你！
+
+77  洁西卡玩法故事【恐怖通】5.3
+
+Horropedia: Great!
+恐怖通：哦！好样的！
+
+Horropedia: My genius fawn, you did a very good job! I'll send you flowers on the day you graduate!
+恐怖通：我的天才小鹿，你做得太好了，等你毕业的那天我一定会来给你送花的！
+
+Horropedia: "The Bad Girl" locked in the School of Discipline hides the truth and gets away with the punishment using her chameleonic, innocent appearance ... Oh man, you can't find a better story than that ...
+恐怖通：被关进教管学校的“坏家伙”隐瞒真相，披着纯洁善良的外皮逃脱法网，哦，这真是个好得不能再好的题材了……
+
+78  洁西卡玩法故事【玛蒂尔达】2
+
+Matilda: You! What is wrong with you?!
+玛蒂尔达：你，你你……你究竟是怎么回事啊？！
+
+Matilda: "Arcanists mostly harness their gnosis through Squirrel 3"?!
+玛蒂尔达：“神秘学家主要通过松鼠三号来锻炼自己的灵知能力”？！
+
+A piece of exam paper is almost scrunched up and disappears in Matilda's grip.
+玛蒂尔达几乎快要将手心中的试卷揉成一团。
+
+Matilda: How can you fail at such a simple question...
+玛蒂尔达：怎么会连这么基础的课程都不会……
+
+Jessica: Hmm? Anything wrong?
+洁西卡：嗯？怎么了吗？
+
+Jessica: Squirrel 3 is an outgoing boy. I'm sure it can always help with whatever I need.
+洁西卡：松鼠三号是个很活泼的孩子，我相信它无论在什么地方都帮得上忙。
+
+Matilda: ...
+玛蒂尔达：……
+
+Jessica: Matilda? Is something wrong with your stomach? You look pale.
+洁西卡：玛蒂尔达？你肚子疼吗？你的脸色看起来很差。
+
+Matilda: Urgh... Don't look at me like this with your puppy-dog eyes!
+玛蒂尔达：唔……你不要用这种眼神看着我！
+
+Matilda: Oh, we are so at a dead end... Introduction to Arcane Skills is nothing but a bound volume of chewable papers for you... Not to mention Ethics, oh, Ethics...
+玛蒂尔达：噢，这下完蛋了……《神秘术导论》对你来说完全是废纸……《伦理学》，《伦理学》更是……
+
+The book with indigo cover is suddenly opened rudely.
+深蓝色封皮的厚重书本被人粗暴地打开来。
+
+Matilda: Jessica, listen, what would you do if someone offered you help?
+玛蒂尔达：洁西卡，我问你，如果有人帮了你，你要怎么做？
+
+Jessica: Well ... I'll invite them to my cave and get them the softest bed!
+洁西卡：嗯……请他到自己的洞穴里，找张最柔软的小床给他！
+
+Jessica: Then I'll shut the stone gate closed so they won't run away. If I still have time after that, I'll tie their hands and legs, but of course I'll be careful in case I break their bones ...
+洁西卡：然后关好洞穴的石门，这样他就不会消失不见了。如果有时间的话，用藤蔓捆住他们的手脚，不过要小心，别让他们的骨头折断……
+
+Matilda: No! It could have been simple! Just say thanks!
+玛蒂尔达：不！很简单！只要说谢谢就可以！
+
+Matilda: I can't believe this... Then, what if, what if someone took something away from you?
+玛蒂尔达：我的天啊……那，那如果，这个人抢了你的东西呢？
+
+Jessica: Hmm ... I'll just give it to them and invite them to my cave ...
+洁西卡：嗯……把东西送给他，然后请他到自己的洞穴……
+
+Matilda: ...
+玛蒂尔达：……
+
+Matilda: Why? Why on earth will you do that?!
+玛蒂尔达：这究竟是为什么啊——？！
+
+Matilda: Why do you have to keep people in your cave?!
+玛蒂尔达：你为什么一定要留下别人？！
+
+Jessica: Hmm? What's wrong about that?
+洁西卡：咦？这有什么不对吗？
+
+Matilda: *Sighs*
+玛蒂尔达：呜……
+
+Matilda: I can see it now. You are making fun of me.
+玛蒂尔达：我知道了，你一定是在耍我……
+
+Matilda: They told you to make fun of me, right?!
+玛蒂尔达：你一定是被她们安排来耍我的！对不对！
+
+Jessica: Your voice is too loud, Matilda.
+My smileless friend said you won't get the canteen's soup if you don't keep it down.
+洁西卡：玛蒂尔达，你的声音太大了。
+那个不爱笑的朋友告诉过我，声音太大会喝不到食堂的汤。
+
+Jessica: Soup is a kind of delicious food. You must have never had it, huh? Shall I get you some later?
+洁西卡：汤是一种很好喝的东西，你一定还没喝过吧，我今天带你去喝汤怎么样？
+
+Jessica: Hmm? Do you have a fever, Matilda? Your face is blushing.
+洁西卡：咦？玛蒂尔达，你很热吗，为什么满脸通红？
+
+Jessica: Matilda?
+洁西卡：玛蒂尔达？
+
+Matilda: I, I...
+玛蒂尔达：我，我——
+
+Matilda: You can figure this all out by yourself! I'm out.
+玛蒂尔达：你自己去学吧！！
+
+Jessica: ...?
+洁西卡：……？
+
+79  洁西卡玩法故事【玛蒂尔达】3
+
+Matilda: *Aggrieved sobs* She doesn't understand anything...
+玛蒂尔达：呜……她根本什么都不懂……
+
+Matilda: Even if ... even if it has been clearly stated in her file that she has never been educated, and her mind is almost like a child's mind... She shouldn't have made fun of me! I'm done with her!
+玛蒂尔达：就……就算卷宗里写过，她并没有受过教育，心智上几乎像个孩子……那她也不能耍我！我再也不会教她了！
+
+Her leather shoes stomp on the floor, absolutely and strongly, like the owner's determination.
+小皮鞋用力地踏在地板上，随着主人的决心噼里啪啦地响着。
+
+Matilda: Perhaps I was a bit impulsive ... but I wasn't wrong! She is stupid enough to get herself into this ...
+玛蒂尔达：我或许有些冲动——但我没做错！还不都是因为她太笨……
+
+Matilda: Hmph, that stupid girl ... She's gonna be in great trouble without Ms. Bouanich's help!
+玛蒂尔达：哼，就是……她这么笨……要是没了我玛蒂尔达的帮助可怎么办呀！
+
+Matilda: ...
+玛蒂尔达：……
+
+Matilda: How forgiving I am! Putting away the grudges so quickly!
+玛蒂尔达：我真是大度！这么快就原谅了对方的错误！
+
+Matilda: This is ... not some apolog... She's the one who should apologize!
+玛蒂尔达：这才不是什么……道……该道歉的是她才对！
+
+Jessica: Fabulous! You're here again! I thought you were not coming today.
+洁西卡：嗯？太好了，你来了！我还以为你今天不来了呢。
+
+Matilda: Ahem... I, I'm here to accept your apology.
+玛蒂尔达：咳……我，我是来接受你的道歉的！
+
+Jessica: Apology?
+洁西卡：道歉？
+
+Jessica: What is an apology?
+洁西卡：什么是道歉？
+
+Matilda: You! Hmph ... just say ... hmm...
+玛蒂尔达：你——！呜……就，就是……
+
+Matilda: Just bow to me and say it out loud! "I'm sorry, please accept my apology and forgive me, gracious Ms. Bouanich"!
+玛蒂尔达：就是，向我鞠躬！然后大声说：“对不起！我错了！请优雅的布翁尼小姐原谅我！”
+
+Eyes shut, face blushing, Matilda shouts out the words with considerable intensity.
+玛蒂尔达紧闭双眼，面红耳赤，颇有气势地吼出了这句话。
+
+Jessica: Hmm?
+洁西卡：嗯……？
+
+Jessica: Is this ... a game?
+洁西卡：这难道……是一种游戏吗？
+
+Matilda: Hmph, I knew you wouldn't do as I said. In this case, I can still show my tolerance…
+玛蒂尔达：哼～我就知道你不愿意说，那我就宽——
+
+Jessica: I-I'm sorry.
+洁西卡：对。对不起。
+
+Matilda: ...!
+玛蒂尔达：——！
+
+Jessica: My bad. The graceful Ms. Bouanich. Forgive me.
+洁西卡：我，错了。请优，雅的布翁尼小姐原谅，我。
+
+Matilda: You!
+玛蒂尔达：什……你……
+
+Matilda: How come ... you won't be embarrassed...
+This sounds more embarrassing than I thought...
+玛蒂尔达：你，你怎么好意思说，说这种……
+
+Jessica: ...?
+Did I say it wrong? It's "gracious Ms. Bouanich," right?
+洁西卡：……？
+我难道说错了吗？不是“优雅的布翁尼小姐”吗？
+
+Matilda: Whoaaa!
+玛蒂尔达：哇啊——！
+
+Matilda: Sto...stop saying that!
+玛蒂尔达：你，你不要再说了！
+
+Jessica: Hmm?
+洁西卡：嗯？
+
+Jessica: You are weird. I said it right but you don't seem to be comfortable with it at all. Why?
+洁西卡：你真是个奇怪的人。为什么我说对了，你却看起来更不舒服了呢？
+
+80  洁西卡玩法故事【玛蒂尔达】4
+
+Matilda: Jessica, I have prepared you a test, don't worr...
+玛蒂尔达：洁西卡，我为你准备了一个小测验，别担……
+
+Matilda: !!!
+玛蒂尔达：——！
+
+Matilda freezes, processing what she is looking at with great effort.
+玛蒂尔达僵在原地，不敢相信眼前发生的事。
+
+Matilda: You!
+玛蒂尔达：呀，你，你你——
+
+Matilda: Sonetto?! What are you doing here?
+玛蒂尔达：十四行诗？！你怎么在这里？
+
+“Sonetto”: ...
+“十四行诗”：……
+
+Matilda: Wait, wait, wait!
+玛蒂尔达：等，等等……等等！
+
+Matilda: Sonetto, what...what are you going to do?
+玛蒂尔达：十四行诗，你……你要干嘛？
+
+Matilda: It's too close.
+玛蒂尔达：啊……这太近了……呜……
+
+“Sonetto”: Matilda.
+“十四行诗”：玛蒂尔达。
+
+Matilda: Yes, I am!
+玛蒂尔达：是！我是玛蒂尔达！
+
+Matilda: No, why would I say that...
+玛蒂尔达：不对！讨厌，我在说什么啊……
+
+Matilda: Stop, don't get any closer!
+玛蒂尔达：你，你别再靠过来了！
+
+Matilda: Whoaaa...!
+玛蒂尔达：呜啊——！！！
+
+“Sonetto”: Matilda, why are you so nervous today?
+“十四行诗”：玛蒂尔达，你今天怎么这么紧张？
+
+“Sonetto”: You mentioned her a lot...
+“十四行诗”：我想到你经常提到她……
+
+“Sonetto”: So I thought you would be happy to see Sonetto.
+“十四行诗”：就以为你会很希望看到十四行诗？
+
+Matilda: Emm... I... I...
+玛蒂尔达：嗯嗯嗯……我……我……
+
+“Sonetto”: But you don't seem happy.
+“十四行诗”：但你现在的反应好像并不高兴。
+
+“Sonetto”: Wow, your ears are so red. Are you ill?
+“十四行诗”：哇，你耳朵好红，你是发烧了吗？
+
+Matilda: Stop making fun of me, Sonetto!
+玛蒂尔达：十四行诗，你不要再耍我了！
+
+“Sonetto”: Ah ...!
+“十四行诗”：唔！
+
+Jessica: Hmm ... She got even more weird today ...
+洁西卡：唔……她今天更奇怪了……
+
+Jessica: What's this?
+洁西卡：这是什么？
+
+The pile of books brought by Matilda has been kicked down and scattered around on the floor. In the ruins, a stack of paper shows itself.
+玛蒂尔达带来的书本被踢得乱七八糟，一叠装订齐整的纸张从书缝间探出了头。
+
+Jessica: Matilda dropped it ...
+洁西卡：玛蒂尔达掉了东西……
+
+Jessica: Quiz Answers ...?
+洁西卡：“小测答案”……？
+
+81  洁西卡玩法故事【食堂01】1
+
+Jessica: This place is nice, but it doesn't look like a place for dining.
+洁西卡：这里真漂亮，但是看起来并不像吃饭的地方。
+
+In a bright, open hall, she sees tables and chairs lining up in perfect order, and in those silver platters on the tables, exquisite food keeps giving off great smell into the air.
+开阔的礼堂中摆放着桌椅与餐桌，喷香的食物盛在银碟子里。
+
+Jessica: Anyway, I dine wherever there's food.
+洁西卡：不过没关系，有吃的东西的地方就是吃饭的地方。
+
+Jessica: What's this dark water with bubbles? Let me see ... *coughing* Whoa!
+洁西卡：这个深色的带有气泡的水是什么？我要尝一口……咳咳咳！哇啊！
+
+Jessica: I hate this. *spits*
+洁西卡：呸，呸呸——我讨厌这个！
+
+Nevertheless, she manages to fill her tummy with what she can find. She won't have to wake up in the middle of the night out of hunger anymore.
+无论如何，洁西卡填饱了肚子。她不会在午夜因为饥饿而苏醒了。
+
+Beep: CO-092146, Jessica.
+Break time will be over in 5 minutes and 30 seconds. Please return to your dormitory immediately.
+提示音：CO-092146，学员洁西卡。
+休息时间即将结束，进入5分30秒倒计时，请尽快返回学员宿舍。
+
+Jessica: Oh, time to go back to the dorm. Let me see which way it is ...
+洁西卡：啊，是时候回去了，我记得宿舍的方向是在……
+
+82  洁西卡玩法故事【食堂02】2
+
+A shabby canteen, filled with the smell of food.
+破旧的食堂空荡荡，空气里满是食物的香味。
+
+Jessica: Hmm? There's new food today?
+洁西卡：嗯？今天的食物，换了？
+
+Jessica: Purple soup ... Hmm!
+洁西卡：紫色的汤……嗯！
+
+Jessica: It's surprisingly good! It tastes sour, sweet, bitter and hot at the same time! I've never had anything this good!
+洁西卡：真是令人惊讶的美味！我从没有尝过又酸又甜又苦又辣这样好喝的东西！
+
+Jessica: Hmm ... Who made it?
+洁西卡：奇怪……这是谁做的汤呢？
+
+83  洁西卡玩法故事【食堂04】4
+
+Jessica: Hmm ... What would leave hair by the pot?
+洁西卡：嗯……什么东西会在锅边落下毛发呢？
+
+Jessica: Hmm?
+洁西卡：嗯？
+
+Jessica: Oh, that's ...
+洁西卡：啊，这是……
+
+Chef's Hat Critter: Chirr purr.
+厨师帽魔精：唧唧咕～
+
+The tiny critter, waving a spoon too huge for its size, is stirring the soup.
+小小的魔精正拿着大大的铁铲，胡乱地搅动着锅里的汤。
+
+Jessica: So it was a Carbuncle!
+洁西卡：原来是卡邦克鲁！
+
+84  洁西卡玩法故事【食堂05】5
+
+Chef's Hat Critter: Chirr, chirr!!
+厨师帽魔精：唧唧——唧唧——！！
+
+The critter makes squeaky noises, as if it is complaining about something. Perhaps... it needs a reward.
+魔精焦躁抱怨，似乎在表达：需要奖励。
+
+Jessica: You are mad. So ... you believe you are the best cook here, huh? And you want a prize ...
+洁西卡：你生气了，你……认为你是这里厨艺最好的人？你想要一个奖品……
+
+Jessica: Hmm ... What kind of prize should I give you?
+洁西卡：嗯……该给你什么样的礼物呢？
+
+85  洁西卡玩法故事【食堂06】6.1
+
+Chef's Hat Critter: Chirr purr!
+厨师帽魔精：唧唧咕咕——！
+
+The critter gives a spin, as if expecting something.
+魔精打着转儿，似乎在期待着什么。
+
+86  洁西卡玩法故事【图书馆01】7
+
+Librarian: Hello, what books are you looking for today?
+管理员：你好，请问你想借什么书？
+
+Jessica: Book? What is a book? Is it one of those things with the colorful squares in them?
+洁西卡：书？什么是书？是那种有带着花花绿绿小方块儿的东西吗？
+
+Librarian: I'm not quite sure what you're talking about ... Maybe you could take a look at these?
+管理员：我不太清楚你在说什么……或许你看看这些？
+
+Librarian: We have Ms. Misery (The Illustrated Edition), and The Frog Prince. Which one do you prefer?
+管理员：《危情十一日》插图版，还有《青蛙王子》，请问你需要哪一本？
+
+Jessica: Wow! Please let me see them both.
+洁西卡：哇！请都给我看看吧。
+
+87  洁西卡玩法故事【图书馆03】9
+
+Jessica: Least of ... Arrrr ... Cream … (List of Global Arcanum Creatures) ... Hmm ... Can't find it ...
+洁西卡：《不……什么……口水……》<《环球神秘学生物名录》>……嗯……没有……
+
+Jessica: Nor here ... Hmm?!
+洁西卡：也不在这里……嗯？！
+
+A bunch of Critters: Chirr!!
+一群魔精：叽叽叽叽——
+
+Jessica: It's the furry friends ... 1, 2, 3 ... That's a lot of them!
+洁西卡：是毛茸茸的朋友……一只，两只，三只……好多呀！
+
+88  洁西卡玩法故事【图书馆04】10.1
+
+Jessica: ... Last one.
+洁西卡：……最后一本。
+
+Jessica: This is weird ... Didn't find anyone in the books ...
+洁西卡：这真是奇怪……并没有住在书里的人……
+
+Giant Critter: Chirr!!
+大只魔精：叽叽叽叽——
+
+Jessica: You are huge, furry friend ... Are you the one "who lives in the book"?
+洁西卡：好大的毛茸茸朋友……难道你就是“住在书里的人”？
+
+Jessica: But you don't look like a "man" at all. Can you change your appearance too?
+洁西卡：你看起来可一点都不像“人”，你也能变化自己的样子吗？
+
+Jessica: Hey, what are you ... No! The mirror's going to fall over!
+洁西卡：嗯……你在干什——呀，镜子要倒了！
+
+That massive standing mirror is leaning towards her.
+巨大的立式镜子向着洁西卡的方向倾倒而来。
+
+Jessica: The book says, when something is falling down, I should ...
+洁西卡：东西要倒的时候，书里……书里说……
+
+Jessica: Right! Hold it up!
+洁西卡：对了！扶住它！
+
+89  洁西卡玩法故事【图书馆05】11
+
+Stand in front of that giant mirror in the library, gently lift up its thin handle with craved patterns and reveal that thin gap... This is where the "Man in Books" is.
+图书馆巨大的镜子，带着细细的雕花的把手，只要按住它轻轻向上抬，露出的那一道狭小缝隙——“书中人”就在这里。
+
+Jessica: Fabulous! Matilda's exam paper is still here!
+洁西卡：太好了，玛蒂尔达的卷子还在！
+
+Jessica: Her handwriting is beautiful, and it smells good, like flowers ...
+洁西卡：她的字迹可真漂亮，试卷上还有香香的味道……
+
+Jessica: A-Achoo!
+洁西卡：阿……阿嚏！
+
+90  洁西卡玩法故事【厕所02】13
+
+Jessica: Hmm ... "200-xxx-xxxx ..."?
+洁西卡：嗯……“２００－ｘｘｘ－ｘｘｘｘ……”？
+
+On the wall of the "toilet," there is a series of numbers written in crooked handwriting.
+“厕所”的墙壁上，一行数字歪歪扭扭地写着。
+
+Jessica: They even do math games in the toilet? The people here do like studying.
+洁西卡：上厕所也需要做这种数字游戏呀？这里的人真的很喜欢学习呢。
+
+Jessica: What if I tell this to the smileless friend? Will she smile?
+洁西卡：把这个消息告诉不爱笑的朋友，她是不是就会笑了呢？
+
+91  洁西卡玩法故事【厕所03】14
+
+Jessica: Hmm? The number here ... 211-xxx-xxxx ...
+洁西卡：嗯？这里的数字……２１１－ｘｘｘ－ｘｘｘｘ……
+
+Jessica: The game has changed! It looks like the numbers on that instrument ...
+洁西卡：游戏变了！看起来有点像那个乐器上的……
+
+Jessica pulls out a battered piece of paper from her pocket. Paper always remembers what the brain cannot.
+洁西卡从口袋里掏出皱巴巴的纸，脑子记不住的东西写上去，纸张就能轻易地记住了。
+
+Jessica: 2, 1, 1, and ... and what? They're gone again?
+洁西卡：2、1、1，然后是……然后是什么？它们又消失了？
+
+92  洁西卡玩法故事【厕所04】15.1
+
+Jessica: The tune sounds weird no matter how I play it ... and the number has changed again.
+洁西卡：无论练习几次，那个音调都很奇怪……但是跑到这儿来一看，数字又变了。
+
+The numbers emerge again, more clearly, and in bigger fonts.
+“厕所”的墙壁上又有了一排新的数字，这一次数字更大，也更清晰了。
+
+Jessica: Maybe I need to play it here. Great, I happen to have carried a flute!
+洁西卡：或许它需要现场演奏，真好，我恰巧就有一支笛子！
+
+93  洁西卡玩法故事【教室01】16
+
+An empty classroom, clean, as if it has never been put to use.
+一间空荡荡的教室，没有被使用过的痕迹。
+
+Jessica: Oh, a classroom ... It's just like mine.
+洁西卡：啊，是教室……和我的教室一样的教室。
+
+Jessica: Ugh, classrooms ... always make my stomach sick. Let's call it a day.
+洁西卡：看到教室……就感觉肚子不舒服。算了，今天还是先回去吧。
+
+94  洁西卡玩法故事【教室03】18
+
+Jessica: My tail ... Boo-hoo, it hurts whenever I come back here ....
+洁西卡：我的尾巴……呜呜，一回到这里就感觉好痛……
+
+The strange hump on the chair seems to have moved a bit.
+椅子上的奇异凸起似乎动了动。
+
+Jessica: What's that on the chair ... Are they hyphae?
+洁西卡：怎么椅子上有……这是菌丝吗？
+
+Jessica: Whoa! It's on my tail!
+洁西卡：啊！它沾到我的尾巴上了！
+
+Jessica: My tail ... It hurts! I've got to get out of here!
+洁西卡：尾巴……尾巴感觉好疼！我得赶紧离开这儿！
+
+95  洁西卡玩法故事【教室04】19
+
+Jessica: I'm just taking one more look, secretly ...
+洁西卡：我只是偷偷看一眼，只是偷偷地……
+
+Chair: ...
+椅子：……
+
+Chair: *Sobs*
+椅子：呜呜——
+
+The strange hump makes a rustling sound.
+奇异凸起发出了窸窸窣窣的响声。
+
+Chair: Boo... Aww...
+椅子：呜呜——嗷嗷嗷——
+
+Jessica: Is it a ... flat furry friend? Oh, it's a ... critter friend!
+洁西卡：那是……扁扁的、毛茸茸的朋友？是……魔精朋友！
+
+96  洁西卡玩法故事【教室05】20
+
+Squashed Critter: Boo-hoo ... Aww ...
+压扁的魔精：呜呜——嗷嗷嗷啊——
+
+Jessica: You don't seem well. Shall I help you out?
+洁西卡：你看起来很不舒服，需要我帮你下来吗？
+
+Squashed Critter: Boo-hoo ... Aww!
+压扁的魔精：呜呜呜嗷嗷嗷嗷——
+
+Jessica: You're so stuck ... If only I could get something to chew the mucus.
+洁西卡：粘得好紧……要是有什么东西能咬断这些粘液就好了。
+
+97  洁西卡玩法故事【教室06】21.1
+
+Squashed Critter: Oww ... Boo-hoo ...
+压扁的魔精：嗷嗷呜呜——
+
+98  洁西卡玩法故事【办公室01】22
+
+Jessica: Left, and right.
+洁西卡：向左，再向右。
+
+Jessica: Is this the office Vertin talked about?
+洁西卡：维尔汀说的办公室就是这里吗？
+
+Jessica: !!!
+洁西卡：——！
+
+Jessica: Someone's in there? Hmm ... Anyway, I'll check other places first ...
+洁西卡：里面有人？唔……先离开这里……
+
+Instructor: Someone's knocking... Who's there?
+训导教员：有人敲门……谁在外面？
+
+Instructor: Odd...
+训导教员：奇怪……
+
+99  洁西卡玩法故事【办公室02】23.1
+
+Jessica: Alright, looks like no one's here.
+洁西卡：嗯嗯，这次应该没有人在这里。
+
+Jessica: It's locked?
+洁西卡：是锁上的？
+
+Managing Teacher: What's the noise? Anyone there?
+管理教员：什么声音？有谁在那边吗？
+
+Jessica: Shoot, she's gonna see me. I gotta ... gotta ...
+洁西卡：糟糕……要被发现了，我得……我得——
+
+100  洁西卡玩法故事【办公室03】24
+
+Jessica: I don't see why the instructor gave me the key, but it doesn't matter. The point is I can enter this room whenever I want.
+洁西卡：虽然不明白管理教员为什么给我一把钥匙，不过现在我也是有钥匙的人了，我想什么时候进入这个房间都可以。
+
+Jessica: Haha, let me see ... There's a cabinet, a drawer …
+洁西卡：嘿，让我瞧瞧……柜子，还有抽屉……
+
+Jessica: Not there ... What about here ... Oh, I know this game!
+洁西卡：那边没有……这边……啊，这个是我认识的游戏！
+
+Jessica: It's ... a medal with a chef hat pattern? Wait, it can be a cloud, or an explosion?
+洁西卡：这是……画着厨师帽纹样的……徽章？不……这或许是一朵云？或者一个爆炸？
+
+Jessica: Who will like this medal ...?
+洁西卡：这个徽章，有谁会喜欢呢……？
+
+101  洁西卡玩法故事【禁闭室02】26
+
+Jessica: That sounds fun. So why are you locked here?
+洁西卡：……那真有趣。你为什么被关在这里呢？
+
+Boy's Voice: Oh, I...I cheated in the exam...
+男孩的声音：哦，我，我考试作弊了……
+
+Boy's Voice: You know, just write the answer on your palms with the Seedling Grass juice, blow on it and the writings will appear again!
+男孩的声音：你知道，就是把答案藏在自己手心里，用秧秧草汁写在手上，之后吹一口气就会出现字！
+
+Jessica: That's clever of you.
+洁西卡：你真聪明。
+
+Boy's Voice: But this was the wrong thing to do. I could have gotten away from cheating, but ... someone sold me out! *sighs*
+男孩的声音：可是这是不对的。虽然本来我不会被发现，可是……可是我被人出卖了！唉……
+
+Boy's Voice: I will never let any other living thing know about my plan again!
+男孩的声音：下次绝对不让第二个人知道我的计划！
+
+Jessica: ...?
+洁西卡：……？
+
+102  洁西卡玩法故事【禁闭室03】27
+
+Another Boy: I'm following your instructions, Instructor.
+另一个男孩：我在好好听话，老师。
+
+Jessica: Hmm? You are not the boy I know.
+洁西卡：咦？你不是原来的那个人了。
+
+Another Boy: You aren't the instructor? Sorry to disappoint you, people come and go frequently in this room.
+另一个男孩：你不是老师？很抱歉让你失望了。但禁闭室的人员流动稍微频繁了些，请你理解。
+
+Jessica: Do you want me to chat with you, too?
+洁西卡：你也想让我陪你聊天吗？
+
+Another Boy: No, I don't like talking to people. I prefer to stay with my friend Andy.
+另一个男孩：不，我不爱聊天，我只喜欢和我的朋友安迪一起。
+
+Jessica: Andy?
+洁西卡：安迪？
+
+Another Boy: It can crush anything into pieces with its strong jaw. It is the strongest worm in the world.
+另一个男孩：它可以咬碎一切东西，是世界上最厉害的虫子。
+
+Jessica: ...?
+洁西卡：……？
+
+The deer tilts her head and spins in a circle.
+小鹿歪过脑袋，转了一个圈儿。
+
+Jessica: So what is it?
+洁西卡：那是什么？
+
+The boy no longer says anything. It seems he really doesn't like talking to people.
+男孩没有再回话。看起来他真的不喜欢聊天。
+
+103  洁西卡玩法故事【禁闭室04】28.1
+
+Jessica: ... There's nobody here.
+洁西卡：……里面没有人。
+
+Jessica: Where is the little boy? And Andy? Where is it?
+洁西卡：那个小男孩去哪儿了？安迪呢？它在哪儿？
+
+Jessica shouts out to look for Andy.
+放开了嗓子，洁西卡呼唤着安迪的名字。
+
+Jessica: Andy! Andy!
+洁西卡：安迪——！安迪——！
+
+A rustling sound comes from the corner.
+角落里传来了沙沙的响声。
+
+Jessica: Hmm? Andy, is it you?
+洁西卡：嗯？是安迪吗？
+
+104  洁西卡玩法故事【主框】1.1
+
+Instructor: Good morning, Ms. Jessica.
+训导教员：早上好，洁西卡小姐。
+
+Jessica: Hello, lady I don't know.
+洁西卡：你好，不认识的女士！
+
+Jessica: Oh ... you look very serious. Perhaps I should call you the "smileless friend"?
+洁西卡：哦……你的表情好严肃，或许我应该叫你“不爱笑的朋友”？
+
+Instructor: ...
+训导教员：……
+
+Jessica: !!!
+洁西卡：——！
+
+Instructor: Ms. Jessica! Please be quiet.
+训导教员：请保持安静，洁西卡小姐。
+
+Instructor: We have learned all about your misbehavior in Green Lake Campsite.
+训导教员：你在绿湖营地的逾行，我方已经悉数得知。
+
+Instructor: Since Ms. Vertin has vouched for you and the Foundation has decided to be lenient with you, you will be exempt from grounding and fasting. However, it doesn't imply that you will be free from other means of discipline in the future.
+训导教员：在维尔汀小姐担保与基金会方的仁慈决策下，你将免去本该受到的禁闭与禁餐。但这不代表你在这里不会受到任何惩戒。
+
+Instructor: Whatever the Foundation has in store for you, you will be staying here to complete a 12-day behavior modification course.
+训导教员：无论如何，你将在此处度过为期十二天的行为矫正训练。
+
+Instructor: You will only be allowed to graduate if you pass the final assessment and receive a certificate of successful social adaptation.
+训导教员：直到你成功地通过考核，获得社会适应证书，成为毕业生后才能离开。
+
+Jessica: A sesame? What's that?
+洁西卡：烤河？那是什么？
+
+Jessica: Do I still have to take those pills? Wow, look at these white walls. It's just like the room I used to live in ...
+洁西卡：我还得吃那些药片儿吗？这里白花花的，就像是我以前居住的房间……
+
+Instructor: Ms. Jessica.
+训导教员：洁西卡小姐。
+
+Instructor: I will have to remind you that according to Article 13 of the Personnel Management Regulations Manual, you have constituted a breach of discipline for interrupting an instructor multiple times.
+训导教员：我必须要提醒你，根据《矫正人员管理守则》第13条的内容，你屡次打断教员发言的行为已属违规。
+
+Instructor: Come see me at lunch today. We are going to take an extra session on conversation etiquette.
+训导教员：我们将利用本日的午餐时间对你进行巩固谈话礼仪的课程训练。
+
+Instructor: Now, please pay attention to the following rules and keep them in mind all the time.
+训导教员：下面，请你集中精神，倾听属于这里的规则，将其谨记于心。
+
+105  洁西卡玩法故事【主框】1.2
+
+Jessica: Very funny. Is this a game you play here? I've never tried anything like this. It sounds great fun!
+洁西卡：这是这个地方专有的游戏吗？我没玩过这样的游戏，它看起来有趣极了！
+
+Instructor: Apparently your understanding of the world is more limited than we expected.
+训导教员：……看来你对世界的理解比我们所了解的更加浅薄。
+
+Instructor: Don't worry too much about it, Ms. Jessica. We will make you an excellent student.
+训导教员：不用太过担心，洁西卡小姐。我们会将你改造成一名优秀学员的。
+
+Jessica: But I don't wanna...
+洁西卡：可我并不想——
+
+Beep: New visit request. Visitor: Sonetto, Employee ID: SF38000000801102Y.
+提示音：新增访问申请，来访者SF38000000801102Y十四行诗。
+
+Instructor: Time's up. It's time. You have a visitor today, please follow me.
+训导教员：时间到了。你今天有一场会面，请跟我来。
+
+106  洁西卡玩法故事【主框】1.3
+
+Campus Security: Ms. Sonetto ... That's right. You are on this list. This way.
+校内警卫：十四行诗小姐……没错，您在访问名单上。请进。
+
+Sonetto: Thank you.
+十四行诗：多谢。
+
+Jessica: I remember you! You were with Jennifer ... Um, Sone- ...
+洁西卡：我记得你！你是和珍妮弗在一起的……的，十四行……
+
+Instructor: Good morning, Ms. Sonetto.
+训导教员：十四行诗小姐，早上好。
+
+Instructor: Visit to students in probationary period shall not exceed 15 minutes. Please make sure you have left the room before the countdown is finished.
+训导教员：仍在考察期的学员探视时间不可超过十五分钟，请在倒计时结束前离开房间。
+
+Instructor: By the way, please send our regards to the Timekeeper.
+训导教员：最后，请代表校方向司辰问好。
+
+Sonetto: Thank you for the kind reminder, I will...
+十四行诗：感谢您的提醒，我明白……
+
+Jessica: *Sniffs* Hmm, this is the puppy smell I know.
+洁西卡：呼——哈，是我所熟悉的小狗气味～
+
+Sonetto: Little ... puppy?
+十四行诗：小……狗？
+
+Jessica: I miss you guys so much!
+洁西卡：我好想你！还有你们！
+
+Jessica: Are you here to play with me? There's no one else here, not to mention friends. Even Vertin is gone.
+洁西卡：你是来陪我玩儿的吗？这里没有人，也没有朋友——维尔汀也不见了。
+
+Sonetto: Timekeeper is negotiating with the Foundation for your case. She asked me to come here to ...
+十四行诗：司辰正积极与基金会的相关负责人沟通，她这次拜托我过来是……
+
+Jessica: Hmm? What's this? A gift for me?
+洁西卡：嗯？这是什么？给我的礼物吗？
+
+Sonetto: Here is a phone for you to ask for meet-ups with us. Timekeeper has applied to the Foundation for a permission that allows you to see other people on a more frequent basis.
+十四行诗：这是申请会面专用的联络电话，司辰通过基金会为你申请了会面的许可。
+
+Sonetto: I have put my contact details in this booklet. You can also add in others' details, so that all of us can stay in touch.
+十四行诗：这本联络簿里记录了我的联络方式，你也可以把你获得的其他联络方式加入其中，这样你就可以随时见到我们了。
+
+Sonetto: But please note that only one meet-up is allowed each day, so please think it through carefully...
+十四行诗：不过需要注意的是，一天只能进行一次会面，需要谨慎地考虑……
+
+Jessica: A phone? Is it like an instrument?
+洁西卡：这是乐器吗？
+
+Sonetto: No, please don't flip it up so hard. You might break the...
+十四行诗：不，请不要这样用力地开合它，这可能会造成损害……
+
+Jessica: Wow! It lights up!
+洁西卡：哇——它亮了！
+
+107  洁西卡玩法故事【主框】1.4
+
+Sonetto: Alright. Very well, you have figured out how to use it ...
+十四行诗：很好，你已经学会了如何使用它……
+
+Beep: CO-092146, Jessica. Your visit will end in 20 seconds. Please leave the room at your earliest convenience.
+提示音：CO-092146，学员洁西卡。
+会面时间即将结束，进入20秒倒计时，请尽快退出会面室。
+
+Sonetto: Our time is up, I should go now. I will see you soon.
+十四行诗：时间到了，我该走了。不久后我们还会见面的。
+
+Jessica: Oh ... fine.
+洁西卡：哦，好吧，再见……
+
+108  洁西卡玩法故事【主框】1.5
+
+Jessica: I'm starving ...
+洁西卡：我的肚子饿了……
+
+Instructor: I'm afraid you are not allowed to dine, Ms. Jessica.
+训导教员：非常抱歉，洁西卡小姐。
+
+Instructor: Because of your problematic manner earlier, we are going to cancel your lunch break and review the course of conversation etiquette instead.
+训导教员：因为你言行上的过失，本日午餐时间将用于谈话礼仪学科的巩固。
+
+Instructor: Please remember how you feel right now, so that you will not make the same mistake again.
+训导教员：请牢记此刻的感受，杜绝日后可能出现的失误。
+
+109  洁西卡玩法故事【主框】1.6
+
+Jessica: Hungry, stomach hurts. Gotta find something to eat right away ... Hmm?
+洁西卡：肚子饿得好痛，我得赶紧去找点东西填饱肚子……嗯？
+
+Jessica: Something smells ... good ...
+洁西卡：空气里有……香香的味道……
+
+Jessica: Probably coming from that way ...
+洁西卡：好像是在，那个方向……
+
+110  洁西卡玩法故事【主框】1.7
+
+Jessica: I hate this. The bed here is stone-hard compared to fur and moss, and it smells moldy ... Yuck.
+洁西卡：这儿的床真硬，一点儿都比不上兽毛和苔藓，还有一点发霉的味道……真讨厌。
+
+Jessica: Whoa!
+洁西卡：哇！
+
+Jessica: The instrument is singing!
+洁西卡：乐器在自己唱歌！
+
+Jessica: Uh, it's getting annoying!
+洁西卡：它真吵！
+
+Jessica: Let me see what I can do to stop it ...
+洁西卡：我得想办法让它停下来……
+
+After a violent attack, the tiny, strangely-shaped machine opens up and makes a rattling sound.
+形状古怪的小小机器在混乱地攻击中被打开来，发出了一下细碎的响声。
+
+Then a familiar voice comes from inside.
+随后，里面传出了熟悉的声音。
+
+Vertin: Hello, Jessica. This is Vertin.
+维尔汀：你好，洁西卡。我是维尔汀。
+
+Jessica: Vertin! How did you get into this instrument?
+洁西卡：维尔汀！你怎么被关进乐器里面了？
+
+Jessica: Wait ... Are you in trouble? Is this the trouble you usually have in the "outside world"?
+洁西卡：哦……或者你遇到了麻烦？这是“外头”的麻烦吗？
+
+Jessica: Don't worry, I'll smash this odd instrument open and free you right away!
+洁西卡：别担心，我马上就砸烂这个古怪乐器，把你救出来！
+
+Vertin: No, please don't do that.
+维尔汀：不，不要这么做。
+
+Vertin: I'm sorry, Jessica. I'm not ... in this instrument.
+维尔汀：抱歉，洁西卡。我并不在……乐器里面。
+
+Vertin: You may take this as a kind of arcanum. As we speak, I'm actually in a different place, but I promise I will come and see you soon.
+维尔汀：你可以把这理解为神秘术。我现在在别的地方，但我保证会尽快与你见面。
+
+Jessica: Alright, you'll never lie to me ...
+洁西卡：好的，你不会骗我。
+
+Jessica: Right?
+洁西卡：对吧？
+
+Vertin: Yes. You are right.
+维尔汀：确实如此。
+
+Vertin: I have received your assessment result... Although it is not the best result we hoped for, it is within our estimation.
+维尔汀：我收到了你的评估报告……虽然结果并不理想，但也在我们的意料之中。
+
+Vertin: I want you to know that everything is still under good control.
+维尔汀：我希望你知道，一切仍旧是可控的。
+
+Jessica: You mean those odd games? They made me hungry, but I was fine. I found something to eat soon enough.
+洁西卡：你是说那些奇怪的游戏吗？它让我饿肚子了，不过也没有很饿，我很快就找到了吃的东西。
+
+Jessica: Anyway, this place is fun! I met strangers and did things I've never done before!
+洁西卡：这儿还有很多我没见过的人，没做过的事儿，这儿很有趣！
+
+Vertin: Well, this is good news.
+维尔汀：……这倒是个好消息。
+
+Vertin: Trust me, these are all temporary.
+维尔汀：相信我，这一切都会是暂时的。
+
+Vertin: You will go through some modified curriculum in the next few days. I believe Sonetto has given you the contact booklet.
+维尔汀：接下来你将面临为期数天的矫正课程——我想十四行诗也已经将那本联络簿交给你了。
+
+Jessica: Yes, she said I could use this instrument to get you guys here!
+洁西卡：是的，她说我可以用这个乐器把你们叫过来一起玩！
+
+Vertin: Exactly. Put down the names and contact details of your visitors. Whenever you feel like some help, call us ... or them.
+维尔汀：没错。记录好属于你的探访者联络方式，在你需要帮助的时候，记得及时联系我们——或者他们。
+
+Vertin: We will all be glad to hear from you, even if you just call for a brief meet-up.
+维尔汀：如果只是单纯地想见上一面，我想大家也是欢迎的。
+
+Vertin: I hope you will become more comfortable with these trainings soon.
+维尔汀：希望你能尽快适应训练的节奏。
+
+Vertin: I'm looking forward to hearing more good news from you.
+维尔汀：我等着你之后的好消息。
+
+111  洁西卡玩法故事【主框】2.1
+
+Beep: CO-092146, Jessica.
+提示音：CO-092146，学员洁西卡。
+
+Beep: Please recover your consciousness and be prepared to take up today's study. 
+Please recover your consciousness and be prepared to take up today's study.
+提示音：请确认神志清醒并进入教学状态，请确认神志清醒并进入教学状态。
+
+Jessica: *Yawns* ... Hmm?
+洁西卡：嗯……嗯？
+
+Instructor: Ms. Jessica, today's first lesson will start shortly.
+训导教员：洁西卡小姐，今天的课程即将开始。
+
+Instructor: Please finish your morning routine in 5 minutes.
+训导教员：请你在五分钟内盥洗完毕。
+
+Instructor: You still have 4 minutes and 45 seconds. I suggest you make good use of it.
+训导教员：你还有四分四十五秒，请不要继续浪费它们。
+
+112  洁西卡玩法故事【主框】2.2
+
+Jessica: *Stretching* Uhhh! This game has lasted way too long. My whole body feels sore ...
+洁西卡：嗯——嗯！这场游戏玩得太久了，我浑身都在发酸……
+
+Beep: New visit request. New visit request. Visitor identity to be confirmed.
+提示音：新增访问申请，新增访问申请。请确认来访者身份。
+
+Jessica: Hmm? Who is it this time? Could it be Sonetto?
+洁西卡：嗯？是谁又来找我玩儿啦？是十四行诗吗？
+
+Beep: Visitor: Jennifer Woods.
+提示音：来访者信息：珍妮弗·伍兹。
+
+Jessica: Fabulous! It's Jennifer! YES! She must be here to join me in the game. I gotta comb my hair before meeting her, oh wait, and wash my face!
+洁西卡：是珍妮弗——太好了！她也来找我玩儿了。我得梳梳头发，不，我得先洗洗我的脸再去见她！
+
+113  洁西卡玩法故事【主框】2.3
+
+Beep: CO-092146, Jessica.
+提示音：CO-092146，学员洁西卡。
+
+Beep: You have been distracted for over 30 seconds. Attention control failure detected. Please refocus on your studies.
+提示音：检测到注意力不集中超过30秒，请尽快进入学习状态。
+
+Jessica: You annoying thing, still noisy as ever.
+洁西卡：你这个吵闹的家伙，声音总是这么大。
+
+Jessica: Why can't you be like those little conchs with all kinds of patterns? They always speak softly, and have the most gentle and beautiful voices!
+洁西卡：为什么不学学那些花色奇怪的小螺呢？它们总是轻声细语，声音还十分动听！
+
+After a while in the classroom.
+在教室内度过了一段时间。
+
+114  洁西卡玩法故事【主框】3.1
+
+Beep: New visit request. Visitor: Tooth Fairy, employee ID DS84000199806114O.
+提示音：新增访问申请，来访者DS84000199806114O牙仙。
+
+Beep: Please arrange the visit as soon as possible.
+提示音：请尽快安排访问。
+
+Jessica: Hmm?
+洁西卡：嗯？
+
+Jessica: Another new friend!
+洁西卡：又有新的朋友来找我玩儿了！
+
+Jessica: I never had so many visitors when I was at Green Lake.
+洁西卡：在绿湖的时候，从来没有这么多人来找我。
+
+Jessica: Vertin was right. It sure is a lot more fun in the outside world!
+洁西卡：维尔汀说得对，外面果然有趣多了！
+
+115  洁西卡玩法故事【主框】4.1
+
+After a while in the classroom.
+在教室内度过了一段时间。
+
+116  洁西卡玩法故事【主框】5.1
+
+Jessica: Things seem different today. No more books?
+洁西卡：今天不一样了，这里没有那些书本了。
+
+Instructor: This is the midterm exam, a test of what you have learned in the past few days.
+训导教员：期中测验，这是为了检验你的学习成果而准备的一次审核。
+
+Instructor: We will be using the same set of questions you did before the enrollment: Societal Level Preliminary Test A-001 (revised ed.).
+训导教员：本次试题，仍旧为《社会化基础测试题A-001（修订版）》。
+
+Jessica: Okay, I see, another quiz game. Actually it's not that fun ...
+洁西卡：我明白了，又是答题游戏。其实它并没有那么好玩儿……
+
+Instructor: Please take a serious attitude to the test, and provide answers to the questions I ask.
+训导教员：请端正仪态，集中精神，并根据我的提问作答。
+
+Instructor: I hope you can do it better this time, to prove that we have delivered you from barbarism onto the path of reason.
+训导教员：我希望你能够得到好一些的成绩，这代表着你从粗鄙的兽牲之道迈入人类的理智之辉。
+
+Instructor: Now, close your eyes. You will see a sheet of white light. Place your finger on the designated spot.
+训导教员：闭上眼睛，你将看到一面白光，将手指放在你应当触碰的位置。
+
+117  洁西卡玩法故事【主框】5.2
+
+Instructor: The situation is not good. We can hardly feel optimistic about this.
+训导教员：情况并不乐观。
+
+Instructor: The result shows that you haven't been strict with yourself.
+训导教员：可以看出，你在日常生活中对自己的要求有所懈怠。
+
+Instructor: We are going to make some adjustments to the curriculum to achieve a better result for you.
+训导教员：当然，在之后的教学里，我们也会针对你的状况对教学内容进行相应的调整。
+
+Instructor: But before that happens...
+训导教员：但在此之前……
+
+Instructor: Please return to your dorm in 15 minutes and freshen up.
+训导教员：请你在十五分钟内尽快回到宿舍做好休整。
+
+Instructor: An urgent call will be put through to your dorm shortly. Please do not leave the room before answering it.
+训导教员：你有一项非常重要的联络申请需要处理，在处理好它之前，请勿随意外出。
+
+Instructor: Remember what I have taught you -- always express your gratitude to the people who are willing to lend a helping hand. If it weren't for that lady, you wouldn't have these special treatments.
+训导教员：请谨记我所教导的，务必要对伸出援手之人表达自己的感谢之情——你能拥有如此优待，多亏了她的争取。
+
+Jessica: Hmm?
+洁西卡：嗯？
+
+Jessica: Who do you mean by "that lady"?
+洁西卡：“她”是谁？
+
+Jessica: Whoa!
+洁西卡：哇！
+
+Jessica: Vertin!
+洁西卡：维尔汀！
+
+Vertin: Hello, Jessica.
+维尔汀：你好，洁西卡。
+
+Jessica: I knew it was you!
+洁西卡：我猜到是你了！
+
+Jessica: Many friends have come and played with me these days! But still this place is too small. I wanna go somewhere bigger!
+洁西卡：这几天来了很多人陪我玩儿！但这里太小了，我想去更大的地方！
+
+Vertin: I will ... look into that as soon as possible.
+维尔汀：我会……尽快处理好这个的。
+
+Vertin: If I remember it correctly, you have an exam today, right?
+维尔汀：如果我没记错，今天应该是测试的日子？
+
+Jessica: You mean that special game I played earlier?
+洁西卡：你是说和之前一样的特殊游戏吗？
+
+Jessica: Yeah, it was the exact same game, quite a boring one.
+洁西卡：是的，什么都没变，很没新意的游戏。
+
+Jessica: But it's still more fun than listening to the instructor's story!
+洁西卡：但也比教员小姐讲的故事要有趣！
+
+Vertin: I'm glad ... to find that you have kept your energy up.
+维尔汀：看到你还如此有活力……我很高兴。
+
+Vertin: Whether the exam result turns out to be good or not, we have plenty of opportunities to turn things around.
+维尔汀：不管这次的结果如何，一切都还有变化的余地。
+
+Vertin: You will have the rest of the day all to yourself. Make good use of it and have fun.
+维尔汀：接下来的时间你可以自由安排，希望你可以好好利用。
+
+Vertin: You can also get in touch with other friends whom you want to meet. Perhaps they can offer some help.
+维尔汀：可以多联系那些你想见的朋友，或许他们会给你其他的帮助。
+
+Jessica: I will!
+洁西卡：我会的！
+
+Vertin: That's good. I sincerely hope that you will find joy in the upcoming sessions.
+维尔汀：那很好。祝愿你能从之后的课程中获得乐趣。
+
+Vertin: I look forward to seeing your final performance.
+维尔汀：期待你最终的表现。
+
+118  洁西卡玩法故事【主框】11
+
+Vertin: Jessica.
+维尔汀：洁西卡。
+
+Jessica: Vertin!
+洁西卡：维尔汀！
+
+Vertin: Tomorrow is your final assessment. How are you feeling? I hope you aren't too anxious about it.
+维尔汀：明天就是评估测验了，你感觉怎么样？希望你不会太紧张。
+
+Jessica: What is "anxious"?
+洁西卡：紧张是什么？
+
+Vertin: ...Very well.
+维尔汀：……很好。
+
+Vertin: I wouldn't hope for any answers other than this.
+维尔汀：对你而言，这就是最好的状态。
+
+Vertin: Trust me. I will help you. Just go in there and do your best. I will sort out the rest for you.
+维尔汀：你以自己的能力去做就足够了，剩下的问题……我会帮你想办法的。
+
+Jessica: Is anything bothering you? Are you in trouble?
+洁西卡：你在困扰什么事儿吗？你遇到了麻烦吗？
+
+Vertin: ...It's nothing, don't worry.
+维尔汀：……没什么，别担心我。
+
+Vertin: I'm on my way to the school. I will see you very soon.
+维尔汀：我在前往你那边的路上。我们马上就能见面了。
+
+Jessica: Fabulous! Finally, Vertin! I miss you so, so much!
+洁西卡：我终于可以见到你了，维尔汀！我好想你！
+
+Jessica: I've run out of the good berries, but I guess I can prepare a song for you!
+洁西卡：我没有好吃的野果了，但我想我可以为你准备一支歌！
+
+Vertin: Thank you. See you soon.
+维尔汀：谢谢你。我们很快再见。
+
+119  洁西卡玩法故事【主框-二周目】1
+
+Jessica: *Stretching* Mmm! I'm up, cool!
+洁西卡：呼——嗯！很好，我起床了！
+
+Vertin: Hello, Jessica.
+维尔汀：你好，洁西卡。
+
+Jessica: Wow, Vertin! Hi! But ... am I dreaming? What are you doing here?
+洁西卡：呀！你好，维尔汀！但……我是在做梦吗？你怎么会在这儿呢？
+
+Vertin: I'm here, as real as it can be. This is not a dream.
+维尔汀：我确实在这里，这不是你的梦。
+
+Jessica: But ... the little speaker didn't mention your name. How come...?
+洁西卡：可是……小喇叭没有喊你的名字，你怎么……？
+
+Vertin: Because I'm not here to visit.
+维尔汀：我不是探视者。
+
+Vertin: I'm here to go through some procedures for Horropedia, and to bring you some good news on the way.
+维尔汀：我来这里是为了办理一些有关于恐怖通的手续，并为你带来一个好消息。
+
+Jessica: What is it?
+洁西卡：什么好消息？
+
+Vertin: Starting from today, you won't have to take classes by their schedule. You can only go to the classes you like.
+维尔汀：从今天开始，你不用再遵从课表，而是可以自己选择想读的课程。
+
+Vertin: This should provide you with more flexibility throughout the program and allow you to enjoy it more.
+维尔汀：这会带来一些自由和更多趣味性，也会让你的学习过程更有趣一些。
+
+Vertin: Now, I have other things to attend to, I'm afraid I can't stay for any longer today.
+维尔汀：今天我还有些事要做，不能陪你太久。
+
+Vertin: This is my contact detail. You can call me anytime.
+维尔汀：这是我的联系方式，你可以随时打给我。
+
+120  洁西卡玩法故事【主框-三周目】1
+
+Jessica: Little Trumpet?
+洁西卡：……小喇叭？小喇叭？
+
+Forcefully torn apart, the life of the poor speaker on the deer girl comes to an end.
+在粗暴的蛮力撕扯下，鹿女孩儿身上那可怜监控器的寿命只能暂时告一段落了。
+
+Jessica: Yes!
+洁西卡：太好了。
+
+Jessica: Looks like we're ready for a new game.
+洁西卡：看起来我们都准备好玩一个新游戏了。
+
+Jessica: Goodbye, annoying speaker.
+洁西卡：再见了，烦人的小喇叭。
+
+"Sonetto": ...
+“十四行诗”：……
+
+Campus Security: Ms. Sonetto, how can I help...?
+校内警卫：十四行诗小姐，您是……？
+
+The guard looks at the oddly-behaving orange-haired girl and hesitantly opens his mouth.
+警卫望着行为古怪的橘发女孩，犹豫着开了口。
+
+"Sonetto": ...
+“十四行诗”：……
+
+"Sonetto": I am, visiting.
+“十四行诗”：我去，探望。
+
+Campus Security: ......Right. Okay. I see.
+校内警卫：……好，好的。我明白了。
+
+"Sonetto": ...
+“十四行诗”：……
+
+Jessica: ...
+洁西卡：……
+
+Jessica: Turns out "Sonetto" is a useful title in a place like this!
+洁西卡：“十四行诗”这个身份，在这种地方真好用呀！
+
+Jessica: ♪～♪～
+洁西卡：♪～♪～
+
+121  洁西卡玩法故事【玛蒂尔达】5.2
+
+Matilda: ...
+玛蒂尔达：……
+
+Jessica: You look pale, Matilda.
+洁西卡：玛蒂尔达，你的脸色看起来很差。
+
+Matilda: I think ...
+玛蒂尔达：我想……
+
+Matilda: I should probably change my lesson plan ...
+玛蒂尔达：我或许应该改变下我的教学计划了……
+
+122  洁西卡玩法故事【玛蒂尔达】5.3
+
+Matilda: Oh!
+玛蒂尔达：哦！
+
+Matilda: Ohhh!
+玛蒂尔达：哦哦！
+
+Matilda: This is my girl... Passing the exam with flying colors!
+玛蒂尔达：不愧是我教的学生……竟然一道题都没有错！
+
+Matilda: Ha... Matilda can do everything perfectly, including teaching! This has better proven that I was just unlucky to lose 3 points to Sonetto in that exam back then!
+玛蒂尔达：哼哼～玛蒂尔达连教育别人都是最优秀的！这更加证明了当年那三分纯粹是运气问题！
+
+She complacently pats on the red ticks on the exam paper.
+玛蒂尔达得意地拍了拍试卷上鲜红的对勾。
+
+Jessica: Back then?
+洁西卡：当年？
+
+Matilda: Oh, that was an exam on A Brief Introduction to Strategy. I got one multiple-choice question wrong...
+玛蒂尔达：哦，那是一场关于《策略概论》的考试，我就错了一道多选题……
+
+Matilda: How did Sonetto manage to get full marks in every exam?
+玛蒂尔达：十四行诗她……到底是怎么做到次次满分的？
+
+Matilda: I even prayed to that "Man in Books" in the library... Turns out it was just a scam!
+玛蒂尔达：我当年还向图书馆那个书中人祷告了……结果根本就是谎言！
+
+Matilda: One boring, stupid mirror! "Pray, then you can pass the exam with full marks"—that kind of thing ... It was just a mirror filled with cheat sheets!
+玛蒂尔达：那就是面无聊的蠢镜子！什么“祈祷就能满分通过考试”……只不过是因为那后面藏的都是小抄！
+
+Matilda: Hmph. But I have also put my full marks exam paper into that dumb mirror...
+玛蒂尔达：哼，不过后来我把自己的满分试卷也都塞到那个蠢镜子的后面去了——
+
+Matilda: I'm a much better model than some random rumors!
+玛蒂尔达：与其向流言祈祷还不如向我祈祷呢！
+
+Jessica: Oh, that's what happened!
+洁西卡：哦——原来如此！
+
+123  洁西卡玩法故事【玛蒂尔达】5.1
+
+Matilda: Now I know what happened the other day. Don't pull a prank on the instructor again! Understand?
+玛蒂尔达：上次的事情我都知道了，下次可不能用这种方式捉弄了老师了！知道吗？
+
+Matilda: Ahem... Let's put that aside. Now it is time for us to see how well I ... YOU have been doing in class!
+玛蒂尔达：咳咳……除此之外，是时候验收下我……你的成果了！
+
+Matilda: This is the quiz I have prepared for you! The questions are all from Societal Level Preliminary Test A-001 (revised ed.), which means you will find the questions designed from different angles in here, and they could be challenging!
+玛蒂尔达：这就是我为你准备的小测！根据《社会化基础测试题A-001（修订版）》改编而成，保证题目灵活而具有挑战性！
+
+Jessica: Oh! I've seen these sentences before!
+洁西卡：啊！我见过这些句子！
+
+Matilda: Really?
+玛蒂尔达：真的吗？
+
+Matilda: This is terrific! But of course you would memorize all these with the help from the great genius Matilda!
+玛蒂尔达：太好了！在天才玛蒂尔达的帮助下，你果然好好地把这些知识都记了下来！
+
+Matilda: I will give you 15 ... no, 45 minutes to finish all the questions! Let's find out what a great instructor I have been!
+玛蒂尔达：嗯～给你十五……不，四十五分钟！让我看看我的教学成果究竟如何！
+
+124  洁西卡玩法故事【食堂06】6.2
+
+Jessica: Hmm? I don't have anything for you ...
+洁西卡：嗯？我并没有什么要给你的……
+
+Chef's Hat Critter: Chirr purr!
+厨师帽魔精：唧唧——嘎嘎——！！
+
+Jessica: Ouch! That hurts!
+洁西卡：啊！好痛。
+
+Jessica: You've got a bad temper, little brat!
+洁西卡：你真是个怪脾气的家伙！
+
+125  洁西卡玩法故事【食堂06】6.3
+
+Chef's Hat Critter: Chirr purr, chirr purr!! Purr!
+厨师帽魔精：唧唧咕！唧唧咕咕！咕咕！
+
+126  洁西卡玩法故事【图书馆04】10.2
+
+Jessica: *coughs*
+洁西卡：咳咳……
+
+Jessica: So many shiny pieces, but they sting a little ...
+洁西卡：好多闪亮亮的碎片，就是刺得我有点痛……
+
+The shattered mirror fragments form a tiny, unshakable hill.
+破碎的镜片垒起一座不可撼动的小小山丘。
+
+Jessica: Humph ... You're not a furry friend, you're just a weirdo!
+洁西卡：哼……你根本就不是毛茸茸的朋友，你是个怪家伙！
+
+Jessica: I know what to do with someone who hurts me ...
+洁西卡：我知道怎么对待弄疼我的家伙……
+
+Giant Critter: Chirr!
+大只魔精：叽叽——！！
+
+Jessica: Don't run!
+洁西卡：别跑！
+
+127  洁西卡玩法故事【图书馆04】10.3
+
+Jessica: So many shiny pieces, but they sting a little ...
+洁西卡：好多闪亮亮的碎片，就是刺的我有点痛……
+
+Jessica rubs her back and then her legs.
+洁西卡摸摸背部，又摸摸腿儿。
+
+Jessica: Hm? There's something stuck under the pieces ...
+洁西卡：嗯？闪亮亮下面好像夹着什么……
+
+Jessica: This is ...
+洁西卡：这是……
+
+128  洁西卡玩法故事【厕所04】15.2
+
+The notes coming from the flute are rough and harsh, and it is difficult to make a tune out of them. Then the pool of water on the ground churns, and a ghostly white figure leaps up through its surface.
+笛中飘出的音符生涩刺耳，难以连成一段曲调。地面上水塘翻腾着，一道白晃晃的身影破开水面，蹿了起来。
+
+Poltergeist: Gah! That sound is killing me ... Stop it!
+吵闹鬼：呜呜！好刺耳……不要攻击我——！
+
+Jessica: Wah! I'm all wet! You ...
+洁西卡：哇啊！我都湿透了——你……
+
+Poltergeist: Ahhh! Stay away! Don't come near me!
+吵闹鬼：啊啊啊！别过来——不要靠近我——！！
+
+Poltergeist: I've got to, I've got to protect myself! Yeah, protect myself!
+吵闹鬼：我得，我得保护自己……对，保护自己！呜……！
+
+129  洁西卡玩法故事【厕所04】15.4
+
+A beautiful melody comes out from the end of her flute, sending ripples across the puddles. A white shadow emerges from the reflection.
+对着墙上的数字，笛中飘出了一段悠扬的音乐。地面上的水塘涌动，一个白晃晃的身影从中模糊地显现出来。
+
+Poltergeist: Gre...great, someone finally reaches me... Can ... can you see me?
+吵闹鬼：太，太好了，终于有人联系我了……你，你看得到我吗？
+
+Jessica: Yes, and you are ...
+洁西卡：我看得到，你是——
+
+Poltergeist: Aaaahh! Please stay away from me!!!
+吵闹鬼：啊啊啊！请不要靠近我！！！
+
+Jessica: Whoa! Where did that bucket come from? I'm all wet!
+洁西卡：哇啊！这是哪儿来的水桶？我都湿透了！
+
+Jessica: Hmm? Where's that new friend?
+洁西卡：嗯？刚刚的朋友哪儿去了？

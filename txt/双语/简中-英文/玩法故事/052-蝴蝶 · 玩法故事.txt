@@ -1,0 +1,2287 @@
+蝴蝶 · 玩法故事
+
+目录 / Contents
+
+01  【3.5】蝴蝶玩法剧情01
+02  【3.5】蝴蝶玩法剧情02
+03  【3.5】蝴蝶玩法剧情03
+04  【3.5】蝴蝶玩法剧情04
+05  【3.5】蝴蝶玩法剧情05
+06  【3.5】蝴蝶玩法剧情06
+07  【3.5】蝴蝶玩法剧情07
+08  【3.5】蝴蝶玩法剧情08
+
+────────────────────
+
+01  【3.5】蝴蝶玩法剧情01
+
+Laplace Scientific Computing Center
+拉普拉斯科算中心
+
+Laplace Researcher I: Welcome to the LSCC headquarters.
+拉普拉斯研究员Ⅰ：欢迎来到拉普拉斯科算中心总部。
+
+Laplace Researcher I: I see you were brought in from one of our partner labs. It won't take long for you to notice we do things differently around here.
+拉普拉斯研究员Ⅰ：我记得你是从外部的科研工作室转过来的，很快你就会发现这里和外头不太一样。
+
+Laplace Researcher I: Rule one at Laplace is don't make trouble. The second rule is if you really have to make trouble, make it spectacular.
+拉普拉斯研究员Ⅰ：拉普拉斯的第一要义是：别惹事；
+第二要义是：要惹事就惹个大的。
+
+New Researcher: Thank you for the warning, but I'm sure you needn't worry.
+新人研究员：谢谢你，无需替我担心。
+
+Laplace Researcher I: I don't think you understand just what you're in for yet. Ah, third rule: never, under any circumstances, get on the wrong side of Medicine Pocket. Here we are.
+拉普拉斯研究员Ⅰ：显然你还没有明白……噢，第三要义是：千万别惹怒兔毛手袋研究员！你的目的地到了。
+
+The two of them stand before a door ravaged by bite marks. A crooked sheet of paper is taped to it, the title aggressively outlined in colored marker.
+两人在某扇饱受牙印摧残的门前停下。
+一张稿纸歪斜地贴在门上，彩色马克笔着重勾勒了标题。
+
+New Researcher: "Join us! The Pre-Storm Atmospheric and Oceanic Circulation Survey Group is now recruiting new members!"
+新人研究员：“人员招募！‘暴雨’前地球大气环流与海洋环流观测小组。”
+
+New Researcher: It's a compelling research topic. Though it's a little strange to see it written out in such a childish way.
+新人研究员：蛮有意思的课题。如果不是写在一张充满童趣的传单上。
+
+Laplace Researcher I: Oh, don't mind the door. It's only the unfortunate aftermath of a disgruntled researcher. Allow me to remind you of Rule Three. Repairs will be ordered as soon as the budget permits; should be around 178 business days, give or take.
+拉普拉斯研究员Ⅰ：自从上次兔毛手袋研究员因为经费延迟的问题摧毁了这条走廊上所有的门框后，我们已经找不到任何一间完好的办公室了。重建工作排在了178个工作日之后……
+
+Laplace Researcher I: Ah! Damn it! What kind of monster electrifies a doorknob?! Electrocuting someone doesn't mean you inherit their funding, Medicine Pocket!
+拉普拉斯研究员Ⅰ：啊！该死，谁给门把手通上电了！就算这层楼所有人都被电死了，你也不可能继承我们的经费的，兔毛手袋研究员！
+
+Laplace Researcher I: Anyway, this is your new workspace.
+拉普拉斯研究员Ⅰ：总之，这里就是你接下来要待的地方。
+
+At that, the researcher's voice pauses for a moment.
+话说到这里，研究员的声音顿了顿。
+
+Laplace Researcher I: That's weird. I could've sworn I heard Ms. Simone's voice just now.
+拉普拉斯研究员Ⅰ：奇怪，我怎么隐约听到了希曼女士的声音？
+
+Laplace Researcher I: Don't tell me she's come to shut the circulation survey group down once and for all.
+拉普拉斯研究员Ⅰ：难道她是来宣布环流小组的课题彻底终止的？
+
+Observation Room
+环流观测室
+
+Inside the observation room, the assistant stands before the circulation survey group's only two members.
+观测室内，总负责人助理站在环流观测小组仅有的两名成员面前。
+
+Rachel: Which is it? Good news, bad news, or something in between?
+蕾切尔：是好消息？坏消息？还是不坏不好的消息？
+
+Marguerite: Tous les mêmes. Just let Ms. Simone speak.
+玛格丽特：蕾切尔，让希曼女士说话吧……
+
+Marguerite: I'm sure she'll tell us whatever the case may be.
+玛格丽特：她一定是来传达什么重要消息的。
+
+It's a tepid attempt at calming her colleague, and it predictably falls flat.
+温柔而怯懦的抚慰，但无法打断研究员执拗的自言自语。
+
+Rachel: I know. It's either spectacularly good news or catastrophically bad news. There's no middle ground.
+蕾切尔：天大的好消息，天大的坏消息，我觉得只有这两种可能——
+
+Assistant Simone: Rachel, Marguerite, I have good news.
+助理希曼：蕾切尔，玛格丽特，我是来告诉你们一个好消息的。
+
+Assistant Simone: The Pre-Storm Atmospheric and Oceanic Circulation Survey Group's field research proposal has been approved.
+助理希曼：“暴雨”前地球大气环流与海洋环流观测小组的外出申请，正式通过了。
+
+Marguerite: That is excellent.
+玛格丽特：太好了，希曼女士……
+
+Marguerite: We can finally begin preparations for our first field study.
+玛格丽特：蕾切尔，我们终于可以准备第一次野外考察了。
+
+But her colleague seems hung up on something entirely different.
+本该爆发出喜悦的研究员，却率先把注意力放在了别的地方。
+
+Rachel: You know, you're the third person to ever say our project's entire name correctly. Does that mean Laplace is finally going to give us the attention we deserve? Dare I dream that you might even increase our budget?
+蕾切尔：希曼女士是第三个记得我们小组全名的人。您一定对加入环流观测小组有极大的兴趣吧！
+
+Assistant Simone: Uhm, I'm afraid not.
+助理希曼：没这必要。
+
+Rachel: Fine, fine, but at least tell me that all those pamphlets I sent out paid off! I even mailed copies to all our partner labs.
+蕾切尔：终于！终于！不枉费我每周发一次申请，每天发一次传单。我甚至把传单邮寄到了各地协作的科研工作室……
+
+Assistant Simone: Putting you a hair's breadth away from violating the "Storm" confidentiality agreement. You should know better than to reveal that kind of sensitive information without approval.
+助理希曼：蕾切尔研究员，还差一点儿，你的行为就会触犯“暴雨”保密协议。希望你牢记，仅有部分科研工作室能够知晓“暴雨”的存在。
+
+Assistant Simone: Nevertheless, they did achieve their intended effect.
+助理希曼：但发传单的确有效。
+
+Rachel: Huh? Really, what do you mean?
+蕾切尔：嗯？什么意思？
+
+Assistant Simone: We've received a transfer application from a researcher at the South Wales Meteorological Centre. She's expressed interest in joining the circulation survey group.
+助理希曼：有一位来自南威尔士气象中心的研究员希望能转来总部，加入环流观测小组。
+
+Assistant Simone: Marguerite, you might be familiar with her. She attended Cambridge around the same time you did.
+助理希曼：玛格丽特，你们是校友，她也毕业于剑桥大学。
+
+Marguerite: Is that so?
+玛格丽特：校友吗……？
+
+Marguerite: Well, it's a big university, but who knows, it could be nice to see a familiar face.
+玛格丽特：我……很高兴能在这里遇到故人。
+
+The mild-mannered researcher wears her usual smile, though her actual emotions beneath are harder to read.
+温柔的研究员一如既往地微笑着，面目显得有些模糊。
+
+Marguerite: Come in.
+玛格丽特：请进。
+
+New Researcher: The Pre-Storm Atmospheric and Oceanic Circulation Survey Group. Is this the right place?
+新人研究员：“暴雨”前地球大气环流与海洋环流观测小组……是这里对吗？
+
+Rachel: Absolutely! And you're now the fourth person to ever get our full name right!
+蕾切尔：第四个念出小组全名的人！
+
+Marguerite: Welcome to the team. The enthusiastic one is our group leader, Rachel, and I'm—
+玛格丽特：欢迎您的加入，女士。这位是组长蕾切尔，而我是——
+
+The newcomer's eyes swivel to the ash-blond researcher and then hold a long stare.
+来人将目光停留在面前灰金发研究员的身上。
+
+A brief silence follows.
+短暂的沉默，空气仿若无察，一切继续流动。
+
+New Researcher: Marguerite, it's been a long time.
+新人研究员：玛格丽特，好久不见。
+
+Coalwall: You might not remember my name. Call me Coalwall.
+黑墙：各位好，我是黑墙。
+
+Assistant Simone: Please, have a seat. I'll outline the specifics.
+助理希曼：请坐，黑墙研究员。我正要说明具体情况。
+
+Assistant Simone: Although your field expedition has been approved, we believe your safety protocols require further revision.
+助理希曼：虽然小组的外出考察申请已经获批，但是，安全条例还需完善。
+
+Assistant Simone: For example, your evacuation has to be set eight hours before the "Storm" countdown ends; we can't justify leaving it any closer.
+助理希曼：比如说，把“暴雨”倒计时前半小时撤离改成前八小时撤离。
+
+Rachel: But the Timekeeper's "Storm" warning only gives us 24 hours. That won't give us much time to observe the "Storm's" effects.
+蕾切尔：但司辰的“暴雨”预警只有二十四小时。届时，留给我们行动的时间就不多了。
+
+Rachel: Could do one hour instead. Two maybe?
+蕾切尔：调整成一个小时如何？或者……两个小时？
+
+Assistant Simone: Researcher safety must be placed above all else. This new requirement comes directly from the Staff Committee. We cannot afford to lose any more of our people to the "Storm."
+助理希曼：如果不把研究员的生命安全放在第一位，我们会立刻撤回批准。这是人事委员会的意思：我们不能因为“暴雨”失去更多的成员了。
+
+Marguerite: The Staff Committee's concerns are justified. The current evacuation plan does have us leaving with very little time to spare.
+玛格丽特：人事委员会的担忧是有道理的。目前的行动方案确实十分危险……
+
+Assistant Simone: I understand your desire to have as much observational data as possible, Researcher Rachel. But we can't afford to put you in danger.
+助理希曼：虽然蕾切尔研究员的科研能力出众，但显然不擅长处理这些。
+
+Assistant Simone: Marguerite, I trust you to show more patience in this matter. I hope you might be able to guide our colleague here to a more reasonable conclusion.
+助理希曼：玛格丽特研究员，你比她有耐心许多。如果你可以多多帮助她，那我们双方都可以省去很多麻烦。
+
+Marguerite: I'll do my best.
+玛格丽特：我会尽力协助的。
+
+Marguerite: I may not have the same sudden flashes of brilliance my colleagues do, but you know my documentation is always meticulous.
+玛格丽特：虽然我没有办法像同事们那样，时常有些灵光一现的天才点子……但处理好文书工作，全力支持蕾切尔的研究，是我能尽的最大努力。
+
+A perfectly measured hint of embarrassment crosses her face.
+她的面上恰到好处地浮现出一丝尴尬。
+
+Assistant Simone: There aren't many researchers left at the LSCC approaching the "Storm," from the perspective of natural phenomena. One of them has been locked up in his laboratory since the first "Storm," with only a bottle for company.
+助理希曼：如今理论物理组只剩两个人了，除了蕾切尔，另一个从第一次“暴雨”之后就把自己锁在研究室里，每天和酒精过日子。
+
+Assistant Simone: While I'm sure neither of you wants to end up in the same position, that doesn't mean you can or should expect accommodation in every matter, especially when it comes to safety.
+助理希曼：我知道你是害怕蕾切尔会变成阿德勒研究员那样，但你也不能事事迁就她，尤其是安全方面。
+
+A brilliant physicist's entire world undone by the "Storm" is hardly an unusual tale.
+物理天才的世界因“暴雨”而坍塌，不算意外的故事。
+
+Marguerite: I understand, Ms. Simone.
+玛格丽特：我明白了，希曼女士。
+
+Coalwall: Perhaps I might be able to assist? I wrote more than a few safety manuals for my old laboratory.
+黑墙：我有一套《三分钟通过审查》的书——我也会帮忙的。
+
+Assistant Simone: Thank you, everyone.
+助理希曼：感谢各位。
+
+Assistant Simone: Now, Rachel, I need you to accompany me to collect some manuals and documentation for your new colleague. Are you free right now?
+助理希曼：现在，蕾切尔研究员，作为组长，你需要和我去申领手册和文件，你忙吗？
+
+Rachel: I still have some meteorological data to—
+蕾切尔：我有组观测数据还没……
+
+Marguerite: We can organize that data for you. I'm sure Ms. Coalwall could use a good introductory assignment.
+玛格丽特：我和黑墙研究员来替你整理数据吧，蕾切尔。正好作为她入职的过渡工作。
+
+Assistant Simone: In that case, let's get going.
+助理希曼：那就走吧。
+
+Rachel: I won't be long!
+蕾切尔：我会尽快回来的！
+
+Marguerite: No need to rush back.
+玛格丽特：没关系，不用着急。
+
+A single door separates noise from silence.
+一扇门，隔开了嘈杂与寂静。
+
+Marguerite gathers the scattered drafts on the desk while the new researcher watches.
+玛格丽特平静地整理起桌上的草稿，另一人则对她投以注视。
+
+Coalwall: You've changed.
+黑墙：你变了。
+
+Marguerite: Have I?
+玛格丽特：是吗？
+
+She casts a light and fleeting glance toward the quiet newcomer before her.
+她看了看面前沉默的新人，这是又轻又快的一瞥。
+
+Coalwall: "Unremarkable at best. No significant achievements. We sometimes forget she's even there." That's what they say about you, you know?
+黑墙：在来的路上，带路的研究员告诉我：“玛格丽特的科研水平不过尔尔，没什么有意义的成果，很多人经常忘记她的存在。”
+
+Coalwall: Gentle. Meek. Harmlessly ineffectual.
+黑墙：温柔、怯懦、无能的老好人……
+
+Coalwall: Sounds nothing like the woman I knew from Cambridge.
+黑墙：和剑桥里那位沉默寡言却堪称恃才傲物的玛格丽特，很难想象是同一个人。
+
+Marguerite turns. She holds a smile in an exact curve, like a mask welded in place, provoking a sharp reaction from Coalwall.
+在没有第三个人的房间里，那张面孔上的笑容依旧保持着一致的弧度，如同焊上去的面具，让黑墙忽生烦躁。
+
+Marguerite: I see. Well, it isn't the worst assessment.
+玛格丽特：嗯，不算糟糕的形容。
+
+Marguerite: I'm surprised you still remember me.
+玛格丽特：没想到你还记得我，黑墙小姐。
+
+Marguerite: But I'm glad to see you here all the same. Nice to know a fellow alumna also made it through the "Storm."
+玛格丽特：很高兴在拉普拉斯科算中心见到你，发现有一位校友也跨过了“暴雨”——
+
+Coalwall: Spare me the pleasantries. We weren't close, and this isn't some long-awaited reunion.
+黑墙：够了！省下这些恭维的话，我们不算熟人，也上演不了同窗好友多年未见的戏码。
+
+Marguerite: I apologize. If you're not in the mood for small talk, then what would you like to discuss?
+玛格丽特：抱歉，如果不是为了寒暄，那你想与我说些什么呢？
+
+Her frozen smile remains unwavering.
+她依旧无懈可击地微笑着。
+
+Coalwall: You remember Annie, don't you?
+黑墙：你还记得安妮吗？
+
+Coalwall: From Professor Ludwig's class, you remember, don't you? She followed you around like a shadow for a long while. She worked with you on that meteorological projection study.
+黑墙：那个你在路德维希教授的课上认识的安妮，总是像一条小尾巴一样跟着你的安妮，与你一起在高空站完成气象推测课题的安妮……
+
+Coalwall: And then one day, they found her dead on a footpath. Her collar was covered with dew.
+黑墙：1987年，安妮死在一条小道上，被发现的时候，她的衣襟上凝结着露水。
+
+Marguerite: Why bring up something awful like that?
+玛格丽特：我有些意外，你会和我提起这件事。
+
+Marguerite: As I recall, you and Annie were not particularly close.
+玛格丽特：印象里，你和安妮并不算是熟人或者好友。
+
+Coalwall: No. We weren't close.
+黑墙：是啊，我和她并不算熟稔……
+
+A faint, concealed sorrow passes across the researcher's face.
+研究员的面上流露出一丝隐藏的哀伤。
+
+Coalwall: But, Marguerite, I need to know: what really happened to Annie?
+黑墙：但……玛格丽特，我必须问你，你与安妮的死，真的毫无关系吗？
+
+02  【3.5】蝴蝶玩法剧情02
+
+Cambridge University
+剑桥大学
+
+Cambridge University, 1987.
+1987年，剑桥大学。
+
+A cold, damp wind brushes the treetops. At the lectern, Professor Ludwig pauses, momentarily distracted by the rustling.
+阴冷潮湿的风拂过树梢，讲台上，渡鸦教授短暂地被簌簌声吸引了注意力。
+
+Ludwig: In short, even a system ruled by fixed equations can produce outcomes that appear entirely chaotic.
+路德维希：……总而言之，上述系统虽然完全由确定的方程支配，但依然可以表现得充满混乱。
+
+Ludwig: It feels like reading The Phenomenology of Spirit, precision so dense it leaves you lightheaded.
+路德维希：这个感觉就像是在阅读《精神现象学》——在缜密的推论中头晕目眩。
+
+Ludwig: To be clear, I am not assigning you any additional philosophy reading. That will be all for today.
+路德维希：注意，我没有推荐你们去阅读任何哲学著作。今天的课就到这里。
+
+The class disperses. As he collects his papers, he observes a small cluster of students lingering.
+学生们纷纷道别。他将讲义收拾完毕，留意到仍有三两学生并未离去。
+
+Ludwig: Marguerite.
+路德维希：玛格丽特。
+
+Marguerite: Professor Thoth.
+玛格丽特：托特教授。
+
+Ludwig: Thoth? What an absurdity. I don't even look like an ibis.
+路德维希：我看起来是渡鸦，并不像朱鹭。
+
+Ludwig: Humorous nicknames aside. I'm curious: It's been a while since you transferred to my class. How are you adjusting?
+路德维希：距离你入学已有一段时日，这段时间适应得如何？
+
+Marguerite: Everything's going well, thanks to you. As for my coursework, I believe my research reports speak for themselves.
+玛格丽特：托您的福，一切都好。我想，课业相关的内容，您可以从课题报告上看到，无需来问我。
+
+The student before him explains with an air of nonchalance.
+面前的学生漫不经心地解释着。
+
+Ludwig: Yes. On the Atmospheric Neutrino Anomaly and Its Implications for Oscillation Models. An excellent paper, indeed, indeed.
+路德维希：是的，《大气中微子反常现象对振荡模型的启示》，非常出色的文章。
+
+Ludwig: Objectively speaking, it is somewhat ahead of its time. Still, physics ought not regress simply because the era lags behind.
+路德维希：客观来说，它有些超出当前时代的进度，但物理学不该随着时代而倒退。
+
+Ludwig: It appears you've adapted not only academically but to this era as well. My concern was unnecessary.
+路德维希：看来不仅是课业，你对这个年代也适应得很好。是我多虑了。
+
+Marguerite: "This era" ...
+玛格丽特：“这个年代”。
+
+She turns the unexpected phrase over in her mind.
+她咀嚼着这突如其来的字眼。
+
+Marguerite: Oh, you haven't forgotten what happened in 1999.
+玛格丽特：噢，您并没有忘记发生在1999年的事情。
+
+Marguerite: "To teach philosophy is the most absurd profession in the world?"
+玛格丽特：“哲学教授是世界上最荒唐的职业”？
+
+Ludwig: That is precisely why I stand here today, in the capacity of a visiting physics lecturer.
+路德维希：这正是我如今站在这里的原因，以物理学客座教授的身份。
+
+Ludwig: Cambridge has taken an interest in the research underway at Laplace's Plesetsk Branch and extended an invitation for me to teach when time permits.
+路德维希：剑桥大学对于科算中心普列谢茨克分部正在进行的研究非常感兴趣，邀请我在闲暇时过来授课。
+
+Ludwig: The events of 1999 cut short my appointment, and with it, my chance to sponsor you.
+路德维希：1999年，因为当时的时代剧变，我无法再延续教职，而错过了举荐你的机会。
+
+Ludwig: I am pleased to see you also survived the "Storm."
+路德维希：如今，很高兴看到你也跨越了“暴雨”。
+
+Marguerite: You're not curious to know how I survived?
+玛格丽特：您不关心我是如何做到的吗？
+
+Ludwig: Would such knowledge alter your academic progress?
+路德维希：这会影响你的课题报告吗？还是说会影响你的生活？
+
+Marguerite: Hah, of course not.
+玛格丽特：哈，当然不会。
+
+Ludwig: Then it's none of my concern.
+路德维希：既然如此，它就是属于个人的隐私。
+
+Ludwig: There's a lecture on aerospace experiments at the orbital station next week. You're welcome to sit in.
+路德维希：下周太空站的航空实验讲座，如果你有兴趣的话，也可以来旁听。
+
+Marguerite: Thank you for the invitation, Professor Thoth.
+玛格丽特：感谢您的邀请，托特教授。
+
+Ludwig: Ah, your unique humor strikes again, Marguerite.
+路德维希：我明白了，这是你独特的幽默感，玛格丽特。
+
+Ludwig: Three o'clock. Thursday.
+路德维希：周四下午三点。
+
+Once assured she has noted the details, the avian professor inclines his head courteously and departs.
+确认对方已明晰讲座的时间与地点，鸟头先生礼貌地颔首，随之道别离去。
+
+Marguerite: Goodbye, Professor Ludwig.
+玛格丽特：再见，路德维希先生——
+
+Marguerite: For such a grand enigma, I do hope your every appearance brings a new puzzle with it.
+玛格丽特：作为一个巨大的谜团，真希望你每次出现的时候，都会给我带来全新的谜题。
+
+Marguerite: Things would be rather dull otherwise.
+玛格丽特：这样才不算无趣。
+
+The transfer student looks over the equations and notes left on the board with a vacant expression.
+转学生漠然地盯着遗留在黑板上的公式与文字。
+
+Marguerite: Did you need something?
+玛格丽特：另外，你有什么事吗？
+
+Marguerite: You've been eavesdropping back there for a while now.
+玛格丽特：你已经在后面偷听了很久了。
+
+A figure rises from her seat, visibly flustered.
+一道人影手足无措地从座位上站起。
+
+???: I'm sorry. I didn't mean to. I was only—
+？？？：抱歉，我并非有意的。我只是……
+
+Annie: I'm Annie.
+安妮：你好，我叫安妮。
+
+Annie: You're Marguerite, aren't you? The one who wrote On the Atmospheric Neutrino Anomaly and Its Implications for Oscillation Models.
+安妮：你就是玛格丽特对吗？《大气中微子反常现象对振荡模型的启示》的作者。
+
+Marguerite looks up and studies the girl addressing her.
+玛格丽特抬起头来，认真地打量了一番与她搭话的女孩。
+
+In an instant, she gathers what she needs: background, age, circumstances, temperament.
+几乎是一瞬间，她就掌握了自己所需要的信息：身份，年龄，处境，性格——
+
+Gentle, timid, and in all respects a model student. Excessively empathetic, poor personal boundaries, a comfortable but ignoble upbringing, socially isolated due to her family's scandalous greed ... These traits combine to form the girl standing in front of her.
+温和得有些怯懦的好学生，过度的同理心，无效的人际边界，优良的家境，因出身受到排挤而缺乏同伴……这一切都共同构成了面前的女孩。
+
+And she is not having an easy time with life here.
+并且，她在学校里过得不算好。
+
+Annie: They all say you're a genius. You transferred in without any prior studies and still managed to write a paper like that.
+安妮：他们都说你是天才，明明缺席了先前好几个学期的课程，却依旧能写出这样的文章。
+
+Annie: I-I read your report. It was incredible. I really admire you.
+安妮：我，我也看过你的课题报告……太厉害了，我很敬佩……
+
+Marguerite: There's no shortage of genius in this place.
+玛格丽特：这里最不缺的就是天才。
+
+The transfer student glances at the notebook on the desk. Her intention is not difficult to discern.
+转学生扫了一眼对方放在桌面上的笔记本，她的意图并不难猜。
+
+A fine leather cover. Meticulous notes. At the bottom: Thursday. Three o'clock.
+精致的皮质封面，端正的课堂笔记，最底下写着：下午三点，周四。
+
+She says nothing, simply waiting for the girl to finish her performance.
+但她并没有作声，只是等待着女孩演完这场漫长的戏码。
+
+Annie: About the lecture Professor Ludwig mentioned, if it's all right, could I go with you?
+安妮：刚刚路德维希教授提到的讲座，如果可以的话，我能和你一起去吗？
+
+Annie: Some of the third-year students said there may be paired work involved.
+安妮：听高年级的同学说，讲座里似乎有需要双人协作的内容——
+
+Annie: Marguerite, I'd like to ask you to go with me.
+安妮：玛格丽特，我想邀请你一同前往。
+
+A tentative, unpracticed smile appears on her mask-like face.
+面具般的脸上露出了一个不算熟练的笑容。
+
+Marguerite: Another unexpected development. I accept.
+玛格丽特：一个新的惊喜。我同意了。
+
+Marguerite: Annie ...
+玛格丽特：安妮。
+
+Marguerite: Annie, Annie, Annie ...
+玛格丽特：安妮……安妮。
+
+When she returns to herself, the honey-sweet name has already rolled off her tongue.
+在回过神来时，如蜜般的名字已在唇舌间流淌。
+
+Marguerite: She was an interesting girl. A sweet girl.
+玛格丽特：她是个有趣的好女孩。
+
+Coalwall: What?
+黑墙：……什么？
+
+Marguerite: If you truly followed the matter, then you know the police concluded Annie's death was an accident. She had a congenital heart condition. Tragic, but nothing more.
+玛格丽特：如果你真的关注过安妮的事情，那么你应该知晓，警方调查的结果是，安妮的死只是一场意外。她有先天性心脏疾病，让人很遗憾，但仅此而已。
+
+Marguerite: Don't misunderstand me. I won't pretend to be oblivious to what you're implying. But I am curious what you're basing this thinly veiled accusation on.
+玛格丽特：别误会，我没想佯装听不懂你的弦外之音，我只是好奇，你的指控从何而来。
+
+Marguerite: You don't strike me as a researcher who speculates without evidence.
+玛格丽特：你看起来并不是一个没有依据就会贸然提出猜想的研究员。
+
+Coalwall: ...
+黑墙：……
+
+Coalwall studies her new colleague's stoic and composed face.
+黑墙看着她平静的面孔，犹豫不决。
+
+Marguerite: What's troubling you? This is the Laplace Scientific Computing Center.
+玛格丽特：你在担心什么呢？这里是拉普拉斯科算中心。
+
+Marguerite: We're in a safe environment. If something is weighing on you, speak it openly so we can resolve any misunderstanding you might have on the matter.
+玛格丽特：我们身处如此安全的环境，且你看起来心结很深，我们完全可以开诚布公地聊聊，把误会解开。
+
+Coalwall: Once, after class, I noticed an equation you left on the board.
+黑墙：在某次课堂结束后，我看过你留在黑板上的方程与题解……
+
+Coalwall: It had nothing to do with the lecture, and it was no ordinary formula.
+黑墙：那和我们的课堂内容没什么关系，也显然不是普通的方程。
+
+Coalwall: You wrote it boldly across the center of the board, where everyone could see it.
+黑墙：你就这样堂而皇之地把它写在教室的正中央，一个所有人都会看到的地方。
+
+Coalwall: As though you were waiting for someone to notice it.
+黑墙：仿佛等待着什么人发现它一样……
+
+Marguerite: Oh? And what equation was that?
+玛格丽特：哦？那它是什么方程呢？
+
+She briskly flips her ash-blonde hair back over her ear as if to encourage Coalwall to continue.
+灰金发的研究员温和地鼓励她继续说下去。
+
+Coalwall: I think it was a model for predicting human behavior.
+黑墙：那是……人类的行为模式。
+
+Coalwall: Not just any human. Someone you knew well, a particular individual.
+黑墙：某个你所熟知的人，某个特殊的人……
+
+Coalwall: I think it was for Annie.
+黑墙：那是安妮。
+
+Coalwall: You were organizing her movements, her decisions, her emotions, her very being, into an iterative mathematical formula.
+黑墙：你将安妮解析为不断迭代的数学模型，通过这样的方式来预测她的行动，分析她的决策过程。
+
+Coalwall: And worse, your equations were complete. They were simple, simple enough for someone like me to understand.
+黑墙：黑板上的方程已经完成了。这甚至没有耗费你多长的时间去解开……
+
+Coalwall: What were you intending to do with it?
+黑墙：在当时，你究竟想要对安妮做些什么？
+
+Marguerite feigns an expression between interest and bewilderment.
+研究员饶有兴致地听着这一切堪称荒谬的指控。
+
+Marguerite: You're suggesting that I modeled an entire person into a single mathematical formula?
+玛格丽特：你的意思是：我想要了解人们的行为——以方程的模式？
+
+Marguerite: An intriguing and rather original hypothesis, Researcher Coalwall.
+玛格丽特：非常有趣且有新意的想法，黑墙研究员。
+
+Coalwall: Don't patronize me, Marguerite.
+黑墙：……别尝试敷衍我，玛格丽特。
+
+Marguerite: Very well. My apologies.
+玛格丽特：好吧，我很抱歉。
+
+Marguerite: If you truly believe there was some hidden motive or culprit behind Annie's accident—
+玛格丽特：如果你真的认为发生在安妮身上的意外，背后有什么隐藏的动机甚至真凶——
+
+Marguerite stops herself. She reaches among the folders and papers, withdrawing a notebook before handing it over to Coalwall.
+玛格丽特什么也没说，只是从诸多文件夹与稿纸间抽出一本笔记递给她。
+
+The leather is elegant but aged, the paper tinted yellow with time.
+精致的皮质封面，略显陈旧，纸张也微微泛黄。
+
+Something stirs in Coalwall as she takes the notebook and opens it.
+黑墙心中一动，她接过了笔记本，将其翻开。
+
+Coalwall: This is ...
+黑墙：这是……
+
+Neat handwriting. Structured lecture notes.
+端正的字体，有条理的课堂笔记。
+
+Orbital station. Three o'clock. Thursday.
+太空站，下午三点，周四。
+
+Coalwall: This is Annie's notebook.
+黑墙：这是安妮的笔记本。
+
+Coalwall: I don't understand. Why do you have this?
+黑墙：我不明白，你为什么随身携带着这个？
+
+Marguerite: This morning, I saw a dispatch list on Simone's desk.
+玛格丽特：今天早上，我在助理希曼的桌子上看见了一张派遣名单。
+
+Marguerite: The pen name "Coalwall" appeared frequently in Cambridge's student papers.
+玛格丽特：“黑墙”这个笔名，曾多次出现在剑桥的小报上。
+
+Coalwall: You predicted all of this from the beginning.
+黑墙：……你从一开始就知道我要和你聊这些。
+
+Marguerite: And this is the clue you were looking for.
+玛格丽特：而这正是你想要得到的线索。
+
+Coalwall hesitates, but the temptation of the truth is too strong to rest on pride. She takes the notebook and leaves.
+黑墙略有迟疑，但仍然无法拒绝探知真相的诱惑，最终接过笔记本离开了。
+
+With Coalwall gone and the room empty, Marguerite slides her empty teacup forward.
+在黑墙离开会议室之后，玛格丽特把空茶杯向前推了推。
+
+A silver kettle descends from the chandelier, tilts slightly, and pours tea neatly into the cup.
+银色的水壶从吊灯上落下，微微倾倒，茶水稳稳落入杯中。
+
+X: Another pin-pointedly accurate prediction?
+X：又猜中了？
+
+X: I actually put a surprising amount of thought into choosing between the chandelier-mounted kettle release system and the breadcrumb-launching file apparatus.
+X：明明我在吊灯水壶和面包糠发射文件夹之间犹豫了好久。
+
+The kettle isn't the only thing that descends from above. Soon enough, her hidden colleague lowers himself as well.
+从天而降的显然不只有水壶，还有她那无所事事的同僚。
+
+Lorentz Butterfly: I do hope the next "accident" proves more interesting.
+洛伦兹蝴蝶：希望下次的“意外事故”能有意思一些。
+
+X: Whatever you need, just let me know.
+X：好的，遵命！
+
+X: On that topic, is there any dimension of your current research that might benefit from my assistance?
+X：最近的研究，有什么需要我帮忙的吗？
+
+Lorentz Butterfly: Xavier, you're clearly not here out of concern for my research.
+洛伦兹蝴蝶：泽维尔，你显然不是来关心我的研究成果的。
+
+X: Xavier? That name belongs to a stray Eagle rescued from some long-obliterated ruins.
+X：你知道这只是小春雀儿在废墟里找到的那条狗的名字。
+
+Lorentz Butterfly: And? It's likely vanished into the "Storm" by now. Consider the name yours now, Xavier.
+洛伦兹蝴蝶：所以呢？它现在应该已经消失在“暴雨”里了，你就继承它的名字吧，泽维尔。
+
+X: Fine, have it your way. Speaking of Eagle, I meant to check how our eager scout has been doing as your assistant.
+X：好吧。我只是来问问，小春雀儿的助手工作做得如何？
+
+X: I mean, I was the one that recommended her in the first place. It'd be a real disappointment if she turned out to cause you any trouble.
+X：毕竟是我推荐给你的助手，希望她没有给你惹什么麻烦。
+
+Lorentz Butterfly: Objectively speaking, she's a good kid and a competent assistant.
+洛伦兹蝴蝶：客观来说，她是一个好小孩儿，也是一个好助手。
+
+Lorentz Butterfly: If I didn't know that you only handed her over to me because you were too lazy to teach her properly, your concern might come across more believable.
+洛伦兹蝴蝶：如果这个助手不是因为你懒得教会她更多的东西而塞给我的话，你的关怀会更有可信度一些。
+
+X: You are well aware that my pedagogical contributions trend toward the spectacularly impractical.
+X：你知道的，我没法教给她什么有用的东西。
+
+The two Institutum infiltrators exchange a knowing glance, silently abandoning the subject.
+杀手先生与杀手女士对视一眼，心照不宣地绕开了这个话题。
+
+X: I noticed you've been unusually invested in this circulation group, so I came to spectate the proceedings for myself.
+X：我发现你对这个无聊的环流观测小组很上心，所以忍不住来亲眼看看。
+
+X: You're just looking for a little amusement, aren't you?
+X：你就是想找点乐趣，是不是？
+
+Lorentz Butterfly: And your chandelier kettle and breadcrumb-launching file apparatus don't qualify as amusement?
+洛伦兹蝴蝶：你的吊灯水壶和面包糠发射文件夹，不算“找点乐趣”吗？
+
+X: Our definitions are evidently divergent.
+X：我们的乐趣显然大相径庭。
+
+X: Go ahead and keep playing with your boring circulation team, but when you're free, come help me test my jet-powered inverted glider.
+X：你继续和你的无聊小组玩吧，抽空来帮我实验喷气式倒立滑行机！
+
+Lorentz Butterfly: I intend to be occupied for the foreseeable future.
+洛伦兹蝴蝶：那我接下来很长的一段时间都不会有空了。
+
+03  【3.5】蝴蝶玩法剧情03
+
+Hallway, Cambridge University
+剑桥大学·走廊
+
+Annie: Marguerite! Marguerite!
+安妮：玛格丽特——玛格丽特——！
+
+The shouts draw nearer, accompanied by rapid footsteps.
+呼喊声伴随着急促的脚步靠近。
+
+Marguerite: Is something the matter?
+玛格丽特：有事吗？
+
+Annie: You left so quickly after class. I've been chasing you halfway across campus.
+安妮：你下课后走得太快了，我跑了好长一段路才追上你。
+
+Annie: I just wanted to say this is amazing! Our project got the highest mark in the class! I know it's mostly because of you.
+安妮：我只是想说，太好了！我们的双人协作果然拿到了最高的评价。我知道这大多数都是你的功劳……
+
+Marguerite: No. The credit belongs to you, Annie.
+玛格丽特：不，不是的。是你的功劳，安妮。
+
+Marguerite: You designed the proposal and handled the data analysis. I merely organized the results.
+玛格丽特：选题计划与数据分析都是你做的，我只不过是完成了整理的工作。
+
+The indifferent transfer student observes the girl with clinical focus.
+冷漠的转学生紧紧地盯着面前的女孩，看见对方的脸庞上如她所想地露出笑容，酒窝像一个浅浅的坑。
+
+She calibrates the muscles of her own face accordingly.
+于是她也如同对方一样，控制着面上的肌肉，扯动嘴角——
+
+At last, she produces a smile identical to Annie's. A flawless imitation.
+终于，她露出了一个同安妮如出一辙的微笑。一次完美的模仿。
+
+Annie: You're smiling, Marguerite. I haven't seen you smile like that before.
+安妮：你终于笑了，玛格丽特。这是我这么长时间以来第一次看见你笑得这么开心……
+
+Marguerite: Why wouldn't I smile? I'm thrilled.
+玛格丽特：当然，我也很开心。
+
+Marguerite: There's really so much that I can learn from you.
+玛格丽特：你是一个非常值得我学习的对象。
+
+Annie: Me? What could you possibly learn from me?
+安妮：我吗……？我到底有什么值得你学习的……
+
+Marguerite: You possess a certain gentleness.
+玛格丽特：你很温柔。
+
+An overabundance of empathy.
+过度的同理心。
+
+Marguerite: And such selflessness.
+玛格丽特：也很无私。
+
+A kindness indiscriminate in its application.
+无法分清对象的宽容。
+
+Marguerite: You think about others constantly.
+玛格丽特：总是考虑许多。
+
+And therefore, easily overlooked and undervalued.
+因此不受重视。
+
+Marguerite: I've learned a great deal from our time together.
+玛格丽特：这给我很大的启发。
+
+Marguerite: I've reached a conclusion: I intend to integrate into this university environment the way you do.
+玛格丽特：我已经想明白了：我要像你一样融入这个环境。
+
+Annie: That was surprisingly direct.
+安妮：你的直白吓了我一跳，玛格丽特。
+
+Annie: To tell the truth, you're the first real friend I've made here.
+安妮：但其实，你是我在剑桥交到的第一个朋友。
+
+Annie: Thank you. Thank you, Marguerite.
+安妮：谢谢你，谢谢你……玛格丽特。
+
+Rachel: Thank you, Marguerite!!!
+蕾切尔：谢谢你，玛格丽特！！！
+
+Rachel: It's only been a month since we were approved, and we've already finished our updated fieldwork proposal.
+蕾切尔：从小组获批成立到现在才一个月的时间，我们已经把野外考察的框架搭好了。
+
+Marguerite: Coalwall stayed up all night refining the first draft of the safety regulations.
+玛格丽特：第一版安全条例是黑墙熬夜增补的细节。
+
+Marguerite: Her caution and precision are the real reasons we finally passed review. Thanks to that meticulous framework, we can now set our evacuation to just ninety minutes before the "Storm."
+玛格丽特：她的细心和审慎才是安全条例能通过审批的最大功臣。得益于这个无比完善的条例，我们能把撤离时间推迟至“暴雨”前一个半小时。
+
+Rachel: Oh, of course, she deserves equal credit. I should formally thank both of you!
+蕾切尔：噢，当然，黑墙也是大功臣。我应该郑重地向你们道谢！
+
+Coalwall: You're far too kind.
+黑墙：你说话太夸张了，蕾切尔。
+
+Coalwall: I'm just as interested as you are to see where this research leads.
+黑墙：我只是想看看，这个课题究竟能导向什么样的结果。
+
+Coalwall: There are so few projects here at Laplace that have nothing to do with arcanum.
+黑墙：在如今的科算中心，几乎没有第二个课题是和神秘学毫无关系的了。
+
+Within the genuine warmth of this interaction, the pale researcher blends in without the slightest awkwardness.
+十足温馨的场面。面色苍白的研究员自然地融入其中，没有丝毫突兀感。
+
+Marguerite: After the "Storm," most purely scientific teams disbanded. Rachel here might be the last researcher that has maintained a strictly materialist analysis of the phenomenon.
+玛格丽特：在“暴雨”改变一切之后，只专注科学研究的小组们纷纷解散，只有蕾切尔还在坚持用纯粹的科学来分析“暴雨”。
+
+Marguerite: Most have already given up, as a physical explanation seemed impossible.
+玛格丽特：即使人们都认为这不可能。
+
+Rachel: Well, I'm glad to know there's at least someone who appreciates my vision.
+蕾切尔：至少玛格丽特也相信我可以做到！
+
+Marguerite: Every hypothesis has its reason for existing, and if it bears the slightest chance of being true, it's worth testing.
+玛格丽特：每个想法和课题都有它存在的意义，可能性一旦存在，就值得去验证。
+
+Marguerite: Newton and his apple began their journey with a flash of insight. Well, perhaps several.
+玛格丽特：那个太过著名的牛顿与苹果，也来源于一瞬的灵光，或者许多个灵光。
+
+Marguerite: From watching an apple fall to deriving the law of universal gravitation, then reconstructing it under general relativity.
+玛格丽特：眼见苹果落地，推导出万有引力定律，再到广义相对论的重构。
+
+Rachel: Exactly. Proving that science can still explain the post-"Storm" world is my top priority.
+蕾切尔：没错，对我来说，证明科学依然可以解构“暴雨”后的世界完全是头等大事。
+
+Marguerite: Do you feel the same, Researcher Coalwall? A desire to use scientific order to understand apparent chaos?
+玛格丽特：你也是这么想的吗，黑墙研究员？渴望用科学的秩序来理解世界的混乱？
+
+Her near-perfect imitation of a gentle look sends shivers down Coalwall's spine.
+她温和的注视让黑墙感到不适。
+
+Coalwall: Oh, you shouldn't ask me. My opinion isn't really relevant.
+黑墙：为什么要问我？我的想法并不重要。
+
+Coalwall: All theoretical research, to me, is just speculation from an ivory tower. I prefer more practical work.
+黑墙：科研对我来说只是一处象牙塔。
+
+A sudden chill falls over their conversation.
+突然的冷肃使蕾切尔也噤声不语。
+
+For a moment, only the scratch of pens and the tapping of keys remain.
+一时间，办公室里只剩下纸笔摩擦和摁动按键的声音。
+
+Rachel: Ah!
+蕾切尔：啊！！
+
+Rachel jumps to her feet and pulls the beeping communicator from the top shelf.
+蕾切尔站了起来，从最上层的箱子里取出了那支不断鸣响的通讯器。
+
+Marguerite: This is ...
+玛格丽特：这是……
+
+Marguerite: The Timekeeper just issued the 24-hour countdown to the "Storm."
+玛格丽特：在刚刚，司辰发布了“暴雨”倒计时二十四小时预警。
+
+Marguerite: This is our golden opportunity to observe circulation changes prior to the "Storm."
+玛格丽特：外出观测“暴雨”前环流变化的时机到了。
+
+04  【3.5】蝴蝶玩法剧情04
+
+Temporary Station, Coral Islands
+近赤道·珊瑚岛驻点
+
+Rachel: Final equipment check.
+蕾切尔：最后一次的设备检查。
+
+Rachel: Huh? Why won't this component fit right?
+蕾切尔：唔，这个构件为什么塞不进去……
+
+A pair of warm, dry hands settles over Rachel's trembling shoulders.
+一双干燥而温暖的手覆盖在蕾切尔颤抖的肩膀上。
+
+Marguerite: I'll take care of it.
+玛格丽特：我来吧，蕾切尔。
+
+Marguerite: It was sooner than we expected, but everything is proceeding according to plan.
+玛格丽特：虽然事发突然，但目前一切都在按照计划进行。
+
+Rachel: I'm just nervous.
+蕾切尔：……是我太紧张了。
+
+Rachel: We don't know what changes the "Storm" might bring in the future. Every occurrence is a rare and unique opportunity.
+蕾切尔：我们不知道后面的“暴雨”是否会有什么变故，因此每一次“暴雨”都是千载难逢的测量良机。
+
+She takes a deep breath, forcing her hands to steady.
+环流观测小组的负责人深吸一口气，强迫自己镇定下来。
+
+Coalwall: Our equipment here is woefully inadequate.
+黑墙：但这里的设备确实不够齐全。
+
+Coalwall: Look at these anemometer cups. Some of them are broken.
+黑墙：看看这些风杯，它们甚至是坏的。
+
+Marguerite: The field application's approval came on short notice. We've improved as much as we could within our time and budget.
+玛格丽特：在外出观测申请获批后，我们已经在尽力改善观测点的条件。
+
+Marguerite: And we've done it all in a month on a remote coral island in the middle of nowhere—the only place they'd let us try.
+玛格丽特：这个观测点是目前唯一满足安全条例的地方，它本身只是个偏僻又荒凉的海上珊瑚岛……一个月能做到这样已经非常不错。
+
+Rachel: The Foundation's local branch had to source this equipment from civilian suppliers. These things are so out of date we might as well be using coconuts, but we're intelligent, resourceful women. We've got this!
+蕾切尔：大多数设备都是由最近的基金会分部从民间借来的。我真不敢说这些落后的设备能做到多好，但我相信我们来自九十年代的思维！
+
+Coalwall: All right. Now before we set out, I stuffed a handful of compressed biscuits into my pockets and brought a thermos of hot water for tea.
+黑墙：……好吧。至少我在出发前往口袋里塞了一把曲奇和压缩饼干，拎了一保温壶的水。
+
+Coalwall: The water's still hot.
+黑墙：如今水还是热的。
+
+Coalwall: So, even if we fail to gather any useful observations, at least we won't starve.
+黑墙：哪怕观测无法成功，至少我们不会在这里饿肚子。
+
+Rachel: Excellent. Researcher Coalwall has already taken care of our basic survival needs.
+蕾切尔：太好了，黑墙保障了我们的生存问题。
+
+Rachel: At least we have a functional measuring apparatus. As long as this round of data can prove our hypothesis, we'll undoubtedly be able to apply for a thorough follow-up experiment.
+蕾切尔：至少我们带了测控计过来。只要这次的数据能够证明我们的猜想，后续就可以申请进行更完整的实验！
+
+Coalwall: And while you two deploy the probe out at sea, I'll set up our trade winds and atmospheric pressure monitoring stations.
+黑墙：那你们去放深水测控计，我去安排信风和气压监测。
+
+Rachel: By yourself? That's a long trip up. You know, we could—
+蕾切尔：一个人攀高是不是有些危险？我们可以——
+
+Coalwall: I work more efficiently alone.
+黑墙：我一个人的效率更高。
+
+She says with such complete certainty that there seems to be no question as she turns and walks out alone.
+抛下不容置疑的话语，她独自走出门去。
+
+Sea, Near the Coral Islands
+近珊瑚岛·海域
+
+Rachel: Grab the buoy.
+蕾切尔：抓住浮筒——
+
+Rachel: How's it going? Can you manage things? Do you need my help?
+蕾切尔：怎么样？可以吗？
+
+Marguerite: You don't need to worry. I've got things under control.
+玛格丽特：无需替我担心，我能处理好。
+
+Marguerite: You know, Rachel, I've noticed you're unusually tense.
+玛格丽特：反倒是你，蕾切尔。从刚刚开始，你就一直处于过度的紧张中……
+
+Rachel: Can you blame me? I've been waiting for this moment for a very long time.
+蕾切尔：毕竟这是我等了好久的机会。
+
+Rachel: We've successfully deployed the deep-water apparatus. But honestly, I'm more worried about Coalwall working alone.
+蕾切尔：我们这边已经顺利放好测控计了。我反而有些担心独自行动的黑墙。
+
+Marguerite: I'd say she's proven reliable, even just in the short time we've worked together.
+玛格丽特：这段时间的共处，足以证明她是个可靠的人。
+
+Rachel: You may be right.
+蕾切尔：你这样讲，我就放心多了。
+
+Rachel: Still, have you noticed that she's quite harsh whenever she speaks to you?
+蕾切尔：不过我总觉得，黑墙对你有些刻薄。
+
+Marguerite: Not especially, no. She has her own kind of way of speaking.
+玛格丽特：是因为她的性格和说话风格？
+
+Rachel: She definitely comes across quite blunt at times. I think that's just the way she is.
+蕾切尔：不不不，她对我讲话也很直接，我知道那是性格使然。
+
+Rachel: Even so, I can't shake the feeling that she's especially frosty around you. Am I just imagining things?
+蕾切尔：但是我总觉得她好像对你有些敌意，难道是我的错觉？
+
+Marguerite: Hmm ...
+玛格丽特：嗯……
+
+Marguerite returns to her work without giving an immediate answer.
+玛格丽特没有停下手上的动作。
+
+Marguerite: A mutual friend of ours from Cambridge died in an accident. For whatever reason, Coalwall has always thought I was responsible in some way.
+玛格丽特：在剑桥的时候，与我相熟的一名女孩发生了意外，黑墙始终对我抱有怀疑。
+
+Rachel: How could she possibly think you had anything to do with something like that?!
+蕾切尔：怎么会有这样的误会！
+
+Rachel: But that does explain something. I saw Coalwall speaking with the cryptography lead. Y'know that fishbowl-headed Awakened?
+蕾切尔：我之前看见黑墙去找了破译组的组长——那个在鱼缸里的磁流体。
+
+Rachel: She seemed like she was asking for his help with some equations, maybe decrypting them. Then there's that black leather notebook she's always brooding over at night.
+蕾切尔：她好像是希望对方可以帮忙破译一些方程，我看见她总是对着一个黑色皮质封面的笔记本苦思冥想。
+
+Marguerite: I think she means well; she's just trying to verify things for herself.
+玛格丽特：她只是需要确认一些事情。
+
+Rachel: Marguerite, I would hope that we can trust one another after all this time.
+蕾切尔：玛格丽特，你知道我的。
+
+Rachel: No matter what, I'll stand by you.
+蕾切尔：不管发生什么我都会站在你这边。我们的支持必定是相互的。
+
+Rachel: But I don't want you getting caught up in anything dangerous.
+蕾切尔：我不希望你陷入到任何危险当中。
+
+The water ripples. Their boat lies crosswise on the sea, dividing light from shadow.
+水波摇晃，她们的船横停在海面，将明暗一分为二。
+
+Without changing her expression, Marguerite drops the buoy into the water, catching a fragment of memory in the dispersing rings.
+玛格丽特面不改色地将浮筒投入水中，从四散的水纹中瞥见回忆的一隅。
+
+Ludwig: Come in.
+路德维希：请进。
+
+Office, Cambridge University
+剑桥大学·办公室
+
+She steps into the office but does not fully close the door behind her.
+她步入办公室，却并未将门扉完全掩上。
+
+Ludwig: Please, have a seat.
+路德维希：请随意坐吧。
+
+Marguerite: That won't be necessary. Professor Ludwig, may I ask why you wished to see me?
+玛格丽特：不用了。路德维希教授，请问您找我有什么事情？
+
+Marguerite: I understand your visiting lectureship has concluded. You came all the way from Plesetsk to Cambridge. I assume you have something "important" to inform me of.
+玛格丽特：听说您的客座教学已经结束，您从普列谢茨克专程赶来剑桥，必然是有很“重要”的事情告知。
+
+The impatience and emphasis in her words fail to reach the other side of the desk.
+她话语中的不耐与强调并没有传达到办公桌的对面。
+
+The raven professor does not answer right away, weighing his choice of words.
+渡鸦教授沉思了片刻，似乎在抉择着合适的表述方式。
+
+Ludwig: ...
+路德维希：……
+
+Ludwig: Marguerite, how have you been adjusting lately?
+路德维希：玛格丽特，你最近适应得如何？
+
+Marguerite: This isn't the first time you've asked that question, Professor.
+玛格丽特：……没记错的话，路德维希教授，您在很久之前已经问过这个问题了。
+
+Ludwig: It's not such a terrible opening line, is it now? After all, people and circumstances can change when least expected.
+路德维希：这不算是个特别糟糕的开场白吧——毕竟，人和环境会在意想不到的时候发生变化。
+
+Ludwig: For instance, have you encountered any problems with your peers?
+路德维希：比如，你最近是否遇到了什么难事？
+
+Ludwig: Perhaps I could offer you some assistance.
+路德维希：也许我可以提供帮助。
+
+Exactly the sort of question guaranteed to irritate her.
+显然，这是一句足以惹怒对方的问话。
+
+Marguerite: Professor, what exactly are you trying to imply?
+玛格丽特：教授，您究竟想要表达些什么？
+
+Marguerite: If you're only extending a courtesy, I have no need for it.
+玛格丽特：如果仅仅是客套的问话，这似乎全无必要。
+
+Ludwig: Then let us dispense with them.
+路德维希：——那就省去不必要的过程。
+
+Ludwig: Several days ago, at Foundation headquarters, I came across a newly issued warrant from Zeno.
+路德维希：数日前，回基金会总部处理事务的时候，我看到了芝诺新增的通缉令。
+
+Ludwig: An accused deserter whose description seemed oddly familiar to me.
+路德维希：当中有一位失踪士兵的描述，让我感到非常熟悉。
+
+Marguerite: I'm sure it's only a misunderstanding.
+玛格丽特：我相信这只是一个误会。
+
+Ludwig: Perhaps, or it may be that you have your own way of dealing with the matter. I don't intend to probe any deeper.
+路德维希：也许这是一个误会，或者说，你会有自己的处理方式，我不会深入研究这点。
+
+Ludwig: I only hope none of this will affect your future studies. You are a natural-born researcher, Marguerite.
+路德维希：我只是希望，这一切都不会影响你将来的学业与研究。你是一位天生的科研者，玛格丽特。
+
+The conversation lapses into a poignant silence, the meaning of the words understated but clear between the two soft-spoken figures.
+对话陷入了短暂的沉默。
+
+Marguerite: Because of the "Storm"?
+玛格丽特：因为“暴雨”？
+
+Ludwig: Because of the "Storm."
+路德维希：因为“暴雨”。
+
+Ludwig: I know of a place where you would be exempt from Zeno's scrutiny.
+路德维希：我知道有一个地方可以免除芝诺的审查——
+
+Ludwig: Would you be interested in joining the Laplace Scientific Computing Center?
+路德维希：玛格丽特，你有兴趣加入拉普拉斯科算中心吗？
+
+As Marguerite leaves the office, she encounters an eavesdropper around the corner. She feigns surprise, although it is anything but.
+谈话结束了。
+玛格丽特离开办公室，在拐角处，她遇到了意料之中的旁听者。
+
+The girl seizes her sleeve anxiously.
+而对方只是急切地抓住了她的袖口。
+
+Marguerite: What is it, Annie? What are you doing here?
+玛格丽特：怎么了，安妮？你怎么会在这里？
+
+Annie: What did Professor Ludwig mean just now? Are you in some kind of danger?
+安妮：玛格丽特，刚刚路德维希教授和你说的话是什么意思？你遇到了什么危险？
+
+Annie: You're not leaving Cambridge, are you?
+安妮：你要离开剑桥了吗……？
+
+The half-closed door served its intended purpose, just as predicted.
+看来那扇半掩的门扉发挥出了它应有的作用。
+
+Marguerite: Did you hear all of that?
+玛格丽特：你都听到了。
+
+Annie: I ... I was just coming to find you. They told me you'd been called to the professor's office.
+安妮：我……我想来找你，但听说你被叫去了办公室……
+
+Annie: So, I decided I would wait out here for you.
+安妮：于是我跟了上来，在外头等你……
+
+Annie: I really didn't mean to eavesdrop, but the door wasn't closed.
+安妮：我没想偷听的，但办公室的门没关上……
+
+Marguerite: It's fine, Annie. I don't mind. It wasn't anything confidential.
+玛格丽特：没关系的，安妮。我没有怪你。这也不是什么秘密。
+
+Marguerite: Professor Ludwig offered me a position at the Laplace Scientific Computing Center. If I were to accept, then yes, it would mean leaving.
+玛格丽特：路德维希教授确实邀请我加入拉普拉斯科算中心，如果是这样的话，也许我会离开剑桥吧。
+
+Marguerite: Is there something you wanted to tell me?
+玛格丽特：你有什么想对我说的吗？
+
+For a moment, panic flashes across the girl's face.
+女孩的神情一瞬间变得仓惶。
+
+Annie: Oh, is that all?
+安妮：啊……是这样吗？
+
+Annie: A placement at the LSCC really is an excellent opportunity. I've always been curious about how science could align with arcanum.
+安妮：拉普拉斯科算中心确实是个好去处。科技如果能与神秘学进行精准的切合……
+
+Annie: In any case, congratulations!
+安妮：总之，恭喜你，玛格丽特。
+
+Marguerite: I haven't made up my mind yet.
+玛格丽特：我还没确定是否要加入科算中心。
+
+Marguerite: If you are curious about arcanum technology, you should think about submitting an application too.
+玛格丽特：如果你对神秘学科技有兴趣的话，也可以向路德维希教授提出申请。
+
+Annie: Oh, I-I don't think so.
+安妮：我……我，不了。
+
+Her face pales as she rushes to explain.
+她脸色发白地摇摇头，迫切地解释起来。
+
+Annie: Not that I have anything against it, but I've never enjoyed the disorder that comes from arcanum.
+安妮：我没有别的意思，但我已经受够这些源自神秘学的混乱了……
+
+Annie: Science is about complete, logical stories, not ambiguous, elusive concepts.
+安妮：因为……科学需要听到的是完整的故事，而不是一声疯狂的啼鸣。
+
+Annie: I decided a long time ago that I would put my trust in only what I could prove through scientific reason. That's the only way I feel safe.
+安妮：玛格丽特，我很早就发现了：只有科学的推导论证才能使我安心。
+
+Marguerite: An entirely reasonable human perspective. I'm sure they would appreciate someone with a traditional scientific viewpoint.
+玛格丽特：很传统的科研思想。
+
+Annie: But I'm always so unsure, always second-guessing myself. I can't propose bold, creative hypotheses like real geniuses do.
+安妮：而且，我总是瞻前顾后，我没法像那些天才一样，提出创造性的猜想……
+
+Annie: I don't belong somewhere like Laplace.
+安妮：我不适合拉普拉斯。
+
+Marguerite: I don't think that's a judgment you should make for yourself, Annie.
+玛格丽特：也许吧。但这不该由你自己下定义，安妮。
+
+Marguerite: Oh, well, I shouldn't badger you. Wasn't there something you wanted to tell me?
+玛格丽特：不说这个了。你来找我是想说些什么？
+
+Annie: No, it's nothing.
+安妮：不，没什么了。
+
+She awkwardly folds her hands behind her, concealing something.
+她有些无措地将手背过身后，藏起了自己带来的东西。
+
+It looks like a torn scrap of paper.
+那似乎是一角撕下来的纸张。
+
+Annie: Just a trivial thing. Nothing important.
+安妮：只是一些小事，没什么要紧的。
+
+Annie: I didn't mean to bother you.
+安妮：不该打扰你……
+
+Marguerite: Please, Annie, what is it?
+玛格丽特：安妮，你带来了什么？
+
+Marguerite: Did you want to show me something?
+玛格丽特：你想给我看些什么吗？
+
+Annie: Just stop asking, Marguerite. I'm begging you.
+安妮：不要再追问了，玛格丽特，求求你……
+
+The girl's plea leaves her unmoved.
+然而面前之人不为所动。
+
+Marguerite: Show me.
+玛格丽特：让我看看。
+
+Marguerite: And what about you, Rachel?
+玛格丽特：蕾切尔，那你呢？
+
+Marguerite: You know, at this point, I don't think anyone at Laplace agrees with your hypothesis that the "Storm" can be explained through natural phenomena. It's quite remarkable that you persevere despite it all.
+玛格丽特：人们不理解你为什么执着于与神秘学无关的项目，但你却从未想过放弃。
+
+Rachel: Ha! Maybe so. But even if no one else agrees with me, does that mean it isn't true?
+蕾切尔：啊哈！有些事情，难道因为没人去做就不做了吗？
+
+Rachel: After all, truth belongs in the hands of the brave few! So, why not me?
+蕾切尔：真理可是掌握在少数人手里的！——开玩笑的。
+
+Rachel: I know many people at Laplace think I just refuse to admit natural science has lost its relevance in the face of the "Storm."
+蕾切尔：我知道科算中心里的很多人认为，我只是不想承认，在“暴雨”之下，我的学科已经没有意义了而已。
+
+Rachel: I am stubborn, that much I admit.
+蕾切尔：或许一部分的我真是这么想的吧。
+
+Rachel: I chose this path, and I'll see it through to the end.
+蕾切尔：但我既然选择了我的道路，我就会把它走完。
+
+Marguerite: Even if it leaves you battered and bleeding?
+玛格丽特：即便撞得头破血流？
+
+Rachel: Even if it costs me everything.
+蕾切尔：即便要我付出一切。
+
+The words hang for a heartbeat. Marguerite studies the depths of Rachel's pupils.
+须臾的沉默。在这转瞬之间，玛格丽特看清了蕾切尔的瞳孔深处。
+
+Marguerite: I see.
+玛格丽特：原来如此。
+
+Marguerite: That's admirable. Truly.
+玛格丽特：我明白了，蕾切尔。这真的很好。
+
+05  【3.5】蝴蝶玩法剧情05
+
+After finishing the installation of the elevated monitoring equipment, Coalwall returns to their temporary outpost.
+攀高放置监测仪的工作结束，研究员返回了临时驻点。
+
+Coalwall: Where's Rachel?
+黑墙：怎么只有你？
+
+Marguerite: Taking temperature readings, she'll be gone for a while.
+玛格丽特：蕾切尔在测温。
+
+The reply elicits the precise reaction she had anticipated as Coalwall marches toward her with purpose.
+如玛格丽特所料，对方向她走来，在她面前站定。
+
+Coalwall: I've deciphered the notebook.
+黑墙：我已经解开了笔记的秘密。那本属于安妮的笔记。
+
+Marguerite: I'm surprised it took you so long. Though you did make the mistake of asking for that fishbowl's help.
+玛格丽特：没想到这耗费了你整整一个月的时间，黑墙研究员。
+
+Marguerite: What did you find?
+玛格丽特：你在里面发现了什么？
+
+Coalwall: Initially, I focused on breaking down the equations in the notebook, searching for patterns concealed behind the figures.
+黑墙：一开始，我执着于解开笔记本里书写的方程，尝试寻找隐藏在数字背后的蛛丝马迹。
+
+Coalwall: And yes, I consulted with Mr. Ulrich. He suspected the entire notebook might be itself a kind of elaborate cipher.
+黑墙：我甚至去找乌尔里希组长，它怀疑这整本笔记都是一个巨大的密码组合……
+
+Coalwall: But then I realized something on my own. Most of these equations were entirely ordinary, just things Annie must have copied down during lectures.
+黑墙：但后来，我发现了。这些方程都只是普通的推导，它们只是安妮在课堂上记下的片段知识。
+
+Coalwall: There was nothing remarkable about them at all, no ciphers or hidden secrets.
+黑墙：这些方程本身没什么特别的。
+
+Coalwall takes a deep breath.
+黑墙深吸了一口气。
+
+Marguerite: Go on. It seems like you've thought this through. I'd like to hear it.
+玛格丽特：你看起来有很多话想说，但是不知道该怎么开口。
+
+Coalwall: Then I realized something.
+黑墙：在我研究安妮的笔记的时候，我意识到了一些事情……
+
+Coalwall: All of these notes recorded Annie's entire academic life. From the equations alone, I could tell what classes she attended each day and what topics she was studying. It's clearer than any timetable.
+黑墙：这本笔记，它忠实地记载着安妮的学院日常。从这些算数方程中，我们能够得知她每天在上什么课，研究什么课题，它比日程表还要清晰。
+
+Coalwall: It's also clear that at a certain point, her mental health began to deteriorate sharply.
+黑墙：从某一个时刻开始，安妮的状态急转直下。
+
+Coalwall: Errors start cropping up in her calculations; the margins fill up with corrections. She wasn't able to concentrate on her studies.
+黑墙：她的计算频频出错，课堂笔记也出现大量涂改，这证明她无法集中精神，无法专注在学习上。
+
+Coalwall: Eventually, she made a significant computational error. I suspect that was one of the main reasons her research project fell through.
+黑墙：直至后面，她的计算结果出了重大的纰漏，我猜测这是她的课题无法继续下去的重要原因之一。
+
+The suffering she once saw on paper now passes through her lips.
+曾在纸页上目睹的苦难，复又从她的舌尖吐出。
+
+Coalwall: Something happened to her shortly before her accident. A change in her personality, she wasn't herself anymore.
+黑墙：在她出“意外”前的那段时间，她的状态很不对劲。
+
+Coalwall: The turning point was a day in late October. That was the day she wrote down your class schedule in her notebook.
+黑墙：而她产生转变的那个时刻，就是十月下旬的某一天。那一天，她在笔记本里记下了你的课表。
+
+Coalwall: She was trying to find a time to talk to you.
+黑墙：看起来，她打探清楚了你的课程，决定要趁你下课的时候跟你聊聊。
+
+Coalwall: Marguerite, tell me honestly: what did you two talk about that day?!
+黑墙：玛格丽特，请你如实告诉我，你们那天究竟聊了些什么？！
+
+Marguerite's expression is unchanged despite the frank accusation in Coalwall's tone.
+毫不掩饰的质问没有让玛格丽特的表情产生丝毫变化。
+
+Marguerite: After one of my classes in October, 1987?
+玛格丽特：1987年，十月下旬的某一天？
+
+Marguerite: So much time has passed. I can't recall anything specific.
+玛格丽特：这是个宽泛的说法。已经过去如此长的时间，我一时不能想起些什么……
+
+Coalwall: I won't let you brush this off anymore!
+黑墙：别想敷衍我，玛格丽特！
+
+Marguerite: No need to get upset. I'll answer whatever questions you have truthfully.
+玛格丽特：别紧张，黑墙研究员。你想知道的问题，我都会如实地回答你。
+
+Marguerite: I did hear that, before Annie passed away, she was going through some difficulties.
+玛格丽特：我确实听说，在安妮逝世前，她在剑桥的日子过得并不算好。
+
+Marguerite observes her colleague's growing frustration, the anger that tugs at every corner of her face. After allowing the silence to stretch, she speaks again with an unhurried pace.
+玛格丽特饶有兴致地欣赏着对方的怒气，等待了足够长的时间，她才慢条斯理地再次开口。
+
+Marguerite: I think I remember. Late October ...
+玛格丽特：我想起来了……十月下旬。
+
+Marguerite: I did see Annie around that time.
+玛格丽特：我确实见过安妮一次。
+
+Marguerite: It was the day Ludwig offered me a position at Laplace. Annie overheard our conversation outside the office, and she reacted rather unusually.
+玛格丽特：那一天，路德维希教授邀请我加入拉普拉斯。在办公室外的安妮听到了我们的对话，她表现得有些反常。
+
+Marguerite: I suppose it might have been around that time that she really started to withdraw.
+玛格丽特：从那时起，安妮的精神状态就急转直下。
+
+Marguerite: She had no confidant, no mentor she could trust. As far as I could tell, she was quite lonely.
+玛格丽特：她没有交心的朋友，也没有能够信任的导师，只能自己承受一切压力。
+
+Marguerite: And eventually, that led to her "accident."
+玛格丽特：以至于最后，发生了那样的……“意外”。
+
+Coalwall: So, you're saying that, because you left, Annie ultimately chose to end her own life?
+黑墙：你是在暗示，因为你的离开，安妮最终选择了……结束自己的生命？
+
+Coalwall: No. I can't believe that. I simply can't!
+黑墙：这怎么可能？！
+
+Coalwall: I may not have known her well, but everything I did know about her tells me she would never have done such a thing.
+黑墙：虽然我和安妮并不熟悉，但我知晓，她是一位信仰纯正的女性，绝无可能做出这样的举动……
+
+Despite the protests, she can read the doubt and heartbreak in her expression. She's on the backfoot.
+显而易见，对方正在动摇。
+
+Marguerite: Is it really so difficult to imagine? Maybe she wanted a release from all her troubles?
+玛格丽特：她祈求解脱，于你而言很难接受吗？
+
+Coalwall: What?
+黑墙：……什么？
+
+Marguerite: Nothing. I was just speculating.
+玛格丽特：噢，我没有别的意思。
+
+Marguerite: I simply didn't expect that you would arrive at that conclusion.
+玛格丽特：只是没想到，黑墙研究员，你最终会得出这样的结论。
+
+Coalwall: Oh, no. Don't you dare try to reverse this back to me. What are you implying?
+黑墙：你究竟想暗示些什么？！
+
+But she can't read anything past her colleague's serene dead-eyed smile. Unsteady in her conviction, she suddenly feels the urge to withdraw.
+在面对玛格丽特沉静的微笑时，她却罕见地萌生退意。
+
+Coalwall: Enough. I don't want to hear it.
+黑墙：算了，我不想再听你的胡言乱语——
+
+Rachel: Everything's set up outside! The recorder should already be receiving data.
+蕾切尔：亲爱的组员们，外面全部布置好啦！记录仪应该已经出数据了——
+
+Rachel's excited voice cuts through the air, her hopeful energy arriving shortly before she does.
+热切的呼唤声随着返回的蕾切尔传来。
+
+Rachel: Huh? Were you two arguing? Why does it feel colder in here than outside?
+蕾切尔：——咦？你们是在吵架吗？怎么室内比室外还冷？
+
+Marguerite: Not at all. Researcher Coalwall was feeling a little under-the-weather. I was concerned it might be related to the "Storm" countdown.
+玛格丽特：黑墙有些不舒服，但已经好多了。我担心，也许是“暴雨”倒计时的原因……？
+
+Coalwall: ...
+黑墙：……
+
+Coalwall: I'm fine. I'm not showing any symptoms of Storm Syndrome.
+黑墙：没事了。我没有时代病的症状。
+
+Rachel: We have first-aid supplies on hand. If you feel unwell at all, tell me immediately.
+蕾切尔：我们有应急医疗箱，有哪里不舒服记得马上告诉我——
+
+Rachel: Wait! What's going on here?!
+蕾切尔：——啊！这是什么？！
+
+Marguerite turns toward the recorder at Rachel's side. It is receiving data transmitted from the deep-water probe.
+玛格丽特看向蕾切尔手边的记录仪——它接收着深水测控计传回的数据。
+
+Marguerite: That's a massive fluctuation for such a short interval.
+玛格丽特：短时间内的巨大波动……
+
+Marguerite: What's happening outside?
+玛格丽特：外面发生了什么？
+
+Rachel pulls out a sheet of paper, rapidly converts the signal, and sketches a curve.
+蕾切尔抽出一张白纸，快速将信号转译，随后画出一幅曲线图。
+
+Rachel: Either the probe is malfunctioning, or we've just detected something extraordinary.
+蕾切尔：如果不是这支测控计坏了，那就是我们监测到了不得了的东西。
+
+They consolidate the data, and Marguerite writes down a set of highly simplified equations.
+她们汇总所有数据，玛格丽特写下一组高度简化的方程。
+
+Variables entered. Approximation computed. The result is unsettling.
+参数代入，估算……结论使人毛骨悚然。
+
+Coalwall: This energy value ...
+黑墙：这个能量值……
+
+Coalwall: It resembles a global climatic phase transition.
+黑墙：简直像全球气候的“相变”。
+
+Marguerite: It's difficult not to associate this with the "Storm."
+玛格丽特：很难不让人联想到“暴雨”。
+
+Rachel: But the probe didn't complete its transmission. How is that possible?!
+蕾切尔：但是这支测控计没有完成信号……怎么会这样？！
+
+Marguerite: Perhaps the sudden shifts in temperature and depth caused the signal to stall.
+玛格丽特：也许温度和深度的剧烈变化使数据卡在了触发位置。
+
+Rachel: A worse possibility is that it never resurfaced at all.
+蕾切尔：更糟糕的可能性是，它根本没有上浮。
+
+Rachel: If that's the case, recovering the probe itself will be extremely difficult. Marguerite, you designed it. What's your assessment?
+蕾切尔：那就很难回收测控计本体了……玛格丽特，这是你设计的测控计，你怎么看？
+
+Marguerite: It shouldn't be so fragile that it can't withstand this level of fluctuation.
+玛格丽特：它不应该脆弱到无法承受这个波动。
+
+Rachel: S-So the probe itself could be trapped down there?
+蕾切尔：那、那真的是测控计本体卡在了深水位置？
+
+Coalwall: The last signal was at coordinate C023. We should try to recover it.
+黑墙：这是C023点位的测控计，我们去看看吧。
+
+Rachel: I can't see the surface marker at C023. Coalwall, is the submersible hydrophone picking up anything?
+蕾切尔：还是看不见那个点位有浮筒。黑墙，我们的水下听音器呢？
+
+Coalwall: No release signature or air bubbles detected.
+黑墙：没有测控计释放装置的声音，更没有上浮的气泡声。
+
+Coalwall: The cable is fully taut. I pulled on it, and it didn't budge.
+黑墙：连接测控计的缆绳绷得很紧，我拽了，简直纹丝不动。
+
+Coalwall: Do I have the right read here? Rachel, what's your assessment?
+黑墙：……好了，事实已经很明显了。蕾切尔，来宣布结果吧。
+
+Rachel: The probe that detected the anomalous signal is stuck at a depth of thirty-six meters.
+蕾切尔：这支检测到了异常信号的测控计，卡在了水下三十六米的位置。
+
+Marguerite: That's too deep for recovery.
+玛格丽特：看来，我们只能放弃回收它了。
+
+Marguerite: Nonetheless, we've already gathered some extraordinary data. It should keep us occupied for quite some time.
+玛格丽特：没事，现有的惊人数据够我们消化一阵子了。
+
+Waves roll in under gathering shadows. No one sees Rachel's expression clearly.
+海浪起伏，阴影笼罩，没人看清蕾切尔的表情。
+
+She glances at her watch, then stares out toward the rolling sea.
+她只是抬手看了眼表，然后静静地眺望了一会儿海面。
+
+Rachel: Researcher Coalwall, Marguerite.
+蕾切尔：黑墙研究员，玛格丽特研究员。
+
+Rachel: I'm going to dive down there and retrieve the probe.
+蕾切尔：我决定下水回收这支测控计。
+
+06  【3.5】蝴蝶玩法剧情06
+
+Temporary Station, Coral Islands
+近赤道·珊瑚岛驻点
+
+Coalwall: Have you lost your mind?!
+黑墙：蕾切尔，你疯了吗？！
+
+Coalwall: You don't have the training for a deep dive like that! Besides, our suits aren't even rated for that depth!
+黑墙：你没受过专业深潜训练，我们带的潜水服也不适用于这种深度。
+
+Coalwall: There's no reason to risk your life over a probe!
+黑墙：没有必要为了一次观测冒这么大的险！
+
+Rachel: It's only a bit over twenty meters down!
+蕾切尔：不过是水下二十多米而已……！
+
+Marguerite: Thirty-six meters ...
+玛格丽特：是三十六米……
+
+Rachel: This probe is of critical importance.
+蕾切尔：这支测控计真的非常重要。
+
+Rachel: It's the only instrument that recorded the anomaly. If we can't retrieve the physical unit, we may never get a second chance.
+蕾切尔：它是唯一一支观测到异常数据的仪器，如果不能回收本体，我们这次的观测就失去了意义。
+
+Coalwall: This was just our first field expedition with half-baked equipment. Everything is still in its infancy.
+黑墙：这只是第一次野外考察，我们设备不全，一切都只是刚刚起步。
+
+Coalwall: The recorder clearly captured all the transmitted data leading up to the anomaly. Even without recovering the probe, it will be enough.
+黑墙：我们的记录仪也清楚记录下了测控计传回来的数据，哪怕没有本体也足够了！
+
+Coalwall: Why are you trying to get yourself killed?
+黑墙：别下水去送死行吗？
+
+Rachel: Are you really that naive, Coalwall?
+蕾切尔：别装傻了，黑墙。
+
+Rachel: We both know these remote readings are far too unreliable. If we can't retrieve the unit and calibrate it against the baseline probe, then all we have are isolated readings. They would laugh us out of headquarters.
+蕾切尔：我们都知道远程读数实在是太不稳定了。我们必须回收本体，和基准测控计对比校准，否则就是孤证不立。
+
+Coalwall: But ...
+黑墙：但……
+
+She tries to interrupt, but Rachel, already pulling on her diving suit, continues speaking.
+她想打断蕾切尔，但正忙于套上潜水服的女性还在继续自己的絮叨。
+
+Rachel: Without verification, our analysis becomes a mere "hypothesis," or worse, imagination.
+蕾切尔：否则，我们的数据分析就只是一种“猜想”，或者不切实际的“想象”。
+
+Rachel: Even Hardy and Ramanujan had to prove their conjectures.
+蕾切尔：就算是你们剑桥的哈代或者拉马努金，照样得给自己的猜想和公式做证明过程。
+
+Rachel: I must demonstrate ours beyond any dispute. Every rational doubt must be erased. I need tangible proof.
+蕾切尔：我必须切实地向所有人证明。我要保证消除每一丝合理的怀疑，我需要这个无可辩驳的物证。
+
+Marguerite: "Science is about complete, logical stories, not ambiguous, elusive concepts."
+玛格丽特：“科学需要听到的是完整的故事，而不是一声疯狂的啼鸣。”
+
+Rachel: Hah! That's exactly it!
+蕾切尔：哈，我喜欢这句话！
+
+Coalwall: This isn't the time for speeches!
+黑墙：蕾切尔！现在不是说这种话的时候。
+
+Coalwall: The probe might simply be malfunctioning, and this expedition was rushed. We can wait until the next time.
+黑墙：这支测控计可能只是故障了。况且我们这次的准备非常仓促，我们完全可以等到下一次行动计划更完善……
+
+Rachel: If we do, we might never encounter data like this again. It could be faulty or it could be real. That's precisely why I need to verify it.
+蕾切尔：我们不一定还会遇到这样的数据，即便它只是一个故障数据，我也需要验证真伪。
+
+Rachel's gaze softens. She looks at Marguerite.
+蕾切尔的目光变得柔和。她看着玛格丽特。
+
+Rachel: You understand me, don't you? Marguerite, I've waited long enough.
+蕾切尔：你一定明白我吧？玛格丽特，我等得已经够久了。
+
+Her silence is like a mirror, and in it, Rachel seems to see her own conviction reflected.
+玛格丽特并不回答，她沉默如明镜，蕾切尔似乎能对着她，看清自己内心的愿景。
+
+Rachel: I have always lived my life for science.
+蕾切尔：我的人生是为了科学而存在的，它是我认识世界、连接世界的方法。
+
+Rachel: The history of science is filled with brilliant minds. The modern world is built upon that history. After centuries of ignorance, we finally separated myth from materialism.
+蕾切尔：整个科学史上群星璀璨，现代世界构建在科学史之上。我们经历十几个世纪，终于将占星术和天文学分开，远离了蒙昧的时代。
+
+Rachel: And then the "Storm" came, and everything reset to zero.
+蕾切尔：然后“暴雨”来了……现在一切回到了起点。
+
+Coalwall: Rachel ...
+黑墙：蕾切尔……
+
+Rachel lifts her head, looking out over the waves, making a final choice in her heart.
+蕾切尔抬起头，询问使她变得一无所有的暗昧命运。
+
+Rachel: All those geniuses, mathematicians, and physicists who dedicated their entire lives to discovering and defining the laws of the universe—what was all of it for?
+蕾切尔：那些会聚在学会里，以毕生去猜想和证明世界规律的天才们算什么？
+
+Rachel: Plato, Hypatia, Galileo, Darwin ... Brilliant minds that struggled against ignorance for the sake of truth.
+蕾切尔：在漫长岁月中，为求真理与蒙昧斗争的牺牲者又算什么？
+
+Rachel: My life, every human life, I can't let that all be washed away by the "Storm."
+蕾切尔：我的人生……所有人类的人生，整个科学史的发展，不应该被“暴雨”夺走。
+
+Rachel: I need to prove it still exists. I need to prove all of it.
+蕾切尔：我需要证明它还存在，我需要证明这一切。
+
+Coalwall: I understand what you're saying, but you need to be alive to—
+黑墙：你说的这些我们都明白，但是活着才有可能性——
+
+Rachel: Please stop, Researcher Coalwall. Respect my resolve as a scientist.
+蕾切尔：别再说了，黑墙研究员。我恳请你尊重我作为研究员的决心。
+
+The words are sharp. There's no room for argument anymore.
+她倏然打断黑墙。
+
+Marguerite: You're certain you want to take this risk?
+玛格丽特：这就是你真正的决定吗？
+
+Rachel: Hah, yes. It's my choice. It feels like the first real choice I've made since the first "Storm."
+蕾切尔：哈哈……对的，真正的决定。从第一次“暴雨”后，我迷失至今。
+
+Rachel: Call it fate, hah, or maybe call it "the deterministic ends of an uncaring universe." I don't care. It's my last chance to justify my life's work.
+蕾切尔：是的，这是命运和第一因赋予我的职责，是我找到自己存在的最后机会。
+
+Marguerite: Then I won't stop you.
+玛格丽特：好，那我不会再阻拦你。
+
+Coalwall: Wait. Wait!
+黑墙：等等，等等……
+
+A surge of anguish detonates in Coalwall's mind.
+痛苦的气息在黑墙的大脑深处突然爆炸、弥漫。
+
+She recalls Annie's face swallowed by shadow, and the familiarity terrifies her.
+她想起安妮淹没在影子里的面孔，而这一切又是如此熟悉。
+
+Coalwall: Rachel, don't you think this is strange? The timing's too coincidental.
+黑墙：蕾切尔，你不认为这一切都很奇怪吗？这一切都太巧合了……
+
+Coalwall: Data can be fabricated. Instruments are tamperable. All of this feels so unreal, like someone else was guiding you toward a specific end.
+黑墙：数据是可以伪造的，就像测控计是人为制造的，这就像一个他人编写的剧本，引导着你寻求解脱……
+
+Rachel: What do you mean? Coalwall, are you questioning my scientific integrity?
+蕾切尔：什么剧本？黑墙，你是在质疑我对于科学的责任心吗？
+
+Rachel: Or are you accusing Marguerite? Don't be ridiculous!
+蕾切尔：还是说，你在怀疑玛格丽特？开什么玩笑？！
+
+Rachel: I don't know what happened between the two of you back in Cambridge, but I don't have time for this here.
+蕾切尔：黑墙研究员，我不知道剑桥时期到底发生了什么，但你不能在这里大放厥词！
+
+Rachel: It's easy to accuse without evidence!
+蕾切尔：只用语言污蔑是最简单的事情！
+
+Coalwall: No, I ...
+黑墙：不，我……
+
+Her tongue swells and trips. All she has is intuition, not evidence.
+一时冲动的语言使她后悔不已。她只有直觉，没有证据。
+
+Coalwall: I mean that we all know how desperate you are to show science alone is capable of explaining the "Storm," and now this opportunity—it feels too good to be true, too perfect.
+黑墙：你希望证明科学可以研究“暴雨”，结果这条路真的摆在了你的面前，我是说——
+
+Rachel: Enough.
+蕾切尔：够了，黑墙。
+
+Rachel: I appreciate your concern, but my decision is made.
+蕾切尔：到头来，只有玛格丽特一直理解我。
+
+Rachel: There's nothing more to say. I'm going to retrieve the probe.
+蕾切尔：……算了，没什么好说的了，我该下水去取回测控计了。
+
+Marguerite: ...
+玛格丽特：……
+
+Equatorial Coral Islands
+近赤道·珊瑚岛
+
+Rachel: Marguerite.
+蕾切尔：玛格丽特。
+
+Marguerite quickens her pace to catch up. Dusk is falling as they walk side by side along the shore.
+玛格丽特快步跟上蕾切尔的脚步。夜色即将降临，她们并肩走在沙滩上。
+
+There is no trace of the "Storm" in the sea breeze yet, only the stillness of nature.
+海风中当然闻不出“暴雨”的气息，有的只是大自然的寂静。
+
+Marguerite: Hey.
+玛格丽特：嗯？
+
+Rachel: That paper, Samplings of Global and Regional Chaotic Energy Route Changes, you wrote it, didn't you?
+蕾切尔：《全球环境与局部混沌能量的变化路径采样》这篇论文是你写的吧？
+
+Marguerite stops walking. They hold each other's gaze for a brief moment.
+玛格丽特停住脚步。她们对视须臾。
+
+Rachel: It had to be you. Only someone with a rare genius could have made those calculations. I wonder if anyone else in the world could have figured it out. No one would have expected you of all people.
+蕾切尔：写出那篇论文的人是一个不可多得的天才，她的叙述方法和平时的“玛格丽特”大相径庭。
+
+Rachel: But I saw it. Your statistical habits are identical—small patterns in the way you structure data. It's a pity I never asked you to co-author with me. I might've noticed sooner.
+蕾切尔：但你们统计数据时的一些小习惯非常类似……很遗憾你平时只给环流观测小组做一些整理的工作，不然我一定会发现更多的共同点。
+
+Rachel: Lorentz Butterfly is a beautiful pseudonym. I admire the symbolism.
+蕾切尔：洛伦兹蝴蝶是个很好的笔名。我喜欢它代表的意象。
+
+Lorentz Butterfly: ...
+洛伦兹蝴蝶：……
+
+The pale researcher's face changes to something rarely seen.
+第一次，苍白研究员的笑容产生了一些角度上的变化。
+
+She offers a genuine smile.
+她露出了一个真正的笑容。
+
+Lorentz Butterfly: In truth, I believe neither science nor technology can unravel the secrets of the "Storm."
+洛伦兹蝴蝶：是的，我是洛伦兹研究所的一员，我从不相信科技，也不相信科学能带我们解开“暴雨”的秘密。
+
+Lorentz Butterfly: I wouldn't have been much of a co-author. Our ideals stand in direct opposition.
+洛伦兹蝴蝶：很抱歉，我们的理想背道而驰，蕾切尔。
+
+Rachel: I see. And now I realize why that component didn't fit right earlier. I assume you modified our probe to fit your own ends.
+蕾切尔：原来如此……在检查装置的时候，我曾发现，那支测控计里头有一个陌生的构件。想必是你在设计的时候加上的。
+
+Rachel: So, Lorentz Butterfly, what did you do to it?
+蕾切尔：能告诉我它的用途是什么吗，洛伦兹蝴蝶？
+
+Lorentz Butterfly: Nothing substantial. I've only added a module designed to monitor Chaotic Energy.
+洛伦兹蝴蝶：那是一个监测混沌能量的构件。
+
+Lorentz Butterfly: But there is something else. You know that under our new safety regulations, we have to leave at least ninety minutes before the "Storm." That was our compromise.
+洛伦兹蝴蝶：你应该能理解，按照环流观测小组的外勤安全条例，最极限的情况是，我们必须在“暴雨”前一个半小时撤离，这是多方妥协的结果。
+
+Rachel: Hah. So that's why it didn't surface.
+蕾切尔：哈哈，我明白了。
+
+Rachel: Recovering it too early would compromise your observation, just as leaving it down there would compromise mine.
+蕾切尔：提早回收会导致观测效果大打折扣，无论是我的还是你的测控计。
+
+Lorentz Butterfly: Bring it back at the right time, and you'll have my thanks.
+洛伦兹蝴蝶：如果你能在恰当的时间将它带回来，我会非常感谢。
+
+Rachel: You mean at the very last moment before the "Storm" sweeps us all away.
+蕾切尔：你的意思是，“暴雨”来临的前一刻。
+
+Rachel: Now I'm curious. What could possibly keep me down there for so long? What else did you leave down there?
+蕾切尔：我现在有些好奇了，这水下究竟有什么在等着我，会让我耽误这么久？
+
+Lorentz Butterfly: Don't worry. I've ensured you'll have sufficient oxygen.
+洛伦兹蝴蝶：别担心，我为你准备了足够的氧气。
+
+Rachel: You'd better add me as co-author on your next paper.
+蕾切尔：那不如在论文上署上我的名字？
+
+The words don't land right. Too bitter for a joke, too genuine for a barb.
+她的玩笑依然不痛不痒，和她的声音一起缓慢落地。
+
+Lorentz Butterfly: I'm afraid your contribution wouldn't warrant co-authorship, Rachel.
+洛伦兹蝴蝶：你的贡献没有这么大，蕾切尔。
+
+Rachel: I'd like to think wagering my life might earn a footnote at least.
+蕾切尔：好吧，毕竟这可是个要命的任务呢……
+
+Rachel: But it doesn't matter now, Marguerite. Countless times, you stood firmly, unconditionally, by my side. Now I'll do the same for you.
+蕾切尔：但不重要了，玛格丽特。无数次，你都坚定地、无条件地站在我这边。而我也一样会坚定地站在你这边。
+
+Rachel: Farewell, dear Marguerite.
+蕾切尔：再见，我亲爱的玛格丽特。
+
+Her path lies before her. She refuses to wait another second.
+那坦途就在面前，她一刻也不愿再等待。
+
+07  【3.5】蝴蝶玩法剧情07
+
+A severed rope lies wet at the center of the table.
+一截断绳，湿漉漉地摆在桌面中央。
+
+It once tethered Rachel's diving suit.
+这是原本连接在蕾切尔潜水服上的绳缆。
+
+Coalwall's every suspicion proven true, and now she sits on a desolate island with the accused.
+所有理所当然的预感都已被验证。
+
+Coalwall: I don't understand why she did it. It was suicide.
+黑墙：我不明白她为什么要去。这简直是送死。
+
+Marguerite looks over to her without expression.
+玛格丽特只是漠然地看着她。
+
+Marguerite: She was prepared to sacrifice herself for her research.
+玛格丽特：蕾切尔只想为科研理想付出一切。
+
+Marguerite: In this era where the "Storm" has stripped science of its meaning, it was her last stand for reason over chaos.
+玛格丽特：在这个“暴雨”带走科学一切意义的年代，这是她仅剩的信仰。
+
+Marguerite: Why would you think of stopping her?
+玛格丽特：你为什么要阻止她？
+
+Coalwall: If she dies because of this, it'll be the end of everything.
+黑墙：如果她因此而身故，就什么都没有了。
+
+Coalwall: No future. No possibility. Nothing.
+黑墙：不会有未来，不会有可能性，什么都没了。
+
+Coalwall: Was Annie's "accident" like this as well?
+黑墙：玛格丽特……安妮当年的“意外”，也是这样的吗？
+
+Marguerite: Does it matter? Would you want to hear the answer, even if it might destroy you?
+玛格丽特：这个答案很重要吗，哪怕它会让你无法承受？
+
+Coalwall: Of course.
+黑墙：当然重要。
+
+Coalwall: This isn't the first time you've implied there's more to her accident. Speak plainly.
+黑墙：玛格丽特，你已经不止一次这样暗示，安妮当年的“意外”另有隐情了。
+
+Marguerite: Have I made any implications? Or have you just been trying to read suspicion into my answers?
+玛格丽特：你没有发现吗？一直在施加暗示的，是你自己，黑墙研究员。
+
+Marguerite: You want Annie's death to be something other than an accident. You want a culprit to hold responsible.
+玛格丽特：你希望安妮的逝世并非一场意外，你希望寻找一个凶手来为此负责——
+
+Marguerite: When it comes to Annie, you've never asked me for the truth.
+玛格丽特：在安妮的事情上，你向我求的从来不是答案。
+
+Coalwall: ...
+黑墙：……
+
+Coalwall clenches her fists.
+黑墙攥紧了拳头。
+
+Marguerite: Oh! Forgive me. I've finally remembered what else happened that day.
+玛格丽特：噢——！抱歉，我终于想起来了，那一天还发生了什么事情。
+
+Marguerite: That day in late October, 1987. The day Annie came to see me. The "turning point," as you call it.
+玛格丽特：1987年十月下旬，安妮来找我的那一天。你所说的“转折”的关键……
+
+She pauses, smiling, waiting for Coalwall to ask.
+她停下了，微笑地等待着黑墙的追问。
+黑墙只能遵循她的意愿。
+
+Coalwall: What happened?
+黑墙：然后呢？
+
+She lets the question hang in the air, then, as if to toy with her, answers with a question of her own.
+玛格丽特却并未回答，话锋一转。
+
+Marguerite: Do you remember how I correctly predicted that you were coming to Laplace?
+玛格丽特：你还记得我是怎样预知到你的前来的吗，黑墙研究员？
+
+Coalwall: You said you saw the dispatch list on Simone's desk. My designation was on it.
+黑墙：你说你在希曼女士的桌上看到了派遣名单，上面有我的代号。
+
+Coalwall: And I'd used that alias to publish a few pieces in the Cambridge student papers.
+黑墙：而我曾用这个笔名，在剑桥的小报上发表过一些文章。
+
+Marguerite: Your memory serves you well.
+玛格丽特：看来你的记性还不错。
+
+Marguerite: Maybe you remember all the trouble Annie had after those scandals involving her family's business became public?
+玛格丽特：在剑桥的时候，安妮因为出身，受到了一些学生的口诛笔伐。
+
+Marguerite: She said her parents' business dealings were just the beginning. They were walking on thin ice with the law and with the tabloids.
+玛格丽特：据她所言，父母的事业才刚刚起步，当时在社交场上如履薄冰。
+
+Marguerite: She wouldn't dare comment on anything political at school or even the slightest bit controversial. So, she stayed quiet—anything—to stay under the radar.
+玛格丽特：为了不给父母制造不必要的丑闻，她无法公开表达任何的观点和立场。
+
+Marguerite: Now that I think about it, that month must have been a significant time for you as well.
+玛格丽特：1987年十月下旬这个日子，对你来说，应该也是一个特殊的日子吧。
+
+Marguerite: I recall that was the first time the name "Coalwall" appeared in the campus papers.
+玛格丽特：那一天，是你第一次用“黑墙”这个名字，登上了校报。
+
+1987.
+1987年。
+
+Annie: Just stop asking, Marguerite. I'm begging you.
+安妮：不要再追问了，玛格丽特，求求你……
+
+She pleads, but the girl before her, her only friend, remains unmoved, pressing her to expose the wound instead.
+她惶然地恳求着，藏起自己破碎的自尊。然而面前唯一的友人不为所动，只是逼迫她展露出自己的伤口。
+
+Marguerite: Show me.
+玛格丽特：让我看看。
+
+Marguerite: What did you bring me?
+玛格丽特：你带来了什么？
+
+With barely any effort, Marguerite snatches the scrap from her hands.
+安妮的力气很小，几乎没费什么力气，玛格丽特就轻松抢过她藏在手中的纸片儿。
+
+In the struggle, the paper is torn into pieces and scatters across the floor.
+争执之中，纸张被撕成碎片，散落一地。
+
+A corner of the latest student newspaper.
+那是当期校报的一角。
+
+Marguerite: "I remember the hunger and the cold. I remember the coal dust on my father's hands."
+玛格丽特：“我记得家里的贫穷和寒冷，记得父亲手上的煤灰。”
+
+Marguerite: "I remember my mother's sobbing cries when news of my father's death came. I remember the rage that crushed me into the earth with the weight of a mountain."
+玛格丽特：“记得收到父亲死讯时母亲的悲号，记得以千钧之重将我碾入泥土的愤怒。”
+
+Marguerite: Oh. A piece written by a student from a mining family. Both her parents passed away two years ago.
+玛格丽特：噢。来自矿工家庭的学生投稿，她的父母在两年前双双去世了。
+
+Marguerite: That name, how fitting, like a wall of coal rising from the excavation pit, faintly luminous in the dark.
+玛格丽特：她以第一次下到采掘现场时的感受为自己命名——一面矗立在采掘现场、散发着微光的黑墙。
+
+Marguerite: Annie, would you care to explain what's going on?
+玛格丽特：安妮，现在，你愿意告诉我，发生了什么事吗？
+
+The girl before her shivers fearfully, her hands trembling at her side.
+面前的女孩颤抖着。
+
+Annie: People think I'm just as responsible for their deaths as my father. They think of me as a monster, or at best as a child of monsters.
+安妮：……在这篇文章发表之后，有不少同学都觉得，里面描述的“加害者”与“既得利益者”就是我。
+
+Annie: I don't blame Coalwall. It's been like this since people found out about them. I've been painted with the same brush. They look at me and see a spoiled brat given everything by the worst kind of dirty, dangerous, and exploitative industry.
+安妮：我并不责怪这位黑墙同学……毕竟从我进入校园开始，他们口中的我就是“不道德的”“冷酷的”“自私的”。
+
+Marguerite: All this article did was give them an excuse to unleash their hatred. It doesn't change anything.
+玛格丽特：而这篇文章不过是给了他们发难的机会。
+
+Annie: I-I don't know what to do. Marguerite, I'm not sure I blame them. But I didn't choose my family any more than they chose theirs. No one chooses their circumstances.
+安妮：我，我不知道怎么办……玛格丽特，这不是他们的错，他们也没法选择自己的出身和立场。
+
+Annie: I saw Coalwall today; I don't think she even noticed me as I walked by.
+安妮：其实，我今天见到了黑墙她本人。虽然她并没有留意到我。
+
+Annie: Seeing her, knowing what she's been through, I don't feel like I deserve anything that I have here.
+安妮：她的家世就像校报中描述的那样……那是活生生站在我面前的牺牲。
+
+Annie: I can't look at her without feeling like I was the one who let her father die and killed her mother with all that grief and pain.
+安妮：她的父亲死于一次冲突，她母亲则很快因悲痛去世。
+
+Annie: She had to fight for a full scholarship, just for a chance to stand on equal footing with me.
+安妮：当一个人经历这样的痛苦，拼尽全力拿到全额奖学金，然后站在了和我们平等的位置上……
+
+Annie: So maybe I deserve all of that scorn. Maybe that's just what I get for benefiting from her pain.
+安妮：也许如他们所说，我确实是冷漠又自私的既得利益者。
+
+Her trembling hands slow with exhaustion.
+她的颤栗停止了，身上只余下颓然。
+
+Annie: I'm sorry, Marguerite. I shouldn't have troubled you with any of this. You must think I'm being ridiculous.
+安妮：抱歉，玛格丽特，我不该和你说这些的。你一定觉得我很莫名其妙吧。
+
+Annie: I ... I should go.
+安妮：我……我先回去了。
+
+Annie: I should never have bothered you in the first place.
+安妮：我不会再来打扰你了。
+
+She turns and slinks away, looking as pale as a phantom.
+她失魂落魄地离开了。
+
+Night has fallen as their evacuation timer continues to tick down.
+天色彻底暗了下去。
+
+In their tiny outpost, Coalwall reels back, inadvertently knocking over a chair.
+驻点内，黑墙后退了一步，碰倒了放在角落的一张椅子。
+
+Marguerite: I never spoke to her after that day.
+玛格丽特：自那之后，我再也没有私下和安妮碰过面。
+
+Marguerite: I suppose I did take notice of her change in behavior, but I didn't see how it concerned me. She never reached out to me at any rate.
+玛格丽特：可见的，她的处境越来越差。虽然我并不在意，但她似乎不愿意她的情况拖累我，和我断绝了联系。
+
+Marguerite: Annie, Annie. She was sweet, really. Probably too sensitive but kind.
+玛格丽特：安妮，安妮——你真是个温柔的女孩。
+
+Marguerite: Then a few weeks later, there was that theft in the lab building—sensitive medical compounds, among them, the kind necessary to induce cardiac arrest.
+玛格丽特：后来，化学实验室传出了失窃的消息。有一批材料消失了，而里面正巧有能够诱发心脏病的药剂。
+
+Marguerite: Who can say? It may only have been a coincidence.
+玛格丽特：谁知道呢？也许这只是巧合。
+
+Coalwall: I ...
+黑墙：我……
+
+Coalwall struggles, suddenly feeling choked with some unrealized emotion.
+她如鲠在喉。
+
+Coalwall: I never meant to make her feel that way. I was bitter, of course, but I never blamed her for what happened.
+黑墙：我不知道会这样。虽然现在说这个已经失去了意义，但那篇文章，我并没有针对安妮个人的意思。
+
+Coalwall: I just didn't want people to forget what happened to my parents.
+黑墙：我只是希望社会不要忘记发生在我父母身上的事情……
+
+Coalwall: Was it me? Did I cause Annie's death?
+黑墙：是我……吗？是我害了安妮。
+
+Coalwall: No conspiracy. No hidden manipulation. Just ... me ...
+黑墙：没有阴谋，也没有什么隐藏的真相，而是我……
+
+The other woman shrugs.
+女士耸了耸肩。
+
+Marguerite: You were so unsettled by the idea that her death was an accident.
+玛格丽特：看来你并不能坦然地接受“意外”的真相，黑墙研究员。
+
+Marguerite: Strange. All this time, you've thought I must be guilty in some way.
+玛格丽特：真奇怪，明明是你一直在向我确认自己是否有罪。
+
+Marguerite: But it's never one thread that pulls the noose. Everything is connected; every word, every action shapes the next, like the flapping of a butterfly's wings.
+玛格丽特：万事万物总有着联系。也许你没有直接针对她，但却间接导致了她的处境。
+
+Marguerite: But Annie said it well: no one chooses their circumstances. You couldn't have known that penning a touching memorial to your family would light the fuse that led to her demise.
+玛格丽特：像安妮说的，这并不是你的错，你们都无法选择自己的出身。可惜的是，引燃导火索的人，恰巧是你罢了。
+
+Marguerite: But then, perhaps on some subconscious level, you sensed there was more. That unease you felt led you to look for a culprit.
+玛格丽特：你潜意识里察觉了这一切，感到惴惴不安，你急于寻找一个“真凶”——
+
+Marguerite: To Annie's only "friend," a reclusive transfer student with an unclear past and habit of writing strange equations on blackboards.
+玛格丽特：而安妮唯一的“好友”，一位在黑板上写下神秘方程的孤僻转学生，岂不是最好的选择？
+
+Coalwall: It was my indifference that allowed all of this to happen.
+黑墙：……是我的旁观与冷漠造就了一切。
+
+Coalwall: Because I let them torture her for something she couldn't change.
+黑墙：我承认自己的罪。
+
+Coalwall: But that still doesn't explain everything. That equation you wrote, I swear it was modeling Annie's behavior. That's why I suspected you.
+黑墙：但那个写在黑板上的方程，我发誓，它真的在解析安妮的行动，我才有所怀疑——
+
+A chill spreads through her body.
+一阵寒意在她身上蔓延。
+
+Coalwall: Wait, that equation, you wrote it for me to see, didn't you?
+黑墙：等等，那个方程，是你故意写给我看的对吗……？！
+
+Coalwall: Right down to my first day at Laplace. You predicted all of this, didn't you?
+黑墙：就像我进入拉普拉斯科算中心的第一天一样，早在剑桥的时候，你就预见这一切……
+
+Coalwall: So, what the hell is this? You let me think I was acting on my conscience, that I was searching for the truth, and all the while I was just acting out a formula you had already solved.
+黑墙：你让我以为这一切行动，只是出于自身的负罪与正义感，却一步一步地迈入了你早就设定好的剧本……
+
+Coalwall: A study of human behavior and decision-making, but I wasn't even the data. I was the proof, a walking replication.
+黑墙：你只是想……研究我的行动和决策过程。你给了我一道命题，想看我如何作答。
+
+Coalwall: But why? Why would you do this?
+黑墙：但……我不明白。你为什么要这么做？
+
+Coalwall: And what about Rachel? What role did she serve in this sick formula of yours?
+黑墙：那蕾切尔呢，你设计了这一切，又是为了达成什么目标……？
+
+Marguerite: I encourage you to solve that for yourself. The answer is quite simple, but I would hate to interrupt your process.
+玛格丽特：你应该自己去发现，这样会比较有趣。这很浅显。
+
+Confusion. Disbelief. Incomprehension.
+茫然，不可置信，难以理解。
+
+But she excels at solving problems and eliminating impossibilities.
+但她是一个擅长解题、排除可能性的人。
+
+Coalwall: Setting aside the risk Rachel faced and all the elaborate staging, your ultimate goal was to delay the probe's retrieval.
+黑墙：抛开蕾切尔要面临的风险与这一切复杂的设计不提，你的最终目的，只是为了延长测控计的回收时间。
+
+Coalwall: You let her go out there just to make sure you got reliable data.
+黑墙：这样就能获得最真实有效的监测数据。
+
+Her conclusion defies all reason, yet it seems to be true.
+这个猜测太疯狂了。
+
+Coalwall: So, all of this, all of it was to prove your theories about the "Storm"?
+黑墙：……难道，这一切，都只是为了探究“暴雨”的真相吗？
+
+She lets Coalwall study her face without an answer.
+这一次，对面的女士没有再回答黑墙的问题。
+
+And in return, she reads from her an unprecedented mixture of danger and exhilaration.
+她感到前所未有的危险与兴奋。
+
+Lorentz Butterfly: You seem upset by this outcome. Allow me to offer a remedy.
+洛伦兹蝴蝶：你似乎对这不平等的处境感到心灰意冷，那我现在给你一个机会。
+
+Lorentz Butterfly: This is our teleport disk, the only means we have of returning safely to Laplace.
+洛伦兹蝴蝶：这是我们的传送软盘，唯一可以在“暴雨”前让我们安全回到科算中心的手段。
+
+Lorentz Butterfly: Why would I give you it? Can you figure out my motive? I trust you can.
+洛伦兹蝴蝶：而我这么做的目的，则请你按照你一贯的怀疑，大胆假设。
+
+Lorentz Butterfly: The decision is yours.
+洛伦兹蝴蝶：你来做一个选择。
+
+Lorentz Butterfly: Leave me here to face the "Storm." In this one moment, you have the chance to bypass society, morality, and the law. Pass judgment as you see fit.
+洛伦兹蝴蝶：把我留在这里直面“暴雨”，你可以越过社会、道德和法律，将我悄无声息地制裁。
+
+Lorentz Butterfly: Or allow me to return safely to Laplace with you and see whether your hypothesis is correct.
+洛伦兹蝴蝶：或者让我安全地回到科算中心，来验证你的猜想是否正确。
+
+Coalwall: You're completely insane.
+黑墙：玛格丽特，你真是个彻头彻尾的疯子。
+
+Coalwall: A monster impossible to comprehend.
+黑墙：一个让人无法理解的怪物。
+
+Lorentz Butterfly: Well? What will you do?
+洛伦兹蝴蝶：说吧，你要怎么做？
+
+08  【3.5】蝴蝶玩法剧情08
+
+The "Storm" descends once more, eroding the remnants of 1987.
+又一场“暴雨”落下了。属于1987年的一切正在被冲刷殆尽。
+
+Hallway, Laplace
+科算中心·走廊
+
+Inside the Laplace Scientific Computing Center, some researchers pause their work and stare at the absurd, distorted world outside. Others move faster, seizing this rare window to conduct experiments.
+拉普拉斯科算中心里，一部分研究员停下手中的工作，注视着外面荒诞扭曲的世界；另一部分研究员则加快了步伐，趁着这难得的时机进行实验。
+
+Marguerite: ...
+玛格丽特：……
+
+Marguerite: The "Storm."
+玛格丽特：“暴雨”。
+
+She casts a detached glance at the others and continues, not once breaking her stride.
+她漠然地望了众人一眼，并未改变自己的方向。
+
+"Unnecessary Information" Room
+“非必要信息”资料室
+
+Only a few weeks have passed since she joined Laplace. She's still considered a newcomer.
+自她加入拉普拉斯科算中心，只过了数周的时间。她在这里仍算是一个新人。
+
+But recently, something has changed. She uncovered a secret hidden within Laplace.
+但最近有些不同——她发现了一个藏在科算中心内部的秘密。
+
+Marguerite: Here it is, archives related to Chaos Theory. The contents are riddled with errors, almost comically deliberate and unlikely to draw anyone's attention.
+玛格丽特：找到了……混沌学相关的档案。内容错漏百出，刻意得引人发笑，几乎不会引起任何人的注意。
+
+Marguerite: Yet why hide an elegant riddle here? It stands in stark contrast to this file's mediocrity.
+玛格丽特：但为什么这里却藏着一个精妙的谜题？简直和这份拙劣的档案格格不入。
+
+Marguerite: Who could possibly decipher such a riddle, especially without any real grounding in Chaos Theory?
+玛格丽特：谁会解开这个谜题呢？尤其还是在对混沌学毫无建树的情况下。
+
+Only someone utterly bored with everything Laplace has to offer.
+大概只有对科算中心的一切都感到无聊至极的她吧。
+
+It does not take her long to filter out the interference and reach the answer.
+没耗费多长时间，她就绕开所有的干扰项，得到了谜底。
+
+Marguerite: Are these coordinates?
+玛格丽特：这是……一个坐标？
+
+She invokes an arcane skill, attempting to contact a faraway place.
+她施展了用于远程通信的神秘术。
+
+Marguerite: Whispered   words,   speak!
+玛格丽特：密语声声！
+
+The first thing to emerge from the other end is a fragrance steeped in the scent of tears.
+最先从神秘术另一头传出的，是一阵浸润着泪水气息的香氛。
+
+???: Oh! So someone found the coordinates at last.
+？？？：噢——很高兴有人找到了这个坐标。
+
+???: You're the very first to decipher the puzzle I concealed within Laplace.
+？？？：这还是首次有人解开我留在科算中心的谜题。
+
+Marguerite: It wasn't much of a challenge.
+玛格丽特：我想那算不上有多难。
+
+???: Hah! Perhaps so, but once you consider the surrounding challenges, it becomes significantly more difficult.
+？？？：哈哈，但算上别的条件，这几乎不可能发生。
+
+???: For instance, it was hidden in a neglected file, one riddled with errors and liable to deletion at any time, and Chaos Theory stands in direct opposition to Laplace's doctrine.
+？？？：比如说，它藏在一份无人关注的文档里；而这文档错漏百出，随时可能会被销毁；混沌学又与拉普拉斯的理念背道而驰——
+
+Marguerite: So? Who exactly are you, madam?
+玛格丽特：所以呢？女士，您究竟是？
+
+???: My name and identity are irrelevant. I have lived a very long time, and such labels no longer matter to me.
+？？？：我的名字与身份并不重要，我度过了漫长的岁月，这一切于我而言已经失去意义。
+
+???: I am no longer within the Laplace Scientific Computing Center, nor am I under the Foundation's jurisdiction.
+？？？：而我如今也并不身处拉普拉斯科算中心，不在基金会的势力范围内。
+
+???: I left those coordinates to invite you into a secret society hidden within Laplace—Institutum Lorentz.
+？？？：我留下这个坐标，只是想邀请你加入隐藏在科算中心内部的秘密结社——洛伦兹研究所。
+
+???: Tell me, dear, would you like to find the very first butterfly that caused the "Storm" to fall?
+？？？：亲爱的，你想要找到那一只导致“暴雨”落下的，最初的蝴蝶吗？
+
+Laplace Rehabilitation Center
+拉普拉斯康复中心
+
+The "Storm" and the first circulation observation end abruptly.
+“暴雨”与首次环流观测一起仓促地结束了。
+
+Beyond the ICU doors, Coalwall and Ulrich stand vigil over a sleeping figure.
+康复中心的加护病房外，一人与一磁流体正注视着里面昏睡不醒的病人。
+
+Coalwall: Will she recover?
+黑墙：蕾切尔……她会康复吗？
+
+Ulrich: I'm afraid I have no more insight on that account than you do.
+乌尔里希：我不知道，黑墙研究员，我并不是专业的医生。
+
+Ulrich: The medical personnel have relayed to me that Rachel was suffering from severe oxygen toxicity, resulting in severe respiratory distress and retinal damage. She hasn't been responsive to any attempt to wake her. In short, she's in a coma.
+乌尔里希：康复中心的报告说，蕾切尔因氧中毒导致了严重的呼吸困难与视网膜病变，现在陷入了昏迷。
+
+Ulrich: Her monitoring equipment indicates that during the probe's recovery, she experienced some kind of unforeseen underwater accident.
+乌尔里希：她身上的监测仪器显示，在回收测控计时，她似乎在水下遇到了偶然发生的意外——
+
+Ulrich: Something severed the instrument's cable, causing it to float several hundred meters away from its original coordinates. It greatly delayed our recovery time. There's no explaining how. We might as well conclude a shark decided to take it as a chew toy.
+乌尔里希：类似于“鱼群受到莫名影响将测控计绳索咬断导致其随洋流漂浮数百米”的荒诞情况，导致回收时间延长。
+
+Ulrich: The truth of the matter will have to wait until she regains consciousness.
+乌尔里希：具体情况，必须等她清醒后才能得知了。
+
+Coalwall: ...
+黑墙：……
+
+Ulrich: She is also exhibiting mild symptoms of Storm Syndrome. Fortunately, the observation point was far from the epicenter of the "Storm," though thankfully her distance from the epicenter greatly reduced its effects. She handled it well.
+乌尔里希：她身上还有一定的时代病症状。你们该庆幸的是，观测点距离“暴雨”中心很远，因此蕾切尔没有受到时代病的过多影响，能够清醒地处理遇到的问题。
+
+Coalwall: Fortunate indeed.
+黑墙：是啊，真是幸运。
+
+Coalwall: Perhaps that, too, was part of the design.
+黑墙：或许这也是设计的一部分吧。
+
+The ferrofluid does not grasp her meaning.
+磁流体没有明白对方的意思。
+
+Ulrich: This kind of work is simply unsuitable to fragile humans.
+乌尔里希：显然，这种工作，脆弱的人类还是无法胜任。
+
+Coalwall: Mr. Ulrich, I would not wish for even you, an Awakened, to violate protocol by returning to safety at the very last moment before the "Storm" falls.
+黑墙：乌尔里希组长，哪怕你是意识唤醒者，我也不希望你违反条例，赶在“暴雨”落下前的最后一刻才返回安全区域。
+
+Coalwall: All for a single set of data.
+黑墙：只为了那一次的数据。
+
+The ferrofluid rests placidly at the center of his helmet.
+磁流体不以为然。
+
+Ulrich: But there are certain dangerous tasks we have no choice but to undertake, and we Awakened are simply better equipped.
+乌尔里希：有些危险的工作总得有人去完成。而意识唤醒者具备这样的条件。
+
+Ulrich: Let's hope Researcher Rachel wakes up soon. Otherwise, our natural physics department may be reduced to just Adler. One may as well just declare the whole thing defunct.
+乌尔里希：希望蕾切尔研究员赶紧苏醒吧！不然，理论物理组就只剩一个阿德勒了，彻头彻尾的名存实亡。
+
+Ulrich: Now then, I'm off to read Lorentz Butterfly's latest paper.
+乌尔里希：好了，我要回去读洛伦兹蝴蝶最新的论文了。
+
+Ulrich: She's calculated several coordinates where supernatural phenomena may occur, suggesting a connection to the core mechanism of the "Storm."
+乌尔里希：她推算出一些可能发生超自然现象的坐标，并且认为其与“暴雨”的核心机制有关。
+
+Ulrich: Though I really do wonder how these provocative letters always manage to bypass security and end up on my desk.
+乌尔里希：不过，这些挑衅信到底是怎么绕过科算中心的安保放在我桌上的？
+
+Coalwall: Supernatural phenomena. That is indeed a compelling direction.
+黑墙：超自然现象——这确实是一个不错的思路。
+
+Ulrich turns toward her in a sideways glance.
+意料之外的话语让磁流体微微侧目。
+
+Ulrich: You surprise me, Coalwall; I thought you had little interest in exploring arcanum theory.
+乌尔里希：黑墙研究员，我还以为你对神秘学理论不感兴趣。
+
+Coalwall: Ah, well, I've simply come to understand something.
+黑墙：……啊哈。我只是忽然明白了一些事情。
+
+Coalwall: Her true objective is surprisingly simple.
+黑墙：她的真正目的，竟然如此简单。
+
+The words bounce off of his glass exterior without understanding.
+显然，这一次磁流体也没有听明白。
+
+Ulrich: Who do you mean? Lorentz Butterfly?
+乌尔里希：你说谁？洛伦兹蝴蝶吗？
+
+Coalwall: Forget it.
+黑墙：不，没什么。
+
+Coalwall: Mr. Ulrich, if I had no interest in arcanum theory whatsoever, I would never have joined Laplace.
+黑墙：让我回答你先前的问题，乌尔里希组长。如果我对神秘学理论完全不感兴趣，那我就不会加入科算中心了。
+
+Coalwall: After all, the "Storm" is unquestionably an arcane phenomenon.
+黑墙：毕竟“暴雨”毫无疑问是一种神秘学现象。
+
+Coalwall: But I don't believe science has become obsolete in the face of that fact. The rules of the universe have simply changed beyond recognition.
+黑墙：……但是我不认为科学已经完全无用，只是宇宙规则的变化太过巨大。
+
+Coalwall: It's time for science to embark on a new path.
+黑墙：科学需要开始一段全新的征程。
+
+Ulrich: By integrating arcanum?
+乌尔里希：以融合神秘学的方式？
+
+Coalwall: Exactly.
+黑墙：是的。
+
+Ulrich: In that much we are agreed. At Laplace, most consider Institutum Lorentz an affront to science. I, however, remain undecided.
+乌尔里希：我赞同你的观点。在拉普拉斯，大多数人认为洛伦兹研究所的作为是一种对科学的挑衅，但我持观望态度。
+
+Ulrich: As Lorentz Butterfly wrote in her letter:
+乌尔里希：就像洛伦兹蝴蝶在信里所说的：
+
+Lorentz Butterfly: Only through pneuma can we understand Chaotic Energy. Only by monitoring the ebb and flow of Chaotic Energy can we "measure" the "Storm."
+洛伦兹蝴蝶：唯有灵知可以理解混沌能量，唯有混沌能量的消长可以“测量”出“暴雨”。
+
+Ulrich: I don't entirely understand her methodology, but it may yet reveal the truth of our world.
+乌尔里希：虽然我无法真正理解她的研究方向，但这不失为一种揭开世界真相的方式。
+
+Ulrich: Hmm. I'm curious about this Lorentz Butterfly. What sort of person do you think she is?
+乌尔里希：唉。洛伦兹蝴蝶，究竟是个怎样的人呢？
+
+Coalwall gazes at her sleeping companion beyond the glass in quiet contemplation.
+黑墙望着玻璃里沉睡的同伴，略略思索。
+
+Coalwall: A genius, one unconstrained by rules, norms, maybe even basic manners. But a genius—that much no one can deny.
+黑墙：是个无视所有规则，不会被任何事物驯化的天才吧。
