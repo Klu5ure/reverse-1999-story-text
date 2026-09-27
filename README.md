@@ -47,7 +47,3 @@
 - 如相关权利人对收录内容或呈现方式有异议，请通过仓库 Issues 联系维护者。维护者将及时核实，并配合调整或移除相关内容。
 
 联系：[Issues](https://github.com/Klu5ure/reverse-1999-story-text/issues)
-
-## 维护与构建
-
-读者只需关注下载入口。生成与验证方法见[构建说明](docs/BUILD.md)，当前开发状态见 [DEVELOPMENT.md](DEVELOPMENT.md)，协作规则见 [AGENTS.md](AGENTS.md)。输入快照、工具二进制和本地中间材料不随源码仓库发布。

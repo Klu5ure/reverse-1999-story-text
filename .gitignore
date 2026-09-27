@@ -10,3 +10,10 @@ desktop.ini
 /outputs/
 __pycache__/
 *.pyc
+
+# Local authoring tools and maintenance notes
+/scripts/
+/docs/
+/AGENTS.md
+/DEVELOPMENT.md
+/requirements-pdf.txt
