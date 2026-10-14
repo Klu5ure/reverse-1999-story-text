@@ -1,0 +1,3066 @@
+37 / 37
+
+目录 / Contents
+
+01  缺席 / After Zero, New Numbers
+02  柏拉图立体 / Platonic Solids
+03  误差 / Deviation
+04  十二角星 / Dodecagram
+05  对数 / Logarithm
+06  分形 / Fractal
+07  乘法轴 / A Logarithmic Axis
+08  数沙者 / The One Who Counts Sand
+
+────────────────────
+
+01  缺席 / After Zero, New Numbers
+
+乘法轴上的一天
+A Day Plotted Logarithmically
+
+缺席
+After Zero, New Numbers
+
+拉普拉斯博物馆·休息区
+Rest Area, Laplace Museum
+
+参观者Ⅰ：让我看看，特别展区在……C区，我们可以走这条路过去。
+Visitor I: Alright now, let me get a good look at this thing. So, the special exhibition area is located in Zone C. It looks like we need to take this path to get there.
+
+参观者Ⅱ：我简直不敢相信居然有一天能够亲眼看到那块石头！
+Visitor II: I just can't believe I'm finally getting to see the stone with my own two eyes!
+
+参观者Ⅲ：是啊，我还记得电视里那群装模作样的评论家说它是个谎言，这下看他们怎么说。
+Visitor III: Yeah, I remember those critics on TV calling it all a hoax. Let's see what they have to say for themselves now.
+
+——这里是拉普拉斯博物馆，它历史悠久，底蕴深厚。虽曾一度沉寂，但如今又再次焕发了新的活力。
+The Laplace Museum, a place rich in history and heritage. For a long time, it has been silent, but now, it buzzes once more with shuffling feet and whispered curiosity.
+
+37：所以这就是这次特别展览的“宣传海报”了。
+Thirty-seven: So, this is the promotional poster for the special exhibition.
+
+37：我喜欢这些简洁的几何线条，它们摆放的位置恰到好处。
+Thirty-seven: I like the simple geometric lines. Their arrangement is just right.
+
+三名年轻人围坐在休息区的圆桌边。其中一个女孩身着奇异的古朴服装，令过路者纷纷投来好奇的目光。
+Three young people sit at a round table in the museum's refreshments area. One of the girls, dressed in peculiar, flowing robes, draws curious glances from passersby.
+
+但女孩只是专注地盯着手中的海报。标题上写着：拉普拉斯博物馆特别展览，来自45亿公里之外的奇迹之石。
+However, her eyes do not budge—they are fixed on the poster in her hand. Its title reads: "LAPLACE MUSEUM—SPECIAL EXHIBITION: THE MIRACLE STONE FROM 4.5 BILLION KILOMETERS ACROSS THE COSMOS."
+
+而在海报的左下角一小块被圈出来的区域上，则印着：主题冰淇淋“奇迹之星”展览期间限定发售。
+A small area circled at the bottom reads: Special "Star of Wonder" themed ice cream—available during exhibition only.
+
+店主：久等了，这里是你们的冰淇淋！
+Shopkeeper: Sorry for the wait, folks! Here's your ice cream!
+
+37：我不觉得我们等了很久，但谢谢。
+Thirty-seven: I don't think we waited too long, but thank you all the same.
+
+店主：是小姑娘你和你的朋友们拯救了我的冰淇淋店，我感谢你们还来不及呢！
+Shopkeeper: Come on, now! You and your friends saved my shop! I owe you big time!
+
+圆桌边的另外两个年轻人也获得了他们的冰淇淋。
+The two other young people at the table also receive their ice cream.
+
+爱兹拉：它看起来很不错，比海报上的还要诱人。
+Ezra: Looks yummy—even better than the poster.
+
+小梅斯梅尔：其实我平常并不怎么吃这类东西。而且我必须得说……我从未想过，事情最终会发展成这样。
+Mesmer Jr.: I wouldn't usually eat this kind of thing. All the same, though, I never thought things would turn out the way they did.
+
+爱兹拉：我已经听店主米拉小姐说了，这支冰淇淋的诞生是大家伙一同努力的结果。但我还不了解事情的具体经过。
+Ezra: Miss Miller told me she considers the survival of her ice cream shop to be the result of your hard work, but I still don't know the whole story.
+
+爱兹拉：而且，还有37小姐。
+Ezra: And then, there's Miss 37.
+
+爱兹拉：我早从科算中心的传闻中得知了您这样一位出众数学研究者的到来，但今天才有幸亲自见到您。
+Ezra: Everyone at the computing center has been talking about you. They say you're a brilliant mathematician! I'm honored to finally be meeting you in person.
+
+37：不用这样拘谨，叫我37就好。我也会叫你爱兹拉的。我已经听说过许多关于你的事了。
+Thirty-seven: Please, there's no need for formalities. You can call me 37, and I'll call you Ezra, if that's alright? I've heard a lot about you, too.
+
+37：就和我猜想的一样，你的实部与虚部都是很规整的数字，我并不讨厌。我之前还没有虚数的朋友呢！
+Thirty-seven: You're precisely as I thought you'd be. Your real and imaginary parts are neat numbers—not that I dislike that at all. I've never had an imaginary number for a friend before!
+
+爱兹拉：呃，虚数？你是说著名的笛卡尔先生在17世纪提出的那个……？
+Ezra: Uh, imaginary numbers? Like the ones Descartes proposed in the 17th century?
+
+小梅斯梅尔：习惯就好了，我最初也完全弄不懂她在说什么——实际上现在也不懂。
+Mesmer Jr.: You'll get used to it. I had no clue what she was saying when I first met her. To be honest, half the time, I still don't.
+
+爱兹拉：哈哈，这里面一定有个有趣的故事。距离我的演讲还有一段时间，你们愿意给我讲讲吗？
+Ezra: Haha! I'm sure that must be an interesting story. I still have some time before my lecture. I'd love to hear it, if you'd like.
+
+37：当然。我想可以从我们的脑袋永远与桌子相切的定理开始。
+Thirty-seven: Certainly. I think we should start with my theorem that our heads in tangent with the table.
+
+爱兹拉：抱歉……？
+Ezra: Sorry?
+
+小梅斯梅尔：……唉。我就知道。
+Mesmer Jr.: I warned you.
+
+小梅斯梅尔叹了一口气。
+Mesmer Jr. sighs.
+
+她对讲故事毫无兴趣，但看起来这个职责只能落在她的头上了。
+She'd rather just finish her ice cream in peace, but it seems the task of telling the story sensibly has been forced upon her.
+
+小梅斯梅尔：……简单地说，事情的起因是维尔汀——我的那位昔日同窗。
+Mesmer Jr.: Well, it all started with an old classmate—Vertin.
+
+小梅斯梅尔：因为她，我才和37有了瓜葛，也才有了后续发生的一连串事……
+Mesmer Jr.: It was all because of her that I got mixed up with 37, and a series of peculiar events followed.
+
+小梅斯梅尔开始了她的讲述。时间需要被倒回到三天前。
+Mesmer Jr. begins her tale, and time is rewound to three days ago.
+
+——这是一个关于博物馆、冰淇淋、遥远的星星与数字们的故事。
+This is a story about a museum, ice cream, distant stars, and numbers.
+
+拉普拉斯科算中心·大堂
+Lobby, Laplace
+
+小梅斯梅尔：……唉。那家伙到底是怎么想的？我可不是小孩子的保姆。
+Mesmer Jr.: *sigh* What was she thinking? Do I look like a babysitter?
+
+小梅斯梅尔：而且说真的，到底是什么人会在今天使用这种东西？
+Mesmer Jr.: Who even uses this kind of thing nowadays?
+
+治疗师低下头，看向手中质感古朴的卷轴。
+The therapist looks down at the scroll in her hand, like something out of Ancient Greece.
+
+小梅斯梅尔：……算了，这些都不是我该关心的事。
+Mesmer Jr.: It's none of my business.
+
+小梅斯梅尔：抱歉，打扰了。我想向您打听一位近日来到总部进修的基金会成员。
+Mesmer Jr.: Excuse me, I'm looking for someone here from the Foundation. She came to headquarters for advanced training.
+
+拉普拉斯研究员：没错！这是一种解！所以这个数值是没有错的……哼啊？什么？
+Laplace Researcher: Incredible! So, that was the right value ... eh? Huh? What was that?
+
+咨询对象的选择有待商榷，但这不能怪她。在拉普拉斯，你很难遇到完全“正常”的研究员。
+This particular self-absorbed target for her inquiries is not the best choice, but then finding a "normal" researcher at Laplace is never a simple task.
+
+可如今也没有什么更好的选择了。今天科算中心的大堂不知为何人影稀疏。
+With the lobby uncommonly empty today, it seems there is no better option available.
+
+小梅斯梅尔：……我想向您打听一位近日来到总部进修的基金会成员，我有一封信件需要转交给她。
+Mesmer Jr.: I said I'm looking for someone here from the Foundation. She came to headquarters for advanced training.
+
+拉普拉斯研究员：我不知道，你问别人去吧！我没空——等等。
+Laplace Researcher: Do I look like a receptionist? Go ask someone else! I don't have time for—hang on.
+
+拉普拉斯研究员：难道你也要找37小姐？
+Laplace Researcher: Ugh, you're looking for 37, too?
+
+那个小梅斯梅尔还未出口的名字被精准地点了出来。
+In both number and name, it seems they're both looking for the same figure, and that they're not alone.
+
+小梅斯梅尔：也？我是说……是的，我的确是要找一个叫做37的女孩。
+Mesmer Jr.: Too? Yes, I'm looking for a girl named 37.
+
+研究员瞪大了眼睛。
+The researcher's eyes widen, a fear response.
+
+拉普拉斯研究员：不，不不不。
+Laplace Researcher: No. No, no, no.
+
+他开始用因疏于运动而不够协调的四肢快速后退。
+He begins moving toward the hallway as fast as his uncoordinated, noodle-like limbs will carry him.
+
+拉普拉斯研究员：是我先的！你得排在我后面！
+Laplace Researcher: I was here first! You! You get behind me. Wait your turn!
+
+他跑走了。回响在空旷大堂的脚步声渐远，只有治疗师一脸茫然地被抛在了原地。
+He runs off. As the echoing of his footsteps fades from the lobby, the lone therapist is left standing there, bewildered.
+
+小梅斯梅尔：……什么？
+Mesmer Jr.: What?
+
+拉普拉斯科算中心·走廊
+Hallway, Laplace
+
+小梅斯梅尔：……这到底是什么情况？
+Mesmer Jr.: What's going on here?
+
+研究员们像是大量增殖的灰葡萄孢菌一样，侵染了整条走廊。
+Researchers are spread across the corridor like an outbreak of gray-coated mold.
+
+他们有的正热烈地讨论着什么，还有的正不顾形象地趴在墙上或是地上写写画画，显然进入了小梅斯梅尔所熟悉但不乐见的那种狂热模式。
+Some are locked in heated discussion, while others sprawl out on the floor or lean against the walls, writing, notating, and sketching out figures and graphs. All of them enthralled in the kind of manic frenzy Mesmer Jr. recognizes but certainly does not condone.
+
+小梅斯梅尔：所以这就是今天大堂里不见什么人的原因。不，也许不只是今天……
+Mesmer Jr.: So, that's why the lobby's so empty today. Emptier than usual, anyways.
+
+在她驻足期间，仍不断有研究员攥着手中的稿纸冲入走廊尽头的房间，又或是甩着手中似乎已经得到解答的问题手舞足蹈地跑远。
+She pauses there a while, as a constant stream of researchers clutching their papers rush into the room at the end of the hall, or go running off out of it, waving their seemingly solved problems.
+
+拉普拉斯研究员：对，就是这样！那小姑娘真是个天才！
+Laplace Researcher: Yes! She's got it! That girl really is a genius!
+
+小梅斯梅尔：……这里真是和以前一样毫无变化。这些科学狂人隔一段时间就会发一次疯。
+Mesmer Jr.: This place never changes. Egghead scientists losing their minds at the slightest provocation.
+
+但万幸，黏在墙上和地上的这些研究员对她毫无兴趣。
+Fortunately, the researchers, glued as they are to their place in line, take no notice of her.
+
+深吸一口气后，她向那间走廊尽头的房间走去。
+She takes a deep breath and heads to the room at the end of the hallway.
+
+拉普拉斯科算中心·研究室
+Research Lab, Laplace
+
+——小山一样高的纸张和凌乱摆放的几何模型等杂物几乎将办公桌埋了起来，不大的办公室竟像是液化战栗罐头一样塞了十余个研究员。
+Piles of paper and scattered geometric models almost bury the entire desk, and the small office is crammed with researchers, packed like jittering cans of liquefied anxiety.
+
+他们挥舞着手中的稿纸，像是饥饿的格拉瓦库斯一样将办公桌包围得水泄不通。
+They wave their papers in the air, surrounding the desk like hungry Glawackus.
+
+拉普拉斯研究员Ⅰ：嘿37，看下这个！我按照你上次说的方法计算了，这些是新的数据。但有一个新的问题……
+Laplace Researcher I: Hey, 37, look at this! I calculated it using the method you suggested last time. Here's the new data. But now a new problem's cropped up.
+
+拉普拉斯研究员Ⅱ：等等！我还没有完事呢，你后面等着去！
+Laplace Researcher II: Wait! I'm not done yet! Wait your turn!
+
+拉普拉斯研究员Ⅰ：我等很久了，你这个白痴！放下你那些无谓的自尊吧，你得承认，37的算法就是比你的那个更简便！
+Laplace Researcher I: I've been waiting all day, you buffoon! Swallow your pride, and just accept 37's algorithm is simpler than yours!
+
+拉普拉斯研究员Ⅱ：什么？胡说！你看清楚——
+Laplace Researcher II: What? Tosh! Tosh, drivel, and baloney! Just look! Look closely, you—
+
+小梅斯梅尔：……我这是来到了什么地方，一个地狱战场？
+Mesmer Jr.: What kind of mess have I walked into now? This place is a battlefield in egghead hell.
+
+治疗师倒吸了一口凉气，将脑袋从那个恐怖的混沌深渊拔了出来。
+The therapist draws a sharp breath, pulling her head out of the chaotic abyss.
+
+X：如果是我，我更倾向于使用“勇者们正为争取女神青睐而进行英勇对决”这个比喻。
+X: Personally, I'd be more inclined to employ the metaphor of "valiant heroes catapulting themselves into a courageous confrontation to earn the favor of their goddess."
+
+小梅斯梅尔：X。
+Mesmer Jr.: X.
+
+短暂的惊讶后，治疗师恢复了一如既往的冷淡面孔。
+After the initial surprise of hearing the familiar voice, Mesmer resumes her usual indifferent expression.
+
+小梅斯梅尔：……所以？你要成为你口中的“勇者”之一吗？
+Mesmer Jr.: Do you intend on becoming one of these "heroes"?
+
+X：比起获得“女神”居高临下施舍的青睐，我更想要邀请她一起看一场相扑比赛。
+X: Rather than genuflecting to win the favor bestowed by this "goddess," I intend only to extend an invitation her way, to join me in spectating a sumo-wrestling match.
+
+X：但在这里见到我的朋友——你，小梅斯梅尔，不得不说着实令我有些惊讶。
+X: However, encountering a friend here—that's you, Mesmer—I must admit, I have indeed been taken quite by surprise.
+
+X：我不觉得你对看热闹有兴趣，即使遇到了什么难题，你也显然是那种倾向于自己解决的人……哦。
+X: I didn't take you to be the type to enjoy these gory spectacles; even when faced with challenges, you lean toward resolving them independently. Oh.
+
+棕发少女怀中的那卷莎草纸是个足够明显的线索了。
+The papyrus scroll cradled in the brunette's arms is an obvious clue.
+
+这位神出鬼没的年轻研究员擅长不必要地构建庞杂繁复的系统，但也同样精于跳过多余的步骤和干扰项直抵真相。
+The young researcher may excel at constructing complex systems, but he is just as adept at circumventing obstacles and distractions to find the truth.
+
+X：是司辰吗？
+X: Was this the Timekeeper's doing?
+
+小梅斯梅尔：……那个人总是擅长利用别人达成自己的目的。
+Mesmer Jr.: She certainly knows how to use people to get what she wants.
+
+——不久前，在小梅斯梅尔因公前往基金会时，遇到了她那位如今已是声名赫赫的同窗。
+Not long ago, while Mesmer Jr. was on official business at the Foundation, she encountered her now illustrious former classmate.
+
+彼时那位司辰正一边与不知何人通讯，一边行色匆匆地穿过走廊。看起来大人物总是诸事缠身。
+At that time, she was hurrying down the hall, on the phone with some unknown party. She always seems so busy.
+
+维尔汀：是的，我已经出发了，会尽快到达——小梅斯梅尔。
+Vertin: Yes, I'm on my way. I'll be there soon, Mesmer Jr.
+
+小梅斯梅尔：……维尔汀。
+Mesmer Jr.: Vertin.
+
+维尔汀：见到你真是太好了，正好，我有件事想要拜托你。
+Vertin: I must say, I'm actually glad to see you. I have a favor to ask of you.
+
+忙于公务的基金会红人提出了她的请求：代替无法亲至的她，将一封重要的信件转交给在科算中心进修的伙伴。
+The busy star of the Foundation makes her request—to deliver an important letter on her behalf to a colleague training at the computing center.
+
+小梅斯梅尔：有种东西叫做魔精快运。
+Mesmer Jr.: They have this thing these days called Critter Express.
+
+维尔汀：卡邦克鲁没有办法替我确认37的状况。
+Vertin: I'm afraid Carbuncles won't be able to confirm what's going on with 37 for me.
+
+维尔汀：她说她很好，但她毕竟从来没有离开过那座岛屿，我不确定她认为的“很好”是不是真的“很好”。
+Vertin: She's said that she's fine, but she's never left her island before, so I worry that her "fine" may not really count as "fine."
+
+维尔汀：我希望你能帮我确认这一点——你是我在科算中心里最能够信任的人选了。
+Vertin: I was hoping you might help confirm just how "fine" she is now—as the most trustworthy person I know at the computing center.
+
+小梅斯梅尔：……
+Mesmer Jr.: ...
+
+多么滑稽。这个人似乎忘记了在这条走廊上曾经发生过的事，但小梅斯梅尔知道这是不可能的。
+How amusing. She seems to have forgotten what transpired in this very hallway, but Mesmer Jr. knows that is impossible.
+
+这是一个陷阱？一次利用？一种示好？或是……
+Is this a trap? Psychological manipulation? A true gesture of goodwill? Or perhaps ...
+
+她应该说“不”的。
+She should have said "no."
+
+小梅斯梅尔：……我真不知道她为什么非要找我。
+Mesmer Jr.: I really don't know why she insisted on asking me.
+
+X：我倒是一向信赖那位看人的能力。
+X: I have always trusted her judgment, particularly when it concerns people.
+
+小梅斯梅尔不愿继续在这个话题上纠缠下去，她看向走廊尽头的那个房间。
+Mesmer Jr. doesn't wish to dwell on the topic. Her eyes reach for the room down the hallway.
+
+小梅斯梅尔：无论如何，你们要如何解释现在的情况？维尔汀寄存在你们这里的小姑娘看起来要被生吞活剥了。这种情况持续多久了？
+Mesmer Jr.: Anyway, how would you describe things around here? Vertin leaves this girl with you for a second, and now it looks like she's being eaten alive. How long has this been going on?
+
+X：从她来到科算中心的那一天起。你记得巴德在大堂左手边黑板上留下的、那个一年多都没人解开的问题吗？
+X: Since the day she arrived at the computing center. Do you recall the problem Baird left on the blackboard to the left of the lobby over a year ago? The one no one could solve?
+
+X：那个女孩在来到科算中心的第一天路过时看了一眼，两秒之后——砰！她报出了答案。
+X: That girl passed by during her first-day perambulations, and two seconds later, bam! She had the answer all chalked out!
+
+X：自那以来，这条走廊就变成科算中心最热闹的地方了。
+X: Since then, this hallway has become the rowdiest strip in the entire LSCC.
+
+小梅斯梅尔看着往来的研究员，皱了皱眉。
+Mesmer Jr. looks at the researchers coming and going, a frown growing more evident on her face.
+
+小梅斯梅尔：我看到了来自各个科室的人，难道你是想告诉我那个年纪不大的女孩，在每个领域都能够发表足够令他们驻足的见解？
+Mesmer Jr.: There are researchers from every department here. Are you telling me that this one girl has insights into every field of research compelling enough to cause all this?
+
+小梅斯梅尔：这不可能。
+Mesmer Jr.: It's impossible.
+
+X：哦，不不。你误会了。只有“数学”。
+X: Oh, no, no, no. That's not it. She's barely aware of most of our research. All she deals with is "mathematics."
+
+小梅斯梅尔：数学。
+Mesmer Jr.: Mathematics.
+
+她复述了一遍这个单词。
+She repeats the word.
+
+小梅斯梅尔：说起来……我曾听说过，“那座岛屿”在数学上的造诣极高。
+Mesmer Jr.: Of course. I've heard that "that island" was a hotbed of math geniuses.
+
+X：没错。尽管亲爱的列奥纳多早已为我们指明“数学是一切科学的基础”，但实际上却很少有人能够真正将这把万能钥匙握在手中。
+X: Exactly. Just as dear old Leonardo pointed out long ago, mathematics is the foundation of all sciences, but most people have failed to grasp this universal truth.
+
+X：可这位来自遥远岛屿的女孩却不同。她不懂化学，不懂天文学，对物理学也并不精通……
+X: But this girl is not like most people. She doesn't know anything about chemistry, astronomy, or physics.
+
+X：——但她可以在数学层面，解决所有的问题。
+X: But she can solve any single one of their problems if she can reduce it to a mathematical problem.
+
+X：这可不是我夸张，目前为止只要是和那些数字相关的问题，还没有能够难得住她的。
+X: I'm not overstating her abilities here. There's yet to be a math puzzle she's encountered that's eluded her computational comprehension.
+
+小梅斯梅尔：……这真的可能吗？只凭借数学？
+Mesmer Jr.: Really? She does all that with just mathematics?
+
+X：在我亲眼目睹之前，我也持怀疑态度。但也许这个例子能够帮助我们更好地理解。
+X: I, too, harbored reservations until I observed it in action. Maybe I could offer an example for your elucidation.
+
+X：历史上最早提出“数学”这一概念的伟大先人们使用有趣的六十进制计数法，可这并不是最不可思议的地方。
+X: The original progenitors of "mathematics" employed a fascinating sexagesimal numeric system, yet this is not the most extraordinary aspect of their knowledge.
+
+X：最神奇的是，在他们的数学概念中没有零，也没有小数点，但他们仍然能够在最后得到正确的答案。
+X: The most remarkable aspect was that their frameworks lacked both the notion of zero and of decimals, yet they still managed to produce accurate results.
+
+X：世界上最高明的魔术也不过如此了，正如那个神奇的女孩为我们展示的技艺。
+X: The pinnacle of our most advanced arcanum pales in comparison to the skills demonstrated by that remarkable girl.
+
+小梅斯梅尔：你总喜欢夸大其词。你我都知道他们是如何做到的。
+Mesmer Jr.: Exaggerating as always, I see. We both know how they did it.
+
+小梅斯梅尔不喜欢无谓地引人注目，但这并不代表在学识上，她会多么逊色于人。
+Mesmer may not enjoy drawing attention to her intellect the way her peers do, but there is no doubt that she belongs among them.
+
+小梅斯梅尔：1、10、100或是0.1，用他们的方法书写都是1。当他们需要对这个数字进行运算——例如，将它乘以100时，按理来说他们将无从下手。
+Mesmer Jr.: 1, 10, 100, and 0.1, all represent 1 when written in their method. Whenever they needed to use this number in their calculations—like if they wanted to multiply it by 100—in theory, they'd end up stuck, with no way to proceed.
+
+小梅斯梅尔：因为在仅仅面对那些楔形文字、而非数字代指的具体存在时，按理来说他们无从得知符号背后的数字到底是几。
+Mesmer Jr.: Since they used cuneiform symbols but not the actual numbers they represent, they had no way of knowing what numbers the symbols stood for.
+
+小梅斯梅尔：但他们只是不必知道。
+Mesmer Jr.: But they didn't need to know.
+
+小梅斯梅尔：在那个抽象的数学世界中，无论答案是100、1000，还是10000……最终，遵照着同样的法则，他们将得到同一个答案，那就是“1”。
+Mesmer Jr.: In their abstract mathematical world, whether the answer was 100, 1,000, or 10,000 ... ultimately, by following the same rules, they'd arrive at the same answer—"1."
+
+治疗师摇了摇头。
+The therapist shakes her head.
+
+小梅斯梅尔：——那不是魔术。
+Mesmer Jr.: There's nothing magic about it.
+
+小梅斯梅尔：请让让，我很抱歉，但是——今天的答疑时间到此为止了。
+Mesmer Jr.: Please step aside. Sorry, today's Q&A session is over.
+
+拉普拉斯研究员：你们不能独占37小姐！这是可耻的！整个拉普拉斯都将为此蒙受损失，你拖累了全世界科技文明的脚步——
+Laplace Researcher: By what right do you think you've got a monopoly on 37's time? This is a travesty! All of Laplace will suffer, you hear?! You're holding back global scientific progress.
+
+门被没有那么在乎全世界科技进步的狠心治疗师摔上。
+She slams the door. Global scientific progress will have to wait.
+
+小梅斯梅尔：好了。现在……
+Mesmer Jr.: Alright. Now ...
+
+小梅斯梅尔开辟出一条通往办公桌后的道路。
+Mesmer Jr. clears a path to the desk.
+
+在办公桌的后面——准确地说，是在同样堆满了纸张因此无法落座的椅子旁边，藏着一颗乱糟糟的浅色脑袋。
+Beneath the desk, next to a chair rendered an impromptu bookcase due to the pile of papers stacked on it, hides a head of tangled light-colored hair.
+
+37：所以就可以证明当n大于2时，没有正整数解……
+Thirty-seven: So, it can be proven that when n is greater than 2, there are no positive integer solutions ...
+
+37：这个证明是正确的！但他用的方式和我们的却不一样……这太不可思议了！
+Thirty-seven: This proof is correct! But his method is different from ours. Incredible!
+
+02  柏拉图立体 / Platonic Solids
+
+柏拉图立体
+Platonic Solids
+
+37：没错，这个证明无懈可击，它也是正确的！
+Thirty-seven: Yes, this proof is flawless, and even better. It's correct!
+
+37：为什么岛上没有人意识到还有这种解法？我得记下这一点，6也一定会想要知道的。
+Thirty-seven: Why didn't anyone on the island realize there was another way? I need to note this down. 6 will definitely want to know about this.
+
+小梅斯梅尔：您好，37小姐。打扰一下。
+Mesmer Jr.: Hello, 37. Sorry to interrupt.
+
+37：真可惜，这个人的想法也很有趣，但最终却被证明是错误的。明明这个理论是那么的美丽。
+Thirty-seven: How regrettable. This hypothesis was so intriguing, yet ultimately untrue. It's always a heartbreak to disprove an elegant theory.
+
+37：那个关于行星和柏拉图立体的猜想也是一样的。它是那么的完美，所有人都希望那个猜想是真的……但偏偏它不是。
+Thirty-seven: The conjecture regarding planets and Platonic solids was similar. It was so perfect. Everyone wished it might be true, but it wasn't.
+
+小梅斯梅尔：……
+Mesmer Jr.: ...
+
+拥有怪异数字名字的浅色脑袋沉浸在自己的世界中，没有对治疗师的话语作出任何反应。
+The girl beneath tangled hair is absorbed in her own world.
+
+也许是小梅斯梅尔的错觉，但她似乎在女孩的眼中看到了一丝感伤……可怎么会有人看着数学证明而感到悲伤？
+Perhaps it is just her imagination, but there is a trace of melancholy in the girl's voice. But who could feel sad over a mathematical proof?
+
+37：可一切的本源一定是依照某种完美的秩序运行的，只是我们还没能发现它。
+Thirty-seven: There must be some perfect order, a function through which all things can be predicted. We just haven't found it yet.
+
+37：因此任何一个误差都不代表着失败，在它的背后也许就隐藏着通向真理的钥匙。
+Thirty-seven: Error, then, doesn't really mean failure. Within each failure may lie the key to the Truth.
+
+37：没错，一定是这样的——啊哦！
+Thirty-seven: Yes, that must be it, ow!
+
+一声闷响，意料之内的结果。
+A dull thud. An expected result.
+
+X：这就是为什么妈妈们不让我们趴在桌子底下玩耍。移开那些文件堆，让椅子做它原本的工作吧。
+X: That is why children are usually not permitted to play underneath tables. Perhaps you should consider utilizing your chair for its intended purpose, 37.
+
+小梅斯梅尔：……我刚才就应该问这个问题：你跟进来做什么？
+Mesmer Jr.: I probably should've asked before, but why exactly did you follow me in here?
+
+X：哦，不要这样嘛。其实我还没有放弃邀请数学女神一起看相扑比赛的主意呢。
+X: Oh, don't be like that. I didn't say anything about carelessly abandoning my previous intention of extending an invitation to our computational celebrity to partake in spectating a muscle-bound sparring competition.
+
+当这个人开始说这些不着边际的胡话时，就意味着他有所隐瞒——
+When it comes to X, the more long and nonsensical words he puts in a sentence, the more likely he's trying to hide something.
+
+小梅斯梅尔的经验指出了这一点，但暂时无法就如何撬开对方的嘴提出有效建议。因此她决定忽略此人的存在。
+But prying the truth from him would be effort she'd rather not waste. She's better off ignoring him.
+
+只是有少许霉菌不幸蔓延到屋子里面了而已，这也没什么。
+He's one small spore of gray mold left in the room, that's all.
+
+小梅斯梅尔：……你没事吧？
+Mesmer Jr.: Are you okay?
+
+37：呜……我很好。
+Thirty-seven: Ugh, I'm fine.
+
+37：将我的头视作一个圆，将桌子的下缘视作一条直线，我们就会意识到无论我实际磕到的是哪里，在碰撞发生的那一瞬间，我的头都是和桌子相切的。
+Thirty-seven: If we consider my head to be a circle and the edge of the table as a straight line, then no matter where I actually hit it, at the moment of collision, my head was only briefly tangential to the table.
+
+37：不是相交，也不是相离，而是相切。这是一个很好的位置关系，从圆心——也就是我脑袋的理想模型中心——延伸出一条过切点的直线，它必定是与桌子垂直的。
+Thirty-seven: Not intersecting, not separate, but in tangent. This is a very good positional relationship. From the center of the circle—my head's ideal model center—a line through the tangent point must be perpendicular to the table.
+
+37：90°的正弦值是1，余弦值是0，而正切值则是无穷大！不会有比90°更好的角了。
+Thirty-seven: The sine of 90° is 1, the cosine is 0, and the tangent is infinity! There's no better angle than 90°.
+
+37：所以我完全没事，这一点也不疼。
+Thirty-seven: So, I'm totally fine. It doesn't hurt at all.
+
+小梅斯梅尔：……好吧。
+Mesmer Jr.: Fine.
+
+说实话，这套奇怪的说辞搭配女孩泪眼朦胧的模样并没有什么说服力。
+In truth, her peculiar explanation, coupled with the tears welling in her eyes, is not all that convincing.
+
+37：嗯？你是一个新面孔。
+Thirty-seven: Hmm? You're a new face.
+
+大多数人也许会选择先从“你是谁？”这个问题开始。但小梅斯梅尔眼前的这一位显然不是“大多数人”。
+It's an odd way to get across the question. Most might say "who are you" or some other politesse, but then this girl is not "most people."
+
+37：你给我带来了什么样的数字？把你的问题交给我吧。
+Thirty-seven: What numbers have you brought me? Let's have a look at your problem.
+
+她向治疗师伸出手。看来这就是她和方才那些格拉瓦库斯们之间构建的运转机制了。
+She extends her hand to the therapist. It appears this is the protocol she has established with the Glawackus from earlier.
+
+小梅斯梅尔：……我带来的数字是“6”。
+Mesmer Jr.: The number I've brought is "6."
+
+莎草纸制的信件被放在了女孩的手掌心上。
+She places the papyrus letter in the girl's palm.
+
+37：6……？
+Thirty-seven: 6 ...?
+
+37：是的……是的，6是一个很好的数字，也是我很熟悉的数字。
+Thirty-seven: Yes. Hmm, 6 is a good number. A familiar number.
+
+37：嗯，你想用这个数字做什么样的证明呢？
+Thirty-seven: Hmm, what kind of proof do you wish to make with this number?
+
+方才还滔滔不绝的女孩看着手中的莎草纸卷，不知为何有些出神。
+The girl's mathematical babbling slows as she gazes deeply at the papyrus scroll in her hand, lost in contemplation.
+
+小梅斯梅尔：不，我没有什么问题需要求证。
+Mesmer Jr.: I don't have a problem.
+
+小梅斯梅尔：这是一封信，来自一个叫“6”的人。维尔汀让我转交给你。
+Mesmer Jr.: This is a letter from someone named "6." Vertin asked me to give it to you.
+
+37：……你说维尔汀！还有6！
+Thirty-seven: Vertin? And 6!
+
+女孩的眼睛亮了起来。接过那封特殊的信件，她三下五除二拆下了束带。
+Her eyes light up. She grabs the outstretched scroll and unties it in a flurry of movement.
+
+37：让我看看6写了什么……嗯，第一问，是否适应在这边的生活？
+Thirty-seven: Let's see what 6 wrote. Hmm, first question: Are you getting used to life over there?
+
+37：是的，每日三餐都会通过有趣的气动管道送过来，而且里面没有豆子。这让我能够集中在研究上而无需被琐事打扰。
+Thirty-seven: I am indeed. Meals are delivered to me daily through an intriguing pneumatic tube system, and they don't serve me any beans. This allows me to focus on my research without any distractions.
+
+37：第二问，有没有生病？没有，我很健康。只不过没有苏菲亚帮我梳头了，有的时候会打结……不过也没关系，实在弄不开的时候剪掉就行了。
+Thirty-seven: Second question: Have you gotten sick? No, I'm in good health. Though, without Sophia to comb my hair, it has gotten a bit matted. But that's alright. I just cut out the parts I can't untangle.
+
+37：新的知识？是的，我学到了很多新的知识，也收集了很多论文切页，我会把它们寄回岛上。
+Thirty-seven: Have I learned anything new? Yes, I've learned so many new things and built up a collection of newspaper clippings I plan on sending back to the island.
+
+37：我的课题进展？嗯……我收集到了很多数字，解决了很多问题，然后……
+Thirty-seven: My research? Well, I've gathered a lot of numbers, and solved many problems, and ...
+
+37：然后……唔。
+Thirty-seven: And ... hmm.
+
+女孩凝视着手中的信纸，忽然沉默了下来。
+The girl stares at the letter in her hand, falling silent.
+
+小梅斯梅尔：有什么问题吗？
+Mesmer Jr.: Is something wrong?
+
+37：……实际上，我想我的课题进展并不顺利。
+Thirty-seven: To be honest, I don't think my research is going well at all.
+
+37：我的假设是，只要来到了岛外的世界，我就能够接触到比从前多得多的数字。
+Thirty-seven: My hypothesis was that if I ventured to the world beyond the island, I might encounter many more numbers than before.
+
+37：只要获得了足够多的数字，那么无论是多么复杂的函数，我都能画出它的图形、计算出它的公式，或者至少能够获得解开谜底的线索。
+Thirty-seven: I theorized that so long as I obtained enough numbers, no matter how complex the function, I could graph it and calculate its formula, or at least obtain the clues necessary to solve them.
+
+37：那些数字就是通向真理的密码。我必须破译它们。
+Thirty-seven: Numbers are the keys to the Truth. I must decipher them.
+
+——那个单词就这样被女孩言之凿凿地说出了口。
+The girl says the word with absolute conviction.
+
+小梅斯梅尔：你说，真理……？那就是你的课题？
+Mesmer Jr.: The "Truth"? Is that the topic of your research?
+
+37：是的。
+Thirty-seven: Yes.
+
+不带一丝迷茫的回答。
+The response comes without the slightest ambiguity.
+
+37：我曾经失败过。我得到了答案，但我得出答案的速度太慢了，那个答案也不够好、不够完全。因此发生了很坏的事情。
+Thirty-seven: Last time, I failed. I got the answer, but I was too slow, and it wasn't enough. It wasn't complete. And ... bad things happened.
+
+37：所以我必须找到更好的答案。
+Thirty-seven: That's why I need to find a better answer.
+
+37：我必须找到更加完全的真理。这样那些很坏的事情才不会再次发生，一切都将回到秩序之下，以最完美的形态运行。
+Thirty-seven: A more complete Truth, then the bad things won't happen again, and everything will function as it should, in the most ordered manner.
+
+小梅斯梅尔：……是吗。
+Mesmer Jr.: Is that so?
+
+女孩的神态十分认真，这让小梅斯梅尔无法认为这番高谈阔论是一场针对她的恶作剧而置之不理。
+She says it all with such sincerity that, as bizarrely grandiose as it sounds, Mesmer knows the girl is completely serious.
+
+但……她又该如何评价这个过于远大的目标呢？
+But how could she even begin to evaluate such an overly ambitious goal?
+
+在她得出答案之前，面前的女孩却先垂下了头去。
+Before she can respond, the girl lowers her head.
+
+37：但我发现我现在遇到了一个问题。
+Thirty-seven: I've run into a problem.
+
+37：我的确接触到了更多的数字，但却没能破译数字背后的密码。
+Thirty-seven: I've encountered many more numbers, but I still can't decipher the functions at work behind them.
+
+37：这种感觉就像是……对了，你知道“跳房子”吗？
+Thirty-seven: It feels like ... Oh, are you familiar with "hopscotch"?
+
+小梅斯梅尔：你是说孩童会玩耍的那个游戏。
+Mesmer Jr.: The kids' game?
+
+37：是的。苏菲亚教给了我那种游戏，我想我现在的情况和它有些相似。
+Thirty-seven: Yes. Sophia taught me how to play it. I think my situation is a bit like hopscotch.
+
+谁是苏菲亚？但这个不可思议的女孩似乎没有解释的意思，或者根本没有意识到这是一个需要解释的信息。
+The name is totally unfamiliar to her, but the girl seems unaware even of the need to explain that much.
+
+她低下头，在研究室的地板上向前跳了一步。
+She lowers her gaze and takes a step forward on the laboratory floor.
+
+37：嘿！
+Thirty-seven: Heh!
+
+37：你看，在所有的事物背后都有着数字。所以现在我在这个格子里了。
+Thirty-seven: See? Numbers can be found within all things. So now, I'm currently in this square.
+
+小梅斯梅尔：好的……？
+Mesmer Jr.: Sure ...
+
+小梅斯梅尔当然没有在地板上看到什么格子。更何况，什么叫“所有事物背后都有数字”？
+As far as she can see, there are no squares on the floor. And what does she mean by "numbers can be found within all things"?
+
+37：而在数字的后面，有着通往真理的路。可……
+Thirty-seven: And behind the numbers lies the path to the Truth. But ...
+
+女孩看着面前的地面，摇了摇头。
+The girl looks at the floor in front of her, shaking her head.
+
+37：我看不到下一个格子画在了哪里，所以卡在了这里，没法前进。
+Thirty-seven: I can't see where the next square is drawn, so I'm stuck here, unable to move forward.
+
+小梅斯梅尔：……这样啊。
+Mesmer Jr.: I understand.
+
+她完全没理解。也许“那你自己努力吧，信已转交，我就先告辞了”是个不错的答案。
+She doesn't understand at all. A part of her wishes she could say, "Well, keep trying! I'll be leaving now."
+
+但看着面前方才读信时还兴高采烈，现在却垂头丧气的女孩，她最终还是没能说出这句话。
+But as she watches the girl, who was so exhilarated reading that letter and now appears so despondent, she cannot bring herself to say it.
+
+X：你看，这就是“为什么”。
+X: You see, that's the "why" of it.
+
+治疗师用眼神示意身后的霉菌闭嘴。
+The therapist's glance signals for the mold behind her to remain silent.
+
+小梅斯梅尔：……我不知道你遇到的具体问题是什么，但看起来你遇到了瓶颈。
+Mesmer Jr.: I'm not sure of the specifics, but it looks like you've hit a block.
+
+小梅斯梅尔：这不是什么罕见的事，我相信科算中心里的每个人都有类似的经历。
+Mesmer Jr.: This is very normal. I'm sure nearly everyone in the computing center has been in your shoes before.
+
+37：真的吗？这里的每个人都曾经有过这样的时候吗？我还是第一次如此苦恼……从前，即使我暂时没有想通问题的答案，我也不会觉得这么难过。
+Thirty-seven: Do you mean it? Everyone here has been through the same thing? This is the first time I've felt so hopeless. Up until now, even if I didn't have the answer right away, I never felt upset about it.
+
+37：我有些不明白为什么自己会这样。
+Thirty-seven: I don't really understand it.
+
+小梅斯梅尔：……
+Mesmer Jr.: ...
+
+作为一名见多识广的人工梦游治疗师，只需环视一遍这个研究室，就不难看出问题所在。
+The experienced artificial somnambulism therapist needs only a glance around the room to identify the problem.
+
+紧闭的窗户、积灰的角落、杂乱的文件、被丢在沙发上的毯子，以及东倒西歪散落各处的不锈钢气动管道送餐罐子……
+Closed windows, dusty corners, disorganized files, a blanket thrown on the sofa, and stainless-steel pneumatic food delivery cans scattered all over the place ...
+
+小梅斯梅尔：你有多久没出门了？
+Mesmer Jr.: When was the last time you went outside?
+
+37：呃……奇怪？我似乎只能给出一个近似值，这不够严谨。
+Thirty-seven: Uhm, that's strange. I can only provide an approximate value. Nothing precise.
+
+小梅斯梅尔：我就知道。听着，也许你可以和你的朋——
+Mesmer Jr.: I thought as much. Listen, maybe you could go out with your frie—
+
+小梅斯梅尔：……
+Mesmer Jr.: ...
+
+小梅斯梅尔咽下了说到了一半的话。她对女孩的来历略知一二，这个女孩背井离乡，孤身一人来到科算中心进修求学。
+Mesmer Jr. holds back the second half of her sentence. She knows something of the girl's background; she left her home and came to the computing center alone to carry out her research.
+
+鉴于维尔汀和她手下的那群人此时正为任务奔波，37恐怕并没有什么能够“约出门聊聊天逛逛街”的朋友。
+With everyone from Team Timekeeper preoccupied with other tasks, 37 most likely doesn't have any friends to "go out with."
+
+37：也许我可以？
+Thirty-seven: Perhaps I could?
+
+小梅斯梅尔：……也许你可以出门散散心，或其他什么的。
+Mesmer Jr.: Perhaps you could go out for a walk or something.
+
+一名治疗师的职业素养，让她至少给出了这个不痛不痒的万金油答案。
+Her professional ethics demand that she offer this non-committal, all-purpose suggestion.
+
+37：散心。
+Thirty-seven: A walk?
+
+女孩思索了一会儿，然后点了点头。
+The girl thinks for a moment, then nods.
+
+37：你说的有道理，散心也许能够让课题有所进展，这是一个不错的假设。
+Thirty-seven: You make a good point. A walk might help me to progress my research. It is a solid hypothesis, at least.
+
+37：从前当我们需要灵感的时候，我们也会去沙滩上散步，或是一边晒太阳、一边计算海鸥运动的轨迹公式。
+Thirty-seven: Previously, when we needed inspiration, we might take a walk on the beach or calculate the trajectory of seagulls while relaxing in the sun.
+
+这个提议被接受了。但不知为何，女孩看起来有些迟疑。
+The suggestion is accepted, but the girl still appears hesitant.
+
+37：我不该被这种现象世界的小问题妨碍的，可……我发现附近没有沙滩，也没有海鸥。
+Thirty-seven: Perhaps I shouldn't let such trivial worldly concerns hold me back, but I've discovered that there are no beaches nearby, and no seagulls either.
+
+37：我似乎因此对外出散心这件事并不积极。奇怪。
+Thirty-seven: So that's why I'm not all that enthusiastic about going out for a walk.
+
+小梅斯梅尔：……
+Mesmer Jr.: ...
+
+有些人天生对自己的感情十分迟钝。她们擅长忽略自己的感受，过于富有行动力地尝试全身心投入到解决问题的工作中去。
+Some people are blind to their own emotions. They disregard their own feelings and immerse themselves in solving other people's problems.
+
+例如她的某位同窗，又例如眼前的女孩。小梅斯梅尔对37的了解不多，但她猜测问题恐怕并不出在“没有沙滩和海鸥”上。
+This is true of one of her classmates and of the girl standing before her. Mesmer Jr. doesn't know much about 37, but she surmises the problem is not just an absence of sand and seagulls.
+
+……她的工作早就结束了，她本来不该继续参与这件事的。
+Her work was over. She shouldn't even be here anymore.
+
+小梅斯梅尔：……为什么不试试其他的地方呢？
+Mesmer Jr.: Maybe you could go somewhere else?
+
+37：你有什么提议吗？
+Thirty-seven: Do you have any suggestions?
+
+小梅斯梅尔：比如……
+Mesmer Jr.: Well, you could try ...
+
+一个盲点出现了。有人忘记了她自己也不是什么擅长“放松”的人。
+A blind spot emerges. Mesmer is not quite skilled at "relaxing" either.
+
+幸运的是，有一个被小梅斯梅尔刻意遗忘、但实际极为擅长此道的人也在现场。
+But by luck, the mold still growing silently in the room happens to be quite an expert in the field.
+
+X：女士们，看起来你们需要一些小建议。想听听我的吗？
+X: Ladies, it appears you might require some advice. Would you like to hear my two cents?
+
+03  误差 / Deviation
+
+误差
+Deviation
+
+X：——就这样，我有幸担任两位女士的护花使者。
+X: And now, lucky me, I'm honored to serve as the escort for you two ladies.
+
+小梅斯梅尔：你迟到了。
+Mesmer Jr.: You're late.
+
+X：抱歉，但看起来至少我不是最后一个。
+X: Sorry, but at least I'm not the last one we're waiting on.
+
+圆桌旁的第四把椅子被拉开，年轻的研究员带着他那招牌式的微笑落座。
+The fourth chair at the round table is pulled out. The young researcher seats himself with his characteristic smile.
+
+X：让我们继续这个故事吧。爱兹拉，我的朋友，猜猜我们的目的地是哪里？
+X: Sounds like you're expounding on our recent narrative. Ezra, my friend, can you deduce our current destination?
+
+37：这个问题很简单，但依照惯例，我们仍然需要给出一个提示：我们此时就在这个函数的定义域中。
+Thirty-seven: The question is simple, but as usual, we'll need a hint: we are currently within the domain of this function.
+
+爱兹拉：哈哈，我想我开始能够理解37小姐——我是说，37的幽默感了。
+Ezra: Haha, I think I'm beginning to understand Miss 37's—I mean, 37's sense of humor.
+
+爱兹拉：是这里，对吗？拉普拉斯博物馆。
+Ezra: It's here, isn't it? The Laplace Museum.
+
+37：正确！
+Thirty-seven: Correct!
+
+拉普拉斯博物馆·展厅
+Gallery, Laplace Museum
+
+37：——我听说过“博物馆”。
+Thirty-seven: I've heard of "museums" before.
+
+37：这里就像是一条标注了重要点的数轴。我们没有办法把所有好的数字都标注出来，因为它们无穷无尽。
+Thirty-seven: This place is like a number line marked with important points. We can't mark all the good numbers because they're infinite.
+
+37：但我们仍然可以挑选出一些具有代表性的，这样当我们纵览这条数轴，便能一目了然。这是一个很好的做法。
+Thirty-seven: But we can still pick some representative ones, so when we look at this number line, we can see their progress and relations. It's a good approach.
+
+37：这个玻璃柜里的是什么，是某种金属矿石吗？
+Thirty-seven: What's in this glass case? Is it some kind of metal ore?
+
+X：鳞翼石，它含有金属，但我们通常认为它是稀土矿。人们很容易将锆石与它混淆，但我得说它俩的区别可不小。
+X: That's lepidolite. It contains metal, but we typically classify it as a rare earth mineral. People often confuse it with zircon, but I must assert there is a substantial difference.
+
+X：不过我还以为你会对它旁边的湛极矿更感兴趣。看看这梦幻般的蓝色，所有人都会第一时间注意到它的。
+X: But I thought you'd be more intrigued by the azurite adjacent to it. See that ethereal blue color. It typically captures the eye before its neighbor.
+
+37：它里面所有晶体的三条结晶轴彼此相互垂直，但长度却不同。这不是一个足够完美的形状。
+Thirty-seven: All the crystals inside have three axes perpendicular to each other, but the lengths are not the same. It's not a perfect shape.
+
+37：这颗就不一样了，你仔细看，如果我们取一个它的横截面，那将是一个漂亮的正方形。这些晶体的四个柱面是对称的……等等！
+Thirty-seven: This one is different. Look closely. If we took a cross-section, it'd form a perfect square. The four faces of these crystals are symmetrical ... Wait!
+
+37：看看这个，构成它的晶体……不会有错，它是由一个个十二面体构成的，而且是正十二面体！这颗矿石的形状是这个展柜中最完美的。
+Thirty-seven: Look at this, the crystals. There's no mistaking it. They're made of dodecahedrons, and regular dodecahedrons at that! This mineral has the most perfect shape in this display case!
+
+X：那么就请允许我代表这颗砂金石榴子石向您表示感谢吧。实际上我也对这种石头十分中意。
+X: Then allow me to thank you on behalf of this garnet. In fact, I also have a fondness for this stone.
+
+X：它们兼具可爱的外表和可靠的实用性。我有提起过我拥有许多不同尺寸的、由不同材料制造的小球吗？
+X: An endearing appearance paired with peerless practicality. Have I mentioned I possess many small spheres of this mineral, of varying sizes and cuts?
+
+X：每次我会依照当天的心情选择一颗，看着那些漂亮的小东西在轨道上滚动是一种享受。
+X: I often select one based on my mood. Observing those exquisite little objects roll on the tracks is a real delight.
+
+37：你是说你拥有许多漂亮的、完美的球体？我有机会欣赏你的那些藏品吗？
+Thirty-seven: You mean, you have lots of perfect spheres? May I see your collection?
+
+X：当然。很高兴我们在这方面能聊到一起。
+X: Absolutely. I'm glad we share a similar interest in them.
+
+微笑的研究员看着小数学家略作思索。
+The smiling researcher looks at the young mathematician, pondering over her for a moment.
+
+X：看起来你欣赏展品的角度有些特殊，不过我想这里仍然有足够多的展品能够打动小姐的芳心。
+X: You've got a unique perspective on the exhibits here, but I think there are some others you'll find even more fascinating.
+
+X：你对那边的昆虫类展区感兴趣吗？
+X: Are you interested in the insect exhibition?
+
+37：有象鼻虫吗？我听说有人在那种虫子的身上发现了黄金比例！
+Thirty-seven: Do they have any weevils? I've heard that they contain a perfect representation of the golden ratio!
+
+女孩像是一只薄荷色的气球一样轻快地弹向了另一个展厅。
+The girl bounces toward the insect hall like a mint-green balloon.
+
+小梅斯梅尔并未参与方才那场关于矿石与立体几何的热烈讨论。她是个模范参观者，只是安静地欣赏展品，偶尔发表感想也会压低了声音。
+Mesmer Jr. doesn't take part in their animated discussion about minerals, bugs, and geometry. She remains, as ever, a model visitor, quietly appreciating the exhibits and offering only occasional whispered thoughts.
+
+小梅斯梅尔：这里似乎和从前相比变化不小。上次来的时候，我记得还没有这些展区。
+Mesmer Jr.: This place has changed a lot since the last time I was here. I don't remember any of these exhibits.
+
+X：自从我们共同的好友爱兹拉接手之后，他便投入了不小的心血对这里进行进一步的建设。
+X: After our mutual friend Ezra took over the mantle of curator, he has exerted considerable effort into this place's development.
+
+X：他调整了展厅的布局，让这里能够收纳的藏品数量增加了近半，还扩大了引入的展品范围。
+X: He reconfigured the layout of the halls, increased the number of exhibits by nearly half, and greatly expanded the range of the items on display.
+
+X：看看这个，巨岩魔的粪便。从前你很难在这里看到它，最多只有展品介绍里会带一句“巨岩魔的粪便九成以上的成分都是岩石”。
+X: Check out this golem dung, for example. Before Ezra, you'd never see something like this here, and at most, the exhibit's description would merely state that "over 90% of rock golem dung is composed of rock."
+
+X：因为以前管理博物馆的那些老古板会说：哦，不，这不太合适，“这东西上不了台面”。
+X: Not to disparage, but the old curators were the type to say, "Oh, no, we can't have this sort of thing here. It's entirely inappropriate. Get that out of my display!"
+
+X：但它现在就在这里，在世界上最棒的博物馆中被展览。
+X: But here it is: rocky golem dung, displayed in the world's finest museum.
+
+棕发姑娘环视了展厅一周，难得地认可了这位同僚的说法。
+Scanning over the new exhibits, Mesmer finds herself agreeing with her colleague for once.
+
+小梅斯梅尔：我听闻自从“暴雨”开始出现后，拉普拉斯博物馆的工作量就翻了一番。曾经拉普拉斯最体面的工作，如今成了一个苦差事。
+Mesmer Jr.: I heard the Laplace Museum's workload has doubled since the "Storm" began. So much for a cushy, prestigious job. Now, it's a real challenge.
+
+小梅斯梅尔：每次“暴雨”来临前，都必须将珍贵的藏品转移到更加安全的地方。而“暴雨”结束后，又要面临庞杂的藏品清点工作……
+Mesmer Jr.: Each time the "Storm" approaches, the museum's exhibits must all be moved to a safer location. Then, once the "Storm" passes, there's the tedious task of taking inventory.
+
+X：“暴雨”过境后，一切都会变得一团糟。
+X: Everything devolved into chaos after the "Storm."
+
+X：倾尽心血打造的成果一夜之间便又化为乌有……这样的事发生几次后，会失去热情也在所难免。
+X: Painstakingly achieved results obliterated overnight ... After living through it several times, it's difficult not to lose hope.
+
+小梅斯梅尔：但这里又恢复了生机。
+Mesmer Jr.: But this place has been restored to life.
+
+小梅斯梅尔：爱兹拉是个兼具热情、包容力和务实精神的人。将馆长之职委任给他，不得不说着实是个正确的决——
+Mesmer Jr.: Ezra is passionate, inclusive, and pragmatic. Appointing him as curator was the right deci—
+
+轰鸣的爆炸声传来。赞美的话语被迫中断。
+A loud explosion interrupts her praise.
+
+37：嗯？
+Thirty-seven: Huh?
+
+小梅斯梅尔：什么……什么动静？发生了什么？
+Mesmer Jr.: What was that noise? What's going on here?
+
+拉普拉斯博物馆·办公区走廊
+Office Hallway, Laplace Museum
+
+在博物馆里侧的办公区，拐角处的一个房间中正冒出滚滚浓烟。
+In the office area at the rear of the museum, thick smoke billows from a room around the corner.
+
+37：这场爆破也是展览的一部分吗？我不太喜欢。
+Thirty-seven: Was that explosion part of an exhibit? I don't like it!
+
+小梅斯梅尔：不。绝对不是。
+Mesmer Jr.: No. I'm certain it wasn't.
+
+惊疑不定之时，一个熟悉身影从烟雾中钻了出来。小梅斯梅尔几乎眼前一黑。
+Amidst the confusion, a familiar figure emerges from the smoke, and Mesmer Jr. instantly sees red.
+
+兔毛手袋：哦真是该死！我就知道那个数据有问题，那群家伙大脑八成也进了火山灰！
+Medicine Pocket: Damn it! I knew the data was way off! Those dumbasses must have volcano ash for brains!
+
+兔毛手袋：幸好我早有准备。尝尝这个吧！
+Medicine Pocket: Fortunately, I came prepared. Try this on for size!
+
+始作俑者骂骂咧咧地掏出了一颗水生龟茎球，粗暴地扯下叶片后将它丢进了吞吐浓烟的房间。
+The instigator mutters while pulling out a terrapin bulb, roughly stripping its leaves before tossing it into the smoky room.
+
+片刻后，那个房间停止了呕吐。谢天谢地。
+In a matter of moments, the room ceases to spew smoke into the air, much to everyone's relief.
+
+兔毛手袋：我真是受够了……那个耐热层就不能再坚持两秒吗？
+Medicine Pocket: I'm so done. Couldn't that heat-resistant layer have lasted just a couple more seconds?
+
+小梅斯梅尔：受够了的是我。你为什么会在这里？你在这里做什么呢？
+Mesmer Jr.: You're not done with me, you aren't! How about you explain why you're here and just what you think you're doing?
+
+兔毛手袋：看了不就知道了吗？当然是在做纸杯蛋糕。
+Medicine Pocket: Isn't it obvious? I'm making cupcakes, of course.
+
+X：是有人说了“纸杯蛋糕”吗？我爱纸杯蛋糕，能配上一杯现煮的咖啡就再好不过了。
+X: Cupcakes? I do love cupcakes, especially with a cup of fresh-brewed coffee.
+
+小梅斯梅尔：不要插科打诨。兔毛手袋，你把你那些不着调的危险实验搬到这里来了！
+Mesmer Jr.: Stop joking around, Medicine Pocket. What were you thinking, bringing your insane experiments here?!
+
+小梅斯梅尔：爱兹拉知道这件事吗？到底怎么……我真是不敢相信。
+Mesmer Jr.: Does Ezra know about this? How in the hell—I just can't believe you!
+
+这两位同样年轻的研究者偶尔会在某些不够严肃的问题上分外意气相投，但小梅斯梅尔实在是无暇理会他们联手推出的这一蹩脚至极的借口。
+Mesmer Jr. has no patience for Medicine Pocket's less than reasonable excuses today.
+
+她必须收回夸赞拉普拉斯博物馆新任年轻馆长的话了。事情的原委不难想象，那位少年过于开阔的胸襟和慷慨的态度让某些厚颜无耻之徒有了可乘之机。
+She feels the need to retract her praise for the new Laplace Museum curator. It's clear to see that the young man's overly generous attitude has opened the door to certain shameless individuals.
+
+小梅斯梅尔：……行吧，你猜怎么着？随你的便。
+Mesmer Jr.: Fine, you know what? Do whatever you want.
+
+治疗师做出了她的决定。一个明智、理性、负责任的决定。
+The therapist makes her decision. A wise, rational, responsible decision.
+
+小梅斯梅尔：我们走吧，37，我想我们可以无视这个人和这段小插曲，继续我们的博物馆之旅。
+Mesmer Jr.: Let's keep moving, 37. Just ignore this person, and this unpleasant little episode, and continue our tour of the museum.
+
+小梅斯梅尔：当然，如果那边那个“酷爱纸杯蛋糕”的人想要留下，那么请便。
+Mesmer Jr.: Of course, if the "cupcake lover" wants to stay behind, he's more than welcome to.
+
+小梅斯梅尔：毕竟你知道，有的时候我们需要慎重选择结交的对象——37？
+Mesmer Jr.: After all, sometimes you need to be careful about the company you keep. Right, 37?
+
+本该牵着的薄荷色气球不见了。她飘到比格犬的旁边去了。
+The mint-green balloon she reaches for is gone, having floated over to the beagle.
+
+37：你刚才说数据有问题，是什么数据？能给我看看吗？
+Thirty-seven: You mentioned the data being off. What data? May I examine it?
+
+糟糕，小梅斯梅尔心想。她忘了“数字”相关的话题似乎对这个女孩有着别样的吸引力。
+A variety of horrible scenarios flash through Mesmer's imagination. Of course, anything to do with "numbers" seems to carry a special allure to her companion.
+
+兔毛手袋：你是谁？关你什么……等等。
+Medicine Pocket: First of all, who the hell are you? And second, what's it to you—wait.
+
+它用目光好奇地上下嗅了嗅这颗陌生的气球。
+They sniff the unfamiliar balloon up and down with curiosity.
+
+兔毛手袋：哦……你是那个数字名字的家伙。我听说过你。
+Medicine Pocket: Oh, you're the one with numbers for a name. I've heard of you.
+
+37：这个说法并不准确，你提出的是一个包含所有数字的集合。世界上有无穷多的数字，我是37——只是这个数字。
+Thirty-seven: That's totally inaccurate. There are infinite sets of numbers in the world, but I'm 37—just one number.
+
+兔毛手袋：嗯嗯，好好，管他呢。让我看看你的能耐——过来！替我瞅一下这个！
+Medicine Pocket: Uh, fine, whatever, just show me what you can do, Number Brain! Come on over here, and take a look at this for me!
+
+37：哇！
+Thirty-seven: Wow!
+
+薄荷色的气球被叼走了。坏了。
+The mint-green balloon is whisked away by the beagle. The horror begins to feel real.
+
+小梅斯梅尔：——我想，现在你应该能够回答我们了：你到底在那里研究什么鬼东西？
+Mesmer Jr.: I think it's about time you answered my question: What exactly are you researching?
+
+治疗师的质问指向姗姗来迟的、这场冰淇淋圆桌会议的最后一个参会者。
+The therapist's question is directed at the late-arriving last participant of this ice cream roundtable.
+
+但被审判的那人拉开椅子一屁股坐下，举着自己的那一份冰淇淋大快朵颐，显然没有将这份指控放在心上。
+But the individual being questioned merely pulls out a chair, sits down, and starts devouring their ice cream with gusto, clearly unfazed by the accusation.
+
+兔毛手袋：用你聪明的脑袋猜一猜。如果得不出答案，那你不如接受“纸杯蛋糕”这个说法。
+Medicine Pocket: Why don't you exercise that big brain of yours and take a guess? If you can't figure it out, well, I guess you're gonna have to settle with the "cupcakes" explanation.
+
+37：我看了兔毛手袋的数据，似乎是关于某种植物……或是虫子？抱歉，我只注意那些数字了。
+Thirty-seven: I looked at Medicine Pocket's data; it seemed to be concerned with some kind of plant or maybe an insect? Sorry, I was only paying attention to the numbers.
+
+爱兹拉：兔毛手袋希望找到人工栽培引火线虫草的方法，这种珍贵的药草只生长在环境极端的火山地带，每年的产量都十分有限。
+Ezra: Medicine Pocket is trying to find a way to artificially cultivate Ophiocordyceps Icarus, a precious herb that only grows in extreme volcanic environments, with very limited annual yields.
+
+爱兹拉：当地传说它拥有令僵死之人重焕新生的奇效，这显然是一种并不准确的夸张说法。
+Ezra: Local legends say it boasts miraculous effects, and can even bring the dead back to life. Obviously, that is likely to be an exaggerated claim.
+
+爱兹拉：但在考察了相关记载后，我们认为这种药草的醇提取物很可能拥有强大的神经元修复功效。
+Ezra: But after examining the related records, we believe the herb's ethanol extract may have powerful neural repair properties.
+
+爱兹拉：如果能够确认这一点，很多现在被视为不治之症的神经性疾病，也许就能有治愈的方法了。这会给许多人带来希望。
+Ezra: If this can be confirmed, there may be a path to a cure for many presently incurable neurological diseases. Think about the hope that could bring to people around the world.
+
+37：这听起来……是一件很好的事。我都不知道兔毛手袋做的原来是这么伟大的研究。
+Thirty-seven: That sounds like a wonderful thing. I didn't know Medicine Pocket was doing such important research.
+
+爱兹拉：所以你误会了，小梅斯梅尔小姐。那不是什么胡闹的研究，我认为这是一个很有意义和价值的课题，因此才为兔毛手袋提供了场地。
+Ezra: See, you misunderstood, Ms. Mesmer. This isn't just some featherbrained scheme; it's a meaningful project with real value to civilization. That's why I allowed Medicine Pocket to perform their work here in the museum.
+
+博物馆年轻的馆长一向以他真诚的美德闻名，当被他那双澄澈的眼睛注视时，很少有人能无动于衷。
+The young museum curator is known for his sincere virtue. It is hard to remain indifferent when seeing things through his young eyes.
+
+小梅斯梅尔：……但这可不是在博物馆里搞爆破的理由。
+Mesmer Jr.: But that's still no reason to allow explosions in the museum.
+
+兔毛手袋：首先，别误会。我不在意什么在绝望中等待光明的患者之类的，我只是想要弄清楚这东西是不是真有传说中这么神。
+Medicine Pocket: First, don't misunderstand my intentions. I don't give a crap about some miracle cure. I just want to find out if this thing is as amazing as the legends say.
+
+兔毛手袋：而关于那个小事故，都要怪那群负责勘探当地环境数据的无能大脚怪，他们记下的东西根本一塌糊涂！
+Medicine Pocket: And as for this little incident, you can blame those incompetent Sasquatches responsible for producing the local environment data. Their records are a mess!
+
+小梅斯梅尔：你可以在实验室里完成那一切。
+Mesmer Jr.: You could have done all this in a lab.
+
+兔毛手袋：你以为我不想吗？我提交了我的申请，但排队等着那个阴沉大叔处理的文件都要摞到基金会去了！
+Medicine Pocket: You think I didn't want to? I submitted my application, but that miserable old man's bureaucratic processing has requests piled up to the Foundation's ceiling!
+
+兔毛手袋：那种引火线虫草的子座只会在这几个月生长，如果错过了就必须等上一年。拜托，我可等不了一年！
+Medicine Pocket: Ophiocordyceps Icarus only grows for a few months. If we miss this chance, we're gonna have to wait a whole year, and I won't wait that long!
+
+兔毛手袋：所以我踹开了那个大叔的办公室，然后——
+Medicine Pocket: So I kicked open the old man's office, and then—
+
+X：被赶出来了。我刚好路过，有幸目睹了那一幕。
+X: And then you got kicked out. I happened to be passing by and witnessed the entire episode.
+
+X：必须得承认，霍夫曼先生的话也很有道理：如果每个人都闯进他的办公室，宣称自己的事更重要并要求立刻得到处理，结果就是一切都会乱成一团糟。
+X: I must concede, Mr. Hofmann had a point: if everyone stormed into his office claiming their matter was more urgent than everyone else's and demanded his immediate assent, there'd be no end to the chaos.
+
+兔毛手袋：……啧，那个大叔看着像颗蔫头耷脑的灰蓼，没想到还挺扎人的。
+Medicine Pocket: Tsk, that old geezer looks like a wilted gray knotweed, but he's pretty prickly.
+
+X：不过我也可以充当证人，他给予了你许可。他说“你自己想办法去吧”。
+X: However, as I recall, he did grant you permission. He said, "Figure it out for yourself."
+
+兔毛手袋：没错。所以我就给自己想了一个办法。
+Medicine Pocket: Exactly. So I figured it out.
+
+它露出一个坏笑。
+Medicine Pocket flashes a mischievous smile.
+
+兔毛手袋：发达了就得互相帮衬一下，这就是一个好朋友该做的，不是吗？反正这个博物馆很大。
+Medicine Pocket: When you make it big, you have to help out the little guys. That's what good friends do, right? Besides, this museum is huge.
+
+小梅斯梅尔：我持保留意见。
+Mesmer Jr.: I maintain my opinion.
+
+X：无论如何，看，我们故事的主角们就凑齐了。
+X: Anyway, just look, our narrative's protagonists are now all present.
+
+X：就如同此刻一般，年轻的研究者们齐聚一堂，我们通常会想象这会引发某种化学反应，成为未来某个伟大成果诞生的起点。
+X: When young researchers congregate, we envision it to spark some kind of chemical reaction, a guarantee of a bright future.
+
+X：但……这里有个小小的问题：那时我们的两位朋友似乎在解决问题的理念上有些小小的冲突。
+X: But there is a minor issue: our two friends here appear to have made a slight divergence in their problem-solving philosophies.
+
+善良的年轻馆长立刻露出了担忧的表情。
+Concern appears on the young curator's face.
+
+爱兹拉：发生了什么？
+Ezra: What happened?
+
+拉普拉斯博物馆·办公区实验室
+Laboratory, Laplace Museum
+
+37：——答案就是这个。这和你输入设备里的数字不符，所以才会出错。
+Thirty-seven: This is the answer. It doesn't match the numbers you entered into the device, so it went wrong.
+
+37：你只要调整这个数字，一切就都会解决了。
+Thirty-seven: You need to adjust this number, and you will reach the correct solution.
+
+兔毛手袋：什么？这不可能！
+Medicine Pocket: What? That's impossible!
+
+草稿纸被抢了过去，接连推出多个震惊神秘学界成果的天才生物研究员自然并非等闲之辈，片刻后，它便抬起了头。
+The draft paper is snatched away. This genius biological researcher who has produced several groundbreaking results in the field of arcanum is no ordinary individual. After a moment, they look up.
+
+兔毛手袋：你猜怎么着？算你说对了。
+Medicine Pocket: Guess what? You were right.
+
+兔毛手袋：但！
+Medicine Pocket: However!
+
+一个表转折的单词，语气分外铿锵有力。
+A word indicating a turn, spoken with a particularly firm tone.
+
+兔毛手袋：你不能说“只要调整这个数字”就完事了。这事还没有解决呢。
+Medicine Pocket: You can't just say "adjust a number" and be done with it. The problem isn't solved yet.
+
+兔毛手袋：问题在于怎么才能做到这一点？这并不是一个可以随意调整的参数，它是基于现实的！
+Medicine Pocket: How do we actually make that change? This isn't just some adjustable parameter. It's the real world, kid!
+
+37：你的意思是说，它在另外的函数中是个因变量？没问题，给我看看它的公式吧。
+Thirty-seven: You mean it's a dependent variable in another function? No problem. Show me the formula.
+
+兔毛手袋：不，我不是那个意思……拜托，你不能用像是“那就换个口味吧”一样的语气说这种话！
+Medicine Pocket: No, that's not what I mean. Come on, you can't talk about hard numbers and say, "Just change it!"
+
+37：为什么不行？
+Thirty-seven: Why not?
+
+37：在科算中心的这些天，很多人会来对我说——37，我不懂为什么数据会是这样。你能读懂数字们的语言，告诉我它们在说什么。
+Thirty-seven: During my time at the computing center, many people came to me saying, "37, I don't understand why the data is like this. You understand the language of numbers. Tell me what they're saying."
+
+37：他们因数据的异常而感到困惑，但实际上不存在“不知道为什么出现的例外情况”和“莫名其妙的误差”。
+Thirty-seven: They were confused by data anomalies, but there are no "unknown exceptions" or "inexplicable errors."
+
+37：没有哪个数字是“不对的”，我们只是还没有找到能够将它纳入其中的那个正确的定理。
+Thirty-seven: No number is "wrong." It's just that you simply haven't discovered the appropriate theorem to include it.
+
+女孩的脸上没有任何夸夸其谈之辈常见的、那种自鸣得意的神情，她仿佛只是在陈述一个毋庸置疑的共识。
+The girl's face has no hint of pride. She says it as if stating an undeniable fact.
+
+37：你会对它感到疑惑，一定是因为你也还没有发现真正的规律。
+Thirty-seven: If you're confused, then it's because you haven't yet discovered the real pattern.
+
+37：——我可以帮助你，就像帮助其他人那样。
+Thirty-seven: I'd be happy to help, just like I helped the others.
+
+办公区的走廊在那之后，短暂地屏住了片刻呼吸。
+All present in the office hold their breath for a moment.
+
+兔毛手袋：……哇哦。
+Medicine Pocket: Wow.
+
+兔毛手袋：你这家伙口气可真是不小……所以你认为所有的谜题都有答案，而且你能够解开？
+Medicine Pocket: You sure have a big mouth for such a little girl. You think all the puzzles have answers, and you can solve them, just like that?
+
+37：是的，以及不是。世上有许多谜题，最初挑战它的人们没能解开它，但他们的尝试成为了后人继续破解谜底的重要基石。
+Thirty-seven: Yes, and no. There are so many puzzles in the universe. Even if the first challengers couldn't solve them, their attempts became the foundation for future attempts.
+
+37：我只是认为你手头的这个问题并没有困难到要留给我们的继承者的地步。
+Thirty-seven: I just think the problem at hand isn't so difficult that we need to leave it to our successors.
+
+兔毛手袋：哈！我必须得说……我很久没有遇到过这么有趣的挑衅了。
+Medicine Pocket: Ha! I gotta say ... I haven't come up against a challenge quite as interesting as this in a long time.
+
+情况似乎逐渐向不太和谐的方向发展了，在场有人意识到是时候制止了。
+The situation seems to be veering toward the chaotic, until someone realizes it is time to intervene.
+
+小梅斯梅尔：行了，也许你们两个讨论时可以再理性一点。尤其是你，兔毛手袋。37说的话不是你想的那个意思。
+Mesmer Jr.: Perhaps you two could calm yourselves and be a little more rational in your discussion. Especially you, Medicine Pocket. You know that 37 didn't mean it that way.
+
+兔毛手袋：什么叫尤其是我？你有听到刚才发生的事，对吧？是这家伙先开始的，你这话可不怎么公平。
+Medicine Pocket: What do you mean, especially me? You were standing right here! You heard what she said, right? She started it, so don't go picking on me.
+
+收效甚微，战火甚至有蔓延开来的趋势。
+The intervention has little effect, and the conflict seems to be escalating.
+
+所幸场上还剩下最后一名选手，他自幼便十分擅长调解成熟大人之间的尖锐矛盾。
+Fortunately, there is another participant who has long been skilled at mediating conflict in his own way.
+
+X：大家请注意，有谁想吃冰淇淋？
+X: Attention everyone! Who would like some ice cream?
+
+视线集中了过来。
+All eyes turn toward him.
+
+小梅斯梅尔：……你不会是认真的，对吧？
+Mesmer Jr.: You can't be serious, right?
+
+兔毛手袋：去你的。你以为我是什么，幼儿园小孩吗？
+Medicine Pocket: Get bent. Do you think I'm still in kindergarten?
+
+37：冰淇淋是什么？
+Thirty-seven: What's ice cream?
+
+似乎效果并不如预期。但他一向懂得如何让事情的发展回到掌控之中。
+His initial attempt ran into an unanticipated challenge, but he knows how to regain control.
+
+X：那边的休息区就有家店——
+X: There's a shop in the refreshments area over there.
+
+X：我请客。
+X: My treat.
+
+最后几个字发挥了较为卓越的效果。
+The last two words have a predictable effect.
+
+兔毛手袋：这可是你说的。我要吃豪华版的。
+Medicine Pocket: Now you're in for it. I want the full works.
+
+有第一个人响应，事情就好办了。
+With the first breaking of the ice and the first scoop of ice cream, things become easier.
+
+04  十二角星 / Dodecagram
+
+十二角星
+Dodecagram
+
+兔毛手袋：……那么我也要声明，我并不是要求你解决那个该死数字的问题。
+Medicine Pocket: I want to make it completely clear that I'm not asking you to solve that freakin' number problem.
+
+兔毛手袋：那是我的工作，而我完全确信我能够解决这个问题。
+Medicine Pocket: That's my job, and I'm confident I can solve it.
+
+一些小小的误会被解开，而蛋筒被大口咬碎，和仅剩的冰淇淋一起消失在了白色的手套间。
+Misunderstandings are cleared up, and cones are bitten through.
+
+兔毛手袋：但我得说，你那种口气可不怎么让人愉快。不是每个人都像我这样心胸开阔的，懂吗？……嘿，你在听我说话吗？
+Medicine Pocket: Can I just say this? You've got some serious tone issues you need to work on. Not everyone is as broad-minded as me, understand? Hey, are you listening to me?
+
+答案是否定的。女孩的所有注意力都集中在了店主递来的冰淇淋上。
+The answer is no. The girl's attention is rapt entirely on the ice cream being handed to her.
+
+店主：拿好了，漂亮的小姑娘。巧克力味的。
+Shopkeeper: Here you go, cutie pie. It's chocolate.
+
+冰冰凉凉的甜品被握在了小巧的手心中，沁人心脾的凉意拂过皮肤。
+She holds the frosty, sweet treat in her small hand, the refreshing chill brushing past her skin.
+
+37：……这……
+Thirty-seven: This ...
+
+小梅斯梅尔：这？
+Mesmer Jr.: Huh?
+
+37：这是一个完美的十二角星形！为什么它会呈现出这样的模样？
+Thirty-seven: This is a perfect dodecagram! Why would it look like this?
+
+小梅斯梅尔：你是说……哦，它们从上方看过去时候的形状。好吧。
+Mesmer Jr.: You mean? Oh, looking at the shape from above. Right.
+
+兔毛手袋：看起来有人又开始了。
+Medicine Pocket: Looks like someone's starting up again.
+
+37：我看到了！是某种模具，对吧？这真是一个极具品味的选择！
+Thirty-seven: I see it! So this is some kind of mold, isn't it? What a tasteful choice!
+
+37：我可以将它的形状看作是四个正三角形组合得到的，因此它可以用施莱夫利符号表示为12/4……
+Thirty-seven: I can see its shape—four equilateral triangles combined—so it can be represented by the Schläfli symbol [12/4 ...
+
+似乎是对这个冰淇淋的形状满意极了，37一边说着，一边兴致勃勃地掏出了笔记本和记号笔，开始在上面写写画画。
+Finding a strange satisfaction with the ice cream's shape, 37 speaks as she eagerly pulls out a notebook and pen, and starts to write.
+
+本子和笔上都印着拉普拉斯的logo，在场的每个人都拥有许多套这东西——但大概没有人曾经把冰淇淋和星形多边形堂而皇之地并排在一起过。
+Both notebook and pen are emblazoned with the Laplace logo. Everyone present has their own, but none have ever placed ice cream and star-shaped polygons side by side like this.
+
+37：让我们从12/1开始，我们当然不能跳过它。尽管12/1可以被省略为12，它实际上也是正十二边形。
+Thirty-seven: Let's start with 12/1—we can't skip it. Although 12/1 can be simplified to 12, so that it's actually a regular dodecagon.
+
+37：然后是12/2、12/3……
+Thirty-seven: Then there's 12/2, 12/3 ...
+
+纸上出现了五个图形。37在它们的每一个下面都标注了施莱夫利符号，然后开始发表对这些图形的评价。
+Five shapes appear on the paper. 37 labels each one with its Schläfli symbol and begins to evaluate them.
+
+37：12/3太笨拙，12/5则是过于偏激了。
+Thirty-seven: 12/3 is too clumsy, 12/5 is too extreme.
+
+37：——而正三角形最为稳定，由它构成的十二角星形也是四种正十二角星中最好的。
+Thirty-seven: —And the equilateral triangle is the most stable, making the shape it forms the best of the four regular dodecagrams.
+
+37：这是一个非常合适的几何图形，这代表这个“冰淇淋”是很好的甜品！
+Thirty-seven: This is an excellent geometric shape, which means that "ice cream" must be a great dessert!
+
+似乎是为了表示自己对这个图形的赞赏，37在写着12/4的十二角星下方，画上了一个笑着的简笔小人头像。
+To express her appreciation of the shape, 37 draws a smiling face beneath the dodecagram labeled 12/4.
+
+坐在她旁边的人看着那个笑得十分潦草的大头涂鸦，忍不住笑了出来。
+The person sitting next to her looks down at the smiling doodle and can't help but laugh.
+
+X：哈哈。的确，这是一个不错的选择。但……
+X: Haha. A commendable choice indeed, but ...
+
+X：就我个人而言，也许我会更喜欢这个由三个正方形组合而成的可爱家伙。
+X: Personally, I might favor this rather more charming one composed of three squares.
+
+有人掏出了自己的笔，在另一个图形边也画上了一个笑脸。
+X pulls out his pen and draws a smiley face next to another shape.
+
+X：我曾经做过这种形状的齿轮，它们能够安静但可靠地完成有趣的接力。往往是这种看着不起眼的家伙，最后会给人们惊喜。
+X: I've manufactured gears in this shape before. They proved quiet and reliable in completing some of my more intriguing relays. Unassuming shapes often come with unexpected abilities.
+
+37：你会选择12/3让我有些意外。正方形是很扎实、朴素的图形，但和你给人的印象并不一致。
+Thirty-seven: I'm a bit surprised you chose 12/3. Squares are solid, simple shapes. They don't match the impression you give off.
+
+X：这就令人感到诧异了，在37小姐的印象中我是个浮躁的男孩吗？
+X: So, in your impression, Miss 37, I am a restless and complex boy?
+
+37：不过……似乎也很合理。正方形不是你，但12/3的十二角星就不一样了。
+Thirty-seven: Well, you certainly aren't a square, but a 12/3 dodecagram is different.
+
+37：它诞生自最标准的形状，却并不顺从。它特立独行，却也有着自己坚守的规则……我想我似乎抓住了一些解开你的数字之谜的线索了。
+Thirty-seven: It comes from the most basic of shapes but doesn't conform to the same rules. It's unique. I think I've picked up some clues for solving your number puzzle.
+
+兔毛手袋：嘿，我说，你们怎么都这么小家子气？看这里，12/5显然更酷。
+Medicine Pocket: Hey, just tell me one thing. Why do you people always aim for the low-hanging fruit? Look, 12/5 is obviously way cooler.
+
+幼稚的接力被继续下去了。第三个笑脸出现了，而且笑得最为嚣张。
+The childish relay continues, and a third smiley face appears, the most arrogant of them all.
+
+兔毛手袋：未经处理的霹雳荔果的果壳就是这样的，像个刺猬一样扎人得很。它的果肉也和柔软多汁沾不上边，根本不能入口——但那东西却是熬制避电膏的绝佳材料。
+Medicine Pocket: Just like an untreated thunder fig husk, prickly like a hedgehog. Its flesh isn't soft or juicy, or even edible, but it's excellent for making anti-electrical paste.
+
+兔毛手袋：猜猜我想说什么？只有胆小鬼才会对一个图形感到畏惧，聪明人则是会利用它们。
+Medicine Pocket: Let me spell it out for you. Only cowards fear shapes; smart people use them.
+
+37：你是说它难以驾驭，但意义非凡？听起来也有道理……12/5的每个内角都是30°，在所有的锐角中它都是个特殊的存在。
+Thirty-seven: You mean it's challenging, but it holds significance? That makes sense. Each interior angle of 12/5 is 30°, a special case among all acute angles.
+
+37：它的直角边永远和斜边的1/2相等。当我们想要一个直角三角形的时候，几乎必定会在等腰直角三角形和它之间做出选择。
+Thirty-seven: Its right-angle side is always equal to half the hypotenuse. When we want a right triangle, we almost always choose between an isosceles and this.
+
+37：——那么你呢，小梅斯梅尔？
+Thirty-seven: What about you, Mesmer?
+
+该来的总是要来的。
+The question comes both inevitably and unavoidably.
+
+小梅斯梅尔：我一定要选一个吗？你们不觉得幼稚吗？……好吧，这个。
+Mesmer Jr.: Do I really have to choose one? Isn't this kind of juvenile? Fine, this one.
+
+37：12/2，两个六边形组成的正十二角星！我就猜是这个！
+Thirty-seven: 12/2, a dodecagram made of two hexagons! I thought as much!
+
+小梅斯梅尔：我只是随便选的。
+Mesmer Jr.: I just picked randomly.
+
+37：但它给人的感觉和你很像。看看这些120°的内角，它们收敛着锋芒，似乎是一个沉着稳重的图形。
+Thirty-seven: But it feels like you. Look at these 120° interior angles. They restrain their sharpness, appearing calm and steady.
+
+37：但六边形从来都不是真正稳定的形状，任何一个顶点的塌陷都会引发灾难性的后果。你有两个六边形，这让事情好了一些，但它们也将彼此锁住了。
+Thirty-seven: But hexagons are never truly stable. The collapse of any vertex can lead to catastrophic results. You have two hexagons, which helps, but they lock each other in.
+
+37：嗯，如果它们中的任意一个能够放大一些或是缩小一些就好了！如果它们刚好嵌套在一起，我们就可以获得六个更大更漂亮的等腰三角形了。
+Thirty-seven: Hmm, if either could be enlarged or reduced slightly, that would be an improvement! If they nested perfectly, we would obtain six larger, more aesthetically pleasing isosceles triangles.
+
+小梅斯梅尔：……这是某种几何占卜吗？差不多可以结束了。
+Mesmer Jr.: Is this some kind of geometry-based divination? I think it's time we wrap this up.
+
+37：等等，我们还有一个图形！正十二边形！我们不能就这样放着它不管。
+Thirty-seven: Wait, we have one more shape! The regular dodecagon! We can't omit it just like that.
+
+兔毛手袋：这次我赞同你的话。没人能够容忍这样一个不知趣的空白。
+Medicine Pocket: I'm afraid I have to agree with you on this one, number-girl. I don't think anyone can stand having such an obvious blank space smack bang in the middle of all this.
+
+37：但……它是谁呢？
+Thirty-seven: But who could it be?
+
+小梅斯梅尔：好吧……考虑到我们身处的位置，爱兹拉如何？
+Mesmer Jr.: Considering where we are, should it not be Ezra?
+
+兔毛手袋：看起来有人决定加入到她口中的幼稚游戏里来咯。
+Medicine Pocket: Well, well. Not so above our "juvenile games" as you implied.
+
+小梅斯梅尔：我只是希望这一环节尽快结束。
+Mesmer Jr.: Look, I just want whatever this is to end as quickly as possible.
+
+37：我很开心你领会到了几何的魅力，小梅斯梅尔。不过爱兹拉是谁？
+Thirty-seven: I'm happy that you've come around to seeing the charm of geometry, Mesmer, but who is Ezra?
+
+小梅斯梅尔在12的旁边画上了另一个小人头，但为其赋予了比自己的小人头更灿烂的笑脸。
+Mesmer Jr. draws another little head adjacent to 12, bestowing it with a brighter smile than her own.
+
+小梅斯梅尔：一位我们的……朋友。他是个真诚而博学的人，也是这座博物馆的新任馆长。我想如果有机会能见面，你们一定可以相处得十分融洽。
+Mesmer Jr.: A friend of ours. A very sincere and knowledgeable friend, and the new curator of this museum. I hope you will get a chance to meet him. I think you'd get along well.
+
+37：唔……他是否是人类，而非神秘学家？
+Thirty-seven: Hmm. Is he a human then, not an arcanist?
+
+小梅斯梅尔：你听说过他？
+Mesmer Jr.: You've heard of him?
+
+37：不，但你说他是十二边形。
+Thirty-seven: No, but you said he's a dodecagon.
+
+37：十二边形和其他这些图形不同，它并不是星形，而是个正多边形。但正十二边形是我们讨论起有12个顶点的图形时，绝不会绕过的存在。
+Thirty-seven: A dodecagon is different from these other shapes. It's not a star, but a regular polygon. However, a regular dodecagon is indispensable when considering twelve-vertex shapes.
+
+37：人类和神秘学家是不一样的，他们的本质与我们不同。他们是虚数，是不存在的数字。
+Thirty-seven: Humans and arcanists are different. Their essence differs from ours. They are imaginary, non-existent numbers.
+
+37：但我们仍然可以通过以i为y轴单位的坐标系定位他们。你是一个严谨的分数，你称赞的人一定有他的过人之处，我很想见见他。
+Thirty-seven: But we can still locate them using a coordinate system with i as the y-axis unit. You are a precise fraction, so if you're singing his praises, he must be exceptional. I would really like to meet him.
+
+X：也许要过几天。他正忙着筹备一次特别展览……哦，37！
+X: You may need a few days. He's busy preparing a special exhibit. Oh, 37!
+
+一声惊呼、一种凉丝丝的陌生触感，37被从几何世界拉回了现实。
+With a gasp and a cool, unfamiliar touch, 37 is pulled back to reality from the geometric realm.
+
+37：我的十二角星顶点在凹陷！
+Thirty-seven: My dodecagram's vertex is collapsing!
+
+X：它要化了，快吃一口！
+X: It's melting! Quick, take a bite!
+
+37：啊呜。
+Thirty-seven: Nom!
+
+和冰淇淋相交的小脑袋定住了。
+Her little head collides into the ice cream.
+
+37：这……这真好吃！
+Thirty-seven: This ... this is delicious!
+
+37：它拥有着这样完美的形状，好吃也是必然的。但这还是……太惊人了！
+Thirty-seven: With such a perfect shape, it was bound to be tasty. But it's still simply astounding!
+
+兔毛手袋：只是个机打冰淇淋而已吧？虽然它确实不错，比博物馆其他休息区卖的味道都更好。
+Medicine Pocket: It's just standard ice cream churned out by a machine, though I'd say it's better than what you can get in the other refreshments areas.
+
+兔毛手袋：……怎么，你第一次吃？
+Medicine Pocket: Is this your first time eating this stuff?
+
+37：冰淇淋……这台机器制作了它？
+Thirty-seven: This ice cream came from that machine?
+
+37：教典告诉我们不能贪图享乐、不能放纵欲望，但……我想搬一台这样的机器回去也并不违背教条。
+Thirty-seven: The doctrine tells us not to seek pleasure, nor to indulge desires, but surely bringing this machine back with me wouldn't be a total violation of the rules.
+
+37：这是可以让我们更加愉快地专注于钻研的美丽立体图形，6也一定会对它表示认可的。啊呜。唔、唔。
+Thirty-seven: It would allow us to focus on studying beautiful three-dimensional shapes more joyfully. 6 would have to approve. Nom! Mmm ...
+
+一番手忙脚乱后，冰淇淋融化的惨剧被成功阻止了。37咽下最后一口冰淇淋，并舔掉嘴角沾着的蛋筒碎屑。
+After some last-second scrambling and some well-placed bites, the melting ice cream disaster is averted.
+
+X：所以，你觉得怎么样？
+X: So, have you found any new insights?
+
+37：冰淇淋？好极了！
+Thirty-seven: About ice cream? I've discovered that it's wonderful!
+
+X：不，我是说你的课题。你获得什么新的灵感了吗？
+X: No, I meant your research. Have you derived any inspiration from your excursion today?
+
+天空色的眼睛眨了眨。
+Her sky-blue eyes blink.
+
+她环视四周，又低头看了看手上的冰淇淋，最后……慢慢地摇了摇头。
+She looks around, then down at the ice cream in her hand, and finally slowly shakes her head.
+
+37：我不确定。
+Thirty-seven: I was not sure.
+
+小梅斯梅尔：……是吗。
+Mesmer Jr.: Oh, is that so?
+
+兔毛手袋：你可真不给面子，气氛都烘托到这里了。
+Medicine Pocket: Come on! The setup was perfect!
+
+兔毛手袋：一般你得从一些鸡毛蒜皮的小事里发现什么大道理，大喊“我懂了！”然后直接冲回研究室搞个大发明之类的。
+Medicine Pocket: This is supposed to be the part where you realize you discovered some profound truth in the mundanity of this crappy ice cream, shout "eureka," and then rush back to the lab to work on your breakthrough.
+
+小梅斯梅尔：兔毛手袋……你当然不是真的相信那一套，没错吧？整个拉普拉斯都不会有人因为这个笑话笑出来的。
+Mesmer Jr.: Medicine Pocket, you don't really believe that, do you? No one at Laplace would laugh at that joke.
+
+37：这座博物馆里的展品很有趣，冰淇淋也很好吃，我的确获得了许多很好的数字。
+Thirty-seven: The exhibits in this museum are all very interesting, and this ice cream is delicious. I've found many good numbers today.
+
+37：可是……
+Thirty-seven: But ...
+
+女孩低下头，看了看自己的手心。那里曾经有过一个“完美的十二角星”，但现在却空无一物。
+The girl looks down at her hand. Where her perfect dodecagram had been, but now nothing remains.
+
+然后她又抬起头。
+Then she looks up.
+
+在博物馆天花板上铺设的实时星图中，星星们闪烁着美丽的光芒。无需借助任何工具，使用肉眼便可领略到那份壮美。
+Upon the real-time star map on the museum ceiling, stars twinkle beautifully. A rare chance to appreciate the grandeur of the cosmos with the naked eye.
+
+行星的运行轨迹被亲切地标出，浩瀚的银河没有被任何光或大气污染遮盖，每一个像素似乎都各得其所。
+The paths of the planets are clearly marked, and the vast Milky Way is unobstructed by light or atmospheric pollution. Every pixel is perfectly placed.
+
+37：我在那座科算中心中做的事似乎也是相同的。我为获得更多的数字而来，和那里来自各个领域的人们交谈，也确实为我带来了这些。
+Thirty-seven: What I do at the computing center seems to be the same. I came to get more numbers, talked with people from different fields, and it brought me these in return.
+
+37：我想我和过去相比有了成长。我见识到了、学习到了更多的东西，获得了比从前在岛屿上的时候更多、更多的数字。
+Thirty-seven: I think I've grown somewhat. I've seen things, learned more, and gained more numbers than when I was on the island.
+
+37：但……
+Thirty-seven: However ...
+
+37：当我低下头，我还是看不到我应该跳到的下一个格子在哪里。
+Thirty-seven: When I look down, I still can't see where the next square is.
+
+小梅斯梅尔：……是吗。
+Mesmer Jr.: Oh, is that so?
+
+这并不是一个令人意外的结果。
+This is not the expected result of her treatment.
+
+小梅斯梅尔忽然想起在研究室中，女孩曾为之赞叹的那个关于行星距离及柏拉图立体的猜想。
+Mesmer Jr. suddenly recalls the conjecture about planetary distances and Platonic solids that the girl once marveled at in the lab.
+
+发现了行星运动三大定律的约翰尼斯·开普勒被誉为“天空的立法者”，他在他的著作《宇宙的奥秘》中曾提出过一个假设。
+Johannes Kepler, hailed the "legislator of worlds," discovered the three laws of planetary motion. In his book, Mysterium Cosmographicum, he proposed a hypothesis.
+
+这个假设声称，当时已知的六个行星——水星、金星、地球、火星、木星和土星，它们到太阳的距离能够构成五个完美的柏拉图立体。
+He claimed that the distances of the six planets that had been known at the time—Mercury, Venus, Earth, Mars, Jupiter, and Saturn—from the sun could form five perfect Platonic solids.
+
+一切都是这么恰到好处。在心底的某一处，你会希望神正是沿着这样一个精巧的设计图来布置这个宇宙的。
+The arrangement fit so perfectly. Deep down, even the atheists of the time hoped that God had arranged the universe according to such a delicate blueprint.
+
+——但后来的故事人尽皆知，这个假设是错的。
+But as we know now, his hypothesis was incorrect.
+
+小梅斯梅尔：……
+Mesmer Jr.: ...
+
+小梅斯梅尔并没能完全理解37所描述的具体目标以及她计划使用的方法。但她仍然敏锐地注意到，37的课题和她的一切努力都建立在一个假设上。
+Mesmer does not fully understand 37's goals or her methods. But she astutely observes that 37's research and all her efforts are predicated on a shared hypothesis.
+
+一个和开普勒的猜想同样美丽，但也同样并不真实的假设。
+A hypothesis as beautiful as Kepler's conjecture, but equally untrue.
+
+小梅斯梅尔：你有没有想过——
+Mesmer Jr.: Have you considered ...
+
+如果那个假设错了怎么办？
+That your hypothesis might be wrong?
+
+37：什么？
+Thirty-seven: What?
+
+小梅斯梅尔：……不，没什么。
+Mesmer Jr.: Nothing.
+
+37：……不过，也许我有些心急了。
+Thirty-seven: Perhaps I was a little hasty.
+
+37的目光从地板上那个其他人都看不到的格子那里收回来了。
+37's gaze shifts away from the invisible square on the floor.
+
+37：仔细想想，约翰·纳皮尔花了二十年才发明了对数表，而费马大定理则是过了358年才被完整证明……也许我的答案也不是一朝一夕就能够找到的。
+Thirty-seven: John Napier took twenty years to devise logarithms, and Fermat's Last Theorem took 358 years to be fully proven. It's likely that my answer won't be found overnight, either.
+
+37：我需要抓紧时间，我不能再迟一步了。但……
+Thirty-seven: I know that I need to hurry. I can't afford to waste time. But ...
+
+37：教典告诉我们，任何时候都不该失去从容与理性，应沿着万物的规律踏上那阶梯，如此才能抵达那至高的场所，而非跌落无序的深渊。
+Thirty-seven: The doctrine instructs us never to lose composure or reason, to adhere to the laws of all things and ascend the divine steps, so we can reach the highest height, and not descend into the abyss of chaos.
+
+37：我不该忘记这则教条。
+Thirty-seven: I shouldn't forget my limitations.
+
+在场的另外三个人互相交换了一个眼神。
+The other three exchange glances.
+
+兔毛手袋：恭喜！看来我们的数学家终于意识到了一个常识。
+Medicine Pocket: Congratulations! It seems our mathematician has finally discovered a basic truth.
+
+兔毛手袋：所有伟大的成就都不是一蹴而就的，你研究的课题越困难，要花费的时间和精力就越久。这是成比例的。
+Medicine Pocket: Great achievements don't come overnight. The more challenging your research, the more time and effort it will take. These things are proportional.
+
+X：你的课题很有趣，我期待看到它完成的那一天。不过也请不要把自己逼得太紧了，这是一个来自科算中心前辈的小建议。
+X: Your research is fascinating, and I look forward to the day it is completed, but don't overexert yourself. That's just a little bit of advice from your senior at the computing center.
+
+X：曾有过许多天赋卓绝的研究者过于专注他们的研究，却忽略了自己也是肉体凡胎……我们都不希望37你也步他们的后尘。
+X: Many talented researchers have focused excessively on their work, forgetting they too are mortals. We don't want you to follow in their footsteps, 37.
+
+37：嗯？我不是很明白你们的意思，我很好呀。
+Thirty-seven: Hmm? I don't know if I understand what you mean. I'm feeling just fine.
+
+小梅斯梅尔：……我就猜是这样。
+Mesmer Jr.: I thought as much.
+
+X：哇哦，比我想的还糟。你看……
+X: Wow, this is worse than I anticipated. Look ...
+
+X斟酌着措辞，倒是一旁的兔毛手袋率先翻了一个白眼。
+X chooses his words carefully, but Medicine Pocket just rolls their eyes and chimes in.
+
+兔毛手袋：你看起来就像是一只蔫巴巴的血月水母，浑身透着一股在没换水的塑料瓶子里面关了三天的气息——你的触手都在到处飘了！
+Medicine Pocket: You look like a deflated bloodmoon jellyfish, oozing a vibe like you've been stuck in a plastic bottle without a water change for days. You've got tentacles floundering all over the place!
+
+兔毛手袋：而且我早就想问了，你那个乱糟糟的头发又是怎么回事？就算是我养的实验用仙人掌猫都会把自己打理得更体面一点。
+Medicine Pocket: And I've been meaning to ask: What's with the messy hair? Even the cactus cat in my lab grooms itself better than you.
+
+37先是疑惑地四处张望，试图在空气中寻找自己飘散的触手。
+37 looks around in confusion, attempting to locate her fictitious tentacles floundering in the air.
+
+37：哦，我明白了。这是一个比喻是吗？
+Thirty-seven: Oh, I see. It's a metaphor, isn't it?
+
+兔毛手袋送出了一记白眼作为回答。
+Medicine Pocket rolls their eyes again in response.
+
+小梅斯梅尔：我也建议你不宜长期闷在研究室里。人需要一些适度的娱乐活动来放松身心……这是来自一个治疗师的建议。
+Mesmer Jr.: Whatever else you do, try not to stay cooped up in that lab for too long. People need a little entertainment to keep themselves sane, and that's advice from a therapist.
+
+小梅斯梅尔：我的工作已经足够多了。我不希望在人工梦游治疗室的门口见到你也来排队了。
+Mesmer Jr.: I already have enough work on my hands. I don't want to see you lining up at the door of the artificial somnambulism therapy room.
+
+37眨了眨眼睛。她低头思索了一会儿后，亮起眼睛看向在场的几人。
+37 blinks, contemplating for a moment, before fixing her bright eyes on the group.
+
+37：所以你们在关心我。
+Thirty-seven: Are you all really so concerned about me?
+
+有人对这句话中的一个用词有意见。
+Someone takes issue with her choice of words.
+
+兔毛手袋：嘿！怎么会有人被嘲讽了一顿后反而觉得这是关心的？自作多情也要有个限度。
+Medicine Pocket: Yeah, right! Like how nuts are we for caring if you work yourself into madness?! You're already beyond delusional.
+
+37：你们人真好，谢谢你们。
+Thirty-seven: You're all so kind. Thank you.
+
+37：其实我并不觉得我有在勉强自己，但……和你们在一起度过的时间让人很开心，这让我想起从前。
+Thirty-seven: I don't feel like I'm pushing myself, but spending time with all of you makes me happy. It reminds me of the past.
+
+37：我的朋友苏菲亚每次来找我的时候，如果我正在研究某个问题，她都会在门口犹豫很久才进来。
+Thirty-seven: Whenever my friend Sophia would come to see me, if I was working on a problem, she'd linger at the door for the longest time before coming in.
+
+37：她总会问——我打扰到你了吗，37？
+Thirty-seven: She'd always ask, "Am I disturbing you, 37?"
+
+37：严格来讲，她的到访确实会中断我的进度。
+Thirty-seven: To tell the truth, her visits did sometimes slow down my progress.
+
+但随即，37摇了摇头。
+37 shakes her head.
+
+37：可是研究总是能在之后继续，事实是，我很开心她来找我。
+Thirty-seven: But research can always be continued later. The truth is, I was happy she came to see me.
+
+X：听上去你有一个很好的朋友。
+X: It sounds like you have a good friend there.
+
+37：是的。她……她现在不在这里，但我希望有一天能够介绍她和大家认识。
+Thirty-seven: Yes. She ... She's not here now ... but I hope I can introduce her to everyone someday.
+
+X：我很荣幸和你及你的朋友分享这个秘密基地。
+X: I'd be honored to share this secret base of ours with you and your friend.
+
+愉快的时光似乎即将迎来终点。
+Their time together seems to be nearing its natural close.
+
+X：说到这里，还记得我提到的特别展览吗？
+X: Speaking of which, remember the special exhibit I mentioned?
+
+X：它将于三天后开始，我们提到的爱兹拉——那位正十二边形同学，他为此付出了很多心血。我和兔毛手袋也帮了一点忙。
+X: It opens in three days. Our friend Ezra—our dodecagon—exerted considerable effort to facilitate it. Medicine Pocket and I assisted him a little too.
+
+X：如果你到时候有时间，欢迎来看看。到时我们可以一起逛展……当然，如果亲爱的治疗师小姐不介意的话，也不妨一起。
+X: If you have time, you'd be very welcome to come and join us as we view its offerings. We can peruse the exhibit together. Of course, if our dear therapist would like, she can join us, too.
+
+37：谢谢你的邀请，我想我会来的。那个时候我还可以再吃一支冰淇淋。
+Thirty-seven: Thank you for the invitation. I'd like to come. Then I can have another ice cream.
+
+兔毛手袋：你还真的很喜欢那个玩意啊，嗯？
+Medicine Pocket: You really like that junk, huh?
+
+37：我只是很欣赏它的几何，这和它的味道没有决定性的关系。我想它可以让我的思维更敏捷地运转。
+Thirty-seven: I just appreciate its geometry. It's nothing related to its taste. I think it helps my mind work more efficiently.
+
+兔毛手袋：我第一次听到这么蹩脚的借口。那如果我把避电膏打成冰淇淋的模样，你会吃吗？
+Medicine Pocket: That's the lamest excuse I've ever heard! So if I gave you a scoop of anti-electric paste that looked like ice cream, would you eat that too?
+
+小梅斯梅尔：兔毛手袋，我想你最好适可而止。你不觉得幼稚吗？
+Mesmer Jr.: Give it a rest? Don't you find this line of questioning to be a little childish?
+
+兔毛手袋：你为什么总是在拉偏架？
+Medicine Pocket: Why are you always taking sides? And worse, never mine!
+
+告别的寒暄似乎很难迎来终点，年轻的研究员们开始了一场关于事物外表与内在、味觉系统和消化系统功能的辩论。
+Their farewell chatter seems to go on without end. The young researchers debate over the essence of things, and the functions of the taste and digestive systems.
+
+所幸，在场的第五个人替他们终结了这场漫无止境的发散。
+Until, at last, the fifth party present brings an end to their interminable digressions.
+
+店主：呃……抱歉，几位，打扰一下。
+Shopkeeper: Uh ... sorry, everyone, excuse me.
+
+兔毛手袋：……啊？
+Medicine Pocket: Huh?
+
+显然有人直到冰淇淋店店主开口前，都完全忽略了还有这么一个人的存在。
+Medicine Pocket seems to have genuinely forgotten the ice cream shopkeeper was there.
+
+店主：我听到你们说“下次”……说真的，我很高兴。但……我恐怕以后再也不会有冰淇淋了。
+Shopkeeper: It's just, I heard you say "next time," and, I'm glad you enjoyed yourselves, but ... I'm afraid there won't be any more ice cream next time.
+
+店主：我这家店……怎么说呢，要倒闭了。
+Shopkeeper: My shop, well, it's closing down.
+
+05  对数 / Logarithm
+
+对数
+Logarithm
+
+在店主做出了“倒闭宣言”后，场面陷入了短暂的寂静。
+After the owner announces the closure, a brief silence ensues.
+
+37：……咦？
+Thirty-seven: Really?
+
+兔毛手袋：你说倒闭？倒闭是什么意思？
+Medicine Pocket: Closing down? What do you mean "closing down"?
+
+店主：呃，就是“关门大吉”，一家店经营不下去了……
+Shopkeeper: Uh, I mean, I'm going out of business. I can't keep this shop afloat.
+
+兔毛手袋：我当然知道什么是“倒闭”，还用你给我解释？
+Medicine Pocket: Of course, I know what "closing down" means. Ugh ... Do you really think I need you to explain THAT to me?
+
+提问者堪称蛮不讲理地打断了对方。
+The questioner rudely interrupts.
+
+兔毛手袋：难道我又要回归机灵蛋筒家？但它家负责外送的卡邦克鲁每次都会偷吃！我去投诉，他们居然说那是“正常损耗”！
+Medicine Pocket: Don't tell me that this means I have to go back to Clever Cones? Their Carbuncle servers always sneak bites from my order! When I complained, they said it was within "normal loss allowance"!
+
+37：你们是说，以后都不能买到这个冰淇淋了吗？
+Thirty-seven: So, we won't be able to have this ice cream anymore?
+
+本已打算离开的女孩也停在了原地。
+The girl who was about to leave stops in her tracks.
+
+37：那个美丽的正十二角星，以及它神奇的、清爽又浓厚的味道……下次我到这里来的时候，就尝不到了？
+Thirty-seven: That beautiful, regular dodecagram, and its magical, refreshing, and rich flavor ... The next time I come here, I won't be able to taste it?
+
+37：让人开心的、美丽的事物，却再也见不到它们了。这听起来不是一个让人高兴的消息。
+Thirty-seven: Happy, beautiful things, never to be seen again. What terrible news.
+
+37思考了一会儿。
+37 thinks for a moment.
+
+37：我必须承认，现在的我对经济学知识了解得并不多。可这家商店销售的冰淇淋如此美丽，却居然会倒闭……这听起来并不合理。
+Thirty-seven: I must admit, I don't know much of anything about economics. But if this shop sells such beautiful ice cream, yet it's closing down. There must be something wrong.
+
+37：……这样吧！我来帮助你解决这个问题。
+Thirty-seven: How about this? I'll help you solve your problem.
+
+看来方才的道别操之过急了。
+It appears their farewell was premature.
+
+37：——所以，问题就在这里了。
+Thirty-seven: So, then I believe this is the problem.
+
+在一系列令店主头晕目眩的有关数字的提问后，小小的顾问吃着她免费获得的又一支冰淇淋，宣布自己解开了谜底。
+After subjecting the shopkeeper to a dizzying series of questions, the little nascent consultant consumes another free ice cream as she announces her solution.
+
+37：这张图表标志着你和其他店铺数据之间的差距，你的进店人数和客单价都显著低于其他的商店，这就是问题所在。
+Thirty-seven: This chart illustrates the gap between your shop's data and that of other shops. Apparently, your foot traffic and average transaction value are significantly lower—that is the issue.
+
+37：只要提高这两个数字，你的烦恼就能迎刃而解了。
+Thirty-seven: So, we only need to increase these two numbers, and your troubles will be over.
+
+店主：是吗？呃……你是说哪个？
+Shopkeeper: Really? Uh, which ones did you say?
+
+店主凑近那张图表，努力分辨上面每一条线与每一个点之间的关系，但显然未能取得明显进展。
+The owner leans over the charts, attempting to decipher the many points and lines, growing more and more confused.
+
+兔毛手袋：搞什么，你还来真的？这是哪里，什么无聊的情景喜剧片场吗？
+Medicine Pocket: Are you serious? I feel like I've walked onto the set of some boring sitcom.
+
+兔毛手袋：这里是我的私人实验室，只为足够天才的想法而生！而你这个数字名字，现在居然在我的黑板上写冰淇淋的盈亏平衡分析图！
+Medicine Pocket: This is my private lab—a place for ideas of consequence! Now you've barged in here with your kitschy number name and festooned my brainstorming board with profit-loss analyses for a two-bit ice cream stand!
+
+小梅斯梅尔：我必须指正你：这里并不是你的私人实验室。但……说实话，我也开始对自己还在这里的原因感到迷茫了。
+Mesmer Jr.: Correction: This is not your private lab. But I admit, I am questioning why we're still here, too.
+
+X：不要这样嘛，我的朋友们。我们都清楚其中的理由：这很有趣不是吗？
+X: Come on, friends. We all know why. We're having a good time, aren't we?
+
+兔毛手袋：拜托，什么事很有趣？
+Medicine Pocket: You wouldn't know fun if it came up to you and sat on your head.
+
+兔毛手袋：研究“一个不懂经营的家伙经营的冰淇淋店为什么会倒闭”这样的愚蠢问题？答案一目了然。
+Medicine Pocket: "Let's all sit around having 'fun' while we discuss how an ice cream shop owned by some idiot that doesn't even understand business is failing ... Duhhh!"—the answer's obvious.
+
+兔毛手袋：你怎么能够指望一个在被问到“你每天亏多少钱”时，回答“我也不知道具体的，但感觉不少”的人能把生意干明白？
+Medicine Pocket: How can you expect to help someone who, when asked, "How much product do you need to restock daily," answers, "I don't know exactly, but it feels like a lot"?
+
+店主：嘿！我忍你很久了，我都听得到！
+Shopkeeper: Hey! I've put up with your insults long enough! I can hear you, you know?!
+
+店主：你每次都会提一些无礼的要求，像是吃到只剩蛋筒了却叫我给你续杯……我都满足你了！现在你居然在这里说风凉话？
+Shopkeeper: You're the one who's always making unreasonable requests, like asking for refills when you've eaten all the ice cream off your cone. To think I actually topped you up, and now you're making fun of me?!
+
+兔毛手袋：我只是指出了事实。有的人只擅长做一件事，但做其他事就都一塌糊涂。
+Medicine Pocket: I'm just stating the facts. People can excel at some things but suck at others.
+
+兔毛手袋：你调的冰淇淋很好吃，但做生意一团糟。你为什么不考虑卖掉你的配方？
+Medicine Pocket: Your ice cream is to die for, but your business is a mess. Why don't you just sell your recipe?
+
+店主语塞，脸慢慢涨红。
+The shopkeeper is speechless, her face slowly reddening.
+
+兔毛手袋：……你不是吧。
+Medicine Pocket: You can't be serious.
+
+店主：对……对！我承认，这是我的梦想！拥有一家冰淇淋商店！我不想就这么放弃。
+Shopkeeper: Fine, I admit it! This is my dream! To own an ice cream shop—it's always been my dream, and I don't want to give it up!
+
+店主从翻着白眼的兔毛手袋那里背过脸去，重新面向她唯一的救星。
+The owner turns away from Medicine Pocket's rolling eyes and faces her would-be savior.
+
+店主：我本来想着认命了，但你们出现了。你真的能帮我吗，小姑娘？你刚才说……提高什么东西？
+Shopkeeper: I was ready to give up, but then you appeared out of nowhere. Do you think you can really help me, little girl? What was it that you said I need to increase?
+
+37：客单价和进店人数。你看，你的客单价相比其他商店，只有它们的大约三分之一。
+Thirty-seven: Average transaction value and foot traffic. Look, your average transaction is about a third of other shops.
+
+37：而你的进店人数也只有平均每天63人，这并不是一个足够大的因数。所以这就是你会亏本的原因：你的营业额太低了。
+Thirty-seven: And your foot traffic is only 63 people a day, which is just not enough. That's why you're losing money: your revenue is too low.
+
+店主：其实我觉得63个人也不少啊？你想，六十多个人呢！
+Shopkeeper: I thought 63 people was a lot! Think about it—over sixty people!
+
+兔毛手袋：你乐观得让人害怕，看看外头的商店吧！机灵蛋筒家的冰淇淋车前面每天都大排长龙，他们一天至少卖出三百个冰淇淋！
+Medicine Pocket: That's some scary level of obliviousness, lady. Look at the other stores around you! They've got lines of people queuing up at Clever Cones' ice cream truck every day! That's hundreds and hundreds of ice creams daily!
+
+兔毛手袋：你要感谢爱兹拉那小子没打算利用博物馆里的商店创收，不然你亏得更惨。要我说，他就是少了点经济头脑。
+Medicine Pocket: You should thank Ezra for not using the museum store to make a buck, or you'd be losing even more. He lacks business sense, like someone else I know.
+
+店主：好吧好吧！算你说的对……
+Shopkeeper: Okay, okay! You're right.
+
+店主摆手投降，重新端详起了37在笔记本上画出的表格。
+The shopkeeper surrenders to their tirade, reexamining the chart 37 drew.
+
+随后……她做出了一个拉普拉斯科算中心少有人能够做出的决定：质疑这个女孩的结论。
+Then, she does something almost unheard of at the Laplace Scientific Computing Center: She questions 37's conclusion.
+
+店主：但我卖的是冰淇淋，其它那些商店卖的是纪念品之类的，它们的客单价当然比我的高。
+Shopkeeper: But I sell ice cream, and the others sell souvenirs, so of course their average transaction value is higher.
+
+店主：如果把冰淇淋提到和它们一个价钱……呃，虽然我对我冰淇淋的味道有信心，但说实话我不觉得大家会买账。
+Shopkeeper: I can't price my ice cream to match their average transactions. I know it tastes great, but honestly, I don't think people will pay that much.
+
+37：……是这样吗？冰淇淋不值得更高的价格？明明它有着那样漂亮的正十二角星形？
+Thirty-seven: You mean this ice cream isn't worth a higher price? Even with such a beautiful regular dodecagram shape?
+
+对物价并不了解的数学家愕然了片刻，最终谦虚地接受了这一对她知识盲区的指正。
+The mathematician, unfamiliar with prices, is momentarily stunned, then humbly accepts this correction.
+
+37：那么我们就只剩下进店人数了。让我们把进店人数提高吧。
+Thirty-seven: Then we only have foot traffic left to work with. We will have to increase that number.
+
+37：只要把这个数字拉到原本的2.56倍，我们就可以实现收支平衡了。
+Thirty-seven: Just raise this number to 2.56 times the original, and we can break even.
+
+37：虽然我其实不太喜欢这个说法，2.56并不是一个准确的数字，它只不过是一个十进制下的近似值。
+Thirty-seven: Although I don't particularly like this variable—2.56 isn't an exact number; it's merely a decimal approximation.
+
+店主：2.56？呃，用它乘上进店人数的63个人，那就是……大概……呃。
+Shopkeeper: 2.56? Uh, multiplying that by the 63 people entering the store, that would be ... uh ...
+
+37：你看，这就是不得不取近似值的弊端了，你会得到161.28这个结果，但其实我们讨论的这个数字是161。
+Thirty-seven: You see, this is the downside of using approximations. You'll get 161.28, but the number we're discussing is actually 161.
+
+37：嗯……这有些反直觉，161是一个亏数，它的所有真因数之和实际上比它自身更小。
+Thirty-seven: And that's a bit counterintuitive. 161 is a deficient number; its proper divisors add up to less than itself.
+
+37：所以我认为当你完成161这个目标之后，也许可以去追寻更好的数字，例如它的下一个回文数，171。然后是181、191、202……
+Thirty-seven: I think once you reach the goal of 161, you might pursue better numbers, like its next palindrome, 171. Then 181, 191, 202 ...
+
+店主：等等、等等！请先暂停一下。
+Shopkeeper: Wait, wait! Please, just stop for a moment.
+
+尽管没有听懂眼前的女孩究竟是使用怎样的运算方法提出了一个又一个数字的，但店主显然注意到这个数字越来越大了。
+Although she doesn't understand the girl's calculations, the owner notices the numbers are getting bigger.
+
+店主：先……先让我们从最初的目标开始吧，你要我一天卖出161个冰淇淋？但这怎么可能？
+Shopkeeper: Let's start with our first goal. You want me to sell 161 ice creams a day? Is that even possible?
+
+店主：那岂不是超级多人？每天那么多人来我店里，我怎么可能忙得过来？
+Shopkeeper: That's a whole lot of people! How can I serve that many customers every day?
+
+37：这个担心是多余的，我看到你的营业时间是每天上午十点到晚上六点，所以你只需要平均每2.98……取近似值，每3分钟卖出一个冰淇淋就可以了。
+Thirty-seven: There's no need to worry. Your business hours are from ten in the morning to six in the evening, so you only need to sell one ice cream cone every 2.98, or rounding up, every 3 minutes.
+
+37：我没有在你为我们打冰淇淋的时候掐表，但我模拟了一遍这个过程，如果顺利的话，它能够在30秒内完成。
+Thirty-seven: I didn't time you when you served us, but I simulated the process, and if everything goes smoothly, I think you can do it within 30 seconds.
+
+37：我不认为这是一件不可能的任务。
+Thirty-seven: It should certainly be possible.
+
+店主的眼神开始飘向远方，显然她正在脑内模拟每三分钟便有一个客人光顾、而自己在半分钟之内为他们的每一个依次递上冰淇淋的情景。
+The shopkeeper's eyes drift into the distance, imagining all the customers.
+
+店主：我……我不知道，也许可以试试？
+Shopkeeper: I-I don't know. Maybe I can try?
+
+她被说服了。然后——
+She's convinced. But then—
+
+她问出了那个关键的问题。
+She asks the crucial question.
+
+店主：那怎么才能让进我店的人数变成原来的2.56倍？
+Shopkeeper: But, how do I get these 2.56 times more people to come to my store?
+
+37：让我想想……嗯…………嗯………………
+Thirty-seven: Let me think ... Hmm ... hmm ...
+
+天赋卓绝的数学家张了张嘴，又合上了。
+The talented mathematician opens her mouth, then closes it.
+
+半晌后，她才终于试着给出了答案。
+After a while, she finally tries to give an answer.
+
+37：乘上2.56，然后减去0.28？
+Thirty-seven: Multiply by 2.56, then subtract 0.28?
+
+店主：………………啊？
+Shopkeeper: Huh?
+
+兔毛手袋：哈哈！我说什么来着？你不能只是说“提高一下这个数字就好了”。
+Medicine Pocket: Haha! What did I say? You can't just say "increase the number."
+
+蛰伏许久的围观者终于抓到了喷吐毒液的机会。
+The long-silent onlooker seizes the opportunity to spit a little venom.
+
+兔毛手袋：欢迎来到现实世界，小数学家。
+Medicine Pocket: Welcome to the real world, Number Brain.
+
+X：——也许有些突然，但我想是时候让我们重新审视一番“数学”的意义了。
+X: This might be quite sudden, but I think it's time for a drastic reappraisal of our understanding of mathematics.
+
+X：许多人认为数学的世界过于抽象，难以理解，于是对数学望而生畏。
+X: Many people find the world of mathematics to be too abstract and difficult to comprehend, and so they're afraid of it.
+
+X：这不能怪他们。一个苹果，一个人，一件事，一次成功或失败……这些都很好理解。
+X: You can't blame them. Think about an apple, a person, an event, a success, or a failure. These concepts are easy to grasp.
+
+X：但当数字第一次脱离了它们所数的实际对象，当“1”成为了“1”——只是“1”的时候，数学就已经脱离了我们所熟悉的物质世界。
+X: But when numbers first detached from their counted objects, when "1" became "1"—and just "1," mathematics departed from the material world we are all familiar with.
+
+X：被肉身束缚的我们于是只能追逐着那些数字。人们学习与研究数学，实际上是通过那些数字，借用来自那个超越的世界的力量。
+X: Bound by our physical forms, we can only chase those numbers in abstract. We study and research mathematics, using those numbers to borrow power from that transcendent world.
+
+X：在那个世界，“空无一物”以0的形态堂而皇之地跃然纸上，负数理所当然般站在“存在”的另一端，就连“无穷”都能够被列入公式中计算……
+X: In that world, "nothing" boldly appears as 0, negative numbers stand on the opposite end of "existence," and even "infinity" can be included in formulas ...
+
+X：在数学的世界中我们无所不能——至少，理论上是这样。我们的思维是自由的，它不再受到现实的桎梏。
+X: In the world of mathematics, we can do anything—at least, theoretically. Our minds are free, no longer constrained by reality.
+
+X：只有少部分人能够理解这种自由的魅力，也只有少数人真正拥有在数学世界中无所不能的力量。就像是我们这位可爱的新朋友一样。
+X: Only a few understand this freedom's charm, and fewer still wield true omnipotence in mathematics. Like our delightful new friend here.
+
+X：——但是，这里有一个小问题。
+X: But there's just one small problem.
+
+小梅斯梅尔：……
+Mesmer Jr.: ...
+
+沉默的听众盯着侃侃而谈的研究员看了一会儿后，冷酷地移开了视线。
+The silent audience stares at the eloquent researcher, then coldly looks away.
+
+一般人会在这时感到尴尬，然后停止自说自话。但未知数显然不是个普通的数字。
+Most people would feel awkward and stop talking, but this unknown number is no ordinary digit.
+
+X：帮我个忙。你这个时候应该接“什么问题？”。
+X: Do me a favor, will you? Ask me, "What problem?"
+
+小梅斯梅尔：………………
+Mesmer Jr.: ...
+
+听众仍然以无情的沉默回应。
+Merciless silence.
+
+X：……这个问题就是：数学无所不能，但要让它的力量在现实中生效，我们实际上一共需要执行三个步骤。
+X: The problem is, mathematics has the power to do anything in the abstract, but to make it work in reality? For that, we need to follow three steps.
+
+X：第一步，将一个现实问题抽象成一个数学问题。
+X: First, we need to abstract our real-world problem into a mathematical one.
+
+X：第二步，在你拥有无所不能神力的数学世界中解决这个问题。
+X: Second, we need to solve this problem within the mathematical world.
+
+X：最后一步，带着你的答案，回到现实。
+X: And third, we need to find a way to bring that abstract answer back to reality.
+
+小梅斯梅尔：你是说……
+Mesmer Jr.: You mean ...
+
+他的听众明白他的意思了。小梅斯梅尔的目光望向屋外。
+His audience understands. Mesmer Jr. looks outside.
+
+37：过往数据显示这个季度平均每天的进馆人数是9837，每天的营业时间是八个小时，因此三个小时过去了，应当有大约3689个人进入场馆……
+Thirty-seven: Past data shows an average of 9,837 visitors per day during this quarter over an eight-hour operational period, so after three hours, about 3,689 people should have entered.
+
+兔毛手袋：嘿，你知道每个时间段进入博物馆的人数并不一致，对吧？存在“高峰期”这么个玩意，这是常识。
+Medicine Pocket: Hey, you know visitor numbers vary by time of day, right? There's a "peak period" ... I thought that was just common sense.
+
+37：即使如此差距也实在太大了。在这段时间里，只有457个人进入到了能够看到商店招牌的地方。
+Thirty-seven: Even so, the gap is too big. Only 457 people reached an area where they could see the shop's sign.
+
+37：大家不会来冰淇淋店所在的这个休息区，这就是问题所在！
+Thirty-seven: People aren't coming to the refreshments area where the ice cream shop is located. That's the root of our problem!
+
+店主：啊？四百多个人听起来很多了啊？
+Shopkeeper: Huh? Four hundred people sounds like a whole lot!
+
+兔毛手袋：拜托，有种东西叫做进店率。不是这四百个人都会来的，你失忆了吗？刚才只有20个人过来买冰淇淋！
+Medicine Pocket: You ever hear of an entry rate? Not all four hundred of them are hungry, so they don't all walk in! And only twenty that do will buy anything!
+
+兔毛手袋：也就是说只有大约12%的参观者会到这个休息区来。必须得承认……这个数字比我想象中的还要少。
+Medicine Pocket: So only about 12% of visitors come through this refreshments area. I have to admit, that's lower than I expected.
+
+兔毛手袋：怪不得我总是愿意来这家店坐坐。这里不会有太多聒噪的家伙打扰我。
+Medicine Pocket: No wonder I like sitting here. There are hardly ever any annoying people around to bother me.
+
+37：但是为什么大家不会来呢？我不明白。等等，这张地图……
+Thirty-seven: But why don't people come this way? I don't understand. Wait, this map ...
+
+能够在几秒钟内解决科算中心“滞销”一年有余难题的脑袋，如今埋首于一个有关冰淇淋以及形形色色参观者的小小谜题中。
+The brain that solved the computing center's year-long sales problem in seconds is now buried in a small puzzle about ice cream and visitors.
+
+小梅斯梅尔：她正在进行第三步。
+Mesmer Jr.: She's on the third step.
+
+回到现实。
+Returning to reality.
+
+37：我明白了……！
+Thirty-seven: I've got it!
+
+06  分形 / Fractal
+
+分形
+Fractal
+
+37：——数字会告诉我们一切。
+Thirty-seven: Numbers tell us everything.
+
+圆桌前，37看着手中美妙的十二角星，又看向如今身后在冰淇淋店前大排长龙的参观者们。
+At the round table, 37 gazes at the beautiful dodecagram treat in her hand, then at the long line of visitors outside the ice cream shop.
+
+37：我们统计了博物馆每一条走廊的人流量，统计了走过走廊的人员构成比例，对比了其他关联设施数量对人流量的影响……
+Thirty-seven: We graphed the foot traffic in every museum hallway, the composition of people walking through them, and compared the impact of other related facilities on foot traffic ...
+
+37：——然后找到了这些数字在现实世界中的坐标。
+Thirty-seven: And then we found the coordinates of these numbers in the real world.
+
+37：冰淇淋店所在的休息区位于连接B3和C2展区的通道处。但那条通道很窄，而且大多数人会逛完整个B区，再走另一条通路进入C区。
+Thirty-seven: The refreshments area housing the ice cream shop is in the passage connecting exhibits B3 and C2, but this passage is narrow, so most people visit all of Zone B, then take another route to get to Zone C.
+
+37：那些专门寻找休息区的人也有更优先的选择：通往办公区的走廊占用了空间，这导致这个休息区没有盥洗室。
+Thirty-seven: People looking for a refreshments area feel like they have better options—the hallway to the office area takes space, so this refreshments area also lacks a restroom.
+
+37：带着儿童的参观者是冰淇淋店的重要客户群，但这个休息区和专门为12岁以下儿童设置的体验区几乎是两个截然相反的方向……
+Thirty-seven: Visitors with children are important customers for an ice cream shop, but this refreshments area is in the opposite direction of the play area.
+
+37：——诸如此类。我发现了数字后面的东西，得到了数字给我们的提示。
+Thirty-seven: And so on. I've found what's behind the numbers, the hints they've given us.
+
+37：数字的后面是人。人们的各种习惯、想法、下意识的行动导致了这个结果。
+Thirty-seven: Behind the numbers are people. Their habits, thoughts, and subconscious actions lead to this result.
+
+37：说实话，这……让我觉得有些奇怪，它有些违反我的直觉，因为它和我一向观测现象世界的方式相反。
+Thirty-seven: Honestly, it feels strange and ... counterintuitive. It's completely unlike my usual way of observing the world.
+
+37：我通常是先看到一个现象，透过它再看到背后的数字，而不是相反。我不知道它们对我的课题是否有帮助，但……
+Thirty-seven: I always observe the phenomenon first, then look for the numbers behind it, not the other way around. I don't know if it'll help my research, but ...
+
+37：我确确实实看到它们了。
+Thirty-seven: I see them now.
+
+见他们的新朋友再次开始了神游，坐在一旁的X耸了耸肩，继续讲了下去。
+Seeing his new friend daydreaming again, X shrugs and continues.
+
+X：总而言之，37告诉了我们数字背后的答案。接下来的事情就简单了。
+X: In short, 37 told us the answer behind the numbers. The subsequent steps were elementary.
+
+X：问题的关键在于店铺的位置不佳，所以我们需要一次强有力的宣传，让大家知道这里有这样一家美味的冰淇淋店。
+X: Our key issue was the shop's disastrous location, so we needed a robust publicity campaign to direct people to our hidden gem!
+
+兔毛手袋：实际上将这次宣传和特别展览联系在一起是我的提案。爱兹拉，如果你有一份礼物要送给帮这次展览拉来更多参观者的功臣，可不要弄错对象。
+Medicine Pocket: Actually, linking the marketing with the special exhibition was my idea. Ezra, if there's a prize going to the hero who brought more visitors to your exhibition, don't forget who's responsible.
+
+X：而我们的治疗师小姐提出了一些冰淇淋口味上的建议。你看到上面的这些橙色的颗粒了吗？那些是糖渍柠檬皮。
+X: And our therapist helped as well. She suggested some new ice cream flavors. See those orange bits? They're candied lemon peel.
+
+小梅斯梅尔：……我只是听其他同事曾经谈论过这种做法而已。
+Mesmer Jr.: I just heard people around the office mention they like this kind of thing.
+
+37：那是一个很好的主意，小梅斯梅尔。它们就像是散落在数轴上的幸运数一样美妙！
+Thirty-seven: It was a great idea, Mesmer! They're like lucky little numbers scattered on a plotted line!
+
+爱兹拉：……而最后，这支“奇迹之星”冰淇淋就诞生了。
+Ezra: And thus, the "Star of Wonder" ice cream was born.
+
+爱兹拉将那最后一口含入口中，感受清爽的冰淇淋在口中融化、和香脆的蛋筒一起上演动人的华尔兹。
+Ezra takes the last bite, feeling the refreshing ice cream melt in his mouth, waltzing with the crispy cone.
+
+爱兹拉：它很美味，真的。而这个故事也很让我受到鼓舞。
+Ezra: It's delicious, really. And your story has been so inspiring.
+
+爱兹拉：在从前，几乎只有原本就对相关领域感兴趣的人才会来观看展览。但托这支冰淇淋的福，我们让更多人对博物馆和我们的展览有了兴趣。
+Ezra: Before you came along, the only people that would visit the exhibitions here were fellow researchers in similar fields. But thanks to this ice cream, we've attracted more people than ever!
+
+爱兹拉看向身后。
+Ezra looks behind him.
+
+络绎不绝的参观者中有学者打扮的专业人士，但也不乏附近的居民和似乎远道而来的旅客，还能看到不少孩子们的身影。
+Among the streams of visitors are scholars, locals, and tourists who seem to have traveled from near and far, flanked by young kids.
+
+有人在展柜前侃侃而谈，有人读着解说栏上的文字惊呼恍然，也有人只是单纯赞叹于各色展品的美丽外表……
+Some talk passionately in front of the exhibits, some quietly read the descriptions, bursting up with sudden realizations, and others simply admire the beautiful displays.
+
+但相同的是，他们的脸上都带着愉快的笑容，每一双望向展柜的眼睛都闪闪发光。
+But they all share happy smiles, and every pair of eyes looking at the exhibits lights up.
+
+爱兹拉：说实话，我其实一直有些紧张。今天是我有幸被委任为拉普拉斯博物馆馆长后，第一次公开演讲。
+Ezra: I've been feeling a bit nervous. Today is my first public speech since being appointed curator of the museum.
+
+爱兹拉：我事前找了一些缓解紧张的窍门，例如将台下的听众们想象成土豆或是蘑菇之类的。但……37，就像你说的一样。
+Ezra: I've tried some tips to help ease my nerves, like imagining the audience as potatoes or mushrooms. But I think something you said will help most, 37.
+
+爱兹拉：数字的后面是人。他们为特别展览远道而来，他们是一个个有血有肉、有着对知识的热爱与向往的人。他们不是土豆或者蘑菇。
+Ezra: Behind the numbers are people. They came from all over for the special exhibit. They're real people with a real love for knowledge. They're not potatoes or mushrooms.
+
+爱兹拉：我想我找到真正的窍门了。
+Ezra: That's the real trick to this.
+
+37：你的演讲要开始了吗？
+Thirty-seven: Is your speech about to start?
+
+爱兹拉：是的。我有这个荣幸邀请大家成为我的听众吗？
+Ezra: It is. Would you do me the honor of joining my audience?
+
+37：当然，我很愿意！
+Thirty-seven: Of course! I'd love to!
+
+年轻的研究员们从圆桌旁站了起来，护送他们的朋友前往战场。
+The young researchers rise from the round table and escort their friend to his proving ground.
+
+37：哇哦，这里的人可不比我们传道厅的少。
+Thirty-seven: Wow, there are as many people here as in our lecture hall.
+
+爱兹拉：糟糕，我又有些紧张了。或者我还是把大家想象成蘑菇？不，那是逃避，而且很失礼……
+Ezra: Oh no, I'm losing my nerve again. Maybe I should try imagining everyone as mushrooms? No, that's avoiding the issue, and it's rude.
+
+37：为什么会紧张？无论是谁、有多少人在，你的演讲内容都是一样的不是吗？
+Thirty-seven: Why would you be nervous? No matter who listens or how many people there are, the content of your speech remains the same, doesn't it?
+
+37：因为真理是不会改变的，那才是我们应该为之负责的对象。
+Thirty-seven: The Truth doesn't change, and that's all we should be accountable to.
+
+爱兹拉：你说的对……37小姐，确实是这样。我们好不容易才让这颗奇迹之石能够公开展出，我不能辜负它。呼……
+Ezra: You're right. Miss 37, very right. We worked hard to get this Miracle Stone ready for display. I can't sell it short. Phew!
+
+X：拿出你孤身闯雪山的气势来，我的朋友，这点小场面不算什么。
+X: You must exhibit the same spirit you demonstrated while ascending that snow-capped mountain, my friend. Your task today is trivial in comparison.
+
+兔毛手袋：你可以多往我们这个方向看，我有方法让你到时候顾不上紧张。
+Medicine Pocket: If you need to, keep an eye on us; I have ways to keep you too busy to be nervous.
+
+小梅斯梅尔：兔毛手袋，你最好别打歪主意。去吧爱兹拉，想象大家都是蘑菇可以作为一个保底方案。
+Mesmer Jr.: You'd better not have any bad ideas running around that mind of yours. Go on, Ezra, imagining everyone as mushrooms can be your fallback plan.
+
+爱兹拉：谢谢，朋友们……我去了！
+Ezra: Thanks, friends. I'm on now!
+
+当年轻的新任馆长走到展台正中央时，四周窃窃私语的声音平息了。
+As the young curator steps up to the center of the stage, the murmurs surrounding him subside.
+
+爱兹拉：……欢迎，诸位！对于各位的到来，我由衷地感谢。
+Ezra: Welcome, everyone! I sincerely thank you all for coming.
+
+爱兹拉：自我接任拉普拉斯博物馆馆长一职并未过去太长时间，但非常荣幸我的号召得到了来自世界各地的响应。
+Ezra: I haven't been the curator of the Laplace Museum for long, but I'm honored that my call has been answered from all over the world.
+
+爱兹拉：他们有着不同的身份、过着不同的生活、拥有着不同的爱好……但我们的愿望与理想是共通的。
+Ezra: You have different identities, live different lives, have different passions ... but our wishes and ideals are the same.
+
+爱兹拉：那就是让知识能够得到传播，让见闻能够得以流传，让世界的博大与美丽能够为更多的人所见。
+Ezra: That is, to spread knowledge, to share experiences, and to let the vastness and beauty of the world be seen by all.
+
+掌声响起。面孔稚嫩的新任馆长已经通过实绩为自己赢得了尊重与信任。
+Applause ring out. The young curator has earned their respect and trust through his remarkable achievements.
+
+人们愿意倾听他的话语，也期待着他将为众人带来的惊喜。
+People listen to him with excited murmurs, already anticipating the surprises he will unveil.
+
+爱兹拉：许多珍贵展品被送到了博物馆，他们的持有者慷慨地出借甚至赠予这些珍宝，让它们的风采得以为更多的人所领略。
+Ezra: Many precious exhibits have been sent to the museum, their owners generously lending or even donating these treasures, so their splendor can be appreciated by all our visitors here.
+
+爱兹拉：这个数字远超我的预期。我必须承认在荣幸之余，大量的鉴定工作对我们来说也是一个考验。
+Ezra: This number far exceeded my expectations. I must admit, while it's an honor, the extensive appraisal work has been a challenge for us.
+
+爱兹拉：但万幸，在我学识出众的几位朋友的帮助下，我们成功完成了这项挑战。我为自己拥有这样热情友好的朋友感到荣幸。
+Ezra: But fortunately, with the help of many knowledgeable friends and colleagues, it was a challenge we overcame. I am truly fortunate to have such passionate and considerate companions.
+
+展厅中央的少年人望向场馆内某个角落，向那里微笑示意。
+The young man in the center of the exhibition hall looks toward a corner of the venue, smiling and nodding.
+
+兔毛手袋：哼，不用谢。这不是做得挺好的吗？
+Medicine Pocket: Hmph, no need to thank us, although we did do a good job, didn't we?
+
+小梅斯梅尔：这位听众，请保持安静。
+Mesmer Jr.: Quiet, you.
+
+兔毛手袋：喂……！
+Medicine Pocket: Hey!
+
+37：哈哈，你们还是这样有意思。
+Thirty-seven: Haha, you're all too funny!
+
+窃窃私语引来了几记白眼，角落的年轻研究员们安静了下来。演讲仍在继续。
+The whispers draw a few eye rolls, and the young researchers quiet down. The speech continues.
+
+爱兹拉：——我们收到的所有展品都是无价之宝。它们每一个都独一无二。
+Ezra: All the donated specimens we've received are invaluable. Each one is unique.
+
+爱兹拉：但在它们之中，我们一致认为这一藏品拥有着最为特殊的意义，这也是我们最终决定为它设立特别展览的原因。
+Ezra: But among them, we unanimously believe this piece holds the most remarkable significance, and for that reason we created a special exhibition to highlight it.
+
+爱兹拉伸出手，将众人的目光引向展台中心摆放的一块淡蓝色的半透明晶体。
+Ezra extends his hand, directing everyone's gaze to a pale blue, semi-transparent crystal placed at the center of the stage.
+
+爱兹拉：——来自海王星的奇迹之石，覆盖海王星地表的钻石海洋结晶。
+Ezra: The Miracle Stone—from an ocean of crystals that cover Neptune's surface.
+
+议论与惊叹声此起彼伏，人们注视着那颗美丽的晶体。
+Murmurs and exclamations of wonder rise as people gaze at the beautiful crystal.
+
+爱兹拉：从结构上来讲，它是一颗钻石。和我们所熟知的“经过琢磨的金刚石”并无不同。
+Ezra: Structurally, it is a diamond. In fact, it is not much different from the cut diamonds we know.
+
+爱兹拉：但它的特殊之处在于——这颗美丽的石头，它来自45亿公里之外。
+Ezra: Instead, its uniqueness lies in the fact that this beautiful stone comes to us from 4.5 billion kilometers away.
+
+爱兹拉：就像此前的每一次一样，旅行者2号上搭载了空间传送的神秘学术式，作为我们获取来自其他星球物质样本的尝试。
+Ezra: As with previous attempts, Voyager 2 carried an arcanum space teleportation formula—an attempt to obtain material samples from other planets.
+
+爱兹拉：但此前的每一次，正如大家所知，这些尝试都以失败告终了。
+Ezra: But as many know, these previous attempts had failed.
+
+爱兹拉：尽管神秘学家们提出空间上距离的远近并非术式无法生效的真正原因，超远距离的空间传送仍然被认为是不可能的。
+Ezra: Although arcanists have always suggested that spatial distance was not the true reason for the formula's failure, ultra-long-distance space teleportation was still considered impossible.
+
+爱兹拉：因此进入80年代后，各国航天局为了节省开支，便不再为空间探测器搭载类似的神秘学术式。
+Ezra: Unfortunately, during the 1980s, space agencies worldwide stopped equipping their probes with these arcanum formulas to lower costs.
+
+爱兹拉：——直到旅行者2号探测器飞越海王星，我们收到了这份来自遥远星球的礼物。
+Ezra: Yet, we still had a chance. When Voyager 2 flew past Neptune, it succeeded where the others failed, bringing us this gift from a distant planet.
+
+爱兹拉：关于这颗远道而来的瑰丽钻石，仍然有许多谜团尚未破解。
+Ezra: Many mysteries surrounding this beautiful diamond from afar remain unsolved.
+
+爱兹拉：我们都知道旅行者2号于1989年8月25日抵达了最接近海王星的那个坐标。但这颗钻石被传送回来的时间却晚于那一日许多。
+Ezra: We all know Voyager 2 reached its closest point to Neptune on August 25, 1989, but this diamond was teleported back much later.
+
+爱兹拉：是超远距离传送的神秘术和普通传送术式如此不同，以至于会产生这般巨大的传送时间差吗？由于缺乏其他案例，我们暂时无从得知。
+Ezra: Is the arcanum ultra-long-distance teleportation formula so different from ordinary teleportation that it causes a noticeable time delay? For now, with only one case example, we can only speculate.
+
+爱兹拉：根据航天中心的报告，在这颗美丽的石头出现时，那个复杂而精密的术式的确首次成功运转了起来。
+Ezra: Still, according to the space center's report, this beautiful stone appeared, and the complex and precise formula appears to have finally succeeded.
+
+爱兹拉：但同时，检测系统却也发现了不属于该术式的神秘术痕迹。它在留下了一小段微不可察的波动后便消失无踪，我们再未能探查到任何类似的神秘术波动。
+Ezra: At the same time, the detection system also found arcanum traces not belonging to the original formula. They left a faint, almost imperceptible fluctuation before disappearing, and we haven't detected any similar arcanum fluctuations since.
+
+爱兹拉：还有数位研究员声称在这颗奇迹之石出现时，他们听到了一段美丽的旋律。他们哼唱出的旋律惊人的一致，很难认为他们一起出现了相同的幻听。
+Ezra: Several researchers claimed to have heard a beautiful melody when the Miracle Stone appeared. The melodies they hummed were astonishingly consistent, making it hard to believe they simply hallucinated the sound.
+
+爱兹拉：然而我们却没有办法在航天中心的任何一台检测设备中，找到符合他们描述的录音记录……
+Ezra: However, we couldn't find any recordings matching their descriptions on any of the space center's detection devices ...
+
+爱兹拉：——关于这颗石头的不确定之处如此的多，所以人们会问：这是真的吗？
+Ezra: With so many uncertainties surrounding this stone, people often ask—is it real?
+
+爱兹拉：这真的是来自海王星的钻石吗？来自那个太阳系中离太阳最遥远的那颗大行星？它的身上又究竟隐藏着什么样的秘密？
+Ezra: Could this really be a diamond from Neptune? From the second-farthest planet from the sun in our solar system? What secrets does it hold?
+
+在众人期待的目光中，年轻的馆长却摇了摇头。
+Amid the expectant gazes, the young curator shakes his head.
+
+爱兹拉：我们暂时无法肯定地回答这个问题。
+Ezra: Of course, we have no definitive answers for now.
+
+爱兹拉：旅行者2号如今仍然会向地球传送讯号，可除了它运行记录中那一条奇迹般的“传送成功”数据之外，它无法就自己的功绩进行更多的阐述。
+Ezra: Voyager 2 still sends signals to Earth, but aside from the miraculous "teleportation successful" data written into its records, it cannot elaborate on its achievements.
+
+爱兹拉：唯一可以肯定的——这颗钻石，的的确确出现在了传送术阵的接收位上。
+Ezra: The only certainty is that this diamond indeed appeared at the teleportation circle's reception point.
+
+顺着他的视线，展厅中的人们再次将目光集中在了中央那颗美丽的结晶上。
+Following his gaze, the audience focuses again on the beautiful crystal in the center of the room.
+
+爱兹拉：航天中心的研究者们慎之又慎，在终于确认了它对周围并无危害后，这颗奇迹之石才得以展出，我们才得以窥见它的光辉。
+Ezra: The space center researchers were extremely careful, and after finally confirming it posed no danger, the Miracle Stone was prepared for exhibition, allowing us all to behold its brilliance.
+
+爱兹拉：——它是一个由科学和神秘学共同构筑的奇迹，也是一个有待我们解开的、美丽的谜题。
+Ezra: It is a miracle, jointly brought to us by the union of science and arcanum, and a wondrous mystery waiting for us to unravel.
+
+结束了一场硬仗的年轻馆长，在朋友们的簇拥下回到了休息区。他们重新在那一张圆桌边坐下。
+After a hard-fought battle, the young curator returns to the refreshments area, surrounded by his friends. They sit down again at the round table.
+
+爱兹拉：……我表现得怎么样？
+Ezra: How did I do?
+
+爱兹拉：我提前写好了演讲稿，但是实际一上场，很多话都被我不小心跳过去了……
+Ezra: I wrote my speech out ahead of time, but I accidentally skipped over a lot of parts when I actually got up there on the stage.
+
+X：你的担心完全是多余的，每个人都对这次的展览和你的演说赞誉有加。
+X: Your concerns are unwarranted, Ezra. Your exhibition and your speech received universal acclaim.
+
+37：我对天文学还不够了解，但我认为你的演讲很有意思。你让我想起了家乡的一位朋友。
+Thirty-seven: I don't know much about astronomy, but I found your speech to be inspiring. You remind me of a friend from my home.
+
+37：他和你有些相像，平时很安静，也很内敛，对抛头露面其实没有什么兴趣。但当他在人群前开口时，每个人都会停下手头的事，去听他要说些什么……
+Thirty-seven: He's a bit like you, often quiet and reserved, and never keen on being the center of attention, but when he speaks in front of a crowd, everyone stops what they're doing to listen.
+
+37：哦！我都忘了！
+Thirty-seven: Oh! I almost forgot!
+
+37的惊呼引来了朋友们好奇的目光，唯有小梅斯梅尔在微怔后恍然。
+37's exclamation draws looks from her friends, except for Mesmer Jr., who quickly realizes what she means.
+
+小梅斯梅尔：那封信。
+Mesmer Jr.: Your letter.
+
+37：我还没有给6写回信呢！我看看……6不会在意那些细枝末节的，我想我可以从这本笔记本上撕下几页来作为信纸。
+Thirty-seven: I haven't written back to 6 yet! Let me see. 6 won't mind if it's a little rough. I think I can tear a few pages from this notebook and use it as letter paper.
+
+X在37对她自己的笔记本下毒手前阻止了她。
+X stops her before she can harm her notebook.
+
+X：稍等，我记得兔毛手袋的那个房间里有一些拉普拉斯发放的信纸及信封，也许你可以用那个。
+X: Hold on now. I recall there's some Laplace-issued stationery and envelopes in Medicine Pocket's room. Why don't you use them?
+
+X：难得收到家乡来信，弄得漂亮一点总是好的。
+X: It is better to receive a letter with respectable presentation.
+
+兔毛手袋：为什么你擅自把我的东西许诺出去了？虽然我是无所谓，但我有那东西吗？
+Medicine Pocket: What's the big idea—promising people my stuff without asking me? It's not that I mind, but do I even have any of that stuff?
+
+X：你有，我看到了，在你的那堆……我要怎么形容那个垃圾堆呢？这样吧，我们可以一起去取。
+X: You do. I saw them in your, I want to say, pile of junk? Come on. Let's retrieve them together.
+
+兔毛手袋：你刚才是说“垃圾堆”了吗？
+Medicine Pocket: Did you just call my office a "pile of junk"?
+
+两个少年你一言我一语地走开了。善良的馆长担忧地望着他们的背影。
+The two walk off, bickering. The kind curator watches them with concern.
+
+爱兹拉：呃，他们不会吵架吧？哦不，他们已经在吵架了，也许我也该跟上去——
+Ezra: Uh, they won't fight, right? Oh, no, they're already arguing. Maybe I should follow.
+
+沙丝绒：找到了，他在那边。
+Desert Flannel: Found him. He's over here.
+
+可燃点：真的！嘿，爱兹拉！
+Spathodea: There he is! Hey, Ezra!
+
+爱兹拉：可燃点！还有沙丝绒小姐，你们怎么来了？
+Ezra: Spathodea! And Desert Flannel too! What brings you here?
+
+看起来年轻的馆长有其他客人了。
+It looks like the young curator has other guests.
+
+可燃点：上次我因为有比赛而没能去看你举办的展览，所以这次我想着给你一个惊喜！
+Spathodea: I missed your exhibition last time because of that fight, so I thought I'd surprise you today!
+
+可燃点：不过人可真多！这么大的场面居然是你主办的，你可真厉害！
+Spathodea: And wow, I mean, there were so many people! Such a big event, and you're the host. You're amazing, Ezra!
+
+沙丝绒：我们刚才听了你的演讲。很像样哦，小馆长。
+Desert Flannel: We just listened to your speech. Very impressive, little curator.
+
+爱兹拉：谢谢！你们会来，我真的很高兴……
+Ezra: Thank you! I'm so glad you came.
+
+好友相见总有说不尽的话，爱兹拉最终接受了小梅斯梅尔的建议，在致歉后离席接待远道而来的友人。
+Friends always have endless things to discuss after a long time apart. Ezra finally takes Mesmer Jr.'s advice, apologizes, and leaves to greet his friends from far away.
+
+天花板上的实时星图仍然璀璨，而圆桌旁最后只剩下了治疗师与那个被数字眷顾的女孩。
+The real-time star map on the ceiling still shines brightly, and only the therapist and the girl favored by numbers remain at the round table.
+
+小梅斯梅尔：你对那颗来自海王星的钻石有什么感想？
+Mesmer Jr.: What do you think of the diamond from Neptune?
+
+37：为什么忽然问这个？
+Thirty-seven: Why are you asking?
+
+小梅斯梅尔：因为你似乎还未表达过对它的看法。你拥有着和常人不同的视角，我……很好奇你如何看待那颗“奇迹之石”。
+Mesmer Jr.: You haven't expressed your opinion on it, and you often have a different perspective from most people. I suppose I'm curious to know where you stand on this "Miracle Stone."
+
+37：它很漂亮，和我们那一天见到的砂金石榴子石一样，它也有着同样规整、牢固的结构。
+Thirty-seven: It's beautiful, like the garnet we saw that day, with the same orderly, solid structure.
+
+37：虽然我其实不太明白为什么和其他等轴晶系矿石相比，人们唯独对钻石另眼相看，又在所有钻石中认为这一颗更为特别。
+Thirty-seven: Though I don't quite understand why people favor diamonds over other isometric minerals, or why this one is considered more special than any other.
+
+37：空间和时间是只存在于现象世界的维度。一个客观存在的本质，和它曾经位于哪里、或是起源于何时并没有决定性的联系。
+Thirty-seven: Space and time exist only in the phenomenal world. An object's essence isn't determined by where or when it originated.
+
+小梅斯梅尔：看来你对它的评价并不高。
+Mesmer Jr.: So, you don't think all that much of it?
+
+小梅斯梅尔回忆起宣传海报上使用的某个词汇。
+Mesmer Jr. recalls a word used on the promotional poster.
+
+小梅斯梅尔：也许……除了天文探索上的意义之外，人们之所以推崇这颗石头是因为它所代表的“浪漫”。
+Mesmer Jr.: Maybe besides its astronomical significance, people admire this stone for the "fantasy" it represents.
+
+37：你是说因为它来自很远的地方，人们就会对它的评价高于其他同样的物品吗？这听起来不太公平。
+Thirty-seven: You mean because it comes from far away, people value it more than similar items from much closer? That doesn't seem fair.
+
+小梅斯梅尔：对大多数人而言，是的。情感上的偏好，会让我们做出不够客观的判断。
+Mesmer Jr.: For most people, yes. Emotional preferences lead us to make less objective judgments.
+
+女孩露出了思索的表情。
+The girl appears contemplative.
+
+37：就像是人们一开始不来这家冰淇淋店。那些也是情感上的偏好、思考时的一念之差，是不确凿的、虚无缥缈的、不够客观的。
+Thirty-seven: Like how people didn't come to this ice cream shop. Those were also emotional preferences, fleeting thoughts, not solid, objective reasons.
+
+37：……说实话，我不太能够理解。
+Thirty-seven: Honestly, I don't really understand it.
+
+这个女孩用数字破解了那个关于冰淇淋的谜团，但她并没能真正理解那些数字背后的人们。
+Though the girl solved the ice cream mystery with numbers, she still doesn't truly understand the people behind them.
+
+这不是她的错，鸟儿注定无法理解鱼的感受。若世人皆被困于洞中，这个女孩便生来能透过岩壁看到整片浩瀚的星海。
+It isn't her fault. A bird is destined to never understand the feelings of a fish. If others are all trapped in a cave, this is the girl that is born to see the vast starry sky on the other side of the rocky walls.
+
+让她对周身逼仄的小小洞窟分去更多的注意力，也许纯粹是在强人所难。
+Asking her to focus more on the stifling cave around her would be asking too much.
+
+小梅斯梅尔：……好吧。
+Mesmer Jr.: Fine.
+
+治疗师决定放弃了。就像最初的最初，她告诉自己的那样——这不关她的事。
+The therapist decides to give up. Just as she has been telling herself from the beginning. This is none of her concern.
+
+——但突然，她回忆起了一个故事。
+But suddenly, she recalls a story.
+
+一个很久很久以前，她还在第一防线学校和她曾经的朋友们待在一起时，听过的故事。
+A story she heard long ago, when she was at the SPDM with her old friends.
+
+小梅斯梅尔：说起来……37，你知道海王星是如何被发现的吗？
+Mesmer Jr.: 37, do you know how Neptune was discovered?
+
+37：嗯？
+Thirty-seven: Huh?
+
+07  乘法轴 / A Logarithmic Axis
+
+乘法轴
+A Logarithmic Axis
+
+37：——小梅斯梅尔给我讲了那个关于海王星的故事。
+Thirty-seven: Mesmer Jr. told me the story of Neptune.
+
+37：依照引力理论那条精巧的公式，人们发现了天王星。但随后……他们却发现，天王星并没有完全按照计算得出的轨迹运行。
+Thirty-seven: Using the elegant formula of gravitational theory, people discovered Uranus. But they found that Uranus didn't follow its calculated trajectory.
+
+37：他们开始怀疑，难道理论出错了？这条定理难道并不正确？
+Thirty-seven: They began to wonder: Was the theory wrong? Did they fail to account for something?
+
+37：一些人开始否认，一些人选择逃避，但仍然有一些人选择了去直面这件事。
+Thirty-seven: Some people chose to deny it, others to avoid it, but some decided to face the challenge head-on.
+
+37：他们想要证明他们所相信的是正确的，于是他们做了一个假设——如果引力理论没有出错呢？
+Thirty-seven: They wanted to prove that what they believed in was correct, so they made a hypothesis: what if gravitational theory wasn't wrong?
+
+37：如果说天王星轨迹的偏差，是另外一颗人们尚未发现的第八颗行星引起的呢？
+Thirty-seven: What if the deviation in Uranus's trajectory was caused by another, as yet undiscovered, eighth planet?
+
+37：这个证明没有那么难。天文学家依照计算出来的结果，在一个午夜将天文望远镜指向了纸上计算出的那个方向。
+Thirty-seven: Proving this wasn't too difficult. Astronomers only needed to point their telescopes in the right direction, following the calculations precisely.
+
+37：——然后他们就发现了海王星。
+Thirty-seven: And then they discovered it, Neptune.
+
+一封远渡重洋的回信：我很喜欢这个故事。我想，我似乎稍微能够理解人们所喜欢的“浪漫”的意思了。
+A Reply from Across the Waves: I really liked that story. I think now I understand what people mean by "fantasy."
+
+一封远渡重洋的回信：人们会因为一时的好恶做出令我难以理解的决定，但那些看似毫无道理的决定背后，也许其实是存在逻辑的。
+A Reply from Across the Waves: People often make decisions that are difficult to understand—decisions based on sentimental likes and dislikes. But behind those seemingly irrational decisions, there may actually be logic.
+
+一封远渡重洋的回信：小梅斯梅尔说，人们有着自己所爱的事物，人们有着自己相信的事物。所以当他们在现象世界中发现了符合这些标准的事物时，便会感到高兴。
+A Reply from Across the Waves: Mesmer said that people have things they love and things they believe in, so when they find something in the phenomenal world that aligns with these things, they feel happy.
+
+一封远渡重洋的回信：我想我可以理解为：人们做了他们的假设。当那些假设得到证明、当他们发现符合规律的结果时，他们便会为其赋予特殊的含义。
+A Reply from Across the Waves: I think one way of understanding it is: people make their own hypotheses. When those hypotheses are proven, when they find results that fit the rules, people give them special meaning.
+
+一封远渡重洋的回信：它看不见，摸不着。就像是数字存在于万事万物之中，无法被触碰，但的确存在。
+A Reply from Across the Waves: That meaning is invisible, intangible. In the same way, numbers exist in everything—untouchable but real.
+
+一封远渡重洋的回信：它们都连接着那个我们所向往的超越的世界。
+A Reply from Across the Waves: They all connect to the transcendent world we long for.
+
+一封远渡重洋的回信：我们也经常会做各种各样的假设，有的时候我们能够证明假设为真，发现一条新的定理；但有的时候现实却会对我们说“不，你错了”。
+A Reply from Across the Waves: We make our own hypotheses, too. Sometimes we can prove them and discover a new theorem; sometimes reality tells us, "No, you're wrong."
+
+一封远渡重洋的回信：我很开心冰淇淋们没有对我说“不”。
+A Reply from Across the Waves: I'm glad that my ice cream didn't say "no" to me.
+
+一封远渡重洋的回信：这个关于冰淇淋的课题给了我一个重要的启发。
+A Reply from Across the Waves: This project opened my eyes to something.
+
+一封远渡重洋的回信：我带着我的问题从乘法轴来到了加法轴，我将乘号变成加号，将我手中的数字变为对应的加数，然后……
+A Reply from Across the Waves: I took my problem from a logarithmic axis to the addition axis, and turned my numbers into corresponding addends, so now ...
+
+一封远渡重洋的回信：应该带着我的和，跳回乘法轴。
+A Reply from Across the Waves: I should take my sum back to the original axis.
+
+一封远渡重洋的回信：多么简单的答案。我早该想到谜底的。
+A Reply from Across the Waves: It's such a simple answer. If only I would have thought of it sooner.
+
+一封远渡重洋的回信：我想我逐渐能够看到我那下一个格子的轮廓了。
+A Reply from Across the Waves: Still, I think I'm starting to see the outline of my next square.
+
+37：在那之后，当我的研究进度停滞时，我都会到博物馆散心。那里比不上我们的沙滩，但也不错。
+Thirty-seven: After that, whenever my research progress stalled, I would go to the museum to relax. It's not as ideal as the beach, but it's nice in its own way.
+
+37：冰淇淋店的主人很感谢我们，每次我过去的时候，她都想要用免费的冰淇淋招待我们。
+Thirty-seven: The ice cream shopkeeper is still very grateful to us. Every time I go, she tries to treat us to free ice cream.
+
+37：但我解决了许多科算中心里研究员们发布的委托，赚取了足够多的点数。所以我可以为自己付账，还会请大家伙一起吃。
+Thirty-seven: But I've done a lot of jobs for the researchers at the computing center, and I've earned enough points to pay for myself and treat everyone else now.
+
+37：“奇迹之星”口味的冰淇淋在特别展览结束后就下架了。但我并不介意，我最喜欢的是巧克力口味的。
+Thirty-seven: The shopkeeper stopped making the "Star of Wonder" flavor after the special exhibition ended, but I don't mind. My favorite flavor is chocolate anyway.
+
+37：冰淇淋真的是非常好的东西，它漂亮的几何形状能够帮助我整理思绪。
+Thirty-seven: Her ice cream is really wonderful. Its beautiful geometric shape helps me organize my thoughts.
+
+37：所以每次我去博物馆的时候，都会选择吃下最合适数量的冰淇淋——
+Thirty-seven: So every time I go to the museum, I choose to eat just the right amount of ice cream.
+
+店主：别客气，尽量吃！还有很多呢！
+Shopkeeper: Don't be shy. Eat as much as you like! There's plenty more where that came from!
+
+兔毛手袋：我会的。我从不拒绝免费的东西。
+Medicine Pocket: Don't you worry about that. I never pass up a freebie.
+
+X：这证明了什么呢？好人有好报。
+X: And what does this prove? That good things happen to good people.
+
+小梅斯梅尔：您好，两位？你们就这样接受了37请客的冰淇淋，不会觉得害臊吗？
+Mesmer Jr.: Really, you two? You don't feel any shame over accepting 37's ice cream benefits on her behalf?
+
+兔毛手袋：不会啊。
+Medicine Pocket: I know I don't.
+
+小梅斯梅尔：……是我的错。你当然不会。
+Mesmer Jr.: Of course, you don't.
+
+X：但话说回来，冰淇淋实际上并不是个我们会推荐“尽量吃”的东西，小心吃坏肚子，37。我如果没记错，你已经吃了不止一个了。
+X: But more seriously. It's not recommended to consume ice cream in large quantities. Be careful not to get a stomachache, 37. If I'm not mistaken, you've had more than one cone already.
+
+37：别担心，这只是今天的第3支。
+Thirty-seven: Don't worry, this is only my third cone today.
+
+37：单体和二元构成了三体，它代表着节制与谨慎的美德。三个冰淇淋显然不能被形容是很多的或是不合时宜的。
+Thirty-seven: 1 and 2 make 3, representing the virtues of moderation and prudence. 3 ice creams couldn't possibly be too much.
+
+37：我认为4是一个更合适的数字。它是正整数中最小的合数，是“最大的奇迹”、“最完美的数字”！显然4更适合作为我们最终的答案。
+Thirty-seven: Though perhaps 4 is a better number. It's the smallest composite number among positive integers, the "greatest miracle," the "most perfect number"! Clearly, 4 is a better final answer.
+
+小梅斯梅尔：你是说你还要再吃一个？我不建议你这么做。
+Mesmer Jr.: You mean you want another one? I don't recommend it.
+
+37：为什么？显然4比3更好。
+Thirty-seven: Why not? 4 is obviously better than 3.
+
+兔毛手袋：我觉得“10”更好，它是在十进制中最小的两位数，当你把它写在十位的位置上时，它的数字值只有1！听起来多棒！
+Medicine Pocket: I think 10 is better, myself. It's the smallest two-digit number in the decimal system, and when you write it in the ten's column, it only counts as a 1! How cool is that?!
+
+兔毛手袋：但只是友善地提醒一下：这个休息区是没有厕所的。
+Medicine Pocket: But just a friendly reminder: this refreshments area doesn't have a restroom.
+
+37：我常常会在那里碰到小梅斯梅尔、X、兔毛手袋和爱兹拉，他们都是很有意思的人。
+Thirty-seven: I often see my friends, Mesmer Jr., X, Medicine Pocket, and Ezra there. They're all fascinating people in their own rights.
+
+37：和他们在一起的时候，常常让我想到从前我们和苏菲亚，偶尔还有210共同度过的时间。
+Thirty-seven: Being with them often reminds me of the times we spent with Sophia, and even with 210.
+
+37：有的时候可燃点和沙丝绒也会到这里来，他们是爱兹拉的朋友。
+Thirty-seven: Sometimes we see Spathodea and Desert Flannel. They're Ezra's friends from far away.
+
+37：可燃点是个总充满活力的正整数，而沙丝绒和小梅斯梅尔有些相似，是个有时候会对自己很严格的分数。她们也都是很有趣的人。
+Thirty-seven: Spathodea is a positive integer and always full of energy, while Desert Flannel is a bit like Mesmer Jr.—a fraction who can be strict with herself at times. They're fascinating too.
+
+37：但……某一天，我们得到了一个坏的消息。一个很坏很坏的坏消息。
+Thirty-seven: But then one day, we received bad news. Terrible, heartbreaking news.
+
+37：现象世界的一切都是不确凿、不稳定的。我本应该早就知道这件事了，但在听闻这个消息的时候，我还是有些失落——
+Thirty-seven: All things in the phenomenal world are uncertain and unstable. I have known this truth for a long time, but it still came as a surprise.
+
+店主：嘿，打扰下，年轻人们。
+Shopkeeper: Hey, sorry to interrupt you.
+
+店主：我就是来告诉你们一声，其实……这家冰淇淋店还是要关了。
+Shopkeeper: I just wanted to let you know, the ice cream shop's closing ... again.
+
+兔毛手袋：啊？
+Medicine Pocket: Huh?
+
+兔毛手袋：……说什么胡话呢？看看这条长队，你已经不必倒闭了。
+Medicine Pocket: What nonsense is this now? Look at this long line. Are you really telling me you can't even manage with this much success?
+
+店主：是的，我不必倒闭了。但……我做了一个数学运算，就像是这个小姑娘教给我的那样。
+Shopkeeper: No, it's not that I need to close. But ... I did some math, just like 37 taught me.
+
+店主：我最近每天赚得不少，但等过了这个劲，营业额就不会这么高了。即使每天入账一个不错的数字，收回成本也需要两年多。
+Shopkeeper: I've been making good money recently, but once this rush is over, my revenue won't be as high. Even with decent daily earnings, it would take over two years for me to break even.
+
+店主：所以我就想，为什么不把这个铺子转出去呢？就像是别人对我做的那样。趁着现在这个铺子火，转掉它我就能一口气收回本了。
+Shopkeeper: So I thought, why not hand the shop over, like someone did to me? If I sell it while it's hot, I can recoup my investment.
+
+37：………………听起来你改变了自己的思考方式，提升了自己的序列。这是……这应当是一件好事。
+Thirty-seven: It sounds like you've changed your thinking and improved your reasoning skills. I guess that's ... a good thing.
+
+37：没错，冰淇淋店要关了。我即将没有冰淇淋吃了。
+Thirty-seven: But if the shop is closing, soon, I'll have no ice cream to eat.
+
+37：我再也见不到那些美丽的十二角星了，这真是一件让人伤心的事。
+Thirty-seven: I'll never see those beautiful dodecagrams again, which is definitely not a good thing.
+
+37：但……这还不是最糟的事。
+Thirty-seven: But that's not the worst part.
+
+兔毛手袋：……所以，是这个意思咯？折腾了半天，以后我还是没有冰淇淋吃？你不要你的梦想了吗？！
+Medicine Pocket: So, that's it? After all we went through, I'm still gonna have to live life without these cones? What happened to your dream?!
+
+X：但不得不说，这是一个非常理智的判断。别害怕女士，我支持你。
+X: Regardless, I must say, it's a very rational decision. Don't worry, ma'am. I support you fully.
+
+小梅斯梅尔：店主小姐，如果那边那位蛮不讲理的客人对您进行了任何人身威胁，您可以联系那边的馆长先生。
+Mesmer Jr.: And if this unreasonable customer tries threatening you, you can contact the curator over there.
+
+兔毛手袋：嘿爱兹拉！这符合规定吗？做点什么！
+Medicine Pocket: Hey, Ezra! Is this allowed? Do something!
+
+爱兹拉：转让店铺并不违反合约，我不能在这种地方滥用职权。
+Ezra: Transferring ownership of the shop isn't a violation of her contract. I can't abuse my power on this one.
+
+兔毛手袋：那我之后出来遛弯的时候吃什么？那些路过的参观客吗？嘿，接了你店的人要在这里做什么？
+Medicine Pocket: What will I eat when I go for my walks? Those visitors passing by? I bet they'd taste terrible! Anyway, what's the new owner gonna sell here?
+
+店主：我听说他要在这里卖怪味豆。就是那种有招潮蟹味、厄难种子味、蜗牛眼珠味的。
+Shopkeeper: I heard he's going to sell beans in all kinds of weird flavors. You know, like crab, Scale of Demonic, snail eyeball ...
+
+兔毛手袋：谁会想吃蜗牛眼珠味的怪味豆！
+Medicine Pocket: Who would want to eat snail eyeball-flavored beans?!
+
+37：我们不能吃豆子！
+Thirty-seven: But we can't eat beans!
+
+兔毛手袋：……啊？
+Medicine Pocket: Huh?
+
+兔毛手袋：什么，你老家的什么宗教教义让你们不能吃豆子吗？
+Medicine Pocket: You don't mean that eating beans is against your religion, do you?
+
+37：当然！吃豆子是罪大恶极的，没有比吃豆子更坏的恶行了！
+Thirty-seven: Of course, it is! Eating beans is a terrible sin—the worst sin imaginable!
+
+37：如果有人吃了豆子，他是要被处以极刑的。
+Thirty-seven: If you eat beans, you'll be sentenced to death.
+
+爱兹拉：这……抱歉，我无意冒犯，但这听起来似乎有些过于严苛了。
+Ezra: That's ... Sorry, no offense, but that sounds a bit harsh.
+
+37：……考虑到你们并非学派中人，而且这里已经不是在岛上了，我不会要求你们吃了豆子就要去死的。
+Thirty-seven: Considering you're not from our school and we're not on the island, you won't get punished.
+
+37：但我是不会吃的。
+Thirty-seven: But I can't eat them all the same.
+
+37：……真可惜，这样美丽的冰淇淋，居然要变成邪恶的豆子了……
+Thirty-seven: What a shame! A shop mutated from selling beautiful ice cream into evil beans.
+
+兔毛手袋：可你在吃巧克力味的冰淇淋，那不也是豆子吗？
+Medicine Pocket: Hold on, but you're eating chocolate ice cream! Isn't that the same as eating beans?
+
+37：……嗯？
+Thirty-seven: What?
+
+兔毛手袋：巧克力味的冰淇淋是用巧克力做的。巧克力是用可可豆做的。可可豆是豆子。
+Medicine Pocket: Chocolate ice cream is made from chocolate, and chocolate is made from cocoa beans. Cocoa beans are beans.
+
+兔毛手袋：由此可证——
+Medicine Pocket: Therefore ...
+
+兔毛手袋：你吃了豆子。
+Medicine Pocket: You've been eating beans.
+
+37：………………
+Thirty-seven: ...
+
+37：不。
+Thirty-seven: No.
+
+37：这不可能。
+Thirty-seven: It's impossible.
+
+37：……这不可能！如果我真的吃了豆子，那……那我就应该已经被阿其翁叼走了！
+Thirty-seven: Impossible! If I really ate beans, then ... then I should have been taken by an Abraxas by now!
+
+37：但我没有被阿其翁叼走！这个结果矛盾了，所以只有一个可能，假设是不正确的！你一定是骗我的！
+Thirty-seven: But I haven't been taken by an Abraxas! This result is contradictory, so there's only one possibility: the hypothesis is incorrect! You must be lying to me!
+
+爱兹拉：37，你的冰淇淋流下来了！先擦一下，我带了手帕……
+Ezra: 37, your ice cream's melting! I brought a handkerchief. Here, you can wipe it up.
+
+X：快救救可怜的冰淇淋，放心，它们不是豆子。
+X: Save the poor ice cream! And don't worry. They're not beans.
+
+兔毛手袋：你相信吗？相信这家伙？也许你的阿其翁只是在赶来的路上。
+Medicine Pocket: You really believe that? You're gonna believe this guy? Hah! Maybe your Abraxas is simply on its way.
+
+小梅斯梅尔：我们可以安静一会儿吗？
+Mesmer Jr.: Can we all just have some peace and quiet?
+
+店主：嘿，说要在店铺转让前采访我的记者来了，你们要来一起照一张相吗？
+Shopkeeper: Hey, the reporter who wants to interview me before the shop transfer goes through is here. Would you like to take a picture together?
+
+店主：就是那几位，他们就是帮助我一起缔造了这场冰淇淋奇迹的年轻研究者们——
+Shopkeeper: They're the ones who made this ice cream miracle happen—the young researchers from Laplace.
+
+37：——我的假设是对的，兔毛手袋在骗人。巧克力冰淇淋不是豆子。
+Thirty-seven: My hypothesis is correct. Medicine Pocket is lying. Chocolate ice cream isn't beans.
+
+37：的确，可可豆里面带有一个“豆”字，但它其实是梧桐科，而不是豆科。更何况从可可豆到巧克力冰淇淋是经过了加工的。
+Thirty-seven: It's true that cocoa beans have "beans" in their name, but they're from the Malvaceae family, not the Fabaceae family. What's more, cocoa beans are processed into chocolate ice cream.
+
+37：就好像是我们拿到了一个很坏很坏的负的无限不循环小数，它看起来是-1.414213562373……
+Thirty-seven: It's like getting a very bad negative infinite non-repeating decimal, like -1.414213562373 ...
+
+37：它不能写作两个整数之比，小数点之后的数字也永远写不完。看起来坏透了。
+Thirty-seven: It can't be written as a ratio of two integers, and the string of digits after the decimal point never ends. It looks awful.
+
+37：但如果我们试着计算它的平方——它是2！我们就会得到一个很好的数字！
+Thirty-seven: However, if we square it—it makes 2! A favorable number!
+
+37：所以巧克力冰淇淋没有任何问题，那是很好的东西。
+Thirty-seven: So, there's nothing wrong with chocolate ice cream.
+
+一封远渡重洋的回信：我希望你也能尝尝，我委托星锑帮我带了一份给你。随信一起的是我收集的论文、期刊剪报、打印下来的资料等，你可以使用这些更新岛上的数据库。
+A Reply from Across the Waves: I hope you can try ice cream too. I asked Regulus to bring you some. Along with this letter, I've enclosed further papers, journal clippings, and printed materials I've collected. You can use these to update the island's database.
+
+一封远渡重洋的回信：我还收集到了许多外界数学家最新提出来的谜题，有些非常有趣，我对其中一些已经有了思路。
+A Reply from Across the Waves: I've also gathered many new puzzles proposed by mathematicians from the outside. Some are extremely challenging, and I already have ideas for a few solutions.
+
+一封远渡重洋的回信：但公平起见，我会给你留出同样的时间挑战它们的。我们可以在下一次的信里交流彼此的想法。
+A Reply from Across the Waves: But to be fair, I'll give you some time to work on them too. That way we can exchange our thoughts in the next letter.
+
+一封远渡重洋的回信：还有这张“报纸”。小梅斯梅尔发现了这则报道，建议我可以一起寄给你，这样你就可以直观地观测到我的状态。
+A Reply from Across the Waves: And there's also this "newspaper." Mesmer found a report on me and suggested I send it so you can see how well I'm doing for yourself.
+
+一封远渡重洋的回信：——简而言之，我过得很好，课题也在推进中。
+A Reply from Across the Waves: All in all, I'm happy here, and my research is progressing.
+
+一封远渡重洋的回信：这一次我一定会算出更好的答案。也许它不会是最好的，但必须是足够好的。
+A Reply from Across the Waves: This time, I'll find a better answer. It might not be perfect, but I believe it will be good enough.
+
+一封远渡重洋的回信：然后我会回到岛上，苏菲亚也会回来。我们将共享真理投下的辉光，就像从前那样。
+A Reply from Across the Waves: Then I'll return to the island, and Sophia will come back too. We'll all share the light of Truth, just like before.
+
+一封远渡重洋的回信：也许你注意到了，这封信的总字数是一个回文数，我相信你明白我的意思。回信的字数不要太少，否则那就是作弊了。
+A Reply from Across the Waves: You may have noticed that the total word count of this letter is a palindrome. I trust you understand what I mean; just don't try writing me a short reply. That would be cheating.
+
+一封远渡重洋的回信：我期待着你的回信。
+A Reply from Across the Waves: I look forward to your reply.
+
+随着信纸上最后一笔的落下，写信人成功完成了她在最后所宣告的目标。
+As the last stroke falls on the letter, the writer successfully completes her declared goal.
+
+无需回过头来再去计数，读信者确认这一点。
+There is no need to count again. The reader confirms this to be the case.
+
+6：……呵。
+Six: Hah.
+
+青年露出了展开信纸后第一个明显的表情。而在场的另一个人显然没有错过这一幕。
+Upon unfolding the letter, the young man unmistakably expresses his first sign of emotion. Of course, the other party present doesn't miss this significance of the moment.
+
+星锑：哇哦……你刚才这是笑了吗？老天爷，我还以为你那个惨白表情是焊死在脸上的呢。
+Regulus: Woah! Did you just smile? I thought that pale, gloomy expression was welded to your face.
+
+十四行诗：星锑……！
+Sonetto: Regulus!
+
+08  数沙者 / The One Who Counts Sand
+
+数沙者
+The One Who Counts Sand
+
+十四行诗：抱歉，星锑并没有冒犯您的意思。我们是想说……
+Sonetto: Sorry, Regulus didn't mean to offend. We meant to say ...
+
+6：37提到给我准备了礼物。
+Six: 37 mentioned preparing a gift for me.
+
+星锑：哦！对，你说那个冰淇淋。
+Regulus: Oh, right! You mean the ice cream.
+
+星锑：但你也知道，冰淇淋那东西是会融化的对吧？我不能让我全新的APPLe号三世被那些甜腻腻黏糊糊的东西弄脏了甲板。
+Regulus: But you know, ice cream melts, right? I couldn't let my brand-new APPLe III get all sticky, could I?
+
+星锑：所以我替你吃了。你可以对我表示一下感谢。
+Regulus: So I ate it for you. You can thank me if you want.
+
+6：有劳了。
+Six: Much obliged.
+
+星锑：……呃，嗯，不用谢。
+Regulus: Uh, well, you're welcome.
+
+这下轮到冰淇淋小偷不自在了。
+Now it's the ice cream thief's turn to feel awkward.
+
+十四行诗：我很抱歉……
+Sonetto: I'm sorry ...
+
+6：请将37寄来的其他东西放在这里吧，随后我会自己收起来的。
+Six: As for the other items 37 sent, please place them here. I'll put them away later.
+
+十四行诗：那么请您之后记得验收，我把清单也放在这里。
+Sonetto: Please remember to check them. I left the list here, too.
+
+星锑：不是我说，这可真的不轻……嘿咻。
+Regulus: Not to brag, but it was real hefty! Yeesh.
+
+星锑：我们有点赶时间，得赶紧回基金会。所以老兄，麻烦你赶快写了回信，我们现在就一起带回去了。
+Regulus: We're in a hurry to get back to the Foundation, so hurry up and write a reply, and we'll take it back with us. Time ain't on our side.
+
+令人有些意外的是，青年静静地摇了摇头。
+Surprisingly, the young man shakes his head.
+
+6：暂时不必着急了。
+Six: There's no rush for now.
+
+星锑：……你确定？
+Regulus: You sure?
+
+星锑：不是我说，那个家伙看着神神叨叨的，其实心性还是个小孩吧。你就不担心她吗？
+Regulus: Not to stick my beak in where it isn't welcome. That kid's a right looney at times, but she's still a kid at heart. Aren't you worried about her at all?
+
+6：37寄来了一些谜题，我需要时间思考它们的答案。
+Six: 37 sent some puzzles. I need time to think through the answers.
+
+这是个答非所问的回复。但摇滚海盗盯着那张再次变得静若止水的面孔瞧了一会儿……竟然接受了这一说辞。
+It's an evasive answer, but the rockin' pirate simply stares into his expressionless face and, after a time, accepts it.
+
+星锑：好吧，既然你这么说。
+Regulus: Righto, if that's what you want.
+
+十四行诗：星锑？
+Sonetto: Regulus?
+
+星锑：那我就先去准备开船了。我得说，我和我这个新伙计还要好好交流一番感情，它有的时候脾气有些大。
+Regulus: I'll go get the ship ready. My new partner and I need some time to bond. She has a bit of a touchy temper sometimes.
+
+十四行诗：好的……我在这里等你。
+Sonetto: Understood. I'll wait here.
+
+十四行诗目送着她的同行者远去。
+Sonetto watches her companion leave.
+
+十四行诗：……
+Sonetto: ...
+
+6：你似乎心存困惑。
+Six: You seem troubled.
+
+十四行诗：我……是的。
+Sonetto: You're right.
+
+青年的目光同样如水般平静。在这份无声的注视下，十四行诗决心将自己始终怀抱的忧虑诉诸于口。
+The young man's gaze is as calm as still water. Under his silent scrutiny, Sonetto decides to voice her concern.
+
+十四行诗：我在想关于37的事。我不确定……就这样保持现状是否是对的。
+Sonetto: I've been thinking about 37. I'm not sure if keeping things the way they are is the right thing to do anymore.
+
+十四行诗：她很勇敢。即使遇到挫折也不退缩，孤身一人离开生养自己的家乡，去到外面的世界寻找新的答案。我很敬佩她。
+Sonetto: She's brave. Even when facing the worst, she never backs down, leaving her home alone to find new answers in the outside world. I admire her.
+
+十四行诗：我同样无意冒昧评判贵学派的理念，你们的“无限定者”给出的答案的确为我们带来了躲避“暴雨”的方法。可我一直在思考……
+Sonetto: I'm not here to judge your school's philosophy. Apeiron has provided us with numerous ways to combat the "Storm."
+
+十四行诗：37似乎始终还认为，只要找到了真理一切都会解决。包括苏菲亚小姐，也包括你们永远离去了的同胞们。但是……
+Sonetto: Only 37 still seems to believe that finding the Truth will solve everything, even what happened with Sophia and your fellow islanders.
+
+十四行诗：但是那份“真理”真的能解决一切吗？
+Sonetto: But can that Truth truly solve everything?
+
+6：……
+Six: ...
+
+青年保持着沉默，所以十四行诗深吸一口气，继续说了下去。
+The young man remains silent. Sonetto takes a deep breath and continues.
+
+十四行诗：也许……有些不好的事就是会发生。人们接受它，然后才能够向前。
+Sonetto: Maybe, sometimes, bad things just happen. People have to accept it and move on.
+
+十四行诗：总得有人告诉37。告诉她那些“回归了本质”的同胞再也回不来了，告诉她也许没有什么真理可以让选择了另一条路的苏菲亚小姐回心转意。
+Sonetto: Someone needs to tell 37. Tell her those friends of hers who "returned to essence" won't come back. Tell her that maybe there is no Truth that can bring Sophia back.
+
+十四行诗：我们都刻意不戳破那层窗户纸，但……也许这并不是在保护37。我们不该放任她耗费巨大的时间和精力，但到最后发现一切都是一场空。
+Sonetto: While she's been searching for the Truth, we've avoided telling her it. Maybe that's not the best thing for 37. We're in danger of letting her waste her time and effort, only to find out it was all for nothing.
+
+十四行诗：……也许在那之前，我们就该告诉她。
+Sonetto: Maybe we should tell her before that happens.
+
+向来进退有度的少女心知，这番话有些逾越了。她抬眼去观察面前人的神色。
+Her composure buckles as she finishes each phrase. Sonetto knows she is crossing a line with these words. She looks up to observe the young man's expression.
+
+6的脸上没有半点愠色。他只是再一次摇了摇头。
+6 shows no anger. He simply turns his expressionless face once more.
+
+6：没有这个必要。你想要说的事，37都知道。
+Six: There's no need. Everything you wish to say to her, 37 already knows.
+
+十四行诗：您是说……
+Sonetto: You mean?
+
+6：你们都很关心37，我对此很感谢。但这里有着一个误解，我必须订正。
+Six: You care about 37, and I'm deeply grateful for that, but there's a certain misunderstanding I must correct for you.
+
+6：现象世界发生的一切她都观测到了。37并不盲目——只是，她的信仰也同样如此。
+Six: She may still be a child, but she observes everything that happens in the phenomenal world with precision beyond any of us. 37 isn't blind. It's just that her faith remains strong, no matter what.
+
+6微微侧过面庞，望向远方的大海，却又像是在看着更远的地方。
+6 turns, facing out at the distant sea, but his gaze seems to pierce further and deeper beyond it.
+
+6：让我这样描述这件事吧——你认为这片沙滩上有多少沙子？
+Six: Allow me to put it this way: How many grains of sand do you estimate there are on this beach?
+
+十四行诗：沙子？
+Sonetto: Sand?
+
+过于跳跃的话题让十四行诗瞪大了眼睛，她下意识地环视四周一眼望不到边际的沙滩。
+The abrupt change of topic causes Sonetto's eyes to widen. She dutifully looks around the sprawling beach.
+
+十四行诗：也许十万？百万……？
+Sonetto: Perhaps a hundred million? A billion?
+
+十四行诗：抱歉，我不知道。
+Sonetto: I'm sorry, I really don't know.
+
+6：我并不要求一个精准的数字，只需要一个误差在可接受范围内的结果即可。
+Six: I don't need an exact number, just an estimate within an acceptable range.
+
+6：有很多方法可以得到我们想要的答案，费米估算法是其中之一。
+Six: There are numerous methods to obtain an answer—the Fermi estimation is one of them.
+
+十四行诗眨了眨眼睛。
+Sonetto blinks.
+
+十四行诗：我学到过这个……您是对的。
+Sonetto: I've studied that ... Yes, you're correct.
+
+十四行诗：但……抱歉，我还是有些不明白您想说什么？
+Sonetto: Only ... sorry, I still don't understand what you're saying.
+
+6：听我的下一个问题。你认为这颗星球上一共有多少粒沙子？
+Six: Listen to my next question. How many grains of sand do you think there are on this planet?
+
+少女的眼睛瞪得更大了。
+The girl's eyes widen further.
+
+十四行诗：这个星球？
+Sonetto: The whole planet?
+
+十四行诗：那……那一定是一个非常非常大的数字，没人能够知道——等等。
+Sonetto: That ... must be a very large, astronomical number, something no one could possibly find—oh ...
+
+第一次，青年点了点头。
+For the first time, the young man nods.
+
+6：你意识到了。
+Six: You see it now.
+
+6：这个数字只是“非常大”，并不是“无穷大”。我们同样可以得到大致的答案。
+Six: This number is just "very large," but not "infinite." So it is possible to devise an approximate answer.
+
+6：阿基米德早在两千余年前就为我们指出了这一点。他宣称即使用沙粒填满整个地球，这个数字也不会超过1063。
+Six: Archimedes pointed this out over two thousand years ago. He claimed that even if sand filled the entire Cosmos, the number wouldn't exceed 1063.
+
+6：尽管这个数字因当时人们对地球的了解有限而并不准确，但我们求证这个问题的方法是不变的。答案是“非常多”，但不是“无穷多”。
+Six: His knowledge of the Universe was limited by his time, so while his estimation might not have been accurate, his method remains above reproach. The answer must be "many myriad," but not "infinite."
+
+6：它是有限的。
+Six: It's finite.
+
+十四行诗：所以，您的意思是说……
+Sonetto: So, then you mean ...
+
+十四行诗看向脚下的沙子。
+Sonetto looks at the sand beneath her.
+
+常人的头脑无法想象诸如1063这样量级的数字，但第一防线学校的优秀毕业生理解了青年希望表达的意思。
+The average mind cannot imagine numbers like 1063, but this first-class graduate of the SPDM understands what the young man wishes to convey.
+
+十四行诗：您认为37所寻找的东西是存在的。
+Sonetto: You believe that what 37 is searching for exists.
+
+十四行诗：它存在于这个世界的某个角落，或者世界之外的什么地方。要找到它非常非常困难——
+Sonetto: Yet, even if it exists in this world or anywhere beyond, finding it will be extraordinarily difficult.
+
+十四行诗：但不是不可能。
+Sonetto: But not impossible.
+
+十四行诗从数不清的沙子上移开目光，抬起头沿着6一直注视的那个方向望去。
+Sonetto lifts her eyes up from the not-quite-endless grains of sand, matching her gaze with that of 6's own.
+
+浩瀚大海的遥远另一端，有一个年轻的女孩立志计算出那个“非常非常非常大”的数字。
+Beyond the sea, a young girl is determined to calculate that very, very, very large number.
+
+6：我能确认的只有一件事。
+Six: I can confirm one thing.
+
+6：37做了这个假设，并试图证明这个定理。
+Six: 37 made this hypothesis herself. Now, she is trying to prove it.
+
+6：所以在这个假设被她亲自证伪之前……没有人能断言它是错误的。
+Six: And until she disproves it herself, no attempt at telling the Truth from any of us will shake her from it.
