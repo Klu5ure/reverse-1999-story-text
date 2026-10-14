@@ -8,3 +8,7 @@
 
 # Preserve delivered TXT bytes (UTF-8, CRLF), matching the local ZIP.
 txt/** -text
+
+# Preserve the newly delivered PDF-folder catalogs and notices as well.
+pdf/单语/** -text
+pdf/双语/简中-英文（中上英下）/** -text
