@@ -1,0 +1,381 @@
+回归活动 / [English text unavailable]
+
+目录 / Contents
+
+01  【1.4】回归活动01 / [English text unavailable]
+02  【1.4】回归活动02 / [English text unavailable]
+
+────────────────────
+
+01  【1.4】回归活动01 / [English text unavailable]
+
+黑暗在多数情况下代表了危险与未知。
+In most cases, darkness entails danger.
+
+但在这里并非如此。
+But not here.
+
+向下延伸的台阶，每一步落下时清脆的回响，道路尽头的门……还有隐约从门后传来的交谈。
+Descending the darkened stairs, listening to the echoes of footsteps, approaching the door at the end of the passage, and hearing the faint conversation coming from inside.
+
+这段路程是安全的，一切都令人感到熟悉。
+It's the way home.
+
+苏芙比：十四行诗小姐，十四行诗小姐！维尔汀小姐还有多久才能回来？
+Sotheby: Ms. Sonetto, Ms. Sonetto! When will Vertin be back?
+
+十四行诗：根据行程信息，司辰将在大约四小时后抵达基金会。
+Sonetto: According to her itinerary, the Timekeeper will arrive at the Foundation in about 4 hours.
+
+十四行诗：唔……
+Sonetto: Mmm ...
+
+十四行诗：或许还有时间再检查一遍……
+Sonetto: Perhaps we still have the time to double-check ...
+
+苏芙比：检查？噢！你想要检查我准备的礼物吗？
+Sotheby: Check on what? Oh! Ms. Vertin's welcome-home gift?
+
+苏芙比：没问题！苏芙比已经把这份特别调制的“舒缓助眠噗呲喷剂”检查过很多次，我保证它有非常好的效果！
+Sotheby: Sotheby's "Soothing Sleepy Spray" is ready. Ms. Sotheby has checked and checked again! It will work perfectly!
+
+她高高举起手中的气囊喷瓶，浅蓝色的药剂随着动作在瓶底摇晃。
+She raises the atomizer into the air, sloshing the blue potion around inside.
+
+记录页的翻动，试管叮叮当当的碰撞声，一丝不苟的回应与跳脱的问询……
+The rustling of paper, the clattering of potion tubes, the fluttering questions with meticulous responses ...
+
+没错，一切都令人感到熟悉。
+Yes, this is home.
+
+选项 / Choices
+
+1. 我回来了
+1. I'm back.
+
+2. 舒缓助眠……噗呲……喷剂？
+2. Soothing ... Sleepy ... Spray?
+
+分支 / Branch 1
+
+门锁毫无阻碍地转开，期待随之扭转为真实。
+The door opens. Expectation tumbles into reality.
+
+十四行诗：……！
+Sonetto: ...!
+
+分支 / Branch 2
+
+苏芙比：它绝对可以帮助维尔汀小姐消除旅途中的疲劳，而且——
+Sotheby: It will undoubtedly help Ms. Vertin freshen up, relieving her fatigue, and ...
+
+苏芙比：等等，这不是十四行诗小姐的声音。
+Sotheby: Wait? That was not Ms. Sonetto!
+
+苏芙比：这是……
+Sotheby: That was ...
+
+共同接续 / Shared continuation
+
+十四行诗：司辰！
+Sonetto: Timekeeper!
+
+苏芙比：是维尔汀小姐！！
+Sotheby: Ms. Vertin!
+
+苏芙比：你回来了！！！
+Sotheby: You're back!
+
+绿裙子少女飞扑而来。
+The green-dressed girl swoops towards Vertin from across the room.
+
+苏芙比：我好想你，维尔汀！
+Sotheby: I've missed you so very much, Vertin!
+
+苏芙比：你回来得好快——你一定是遇到了愿意帮忙的骏鹰朋友！
+Sotheby: But you're home quicker than expected. You must have caught a ride on a very, very kind-hearted Hippogriff!
+
+十四行诗：任务还顺利吗？您不在的时候，大家都很担心。
+Sonetto: And the mission? We had wondered if everything worked out for you.
+
+维尔汀：很顺利，我提前完成了任务。
+Vertin: It all went smoothly, and ahead of schedule.
+
+维尔汀：你们一切都好吗？
+Vertin: Everything all right on the home front?
+
+十四行诗：当然，当然。感谢您的体贴，我们——
+Sonetto: Naturally. Thank you for asking. We ...
+
+？？？：维尔汀！！！
+???: Vertin!!!
+
+一声迟来的呼唤从身后传来。
+A booming voice shouts from behind.
+
+同时响起的是一串急促的脚步声、一阵哗啦作响的零件碰撞声，很快，另一具温热的躯体撞上后背。
+Following the shout come hurried footsteps, a clanging cacophony coming from a cluttered bag, then a pair of arms, and a warm hug.
+
+星锑：呜哇——你这个可恶的家伙！
+Regulus: Waah! You!
+
+星锑：没出什么岔子吧？你离开了好久、好久、好久啊！！
+Regulus: You were gone for so, so, sooo long! You get into some trouble?
+
+维尔汀：抱歉，只是情况特殊。
+Vertin: Sorry. It was only a minor situation.
+
+星锑：哼，害得我这么担心你……算啦，谁叫你是本海盗的朋友呢。
+Regulus: Humph. Thought you were stuck in a real jam ... But this Pirate will forgive you. That's what friends do.
+
+星锑：不过你可得帮我向基金会申请双倍的胡椒博士作为赔偿！
+Regulus: And in return, this Pirate's friend will ask the Foundation for a double ration of Dr. Papper to show she's truly sorry for making her mates so worried.
+
+选项 / Choices
+
+1. 没问题
+1. Application sent.
+
+2. 已经申请了
+2. Of course, that's what friends do.
+
+分支 / Branch 1
+
+星锑：嗯？你答应得这么干脆……基金会居然会这么好心？
+Regulus: Mm? That was fast! When did the Foundation get so generous?
+
+星锑：看来本海盗提的要求还可以更……咳！
+Regulus: Ah! I should have asked for more ...
+
+星锑：好吧，为了你之后要填的申请表，伟大的星锑船长大发善心，原谅你了！
+Regulus: But then you'd have to file more paperwork just for this Pirate! Fine, consider yourself forgiven!
+
+分支 / Branch 2
+
+星锑：喔喔喔！！我最最信任的船员、最最最可靠的好哥们！！！
+Regulus: Ooooh!! My best mate, most reliable of all friends!!!
+
+星锑：天呐，没有你的日子我该怎么活……
+Regulus: I can't imagine life without you ...
+
+共同接续 / Shared continuation
+
+维尔汀：……
+Vertin: …
+
+好奇和关切被放置妥当，欣喜与激动一一得到回应。
+With all worries and curiosities now set aside.
+
+所有人满足地挨挤成一团，话题终于转往别的方向。
+They huddle close together, and a new subject is found.
+
+苏芙比：这是什么？噢！我见过那个！
+Sotheby: What is this? Oh! I've seen one of those before!
+
+苏芙比：——苏芙比看到星锑怀里有一些亮晶晶的东西！
+Sotheby: Ms. Sotheby sees something sparkling in Regulus's arms!
+
+星锑得意地打开怀中的袋子，将其中的物品一股脑倾倒出来。
+Regulus beams proudly as she opens her bag and pours its contents on the floor.
+
+星锑：哈！你们总算注意到了。
+Regulus: Hah! I was wondering when you'd notice.
+
+十四行诗：泡泡球、感光涂料，还有……这些是基金会库存里的神秘术道具素材？
+Sonetto: Bubble balls, Photosensitive paint, and ... Don't tell me these arcane gadget materials are from the Foundation warehouse ...
+
+维尔汀：你似乎并不准备将它们用于神秘术？
+Vertin: Looks as though you've different ideas for how to use them.
+
+星锑：哼哼～本海盗才不要现在就告诉你～☆我要做的可比神秘术更有乐子！
+Regulus: Heh heh! Well I'm not going to tell you now! It'll be something way more exciting than arcane gadgets.
+
+星锑：但是这些远远不够。嘿，朋友，过来，我还需要你一点小小、小小的帮助～
+Regulus: But that's not all I'll need! Come on mates, I could use a little help here ...
+
+02  【1.4】回归活动02 / [English text unavailable]
+
+箱子里的氛围与平日大不相同。
+Nightfall arrives in a most unusual way.
+
+仅此一夜，舒缓的音乐被更轻快、更富有节奏的曲调代替，宁静欣然为鼓噪与嬉闹让行。
+The expected soothing songs of evening have been replaced by blaring, restless rock & roll.
+
+星锑没有浪费任何一样素材，它们被以颇具想象力的方式组合，成为烘托派对气氛的、闪闪发光的助力。
+Regulus did not put a single piece of "borrowed" gear to waste. Reconstituting each element in her most imaginative way to breathe life into the party.
+
+星锑：嘿！抬起左手，现在，抬起右手！摇滚时间，朋友们！
+Regulus: Let's see those left hands! Now, the right hand! Aaaaand, let's rock!
+
+这无疑是个很棒的派对。
+It was, undoubtedly, a great party.
+
+槲寄生：呵……
+Druvis Ⅲ: *light chuckle*
+
+不知何时，身边多了一道修长的影子。
+A slender figure slips into the room.
+
+选项 / Choices
+
+1. 星锑看上去很开心
+1. Regulus seems to be having a grand time.
+
+2. 你看上去很开心
+2. You look relieved to be here.
+
+分支 / Branch 1
+
+槲寄生：她总是活泼、明亮且热烈。
+Druvis Ⅲ: She's ever the most energetic, noisy, and cheerful one.
+
+槲寄生：植物们从不觉得她吵闹。
+Druvis Ⅲ: Strange as it may seem, the plants enjoy her.
+
+分支 / Branch 2
+
+槲寄生：植物总是趋向温暖与明亮。
+Druvis Ⅲ: Plants are always drawn to warmth and light.
+
+槲寄生：不期然地，它们得以在今夜舒展。
+Druvis Ⅲ: They have enjoyed the night so far, and I as well.
+
+共同接续 / Shared continuation
+
+槲寄生：晚上好，维尔汀。
+Druvis Ⅲ: Good evening to you, Ms. Vertin.
+
+维尔汀：晚上好，槲寄生小姐。
+Vertin: And to you, Ms. Druvis.
+
+维尔汀：很高兴在这里见到你。
+Vertin: I'm very glad you came.
+
+槲寄生：这是个特别的宴会……我不该错过。
+Druvis Ⅲ: I wouldn't have missed such a lively event.
+
+槲寄生：况且，我亦有礼物赠予你。
+Druvis Ⅲ: Besides, I brought something for you.
+
+一根枝条在槲寄生的手心倏然抽芽，顷刻间变得葱郁繁茂。
+A branch stretches and blossoms in her palm.
+
+向外舒展、舒展，露出一抹素净的白。
+The petals open up, turning into a familiar white flower.
+
+维尔汀：这是……
+Vertin: Is this ...
+
+槲寄生：你或许认得出它的品种。
+Druvis Ⅲ: You might recognize it.
+
+没错，你曾在别处见过相似的白。
+She's right. You've seen this white flower elsewhere.
+
+维尔汀：一束花楸？
+Vertin: A Rowan Branch?
+
+槲寄生轻柔地抚过白色花蕾。
+Druvis gently strokes the white petals.
+
+它细嫩、柔软，饱满且富有生机。
+The flower is soft, gentle, and full of life.
+
+槲寄生：你回来的前一晚，我听见那枝花楸在月下鸣唱，有细小的哔剥声，宛如苏醒，宛如回归的足音。
+Druvis Ⅲ: The night before your return, I heard this branch singing in the moonlight. I heard its cracklings, like the branch was stretching outward.
+
+槲寄生：这是为你结出的花蕾。
+Druvis Ⅲ: This flower bloomed for you.
+
+维尔汀：……谢谢。我会好好收藏。
+Vertin: Thank you. I will take good care of it.
+
+槲寄生：有人在窗外的林地等你。
+Druvis Ⅲ: Someone is waiting for you just beyond the window near the woods.
+
+槲寄生：今夜，我不会提前离去。这里与曾经那些宴会并不相同，同时有笑语和鸣唱……谢谢你带给我这些，维尔汀。
+Druvis Ⅲ: Go, Vertin. I should like to stay awhile. It's all very different to the banquets I was made to attend, and I like it. You've brought me no small joy. Thank you.
+
+十四行诗：啊，司、司辰！您好。
+Sonetto: Oh, T, Timekeeper! Good evening.
+
+维尔汀：其他人都在大厅。你为什么独自站在林地里，十四行诗？
+Vertin: What are you doing out here all alone, Sonetto?
+
+十四行诗：我……不，请别在意，没什么重要的原因。
+Sonetto: I ... Well, I shouldn't bother you with the reason.
+
+十四行诗：您收到大家的礼物了吗？
+Sonetto: Have the others given you their gifts?
+
+维尔汀：是的。
+Vertin: They did.
+
+维尔汀：星锑将她的一盒唱片交由我保管。
+Vertin: Regulus gave me a disc "for safe keeping."
+
+维尔汀：APPLe先生歉意地表示他没有能送出的私人财产，于是为我唱了一首星锑喜欢的歌。
+Vertin: Mr. APPLe apologized as he didn't possess any personal items to be given away, so he sang one of Regulus's favorite songs to make up for it.
+
+维尔汀：红弩箭送了我提箱专用的皮革保养工具组，X则给我一颗“以后会派上用场”的金属球。
+Vertin: Lilya gave me a leather care kit for my suitcase, and X gave me a metal ball which he assures me "will come in handy one day."
+
+维尔汀：还有苏芙比和槲寄生小姐，每个人的礼物我都很喜欢。
+Vertin: And of course, Sotheby and Ms. Druvis. Each gift was perfectly suited.
+
+十四行诗：那真是太好了。
+Sonetto: That's wonderful.
+
+十四行诗：虽然只是短暂的分别，大家都很开心能够像今晚这样重聚。
+Sonetto: It's only that we were all very excited to see you again.
+
+十四行诗：在一起的时光……是值得珍视的。
+Sonetto: We cherish every moment we spend with you.
+
+维尔汀：的确如此。
+Vertin: I feel the same.
+
+维尔汀：要和我一起回大厅吗？星锑似乎准备了更多节目。
+Vertin: Shall we go back inside? Regulus must have more prepared for us tonight.
+
+十四行诗：当然。
+Sonetto: Of course.
+
+十四行诗：只是……请先等一下，司辰。
+Sonetto: Just ... a moment please, Timekeeper.
+
+十四行诗：我的礼物……还没来得及交给您。
+Sonetto: I haven't given you ... my gift.
+
+她略作迟疑，从怀中拿出一只迷你书大小的、纯白色的金属匣。
+She hesitates for a brief moment, and takes out a white metal case.
+
+轻薄、坚固、便于携带——你们都熟悉它的风格。
+It is light, sturdy, and easy to carry around—you are familiar with its shape and weight, I'm sure.
+
+维尔汀：基金会的文件匣？
+Vertin: Is this one of the Foundation's file cases?
+
+十四行诗：是的，这一只里面装了我的任务执行记录。
+Sonetto: Yes, and inside are records of my past missions.
+
+十四行诗：您作为司辰，日后，可能会有更多、更险要的任务。
+Sonetto: As Timekeeper, you will encounter more dangerous and difficult missions in the future.
+
+十四行诗：我对记录内容进行了整理，您可以翻阅到我以往执行任务时遇到的困惑与解决办法，虽然很多都不够成熟，但……我希望这些试错能给您一些帮助。
+Sonetto: I've organized my past records in the hope that they could be useful for you in the future. Some of my solutions were ... far from meticulous, but I thought I ought to include everything so that you might steer clear of the same mistakes.
+
+十四行诗：我、我整理得比较匆忙，这只是其中一部分。我不知道这能不能作为礼物……
+Sonetto: I, I didn't have the time to organize everything. It's just a part of all the past records. I don't know if it makes for a good present ...
+
+维尔汀：谢谢你，十四行诗。我非常喜欢，它会很有帮助。
+Vertin: Thank you, Sonetto. I like it very much, and I will put it to good use.
+
+十四行诗：——！！
+Sonetto: ...!!
+
+十四行诗：您不必道谢，我很开心能帮上忙……
+Sonetto: I'm so glad that I can be of help ...
+
+十四行诗：欢迎回来，司辰。
+Sonetto: Welcome home, Timekeeper.

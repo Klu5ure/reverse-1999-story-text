@@ -1,0 +1,324 @@
+海岸漫步 / Wandering on the Shore
+
+目录 / Contents
+
+01  开场 / [English text unavailable]
+02  《后继者》 / The Inheritors
+03  《博弈集》 / Confrontation
+04  《奇迹的数》 / Birth of Mathematics
+
+────────────────────
+
+01  开场 / [English text unavailable]
+
+这是一个理应静谧的夜晚。
+This should have been a quiet night.
+
+也是探寻真理的人们即将迎来歇息的时刻。
+A moment of respite for those that tirelessly seek the truth.
+
+——但今日的情况却有所不同。
+—But not tonight.
+
+几何沙滩
+Geometry Beach
+
+灯火扑朔，映照着灰白的书页。
+The lamps flicker brightly, reflecting faintly off glossy pages.
+
+210：我没有想到，我们一丝不苟的除错师居然也会对这些岛外的书籍产生兴趣。
+210: I never would have expected our ever diligent corrector to be so taken with outside literature.
+
+210：它们好像并不在采购清单上吧？
+210: These weren't on the purchase list, were they?
+
+几本花花绿绿的册子摊在苏菲亚的面前，37正蹲在那里摆弄，好像它们是某种珍贵的贝类。
+Several colorful magazines are spread open in front of Sophia, 37 is hunched-over beside her, examining them as if they were rare and precious shells.
+
+苏菲亚：……我在返程的码头上遇到了几位报童，他们不由分说地把这些塞给了我。
+Sophia: ...I met several newsboys on the pier on my way back, and they clamored around trying to give me these.
+
+苏菲亚：我正准备向6报备，但37对这些岛外来的书籍很感兴趣。
+Sophia: I was just preparing my report for 6, but it seems 37 has taken a special interest in them.
+
+37：苏菲亚，你看，这些书本的轮廓呈现出一个长方形。并且，它的长边长度是短边的√2倍——一个无理数！
+Thirty-seven: Of course, Sophia! Look the dimensions of these magazines form rectangles with a length equal to their width times the square root of 2!—an irrational number!
+
+37：他们大胆放弃整数比，一定有什么深意！这意味着我们应该阅读这些书本，解开未知的谜题！
+Thirty-seven: The way they so boldly turn their backs on integer ratios can only mean one thing—there is a profound meaning hidden within them! Naturally, we're going to have to read these magazines immediately to solve what mysteries they hold!
+
+210：这意味着它是一张A4纸，我们的赫尔墨斯之星。
+210: Let me solve this mystery for you, our Shining Star of Hermes. The hidden meaning is that they used A4 paper.
+
+37：A4？我不知道它和“A”，还有“4”有什么关系。
+Thirty-seven: A4? What could any of this have to do with "A" or "4"... Unless A were a variable with a factor of 4... I must know more.
+
+210：很遗憾，这只是几本普通的旅行刊物，既不存在谜题，也不存在着知识。
+210: I'm afraid these contain neither deep mysteries nor hidden knowledge. They're just travel magazines.
+
+210露出了手上书籍的名称。
+210 reveals the name of the magazine in his hand.
+
+37：“海岸漫步”……UTTU杂志社出版？
+Thirty-seven: "Wandering on the Shore"... published by UTTU Magazine?
+
+37：啊，我认得封面上的这片沙滩！
+Thirty-seven: Oh, wait take a look at the beach on the cover!
+
+在场的每一个人都认出了这片沙滩，也就是他们此刻的驻足地。
+The beach is immediately recognizable as the very same on which they're standing.
+
+苏菲亚：……真奇怪，学派理应不会接受这种杂志的访谈才对。
+Sophia: Strange... I wouldn't have expected the Lyceum to grant an interview to a magazine like this.
+
+210：噢……没什么稀奇的。
+210: Oh... There's nothing strange about it, really.
+
+210：这本杂志应该写于第一次“流溢”之后。那时候岛屿为了弄清外界的情况，也进行了不少对外交流。
+210: This magazine must have been published after the first Emanation hit. Back then the island engaged in numerous exchanges with the outside to better understand its impact on the world.
+
+210随手翻了翻页，露出了自信的笑容。
+210 flips through the pages briskly, until a confident smirk creeps onto his face.
+
+210：看来我的猜想是正确的，我在里面看到了77和42的照片。
+210: See, I was exactly right - as always. These photos are of 77 and 42.
+
+苏菲亚：嗯？可是岛屿之外的世界应该遭到了多次“流溢”。他们不可能把那时的记录保存下来，除非……
+Sophia: Hmm? But the world beyond the islands has been ravaged by the Emanation many times now. They couldn't possibly have preserved records from back then... Unless-
+
+37：除非这本书来自一个跟我们一样，能够隔绝“流溢”的地方。
+Thirty-seven: Unless these magazines are from a land like our own, safe from the Emanation's reach.
+
+37：UTTU杂志社……转换为数字就是20、19、19、20，这是什么意思呢？
+Thirty-seven: UTTU Magazine... Convert UTTU into numbers, and you get 20, 19, 19, 20. What could it all mean?
+
+37陷入了冥思苦想，看来她不得到答案是绝不会罢休的。
+37 is lost in deep contemplation, it almost seems as if there are numbers dancing over her head.
+
+苏菲亚：……我们不如问问6吧，UTTU如果真的存在着，他一定会很清楚的。
+Sophia: Let's ask 6 if he knows anything about this UTTU Magazine.
+
+苏菲亚：奇怪，他理应已经过来了才对……
+Sophia: Strange, I thought I saw him on the beach with us earlier... but where is he now?
+
+210合上了手上的杂志，饶有兴趣地看向了沙滩的另外一侧。
+210 closes his magazine and looks down the beach with new interest.
+
+苏菲亚开始左右张望，而她眼尖的同伴一下子就捕捉到了一道隐藏在岩石之后的身影。
+As Sophia starts to look around. Her sharp-eyed companion immediately pounces upon a figure hidden behind a rock.
+
+37：噢，你在这里，6！你为什么不早点开口呢？
+Thirty-seven: I found you, 6! But what were you doing back there! Why didn't you say hello?
+
+6：……
+Six: ...
+
+6：你们也没有开口问我。
+Six: I had no intention of interrupting your frivolities... Besides, you didn't say anything either.
+
+领袖依然远远站着，似乎没有任何加入人群的意愿。
+The leader puts some distance between himself and the others, brushing the sand off from his coat.
+
+6：对方并无恶意，你们可以放心地阅读这些来自于岛外的杂志。
+Six: I assure you, no offense was intended. You are more than free to read these magazines as you like...
+
+6：那么，我便先回去了。
+Six: With that, I shall take my leave.
+
+遗憾的是，他的小小尝试失败了。
+Try as he might to extract himself from this confrontation, 37 simply will not give him the space.
+
+37：你为什么要着急离开呢？我想你一定很了解它们的来历。
+Thirty-seven: Wah! You want to hurry off so soon? You must know exactly where these magazine things are from.
+
+37：这可关乎一个非常重要的谜团！
+Thirty-seven: A pivotal mystery is at hand, with mathematical ramifications that could shake the very foundations of the known world!
+
+6：……你们的判断是正确的，先前的领袖曾经与他们打过交道，还参与过访谈。
+Six: There is no mystery at hand, 37- The previous leader simply had dealings with this publication and granted them an interview.
+
+6：只是他们当时还不叫作UTTU……不，没什么。
+Six: Only it wasn't called UTTU back then... But never mind, forget I mentioned anything.
+
+领袖及时止住了话头，以期规避可能需要面对的探究。
+The leader abruptly halts himself as if to avoid any further probing.
+
+好在众人没有听到他的自言自语。
+Fortunately for him, the others seem not to catch his mumbling.
+
+210：哦，看来他们终于想起来把样刊寄给我们了。
+210: Oh, well, looks like they finally remembered to send us a copy.
+
+210：在这倒退的时间中，还有一本杂志的刊号在缓慢前进，真是一桩好事。
+210: In this time of pervasive regression, there's still a magazine out there steadily advancing forward, I'll take it as a good sign.
+
+苏菲亚：如果是这样的话，我倒是很有兴趣……
+Sophia: Whatever the case, it has certainly piqued my interest to give it a read.
+
+37：他们写了什么并不重要！√2∶1的长宽比才是最值得探究的部分！
+Thirty-seven: Who cares what they wrote in these things, none of that's important right now! The √2:1 formatting ratio is the key here! This is what we should be focusing our mental efforts on!
+
+37从地面上拿起了三本杂志，依次递给了210、苏菲亚，以及准备离去的6。
+37 picks up three magazines from the ground, then hands them to 210, Sophia, and the still eager-to-depart 6.
+
+6：……
+Six: ...
+
+6微不可见地叹了口气，接过书页。
+6 sighs almost imperceptibly and places his fingers on the magazine's pages.
+
+02  《后继者》 / The Inheritors
+
+苏菲亚：这本杂志的地理介绍部分非常有趣。
+Sophia: The magazine's descriptions of our island are quite evocative.
+
+苏菲亚：我从来没有想到这座岛在外来者视角中是这样的模样……
+Sophia: Is this really how the island looks in the eyes of outsiders? I never would've thought...
+
+苏菲亚：“西侧的悬崖无疑是岛屿上最佳的观景点”……我每周都会上去一次，却从未注意过这件事。
+Sophia: "The western cliffs of the island, without doubt, present the most beautiful views, from there one can take in its breath-taking vista over the sea..." I pass by there often, but I hardly think anything of it...
+
+37：可见这位外来者一点也不了解这里！
+Thirty-seven: Clearly, this outsider doesn't know the first thing about this place!
+
+37：西侧悬崖没有任何前往的价值，它不落在岛上建筑的任何连线上，是一个多余的浮点。
+Thirty-seven: Beautiful views? Pah! There's no point in going to the western cliff at all. It doesn't fall on any of the connecting lines of the structures here... It's just a- a redundant floating decimal!
+
+37：最值得观赏的景点，应该是岛屿地下的伊普西隆溶洞。
+Thirty-seven: If there was any spot worth visiting on the island, it would be Epsilon Cavern, deep underground.
+
+37：那一处溶洞落在等边三角形的垂心上，这才是岛上最核心、最完美的观景点！
+Thirty-seven: The cavern lies at the perpendicular vertex of an equilateral triangle that fully encompasses the island, making it the most central and, thus, most mathematically perfect attraction on the island!
+
+苏菲亚：可是我从来没有见过你去往那处溶洞。
+Sophia: I've never even seen you so much as step foot near that cave.
+
+37：因为那里一点光都没有。
+Thirty-seven: Of course, it's super dark down there!
+
+37：但它位置的完美是毋庸置疑的，我们应该以它取代书中推荐的地点。
+Thirty-seven: But the numbers don't lie, it is the most perfect feature on the island, and to omit this self-evident truth! Humph! It ought to be reflected in any worthwhile magazine.
+
+210：饶了他们吧，没有游客会喜欢黑漆漆的洞穴的。也没有游客喜欢一边数着数字，一边无意义地在办公室与沙滩之间往返的。
+210: Or perhaps we can spare our would-be tourists the trauma of venturing into a pitch-black cave? I'm afraid you won't find many tourists who enjoy counting while rushing back and forth between the office and the beach either.
+
+37：尽管如此，他们也不应该去那处悬崖，那里的石头排布没有任何价值。
+Thirty-seven: Be that as it may, they have no reason to bore themselves on that cliff. The arrangement of the stones there has no value at all.
+
+苏菲亚：但那里确实是观赏大海的最佳位置。
+Sophia: But it is the best place to gaze upon the sea.
+
+37：怎么会有人对大海感兴趣，它不到处都是吗？
+Thirty-seven: The sea? But it's everywhere! It's no more interesting than a nonprime integer with an exponent of one!
+
+苏菲亚：这或许就是旅行的意义，37。
+Sophia: Perhaps it's in seeing the same things with new eyes that we find the true joy of travel, 37.
+
+03  《博弈集》 / Confrontation
+
+210：苏菲亚，作为我们之中唯一有旅行经验的人，你有什么建议吗？
+210: Sophia, you're the only one among us with any first-hand travel experience, do you have any travel advice?
+
+苏菲亚：你指的是我与休一同来到岛屿时的事情吗？
+Sophia: Do you mean when I came to the island with Hugh?
+
+苏菲亚：当时我的年龄太小，几乎不记得旅途上的事情了。
+Sophia: Oh, I was too young at that time to remember anything about the trip.
+
+210：真遗憾，我原本还以为能够在你这里获得更多的知识呢。
+210: That's a shame, I guess I was hoping we could learn something more about the outside world from you.
+
+210：要知道，在我寄出那些稿件后，外界有不少仰慕者希望能够邀请我前往讲演……
+210: You know after I sent out those manuscripts, many admirers from the outside world wrote to me, inviting me to speak publicly about my experiences...
+
+37：苏菲亚，你回答210的问题就是个错误，他不会放弃这种好机会的。
+Thirty-seven: Answering 210's questions is always a mistake, Sophia. He never lets an opportunity to talk about himself slip by.
+
+37：不过，我很好奇。假如要离开岛屿的话，你会去往哪里呢，苏菲亚？
+Thirty-seven: But... I'm curious too, if you were to leave the island, where would you go?
+
+苏菲亚：……如果可以的话，我想要回家看看。
+Sophia: If possible, I suppose I would like to go home and see how things are there.
+
+苏菲亚：尽管我在那里的童年称不上愉快，但是，也并非全部如此。
+Sophia: Although my childhood there was not exactly pleasant, that wasn't always the case...
+
+37：那里的几何位置决定了它是一个优秀的旅行目的地，你的选择是正确的，苏菲亚。
+Thirty-seven: Aha! The geometric location of the area indicates that it is, in fact, an excellent travel destination. Bravo! That would indeed be the right choice, Sophia.
+
+37：6，你是怎么想的？
+Thirty-seven: What about you, 6? Where do you think you'd go?
+
+6：我的想法并不重要。
+Six: My thoughts are hardly of any importance.
+
+37：噢，所以你是说，你会跟77一样追随着真理的脚步来选择目的地吗？
+Thirty-seven: Oh, so you'd follow in the footsteps of 77 and choose your destination by searching for the truth?
+
+6：……我不想旅行。
+Six: I'm saying... I have no desire to travel at all.
+
+04  《奇迹的数》 / Birth of Mathematics
+
+210：真可惜。
+210: How utterly lamentable.
+
+伴随着翻页，210发出了一声长长的叹息。
+As he flips through the pages, 210 heaves a long sigh.
+
+210：以一个外来者的视角重新审视岛屿，是一段颇为新奇的体验。
+210: Seeing the island from the eyes of an outsider is a novel experience.
+
+210：但我发现了这本书籍的致命缺憾。
+210: But I have discovered a fatal flaw in this magazine.
+
+无人应答，苏菲亚专心地阅读着文字，37仍忙着研究杂志长宽比的奥秘。
+No one responds. Sophia is focusing all her attention on her reading, while 37 seems to still be lost in enigmatic mystery of the magazines; irrational ratios.
+
+但210向来不惧怕这种程度的冷场。他自顾自地说了下去。
+However, 210 has never been one to let silence of even this extreme degree deter him. He continues speaking as if a lecturer to an empty classroom.
+
+210：这本杂志对于岛屿的地理和学派的思想进行了充分的描写，但却遗漏了最为重要的一环，就像是在一道论证题中缺少了最为关键的一步。
+210: This magazine certainly offers a comprehensive description of the geography of the island and even a rudimentary grasp of the teachings of the Lyceum, but it completely neglects the most important aspect of life here, like a novice skipping over the most crucial step in a logical argument.
+
+37：你想要说什么？我已经开始厌倦了你无意义的修辞了，210。
+Thirty-seven: Just skip to what you are getting at? If you keep droning on like this you'll put us all to sleep, 210.
+
+210：不愧是我们的赫尔墨斯之星，你已经回答了我想要的答案了。
+210: You truly are our Shining Star of Hermes. You have already answered the question I wished to pose.
+
+210：210。
+210: 210.
+
+210：没错，这本杂志最为缺憾的一环，就是缺乏对于210——也就是本人的描写。
+210: Exactly right, the most woeful aspect of this publication is that it failed to provide even a mention of myself.
+
+210：杂志中谈到了77、上一位“6”，但却唯独缺少了对于本人以及本人智慧的描写。
+210: The magazine mentions 77, our previous "6," but is missing the vital coverage of me and my illustrious wisdom.
+
+210：不得不说，这是一个巨大的缺憾，足以让这本杂志的层次连下数个级别。
+210: This is glaring but surely accidental oversight knocks this magazine down several rungs in my estimation.
+
+37：这是好事。
+Thirty-seven: I'd say they did it on purpose.
+
+37：他们通过这种方式，成功地避免了自己的书籍变为一团废纸。
+Thirty-seven: Through this method, they will have successfully prevented their publication from being condemned to the bottom of a waste paper basket.
+
+37：这说明他们有着最基础的判断能力，知道读者们不会对“愚蠢”产生兴趣。
+Thirty-seven: Indicating that they possess at the very least the common sense to recognize that their readers would be repelled by such long-winded absurdity.
+
+210：哦？真是这样吗？倘若如此，你这位同样没有出现在书籍中的“赫尔墨斯之星”，也应该享有相同的评价。
+210: Oh? Is that so? If that's the case, then they must feel the same about you, "Shining Star of Hermes," as you do not appear in their little magazine either.
+
+37：不，那是因为他们并不理解真理。
+Thirty-seven: Not at all. It's simply evidence that they cannot comprehend the depths of mathematical truth that I've illuminated.
+
+37：他们只是一群来自岛外的访客，经历不足以支撑他们理解我的研究课题。
+Thirty-seven: They were only brief visitors from beyond the island's borders; therefore, clearly their time here was insufficient to develop an understanding of my research and its significance.
+
+一旁的少女无奈地合上了书，打断了两人的争辩。
+Sophia at the edge of her patience at last, reluctantly closes her magazine, intent on resolving their dispute.
+
+苏菲亚：我想，这只是因为当时你们还没有成年，不适宜出现在书籍里面。
+Sophia: For all your boasting, you both seem to have evaded the obvious truth at the end of your noses. Neither of you were old enough to be mentioned when this article was published.
