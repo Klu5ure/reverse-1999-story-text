@@ -1,0 +1,1402 @@
+雾行者 / Oliver Fog
+
+目录 / Contents
+
+01  雾霭牢笼 / The Prison of Fog
+02  休假日 / Rest Day
+03  谐音笑话 / Dad Jokes
+04  海布里球场 / Highbury Stadium
+05  奥利弗的故事 · 1/3 / The Story of Oliver · 1/3
+06  雾行者 / Oliver Fog
+07  调休制度 / Time Off in Lieu
+
+────────────────────
+
+01  雾霭牢笼 / The Prison of Fog
+
+奥利弗的故事
+The Story of Oliver
+
+雾霭牢笼
+The Prison of Fog
+
+我已经忘记了我是什么时候开始讨厌雾的。
+I can't remember when it was that I began to hate the fog.
+
+那是一座永远都被这东西笼罩着的无聊城市，总是让人联想起西西弗斯的无聊城市。
+This city, forever shrouded in fog, prompts the overwrought comparison between Sisyphus's endless struggle and our own.
+
+覆盖在荒诞与丑陋之上的雾霭，像是囚禁着蟋蟀的玻璃皿。
+The fog that covers this absurdity and unsightliness is like a bell jar imprisoning a cricket.
+
+摸不着，却又真确存在的牢笼之外，是众神戏谑的面庞。祂们贪婪地榨取着其中所有人的价值，驱使雾霭作为祂们最为忠诚的使者。
+Beyond those invisible intangible borders lie the jeering faces of the gods. They drained every ounce of vitality from the cricket, dispatching the fog as their most faithful instrument.
+
+于是，蟋蟀扭头看去，发觉它上下左右皆为厚重的雾气。逃不出去，没有边际，就连声音也会淹没于其中的浓雾。
+And so, the cricket turned its head to find this thick fog everywhere—up, down, left, right—all around. No escape in sight, no perceptible boundaries... Even its cry would be lost in the fog.
+
+粘稠得宛如鼻涕一般的浓雾包裹着蟋蟀，可怜的蟋蟀就连发声都无法做到。它徒劳地摩擦着翅膀，试图发出些许噪音，收获的却只有无声的嘲笑。
+That fog as viscous as snot flowing from a runny nose enveloped the cricket to the point where the poor wretch couldn't even make a sound. It rubbed its wings in vain, attempting to make even the slightest noise, but the only thing that filled the air was the fog and its silent ridicule.
+
+从来没有人会回答它。浓雾之中只有寂静，如同死亡一般的寂静——让人情不自禁地联想起死亡的浓雾。
+To this day, no one has responded to its pleas. In this thick fog, there is only silence, the silence of death... That's what it does, this fog—it invariably forces the individual to face the certainty of their own demise.
+
+行走在一片不见终点的浓雾之中，周围被无形的不可触碰的屏障所笼盖，甚至就连愤怒的挥拳也无法落到实处。
+Walking in this endless fog, with no end in sight, surrounded by a cage of untouchable wire, where even the most furious strikes have no means of finding their target.
+
+唯一能够感受到的，只有到了极致的孤独与死寂。
+The only thing one is allowed to feel is extreme loneliness and that deathly still.
+
+为了所谓的使命而行走在浓雾之中的我们，大抵便是这个世界上最可笑的蟋蟀吧。
+We, walking through this dense fog for the sake of our so-called mission, might possibly be the most pitiable crickets of all.
+
+——我又有多久没有见过太阳了呢？
+How long has it been since I last saw the sun?
+
+维尔汀：……
+Vertin: ...
+
+维尔汀：雾行者？
+Vertin: Oliver Fog?
+
+雾行者：啊……抱歉，维尔汀小姐，我刚刚有点走神了。我们刚刚谈到哪里了？
+Oliver Fog: Oh... Sorry, Miss Vertin. I lost myself for a moment there. What were we talking about just now?
+
+维尔汀：我希望你能够在后天的行动中协助我。
+敌人隐藏在浓雾之中，很难确定他们的位置，这时候需要依靠你的神秘术。
+Vertin: That we hoped you would aid our cause two days from now. With the enemy well hidden within the fog;  determining their location will be no easy feat. It looks like we'll be counting on you and your arcane skill to succeed.
+
+雾行者：后天……是休息日啊。
+Oliver Fog: The day after tomorrow... That's a holiday, isn't it?
+
+维尔汀：确实如此。
+Vertin: It is indeed.
+
+雾行者：维尔汀小姐，请允许我偏下题。
+能告诉我，是谁提出这次行动让我参与其中的吗？
+Oliver Fog: Before I offer you a response, Miss Vertin, allow me to ask a question. Who was it that proposed I join you in this operation of yours?
+
+选项 / Choices
+
+1. ……是未锈铠先生
+1. It was Mr. Knight.
+
+2. ……是我自己提出的
+2. And what if I were to say I was the one that chose you, recommendations notwithstanding?
+
+分支 / Branch 1
+
+雾行者：他也会参与这次行动吗？
+Oliver Fog: And will he also be taking part?
+
+维尔汀：出于某些原因，未锈铠先生并不会参与这次行动，但他推荐了你。
+Vertin: Mr. Knight will not be taking part in this operation, but he recommended you wholeheartedly.
+
+雾行者：这种行为显然是推卸责任，维尔汀小姐。
+Oliver Fog: You do know that he's egging me on by passing this work to me? It's quite evident, Miss Vertin.
+
+分支 / Branch 2
+
+雾行者：维尔汀小姐，你并不擅长搪塞别人，你显然在说谎。
+Oliver Fog: Deception is not your strong suit. It's entirely obvious that you're covering for him.
+
+雾行者：你清楚我不会在休息日工作，以你的性格，在这样的前提下，是不会提出这种方案的。
+Oliver Fog: You know for a fact that I am not the kind to work on a day off, and based on your personality, which is shall we say; conciliatory in nature, you would never have proposed such a plan.
+
+雾行者：让我猜猜……这一定是那副铠甲提出来的方案。
+Oliver Fog: So, then. The suit of armor put you up to this? Am I right?
+
+维尔汀：……你怎么知道的？
+Vertin: .....Perhaps. But why would you suspect him in the first place?
+
+共同接续 / Shared continuation
+
+雾行者：我会正式向未锈铠先生提出抗议的，维尔汀小姐。
+Oliver Fog: Miss Vertin, I intend to direct a formal complaint towards Mr. Knight.
+
+维尔汀：……
+Vertin: ...
+
+雾行者：言归正传，维尔汀小姐。出于个人情感，我非常愿意为你提供帮助。
+但出于个人原则，我并不愿意在休息日工作。
+Oliver Fog: Allow me to come straight to the point, Miss Vertin. I would be more than willing to help you in any way, merely due to the goodwill we have fostered through the course of our acquaintance. However, my principles will not permit me to sacrifice my hard-earned time off merely for the convenience of others.
+
+雾行者：我会向你提供一切必要的建议，除了实际的帮助。
+Oliver Fog: I will provide you with any advice you may require, but my practical assistance is out of the question.
+
+维尔汀：这是什么最新款的公务员话术吗？
+Vertin: So then, this your latest experiment in reformist rhetoric?
+
+雾行者：准确来说，是老款的，从张伯伦那会儿就开始使用的搪塞话术。
+Oliver Fog: Not at all. It's a manner of prevarication that's been in use since Chamberlain's day.
+
+维尔汀：没有关系，我不会强迫你，我只是来与你商量这件事情的。
+Vertin: Look— I won't try to force you, Oliver. I'm merely here to discuss the matter with you.
+
+雾行者：感谢你的理解，维尔汀小姐。
+如果没有什么其他事情的话，我要去完成我今天的工作了。
+Oliver Fog: Then I thank you for your understanding, Miss Vertin. If there's nothing else I can help you with, I will take my leave. there's work I've yet to finish today.
+
+箱内一隅
+Somewhere in the Suitcase
+
+未锈铠：某人现在讲述的，是某人以前作为骑士冒险时，所遇到的一起鬼怪事件。
+A Knight: What someone is about to recount to you is a sworn testimonial of a face-to-face run-in with a dark spirit, a blood-thirsty creature of undeath someone encountered as a chivalrous knight long, long ago.
+
+苏芙比：太棒了！我喜欢这个故事——我是说，我一定会很喜欢这个故事。
+Sotheby: Brilliant! I love this story— I mean, Miss Sotheby knows she's definitely going to love this story!
+
+未锈铠：某人和一名密友，在一次旅行中，来到了一个闹鬼的城堡。
+A Knight: Someone came across a long-abandoned castle with a close friend while journeying the countryside one dark night.
+
+十四行诗：唔……
+Sonetto: Hm...
+
+未锈铠：……城堡周围的树林里面弥漫着浓郁的雾气，某人的靴子踩在已经腐烂的树叶之上，泥土的腥味混杂着潮湿的腐败酸味。
+A Knight: ...The forest around the castle was a mire shrouded in eerie mist, and someone was traipsing right through it, boots tramping on rotten leaves and kicking up the most vile, putrid stink of rancid soil mixed with the damp stench of decay.
+
+未锈铠：前面不远的地方，便是某人和密友此行的目的地，一座闹鬼的城堡。
+A Knight: But our destination was not far off. We had almost reached the castle gate.
+
+小春雀儿：……
+Eagle: ...
+
+未锈铠：突然间，某人和密友看到前面似乎有一个人影。他歪歪斜斜地靠在树上，似乎昏迷了过去。
+A Knight: Suddenly, someone and that faithful friend spied a shadowy figure up ahead. He was slumped askew against a tree, seemingly unconscious.
+
+未锈铠：当时的某人，还是个头脑简单的骑士。某人快步上前，来到了人影的边上……
+A Knight: Back then, someone was still a simple-minded knight. Someone stepped forward and went heedlessly over to the side of the mysterious figure...
+
+众人：……
+Crowd: ...
+
+就在众人专注地倾听未锈铠叙述的故事时，一道身影恰好路过了此处。
+Just as everyone leans in closer, listening ever more attentively to the knight's story, another figure passes by.
+
+雾行者：工作计划确认无误……计划表略微有点紧凑，不过如果按照计划表推进的话，今天也能够准时下班。
+Oliver Fog: I can confirm that there are no problems with the work plan. Everything seems to be in order... The schedule is a little tight, but if we proceed accordingly, we can still finish all work on time today.
+
+未锈铠：某人轻轻拍了一下他的肩膀，但他似乎并没有反应。某人又拍了拍……
+A Knight: Someone tapped him on the shoulder, but he didn't budge an inch. Then, someone tapped him again...
+
+未锈铠：忽然间，他猛地抬起了头，露出了一张没有眼球的干枯鬼脸！
+A Knight: He suddenly lifted his head to reveal a ghastly, desiccated face with black holes where his eyes should've been!
+
+众人：呀！
+Crowd: What?!
+
+苏芙比：我知道了！这一定是卓柏卡布拉干的！
+Sotheby: Miss Sotheby knows! It must've been the Chupacabra!
+
+未锈铠：事实远非如此简单，看到这具尸体，某人和某人的密友一瞬间就明白了——
+A Knight: If only the truth were so simple. As soon as we saw that living corpse, someone and someone's good friend knew right away—
+
+未锈铠：在这座城堡的深处，隐藏着一个可怕的，心怀不轨的吸血幽灵！
+A Knight: In the depths of the castle lay a terrifying, treacherous, blood-curdling banshee!
+
+苏芙比：原来是坏幽灵干的！我见过的幽灵都是很好的人，还从来没有遇到过坏家伙呢。
+Sotheby: An evil spirit? What a surprise! All the spirits Miss Sotheby has met have been most cordial to her! Though to be fair. I have never had the misfortune of meeting a thirsty one before.
+
+十四行诗：确实……虽然性格古怪了一点，但是吵闹鬼和喀嚓喀嚓都是好人。
+Sonetto: That's a good point... They might be a bit on the quirky side, but Poltergeist and Click are good souls.
+
+雾行者：抱歉，借过一下，我要出去工作了。
+Oliver Fog: Excuse me please, some of us have work to do.
+
+苏芙比：啊，请从我这边走。
+Sotheby: Oh, this way, please—from my side, over here.
+
+苏芙比：雾先生，铠甲先生正在讲述他以前的冒险经历，可有趣了。你也要一起来听听吗？
+Sotheby: Mr. Fog, Mr. Knight was telling us about his past adventures just now. In fact, he was right in the middle of a very interesting story when you came in. Would you like to stay a while and listen with us?
+
+雾行者：我就免了，我还有工作要做。不过，我还是要提醒一下几位小姐。
+Oliver Fog: I'll pass on the ghost stories; I am very busy. However, I feel I must caution you, ladies.
+
+十四行诗：嗯？
+Sonetto: Oh?
+
+雾行者：有些人的嘴是这个世界上最不值得信赖的东西，除了杜撰和自我吹嘘，剩下的就只有推卸工作给未成年的童工了。
+Oliver Fog: There exist people in this world whose mouths are incapable of speaking the truth. Not only do they spin their yarns, boasting about what has never truly transpired, but they may even shirk their responsibilities and force minors to carry out their work for them.
+
+未锈铠：严格来说，某人没有嘴。说起来，某人一直很好奇自己是如何发出声音的。
+A Knight: Someone doesn't even have a mouth! Although someone has been wondering for some time now—how does someone even speak without anything with which to speak out of?
+
+苏芙比：了不起的神秘术！
+Sotheby: Through the magic of your arcane skill!
+
+维尔汀：……
+Vertin: ...
+
+维尔汀：我就猜到会变成这样。
+Vertin: I knew this was going to happen.
+
+十四行诗：司辰？您也来了吗？奥利弗先生今天发生了什么？他似乎心情不太好的样子。
+Sonetto: Timekeeper? You came to visit, too? Did something happen to Mr. Fog today? He appears to be in quite a foul mood.
+
+选项 / Choices
+
+1. 估计是在抗议加班吧
+1. I don't think he's very happy about having to work outside of his schedule.
+
+众人：咦……
+Crowd: I see...
+
+TO BE CONTINUED ...
+TO BE CONTINUED ...
+
+02  休假日 / Rest Day
+
+休假日
+Rest Day
+
+十四行诗：原来如此，因为未锈铠先生提出了需要他加班的作战计划……
+Sonetto: All this because Mr. Knight proposed a mission plan that requires working through his day off?
+
+苏芙比：雾先生这么讨厌自己的工作吗？
+可是，如果不喜欢自己的工作的话，那么不做就好了呀。
+Sotheby: Does Mr. Fog really hate his work that much? If you really dislike your job, then why not quit?
+
+十四行诗：老实说，我也不是很能够理解雾行者先生的想法……
+Sonetto: To be honest with you, I have never understood the way Oliver Fog thinks...
+
+选项 / Choices
+
+1. 或许他也有什么难言的苦衷吧
+1. Maybe he's dealing with issues that he's not able to readily share.
+
+小春雀儿：司辰，您不劝阻一下雾行者和未锈铠先生吗？
+Eagle: Timekeeper, perhaps you might try negotiating between Mr. Fog and Mr. Knight?
+
+维尔汀：……不，还是让他们两个自己解决吧。我相信未锈铠能够解决问题的。
+Vertin: ...No, it's best if we let the two of them sort this out on their own. I believe Mr. Knight will find a way to figure this out.
+
+雾行者：……我相当确信，骑士先生所处的那个年代，没有劳动法的存在。
+Oliver Fog: ...It goes without saying that you didn't have labor laws in your era.
+
+未锈铠：显然，这种现代产物，既不适合某人所处的年代，也不适合“骑士”这种职业。
+A Knight: Naturally, this sort of modern dalliance was neither fitting for someone's era nor for the profession of a knight.
+
+雾行者：骑士先生，时代总是在不断进步的。
+Oliver Fog: Sir Knight, times have changed.
+
+雾行者：现在的这个时代，已经不需要什么骑士了，需要的是八小时工作制和节假日不加班。
+Oliver Fog: We have no need of knights in our time. What we do need is an eight-hour work day and no mandated overtime on holidays or weekends.
+
+未锈铠：公务员先生，实际上，我们的时代是在倒退的。
+A Knight: Oliver, you seem to forget this era is in a state of decline.
+
+雾行者：总不会倒退到没有劳动法和节假日的悲惨年代吧？
+Oliver Fog: But surely even our present decline will not regress us back to a time without labor rights and holidays, right?
+
+雾行者：我们要学会适应时代的变化，未锈铠先生。
+Oliver Fog: We all need to adapt to the changing of times, Mr. Knight.
+
+未锈铠：确实如此，您说得对，我们要学会适应时代的变化。
+A Knight: Too true. Someone needs to learn to adapt to the times.
+
+未锈铠：所以某人一直都想换一副更新潮，更时尚的铠甲。颜色更加花哨一点的——话说回来，您觉得某人适合粉红色吗？
+A Knight: This is why someone has always wanted to change into armor someone might consider to be more in keeping with the times. A more dazzling color, perhaps... By the way, do you think pink would suit someone at all?
+
+雾行者：……平心而论，我劝你最好还是不要这么干。
+Oliver Fog: ...Honestly, I wouldn't advise it.
+
+未锈铠：那贴纸呢？某人听星锑小姐说过，在超市购买饼干能够获得附赠的贴纸。
+A Knight: Then how about stickers? Someone heard Miss Regulus say that someone could receive complimentary stickers upon purchasing baked goods from the market.
+
+未锈铠：某人对其中几款贴纸相当感兴趣。贴在某人的剑和甲胄上，想必一定会很酷。
+A Knight: Someone happens to be quite interested in several of these stickers. Imagine sticking them on someone's sword and armor! How splendid that would be!
+
+未锈铠：不过，某人显然不具备解决这些饼干的能力。因而某人希望能够委托您代某人处理这些多余的饼干。
+A Knight: However, someone clearly lacks the ability to consume such a copious quantity of baked goods alone- or indeed at all. Therefore, someone hopes to entrust the task of devouring this surfeit of biscuits to you on someone's behalf.
+
+雾行者：太好了，谢……咳，请不要转移话题。
+我是很严肃地在向你提出抗议，未锈铠先生。
+Oliver Fog: Biscuits, really? —Ahem. Don't change the subject. I won't be bribed by your biscuits and I expect my complaint to be taken seriously, Mr. Knight.
+
+未锈铠：噢？噢！抱歉，某人在听，雾行者先生。您抗议的内容是什么呢？
+A Knight: Oh? Oh! Sorry, someone is listening, Oliver. What is it that you are complaining about?
+
+雾行者：未锈铠先生，你需要尊重我作为一名童工仅剩的、为数不多的假期。
+Oliver Fog: Mr. Knight, I am but a child yet I am forced to work, and as such, you must respect the few holidays I have.
+
+雾行者：所以，请不要随便向维尔汀小姐提出任何可能导致我非法加班的建议。
+Oliver Fog: I would ask you to please refrain from making suggestions to Miss Vertin that may lead to my being forced to work overtime.
+
+未锈铠：假期……噢，某人可能不太适应这个“时代变化”。
+A Knight: Holidays? Ah, it seems someone might not be so well-adapted to these times just yet.
+
+未锈铠：毕竟，骑士和他理所应当做的事情，都是没有假期的。
+A Knight: After all, when it comes to a knight and the things it is one's duty to do, there are no holidays.
+
+雾行者：你愿意加班是你的事情，骑士先生。
+而我一向拒绝无意义的加班——尤其是假期的加班。
+Oliver Fog: If you want to work overtime, that's your business, Mr. Knight. I however have always refused any unreasonable requests to work overtime, especially during holidays.
+
+未锈铠：某人明白您的意思了，奥利弗先生，某人会尊重您的权利。
+A Knight: Someone understands what you mean, Oliver. Someone will strive to respect your rights.
+
+雾行者：那也不枉我正式地提出抗议……
+Oliver Fog: Good to see my complaint wasn't a complete waste of time...
+
+雾行者：……
+Oliver Fog: ...
+
+雾行者习惯性地随手拿出怀表，不甚在意地撇了一眼时间。
+Oliver Fog pulls out his pocket watch once more, glancing over the time as if to appear casual.
+
+随后，他愣在了原地，就像是一只兴冲冲地倾倒罐头，却发现自己私藏的微尘已经不知所踪的卡邦克鲁一样。
+He then freezes in place, like a Carbuncle eagerly emptying cans, only to find its secretly stashed dust gone without a trace.
+
+雾行者：……
+Oliver Fog: ...
+
+雾行者：…………
+Oliver Fog: ...
+
+未锈铠：怎么了，奥利弗先生，您似乎有些苦恼？
+A Knight: What's wrong, Oliver? You seem somewhat distressed?
+
+雾行者：……计划乱了。
+Oliver Fog: ...My plan is in tatters now.
+
+未锈铠：……什么？
+A Knight: ...What?
+
+雾行者：我的工作计划乱了，时间上已经不足以完成预定的工作计划了。
+Oliver Fog: My work plan's a mess. There's not enough time to finish all my tasks.
+
+未锈铠：因为和某人谈话的缘故吗？
+A Knight: Is it because someone has taken up so much of your time with this issue of ours?
+
+雾行者：因为你不断打岔的缘故。
+Oliver Fog: Your continuous interruptions certainly have not helped!
+
+雾行者：……没想到，我保持了两百一十一天的不加班记录，就要在今天终结了。
+Oliver Fog: ...I never expected my record of not working overtime for 211 days straight to end today.
+
+未锈铠：恕某人多嘴一问，您今天的工作地点是哪里？
+A Knight: Excuse someone for asking, but where have you been assigned to work today?
+
+雾行者：箱子附近的一片树林，我需要保证那里良好的视野，以确保箱子万一遭受袭击，我们能够及时反应过来。
+Oliver Fog: A forest near The Box. I need to ensure we maintain a good vantage point there, so that if The Box is attacked, we can react in a timely fashion.
+
+未锈铠：……嗯？
+A Knight: ...Hmm?
+
+雾行者：有什么疑问吗？
+Oliver Fog: Is there something you'd like to ask me?
+
+未锈铠：不，没什么。
+A Knight: No, no, of course not.
+
+未锈铠：只是某人想要提醒一下奥利弗先生，那片森林夜晚并不安全，您还是早点回来比较好。
+A Knight: Only a caution, Mr. Fog, that the forest isn't safe at night. It would be better to head back early.
+
+雾行者：……感谢你的提醒，但我必须要完成我的工作。
+Oliver Fog: ...Thanks for your concern, but my work takes precedent, I can fend for myself.
+
+未锈铠：然而，据某人所知的信息，没有人会在夜晚前往那片森林。
+因此，即便您完成了工作，清除了雾气，也不一定能起到作用。
+A Knight: Someone has heard that no one goes to that forest at night. Therefore, even if you complete your work and clear the fog, it may not necessarily be of any use.
+
+雾行者：未锈铠先生，你以为雾行者的职责是吸收雾气吗？
+Oliver Fog: Mr. Knight, do you believe that the work of the Fogwalker is to absorb the fog? To keep it at bay?
+
+未锈铠：某人一直是如此认为的，难道某人的理解有不准确的地方？
+A Knight: Someone has always believed this to be the case. Is there some flaw in someone's understanding?
+
+雾行者：雾行者真正的职责，是为了让人们相信雾气得到了控制。
+Oliver Fog: The true responsibility of the Fogwalker is to make the people believe that the fog is under control.
+
+雾行者：只要存在着雾行者，人们就会相信雾气得到了处理。
+Oliver Fog: As long as there is a Fogwalker, people will believe that the fog is being dealt with.
+
+雾行者：雾行者到底能够吸收多少烟雾，是怎么办到的，这有什么用处，没有人会在意。
+Oliver Fog: No one cares about how much fog a Fogwalker can absorb, how it all works, or what a Fogwalker's purpose really is.
+
+雾行者：让人们相信雾气得到了控制，这才是雾行者的真正工作。
+Oliver Fog: Making people believe that the fog is under control is the Fogwalker's true responsibility.
+
+雾行者：出于这项原则，我必须保证我的工作时间，使之符合雾行者的定位。
+Oliver Fog: Based on this principle, I must ensure that my working hours align solely with my duty as the Fogwalker.
+
+未锈铠：某人想到了一个词汇。
+A Knight: Someone has just thought up the perfect word to describe you.
+
+雾行者：我知道你想说什么，这种情况，我们一般俗称为“官僚”。
+Oliver Fog: I know what you're trying to say. In this kind of situation, we commonly refer to such people as "bureaucrats." or "pencil pushers" those that do their duty to the letter of the law and nothing more.
+
+雾行者：不过，我是一名公务员，这种词汇对于我来说，没准是一种赞美。
+Oliver Fog: However, to a civil servant like myself, this term might be seen as a form of praise.
+
+雾行者：告辞了，未锈铠先生，我还要完成我今天的“使命”呢。
+Oliver Fog: Farewell, Mr. Knight. I must leave now if I have any hope to finish my work today.
+
+选项 / Choices
+
+1. 抱歉，未锈铠先生
+1. Sorry, Mr. Knight.
+
+未锈铠：无需向某人道歉，维尔汀小姐。不过……您没有告诉他那件事情吗？
+A Knight: Someone does not see any reason for you to apologize, Miss Vertin. But... didn't you tell him?
+
+选项 / Choices
+
+1. 我还没来得及告诉他……
+1. I haven't had a chance to tell him yet...
+
+未锈铠：原来如此……维尔汀小姐，某人突然想起来，某人还有点事情，暂且告辞一下。
+A Knight: I see... Miss Vertin, someone has suddenly remembered another urgent matter someone must attend to. For now, I must bid you adieu.
+
+选项 / Choices
+
+1. ……好的
+1. ...As you wish.
+
+苏芙比：啊，铠甲先生，你不讲故事了吗？
+Sotheby: Oh, Mr. Knight, won't you tell us the rest of the story?
+
+未锈铠：抱歉，诸位女士。某人突然有点急事，需要离开一下，还请原谅某人的失礼。
+A Knight: Sorry, everyone. Someone has an urgent matter to deal with and must leave immediately. Please forgive my uncouth and abrupt departure.
+
+苏芙比：诶，要结束了吗？谢谢你精彩的故事，铠甲先生！
+Sotheby: Aww? Is that it for now? Thank you for sharing that wonderful story, Mr. Knight!
+
+TO BE CONTINUED ...
+TO BE CONTINUED ...
+
+03  谐音笑话 / Dad Jokes
+
+谐音笑话
+Dad Jokes
+
+雾行者：嗯，总算是差不多了……让我检查一下工作计划。
+Oliver Fog: Well, that's everything done, more or less... Let me check my work schedule.
+
+雾行者：都完成了……可以下班了。
+Oliver Fog: Good. Then I can clock off now.
+
+雾行者：白天还不明显，但一旦夜晚来临，这片森林就显得过分安静了。
+Oliver Fog: It's not that noticeable during the daytime, but as soon as night falls, this forest becomes excruciatingly quiet.
+
+雾行者：唔……我讨厌这种安静的地方。
+Oliver Fog: Hm... I hate places that are this silent.
+
+它总会让我想起时常置身于其中的浓雾。
+It reminds me of the fog I have to immerse myself in almost daily.
+
+就连呼喊与求救也淹没于其中的浓雾。
+Where even my shouts and cries for help are swallowed up by this bedevilled fog.
+
+？？？：哇哇哇哇——
+???: Waaaaah!!!
+
+雾行者：这是什么东西？太暗了，压根看不清楚……
+Oliver Fog: What's this? It's too dark to see clearly ...
+
+雾行者：它们袭击过来了！
+Oliver Fog: Critters! And they're attacking!
+
+？？？：吱吱吱吱吱吱——
+???: Squeeeee!!!
+
+雾行者：这数量比我想象中的还要多……
+Oliver Fog: There's even more of them than I'd feared ...
+
+雾行者：不行，这附近没有任何遮蔽地形，站着不动只会被包围。
+Oliver Fog: And there's no kind of natural shelter around... If I stay put, they'll eventually surround me.
+
+雾行者：还好今天下午工作的时候吸收了不少雾气，这时都能够用上。
+Oliver Fog: Fortunate that I absorbed quite a bit of fog while working this afternoon. It should still be usable...
+
+雾行者：呵……这就是努力工作得到的回报吗？
+Oliver Fog: Hah... So this my reward for all that hard work?
+
+雾行者：不对，我怎会生出如此危险的想法。
+Oliver Fog: No, I shouldn't think like that.
+
+雾行者：要不是因为工作，我也不会遇到这事情。
+Oliver Fog: But work's the reason I ended up in this mess.
+
+雾行者：那个方向的敌人好像比较少……就朝着那边突围吧。
+Oliver Fog: It looks like there are fewer enemies in that direction... I think I just might break through that way.
+
+浓郁的雾气自伞的顶端倾泻而出，转眼之间就铺满了附近的森林。
+A dense fog pours out from above his umbrella, quickly enveloping the surrounding area.
+
+雾行者：呼……总算是靠着雾气的掩护逃出来了，这附近的魔精似乎没有那么多了。
+Oliver Fog: Phew... That was a narrow escape, all thanks to the fog... At last it seems there aren't as many critters around here.
+
+雾行者：周围太黑了……加上雾气，压根看不清是什么魔精袭击了我……
+Oliver Fog: It's too dark now, and with the fog, I couldn't even make out what kind of critters were attacking me...
+
+雾行者：先暂时休息一下，待会儿再想办法离开吧。
+Oliver Fog: I need to rest for a bit now... I'll figure out how to get out of here once I catch my breath.
+
+？？？：雾行者先生，您还好吗？
+???: Fogwalker, are you alright, my young friend?
+
+雾行者：？！
+Oliver Fog: ?!
+
+未锈铠：雾行者先生，见到某人，就这么让您诧异吗？
+A Knight: Are you truly so surprised to see someone here, Fogwalker?
+
+雾行者：……未锈铠先生？
+Oliver Fog: ...Mr. Knight!
+
+未锈铠：您是见过了什么东西，以至于让您对某人的存在产生如此之大的情绪波动，是杜拉罕骑士吗？
+A Knight: Did you think me a Dullahan? Or else what other vile thing did you see as to elicit that reaction on seeing someone here.
+
+雾行者：我应该感谢你用的词汇是“诧异”而不是“惊恐”吗？
+Oliver Fog: I thank you for using the word "surprised" instead of "panicked" regarding my reaction.
+
+未锈铠：不用谢，雾行者先生。
+A Knight: I have no interest in shaming your reaction, Fogwalker.
+
+雾行者：未锈铠先生，你为什么会在这里？
+Oliver Fog: Well then, Mr. Knight, what brings you here?
+
+未锈铠：某人突发奇想，想在森林里扮演一块石头——您看，某人的伪装相当的完美，您似乎也没有发现某人的存在。
+A Knight: Someone had the sudden impulse to play the part of a stone in the forest. See? Someone's disguise is quite perfect, is it not? Even your keen eyes failed to detect someone's presence amid the moss and trees.
+
+雾行者：倒不如说，能发现你的存在才比较奇怪吧？
+Oliver Fog: Don't you think it would have been even stranger if I had managed to notice you there?
+
+未锈铠：因为骑士【knight】很黑，所以发现不了某人吗？
+A Knight: Because the night is so dark?
+
+雾行者：未锈铠先生，像这种不好笑的笑话，我们一般称之为“爸爸的笑话”。
+Oliver Fog: Mr. Knight, this kind of banal joke is what we commonly refer to as a "dad joke."
+
+雾行者：自从我父亲去世之后，我有段时间没有听过这么没有品位的笑话了。
+Oliver Fog: I haven't heard a line as terrible as that since my father passed. And I'd rather I never heard such a thing again...
+
+未锈铠：非常抱歉，某人并不是有意的，某人对此深表遗憾。
+A Knight: Please forgive me. Someone didn't mean to stir up memories from your past. Someone deeply regrets having upset you so.
+
+雾行者：没什么，事情已经发生了很久了。我也已经不怎么在意了。
+Oliver Fog: Come now. It was a long time ago. I don't really care much about it anymore, anyway.
+
+未锈铠：能与某人聊聊您的父亲吗？某人对上一任雾行者颇有兴趣。
+A Knight: In that case, perhaps you might tell someone more about your father? Someone is quite interested in the previous Fogwalker.
+
+雾行者：我的父亲？
+Oliver Fog: You want me to tell you about my father?
+
+雾行者：我可以拒绝吗？我甚至都想不到他有什么值得一谈的地方。
+Oliver Fog: I'd rather not. I can't think of a single thing worth mentioning about him.
+
+雾行者：一个普通的人，一个普通的雾行者，一个死在了雾里的雾行者。
+Oliver Fog: He was an ordinary man, and the most ordinary Fogwalker... A Fogwalker who died in the fog.
+
+雾行者：以及一个失败的父亲。
+Oliver Fog: And a failure of a father.
+
+雾行者：他几乎没有陪伴过我和母亲。每天不是在工作就是在研究神秘术，也唯有在谈论神秘术的时候，才能表现出一点神秘学家的样子。
+Oliver Fog: He hardly ever spent any time with my mother and me. Every single day, if he wasn't busy working, he was studying the arcane. And it was only when discussing arcanism that he would display a demeanor alike to an arcanist.
+
+雾行者：他用了自己的一生去钻研改良福葛家族的神秘术，想要让它适应现代社会的“雾”，却最终因此而死去。
+Oliver Fog: He spent his whole life studying and striving to push the arcane techniques of the Fog family forward, hoping to adapt them to the fog we now face in the modern era, but ultimately, it led him to his demise.
+
+雾行者：颇具讽刺意味，不是吗？
+Oliver Fog: Ironic, isn't it?
+
+雾行者：我几乎不记得他的样子了，唯一给我留下印象的，也只有饭桌上的几个干巴巴的“爸爸的笑话”。
+Oliver Fog: I can scarcely remember what he looked like anymore. The only thing about him that left any sort of lasting impression on me were those few "dad jokes" he made around the dinner table.
+
+雾行者：糟糕的、毫无水准的笑话。
+Oliver Fog: Terrible, tasteless jokes.
+
+未锈铠：但他是雾行者，整个伦敦城只有一个的雾行者。
+A Knight: But he was a Fogwalker, and there was only one Fogwalker in all London.
+
+雾行者：人们为“雾行者”这个职务赋予了很多意义，但在我看来，雾行者这个职务与挑粪工并没有什么区别。
+Oliver Fog: People have attached a great deal of import to the title "Fogwalker," but in my opinion, a Fogwalker is not much different from a manure scooper.
+
+雾行者：为了所谓的工作和责任而奉献自己，甚至是牺牲自己。在我看来，这个世界上没有比这更蠢的事情了。
+Oliver Fog: Devoting yourself or even sacrificing yourself for the sake of your so-called responsibilities... there is nothing more foolish in the entire world.
+
+雾行者：我永远不会像父亲那样。他被“雾行者”这个称号束缚了，但我绝不会那样。
+Oliver Fog: I'll never live my life the way my father did. He was bound by the title "Fogwalker," but I won't let that happen to me.
+
+未锈铠：您很敬仰您的父亲，某人能够感受得到。
+A Knight: You admire your father greatly. Someone can feel it.
+
+雾行者：我并没……
+Oliver Fog: I do not...
+
+雾行者：好吧，在我还是个小孩的时候，我曾经也想要成为雾行者，也曾经非常崇拜我的父亲。
+Oliver Fog: When I was a child, I wanted to become a Fogwalker too, so yes... maybe then I admired my father greatly.
+
+雾行者：但现在已经不一样了。
+Oliver Fog: But things are different now.
+
+雾行者：只不过是因为他曾经……
+Oliver Fog: It's only because he used to...
+
+？？？：呜呜呜——
+???: Wooooo!!!
+
+雾行者：该死，这些魔精是什么时候追过来的？
+Oliver Fog: Damn it! How did these critters ever catch up with me?
+
+一道道黑影自丛林深处窜了出来，转眼之间便包围了这里。
+Dark shadows rush out from the depths of the forest, encircling the area before there's time to react.
+
+黑影不断地自森林深处窜出，仿佛工厂烟囱喷涌而出的黑雾一般，连绵不绝。
+Yet more shadows emerge from the forest depths, like smoke spewing from factory chimneys, thick and relentless.
+
+未锈铠：看来，我们遇到了一点小麻烦。
+A Knight: It appears we've found ourselves in something of a predicament.
+
+TO BE CONTINUED ...
+TO BE CONTINUED ...
+
+04  海布里球场 / Highbury Stadium
+
+海布里球场
+Highbury Stadium
+
+我惧怕着雾。
+I'm afraid of the fog.
+
+是的，负责处理伦敦雾气的雾行者，居然恐惧着雾气。没有比这更讽刺的事情了。
+That's right, the Fogwalker responsible for dealing with London's fog problem is in fact terrified by it. Is there anything in the world more ironic than that?
+
+我恐惧着这片吞噬了一切的浓雾，声音，愿望，命运……就连那个伟岸的身影，都能一并吞没的浓雾。
+I'm afraid of this thick fog that devours everything—voices, wishes, fate... Even that majestic figure ended up being swallowed whole by the fog...
+
+那是我还是个孩子时的事情——还没有成为雾行者之前的事情。
+That was when I was a child—before I became the Fogwalker.
+
+那天，趁着母亲不注意，我偷偷溜出了家门。我要进行一场伟大的远征，我的目的地是海布里球场。
+My mother turned her head for only a second, and I snuck out of the house. I wanted to embark on a great journey, and my destination was Highbury Stadium.
+
+阿森纳是伦敦当时最火热的球队，每个伦敦的孩子都会渴望成为阿森纳的一员，我也不例外。
+Arsenal was the best team in London at the time, and every child in London dreamt of becoming a player. I was no exception.
+
+我要去海布里球场，加入成为他们的一员。
+I wanted to go there, to Highbury Stadium and join the team.
+
+我幻想着自己身披阿森纳的队服在海布里球场驰骋，模仿着球员的动作，浑然忘记我已经偏离了大路。
+I was fantasizing about running around Highbury in a full Arsenal kit, imitating the movements of the players, completely oblivious to the fact that I had deviated from my path.
+
+这个时候，雾气自空气中渗透而出。
+That was when the fog came.
+
+先是微薄的，微不可见的雾气。
+First, a thin and almost invisible mist began to suffuse the air.
+
+它像一个灵巧的小偷，窃走了我的方向感，让我偏离了路线。
+It was like a clever thief, stealing all sense of direction and setting me on the wrong path.
+
+再是浓郁的，遮盖视线的雾气。
+Then another wave of thick fog came rushing in that completely obscured my view.
+
+它狞笑着摧毁了我所有的梦想，它告诉我，你哪儿也去不了，你一辈子都只能呆在这片浓雾之中。
+With a wicked smile, it set me apart from my dreams. It told me that I would never go anywhere—ever again, that I would remain in this dense fog for my whole life.
+
+最后，是粘稠的，如同粘液一般的雾气。
+Finally, that dreadful, clinging, sticky dark fog arrived.
+
+它摧毁了我最后的勇气，将我囚禁在原地，让我动弹不得，只能留在原地哭泣祈求。
+It destroyed the last remaining sliver of my courage, imprisoning me where I stood, leaving me unable to move so that all I could do was stand there, crying and praying.
+
+无论我如何哭泣，声音都无法透过这片粘稠的浓雾。
+Yet, no matter how much I cried, my voice couldn't penetrate through the dense and clinging air.
+
+在摧毁了我的梦想与勇气后，它竟然要连我脆弱的权利也一并剥夺。
+After destroying my dreams and my courage, at the last it stripped me of my fragile rights as a human.
+
+随后，浓雾自另外一头逐渐染上黑色。它要将光线也驱逐出这片囚笼。它要我恐惧它，就像恐惧“恐惧”本身一样。
+The fog gradually turned black from end to end. It sought to rob this cage I was in of its last remaining light. It wanted me to fear it—to fear it as though it were fear itself.
+
+漆黑的，蛮横的黑雾——就像现在一样。
+That pitch-black, brutal fog—hung just the way it does now.
+
+雾行者：这里怎么会有这么多魔精？这个数量压根不正常！
+Oliver Fog: Why are there so many critters? Something's entirely wrong here!
+
+未锈铠：奥利弗先生，某人提醒过您了，这片森林夜晚并不安全。
+A Knight: Someone did tell you that this forest was not safe at night, Mr. Fog.
+
+未锈铠：雾行者愣了一下，随后似乎反应过来了什么。
+A Knight: The Fogwalker pauses for a moment, then came to a sudden realization.
+
+雾行者：所以你才在这里……你是来保护我的？
+Oliver Fog: So that's why you're here... You came to protect me?
+
+未锈铠：不，某人只是前来扮演一棵会说话的树的。
+A Knight: No, of course not! Someone simply came here to play the part of a talking tree.
+
+雾行者：……是我连累了你，未锈铠先生，请接受我的道歉。我为我的任性连累到了你，感到深深的愧疚与自责。
+Oliver Fog: ...I've caused you nothing but trouble, Mr. Knight. Please accept my apology. My stubbornness dragged you into this mess, and I feel just awful about it...
+
+未锈铠：您是今天第二个向某人道歉的人了。某人还是同样的回答，无需向某人道歉，奥利弗先生。
+A Knight: You're the second person to apologize to someone today, and someone's response is still the same. There's no need for apologies, Sir Oliver.
+
+雾行者：我从来没有见过这个数量的魔精……这简直就像……
+Oliver Fog: I've never seen this many critters before in my life... It's beyond me.
+
+看不清形态的魔精堆叠在了一起，密密麻麻地将两个人包围了起来。
+The indistinct mass of shadows piled together surrounds the two of them.
+
+雾行者：魔精覆盖了两人一米开外的所有土地，将他们囚禁在了其中。
+Oliver Fog: Critters cover every inch of ground a meter away from them in all directions, trapping the two of them where they stand.
+
+未锈铠：奥利弗先生，您似乎在发抖。
+A Knight: Are you trembling, Sir Oliver?
+
+雾行者：……简直就像是一片看不到尽头，粘稠而漆黑的浓雾。
+Oliver Fog: ...They're just like that cloying black fog—a wicked pitch-dark mass that seems to have no end.
+
+雾行者：雾，黑色的浓雾，就连光线也无法透过的恐惧的雾。
+Oliver Fog: Fog... A heavy dense fog... A terrifying fog from which not even light can permeate.
+
+未锈铠：您是在害怕吗？害怕面前的敌人吗？
+A Knight: Are you afraid, sir? Would you show fear to the enemy standing before you?
+
+雾行者：……任何人看到这个数量的敌人，都会害怕的。
+Oliver Fog: ...Anyone would be afraid to face this many enemies all at once.
+
+无数的魔精将两人包围住，它们与漆黑的森林融为一体，让人无法分辨种类。
+Countless critters fold in around the two of them. Blending into the dark forest, making it impossible to distinguish their type as they approach.
+
+雾行者：魔精仿佛无穷无尽，不断地从森林的深处出现，拓展着、包围着两个人的边界。
+Oliver Fog: The swarm seems endless, emerging incessently from the depths of the forest, expanding and filling the space around them.
+
+但不知道出于什么原因，它们似乎并没有在第一时间发动攻击，而是将两人包围了起来。
+But for some unknown reason, they refrain from launching their attack, instead simply forming an ever thickening ring.
+
+未锈铠：呵呵，这幅场景，让某人回想起了某人战死之前的场景啊。
+A Knight: Hah! This reminds someone of the battlefield someone once stood in mere moments before being slain in combat.
+
+未锈铠：那时候，某人也是被这等数量的敌人所包围着的——不，当时要多上个数十倍。
+A Knight: Someone was surrounded by an equally large number of enemies then... No, indeed, take heart- there were perhaps a dozens times more than this.
+
+雾行者：……未锈铠先生，你是因为我才遭遇危险的。
+Oliver Fog: ...Mr. Knight, it's all because of me that you've had to put your life in danger once more.
+
+雾行者：我会承担起自己的责任，尽最大的努力让你逃出去。
+Oliver Fog: I take full responsibility for my actions, good sir, and I shall do everything I can to help you escape.
+
+少年深吸了一口气，重新撑开了手里的伞，准备与这无边无际的黑雾战斗。但他颤抖的双手与双腿早已出卖了他。
+The young man takes a deep breath and opens his umbrella once more, preparing to take on the endless dark mist. However, his trembling hands and legs betray him.
+
+雾行者：这个数量的敌人，我们根本无法应对……
+Oliver Fog: There's simply no way we can handle this many enemies...
+
+雾行者：唯一的好消息，就是维尔汀小姐是知道我的行动的……
+Oliver Fog: The only thing I take solace in now is the fact that at least Miss Vertin was aware of my intentions...
+
+雾行者：现在只能祈祷维尔汀小姐发现我们两个失踪，前来寻找我们了……
+Oliver Fog: Now, all we can do is pray that Miss Vertin realizes the two of us are missing and comes looking for us...
+
+雾行者：雾行者的声音有些颤抖。
+Oliver Fog: The Fogwalker's voice trembles slightly.
+
+未锈铠：呵呵，某人突然想起来了一件事情。
+A Knight: Hah, someone has remembered something rather fitting.
+
+未锈铠：——某人曾经有过一名与您同名的挚友。
+A Knight: Someone once had a close friend with the exact same name as your own.
+
+未锈铠：这个名字，曾经是某人最熟悉的词汇之一。某人与他一道，经历过无数的事情。我们共享过荣耀，也承担过彼此的苦难。
+A Knight: That name used to be one which someone often called. Someone went through countless challenges with this friend—sharing both glories and suffering together.
+
+未锈铠：当时的某人，还是个莽撞的小伙子。多亏了他，某人才能一路成长为一名合格的骑士。
+A Knight: Back in those days, someone was but a reckless boy, but thanks to that friend, someone was able to grow into a true and worthy knight.
+
+未锈铠：他曾经数次拯救过某人的性命，而某人却给他增添了无数的麻烦，现在想来，多少会感到有些歉意。
+A Knight: He saved someone's life several times too, even though someone dragged him into trouble on countless occasions. When someone looks back on it now, someone cannot help but feel remorseful.
+
+未锈铠：抱歉，上了年纪的铠甲，总是会有一些不合时宜的回忆的。
+A Knight: Sorry, this rusty old armor is full of useless memories from long ago.
+
+雾行者：……
+Oliver Fog: ...
+
+未锈铠：您和某人的那位曾经的挚友十分相似，每次看到您，某人总是会情不自禁地联想起年轻时的我们。
+A Knight: You and someone's old confidant are indeed very similar. Every time someone sees you, someone can't help but think of those adventures from a past life.
+
+未锈铠：他是一个跟您一样优秀，聪明而冷静的人。
+A Knight: He was an excellent, intelligent, and level-headed fellow, just like you.
+
+雾行者：……你是在讽刺我吗？
+Oliver Fog: ...Are you having a laugh at me?
+
+未锈铠：某人对于讽刺这种修辞手法的运用，远没有英国人来得熟练且恰到好处。所以，您大可以更加相信自己一点的。
+A Knight: Someone's command of irony as a rhetorical device is far less sophisticated than the perfect proficiency you modern Britons seem to possess. Perhaps you should learn to have a more faith in yourself...
+
+未锈铠：尽管您现在还稍显稚嫩，还只是个孩子。但总有一天，您也会成为一名与他一样了不起的骑士的。
+A Knight: Although you are still just a child and immature in many ways, one day, someone is sure, you will also become a great knight like he was.
+
+雾行者：可我并非骑士。
+Oliver Fog: But I am no knight.
+
+未锈铠：某人记得，您在今天早上说过，骑士已经过时了。
+或许确实如您所言，但某人相信，骑士的精神永远不会过时。
+A Knight: Someone remembers you saying only this morning that knights were a thing of the past. Perhaps your musings hold some truth; however, someone believes that the spirit of chivalry shall never die.
+
+未锈铠：——而您有成为一名骑士的潜质。
+A Knight: And you truly do have the spark of potential to become a knight.
+
+雾行者：但我终究只能成为雾行者，我当不了阿森纳的球员，也当不了骑士，我的工作是雾行者。
+Oliver Fog: It's a nice sentiment, but I'll never be an Arsenal player or a knight. Being a Fogwalker is my sole calling.
+
+雾行者：就像我的父亲，我的祖父，我的曾祖父一样——这是福葛家族的宿命。
+Oliver Fog: Just like my father, and his father before him, and his father before him... This is the fate of all the Fogs.
+
+雾行者：我的所有梦想与期望，全部都被困在了那片永远也无法战胜的浓雾里面，从未走出。
+Oliver Fog: All my hopes and dreams are trapped, never to be set free... Trapped in that unconquerable fog.
+
+未锈铠：无法战胜……吗？
+A Knight: Unconquerable, eh...?
+
+未锈铠：这个世界上，是不存在无法战胜的东西的，奥利弗。
+A Knight: There is nothing in this world that is truly unconquerable, Oliver.
+
+雾行者：……说得好听。
+Oliver Fog: ...That notion certainly is pleasing to hear at the moment.
+
+雾行者：如果真的如同你所说的一般，你又怎么会——
+Oliver Fog: But if things were the way you said they were, why would you—
+
+雾行者：……对不起，我的情绪有点激动了。
+Oliver Fog: ...Sorry, I've let my emotions get the better of me.
+
+未锈铠：死亡或许是结束，但那并非是我们的结局，奥利弗。
+A Knight: Death may be an end, but it's not the end for us, Oliver.
+
+未锈铠：作为您刚刚告诉了某人关于您父亲的事情的回报，您想要听听奥利弗的故事吗？
+A Knight: How about someone tells you the story of Oliver in kind for your bravely speaking about your father?
+
+未锈铠：某人的挚友……骑士奥利弗的故事。
+A Knight: Someone's closest friend... The story of Oliver, the Knight.
+
+雾行者：他怎么了？
+Oliver Fog: What happened to him?
+
+雾行者：……我向你表示歉意，我似乎问了多余的问题。
+Oliver Fog: ...I apologize, Sir Knight... I'm asking pointless questions.
+
+未锈铠：他死了。
+A Knight: He died.
+
+未锈铠：他并不如某人幸运，能够以另外一种身份重新回到世界。
+A Knight: And it seems he was not as lucky as someone else. He was not granted the gift of returning to the world, born into a new identity.
+
+未锈铠：但他从未死去。
+A Knight: But he'll never truly die.
+
+TO BE CONTINUED ...
+TO BE CONTINUED ...
+
+05  奥利弗的故事 · 1/3 / The Story of Oliver · 1/3
+
+奥利弗的故事
+The Story of Oliver
+
+未锈铠：某人当时与奥利弗一同在主君的军队中服役，在一场战斗中，遭遇了敌人的伏击。
+A Knight: Someone served with Oliver in our liege's army, and it was during one particular foray that we were ambushed by the enemy.
+
+未锈铠：为了掩护大部队离开，某人与奥利弗一同承担了殿后的责任。
+A Knight: To cover the retreat of our main force, someone, along with Oliver, took on the duty of forming the rear guard.
+
+未锈铠：敌人人数众多，而我们仅有十二人。
+我们必须不断战斗，为大部队的撤退争取时间。
+A Knight: Our enemies were legion, and there were but twelve of us. We had to fight without rest to buy time for the others' retreat.
+
+未锈铠：奥利弗并不喜欢战斗，相比于战斗，他更推崇使用智力与言语达成自己的目的……呵呵，可以说是与当时某人的行事作风完全相反。
+A Knight: For a knight, Oliver was not much of a fighter. He had always used the better talents of his mind and his eloquence with words to accomplish his ends... Hah, you could say his methods were very much the opposite of someone's own at the time.
+
+未锈铠：但即便如此，奥利弗也依旧义无反顾地参与了这场战斗。在战斗中，奥利弗为了掩护某人，为某人阻挡了数十次的攻击。
+A Knight: Nevertheless, Oliver fought without fear or hesitation. In order to protect someone he blocked dozens of attacks throughout the course of the battle.
+
+未锈铠：某人亲眼目睹着他奋战到了最后一刻，直到这时，某人也依旧在接受他的帮助。
+A Knight: Someone witnessed him fight to the very last with someone's own eyes, and even at the bitter end, someone found oneself receiving his steadfast protection.
+
+未锈铠：……某人还清楚地记得当时的场景。
+A Knight: ... Someone still remembers the scene vividly.
+
+未锈铠：他赞颂着和平与荣耀，坦然地接受了自己的宿命，战斗到了最后。
+A Knight: He lauded peace and glory, calmly accepted his fate, and fought until the end.
+
+未锈铠：某人与奥利弗的战斗失败了，无论我们如何努力，也无法将足足四十万的敌人打败。
+A Knight: Someone's resistance with Sir Oliver ended in our deaths. Though we fought tooth and nail, we could not defeat the overwhelming strength of the greater thousands of men set against us.
+
+未锈铠：但我们成功了。
+A Knight: But we succeeded in our mission.
+
+未锈铠：我们成功地阻挡了敌人，为大部队的撤退争取到了时间。
+A Knight: We successfully held the enemy long enough for our main force to retreat to safety.
+
+未锈铠：相较于此，某人等人的牺牲，颇有价值。
+A Knight: In view of this outcome, the sacrifice someone made, along with the sacrifices of all who stood beside us, was well worth it.
+
+未锈铠：某人有时候也会思考，为什么在那场战斗之中，某人是唯一一个“复活”了的骑士。
+A Knight: Someone sometimes wonders why someone was the only knight resurrected from that fateful battle.
+
+未锈铠：某人会想，是不是上天知道了某人亲眼目睹了其他十一名战友们殒命的景象，才让某人重新“复活”的呢？
+A Knight: Someone has even asked if God knew someone had witnessed the deaths of eleven braver souls that day why still the lesser someone was alone brought back.
+
+未锈铠：如此一想，某人便会释然。
+A Knight: Upon reaching this line of thinking, someone feels new purpose.
+
+未锈铠：某人并非单纯为了某人自己而活。某人目睹了他们所有人的最后一刻，某人理应活着，将他们的名字与功绩留存于世间。
+A Knight: Someone is no longer simply living for oneself. Someone witnessed their last moments; thus, someone is duty-bound to preserve the glory of their names and achievements in this world.
+
+雾行者：……我不理解。
+Oliver Fog: ... I don't understand.
+
+雾行者：我不理解你们为什么会这么做。
+Oliver Fog: I don't understand why you're doing any of this.
+
+雾行者：为什么，你们能够在明知毫无胜算的情况下战斗？
+Oliver Fog: Why would you fight on, knowing full well that you stood no chance of survival?
+
+雾行者：——即便你们如此清楚，死亡是你们唯一的结局。
+Oliver Fog: Even with such a clear understanding of your inevitable fate, seeing clearly that death was the only ending available to you.
+
+雾行者：死亡就像是在一场看不见的大雾中行走，看不到尽头，看不到边际，也永远无法获得回答。
+Oliver Fog: Death is like walking into an invisible fog, no end in sight, no boundaries to reach, and nought but silence to hear, to speak, no matter how loudly you wish to scream.
+
+雾行者：我不理解，你们为什么能够坦然地步入这场大雾之中。
+Oliver Fog: I don't understand how you could all walk into that fog so calmly.
+
+雾行者：……
+Oliver Fog: ...
+
+雾行者：就像，就像我那个愚蠢的父亲一样。
+Oliver Fog: Just like... just like my foolish father.
+
+未锈铠：愚蠢……吗？或许如此。
+A Knight: Foolish? Perhaps so.
+
+未锈铠：但是，奥利弗，有些东西是要比生命更加重要的，这是我们的责任。
+A Knight: However, Oliver, some things are more important than one's life. This is our duty -our responsibility.
+
+雾行者：够了！
+Oliver Fog: I've heard enough!
+
+雾行者：你们将牺牲与责任变成了褒义词，然后步入那场大雾。
+Oliver Fog: You turn your sacrifice and responsibility into virtues, and then march blindly into that fog.
+
+雾行者：你们有没有考虑过，还站在雾气外面的人，会遭受怎么样的事情？
+Oliver Fog: Did you ever stop to consider what those that stand outside of the fog have to go through?
+
+雾行者：我恨你们。
+Oliver Fog: I hate you all.
+
+雾行者：我从来就不应该在这里的，却因为你们所谓的责任，我才被迫要成为雾行者。
+Oliver Fog: I'm not even supposed to be here! I'm just a boy, but because of your dreamed-up notions of purpose and responsibility, I was forced to become a Fogwalker.
+
+雾行者：我从来都不想步入浓雾，我害怕它，我只想……只想活着。
+Oliver Fog: I never wanted to walk amongst the fog. I'm terrified of it... I just want to... I just want to stay alive.
+
+未锈铠：畏惧死亡从来不是可耻的事情，奥利弗。
+A Knight: To fear death is never something to be ashamed of, Oliver.
+
+未锈铠：但倘若死亡是获得更加美好的东西所必经的道路，我们理当担负起这责任。
+A Knight: But if death is the only way we can achieve something greater than ourselves, we must bear it with honor.
+
+雾行者：更加美好的东西……是什么？
+Oliver Fog: Something greater?
+
+铠甲并未回答，而是缓缓地将插在地面的长剑拔起。
+The suit of armor doesn't answer. He slowly draws his longsword, which he had previously thrust into the ground.
+
+这时，我才想起，我们仍然处在魔精的包围之中。
+It feels as if in this moment now past they had forgotten they are still surrounded by critters.
+
+？？？：嘎——
+???: Gah!!!
+
+如同无边无际的黑雾一般，令人恐惧的魔精，仍然围困着我们。
+Like an endless midnight fog, the terrifying critters encircled us like a rushing tide.
+
+雾行者：！
+Oliver Fog: !!!
+
+雾行者：这是怎么回事……？魔精难道……是在害怕？
+Oliver Fog: What's going on here? Are these critters... afraid?
+
+忽然间，身旁老旧的铠甲将长剑举起，长剑上缓缓绽放出耀眼的白光。
+Suddenly, the old suit of armor lifted his longsword, and a dazzling ball of light began to bloom from it.
+
+未锈铠：某人曾见过。
+A Knight: Someone has seen this before.
+
+未锈铠：见过那某人永远无法忘怀的光。
+A Knight: Someone has seen the light that can never be forgetten.
+
+未锈铠：给予了某人勇气与信念的光。
+A Knight: The light that bestowed someone with courage and faith.
+
+未锈铠：不要遗忘我们回忆中的那道光，奥利弗。
+A Knight: Don't forget this light! Let it burn into our memories, Oliver.
+
+未锈铠：铠甲陡然挥下手中的长剑，正如他曾经无数次做过的那样。
+A Knight: The suit of armor swung the longsword in his hand with renewed strength, bringing it to bear as he had done countless times before.
+
+光辉陡然绽放，如同阳光一般横扫过黑雾。
+The brilliant light exploded in a starry burst, piercing through the black fog like burning rays of sunlight through shadow.
+
+那本应无边无际的，本应不可战胜的黑雾，在此刻却如同最怯懦的鼠辈一般——
+And the black fog, which once seemed boundless and invincible, revealed itself to be more cowardly than a trembling mouse...
+
+不战而降。
+It retreated-no, it surrendered to the light.
+
+剑光所到之处，浓郁的黑雾迅速地褪去，只留下一地的魔精尸体。
+Wherever the light touched, the fog burned away, leaving only the bodies of critters behind.
+
+此刻，满目之中，只有如同阳光一般的剑光。
+All that could be seen in that forest was the light of the sword, blazing like the dawn.
+
+直到此刻，我才发现，包围着我们魔精的数量远远没有我想象的那么多。魔精害怕着我们，才一直没有发动进攻。
+Only then did I realize the number of critters surrounding us to be far less than I had imagined. They were afraid of us and hadn't the nerve to launch an offensive.
+
+是黑夜与薄雾，远远放大了我自身的怯懦。
+我为敌人蒙上了一层厚厚的雾，然后不战而逃。
+The night and the fog had only magnified my own fears. I shrouded the monsters again in a thick blanket of fog and fled without having to lift a finger to fight them.
+
+随后，冰冷的钢铁铠甲轻轻地搭在了我的肩膀上，就像父亲离开前的动作一样。
+Then, that cold steel armor rested gently upon my shoulder with a motion reminiscent of my father's before he left.
+
+未锈铠：是希望，奥利弗。
+A Knight: Hope is greater, Oliver.
+
+他手中的剑光，与我记忆中那道破开雾气的阳光一般。
+The light from his sword was as sunlight, piercing through the fog of my memories.
+
+我忽然间想起来了。
+I suddenly remembered.
+
+我是为何想要成为雾行者的。
+I remembered why I wanted to become a Fogwalker.
+
+TO BE CONTINUED ...
+TO BE CONTINUED ...
+
+06  雾行者 / Oliver Fog
+
+雾行者
+The Fog Walker
+
+我偏离了大路，误入了浓雾之中。
+I had strayed from the main road and wandered into the fog.
+
+我哭泣着，但浓雾吞噬了我一切的求助。
+I wept, but the thick fog swallowed up my pleas for help.
+
+我唯一能够得到的感情，仅有恐惧。
+All that I felt was fear.
+
+黑雾笼罩着我，几乎要将我吞噬殆尽。
+The black fog enveloped me, almost devouring me.
+
+就在我绝望到了极点的时候，一道伟岸的身影自浓雾的深处走了进来。
+Just as I reached my limit, a majestic figure strood out from the depths of the fog.
+
+他撑着庞大的黑伞，顶着不合时宜的高顶礼帽，步伐稳重而从容。
+Holding a huge black umbrella and wearing a tall top hat from another time, he approached me with steady, composed steps.
+
+绝望的黑雾不甘地尖啸着，挣扎着，试图从他的身边逃离出去。
+The hopeless black fog howled desperately, struggling futilely to flee from his presence.
+
+但那只是徒劳。
+But to no avail.
+
+没有人比他更加清楚应该如何对付这些令人绝望的黑雾。
+No one was better at dealing with the dreaded black fog than he.
+
+他一步步朝着我走来，他的背后，是温暖而充满着希望的阳光。
+He walked toward me with purpose, with warm, hopeful sunlight rising from within him.
+
+——穿透黑雾，照亮了我的阳光。
+Penetrating the depths of the fog and casting its light over me.
+
+那道伟岸的身影来到了我的身边，轻轻地将手搭在了我的肩膀上。
+This majestic figure arrived at my side and gently placed its hand on my shoulder.
+
+“奥利弗，我们回家吧。”
+"Oliver, let's go home."
+
+他轻声说道。
+He spoke to me softly.
+
+就在这一刻，我明白了雾行者的意义。
+At this moment, I finally understood what it meant to be a Fogwalker.
+
+所谓的雾行者，便是步入浓雾，为他人带来阳光的职业。
+The Fogwalker is one who steps into the fog and brings light to others.
+
+它本质上只是一份职业，就像是拧螺丝与挑粪一样。
+Fundamentally, it's a job like any other, mundane as tightening screws or scooping manure.
+
+但它也不仅如此。
+But that's not all it is.
+
+父亲穿过迷雾，给我带来了希望。
+My father once walked through the fog to bring me hope.
+
+在那一天，他同样也是这么做的。
+On that day, he did the same.
+
+“这是我的责任，也是我们的责任。”
+"This is my responsibility. and it is our responsibility."
+
+放在我肩上的手轻轻离开，他重新戴上了礼帽，步入了浓雾。
+The hand that had gently rested on my shoulder withdrew in silence. He donned his top hat again and stepped back into that fog.
+
+那片将他吞噬殆尽的贪婪浓雾。
+The same voracious fog that would devour him whole.
+
+就像他自迷雾中寻找到我，给我带来希望一样。
+In the same way, he found me in the fog and brought me hope.
+
+1952年的那一天，他也为整个伦敦城更多的人，带去了希望。
+On that day in 1952, he also brought hope to the people of London.
+
+活下去的希望。
+The hope of survival.
+
+——忽然间，我开始痛哭。
+I found myself weeping, the tears falling beyond my control.
+
+未锈铠：……
+A Knight: ...
+
+未锈铠：辛苦了，奥利弗。
+A Knight: Excellent work...
+
+未锈铠：奥利弗，我们回家吧。
+A Knight: Oliver, let's go home.
+
+雾行者：在未来的某一天，我也能够像你们以及……父亲一样，为他人带来希望吗？
+Oliver Fog: Some day in the future, will I be able to bring hope to the world, just like you and... my father?
+
+未锈铠：……
+A Knight: ...
+
+未锈铠：嗯。
+A Knight: Yes.
+
+未锈铠：某人坚信，一定会有那么一天的。
+A Knight: Someone firmly believes that the day will come.
+
+未锈铠：某人说过了，您有成为骑士的潜质的。
+A Knight: Or have you already forgetten someone told you of your potential as a knight?
+
+TO BE CONTINUED ...
+TO BE CONTINUED ...
+
+07  调休制度 / Time Off in Lieu
+
+调休制度
+Time Off in Lieu
+
+雾行者：……维尔汀小姐，早上好。
+Oliver Fog: ...Good morning, Miss Vertin.
+
+选项 / Choices
+
+1. 早上好，雾行者先生
+1. Good morning, Mr. Fog.
+
+雾行者：……
+Oliver Fog: ...
+
+选项 / Choices
+
+1. ……
+1. ...
+
+雾行者：……
+Oliver Fog: ...
+
+选项 / Choices
+
+1. ……
+1. ...
+
+雾行者：……
+Oliver Fog: ...
+
+选项 / Choices
+
+1. ……有什么事情吗，雾行者先生？
+1. Is there anything I can do for you, Mr. Fog?
+
+雾行者：咳咳，没什么。只是某人突然想起了一点事情。
+Oliver Fog: Ahem, not really. It's only that I remembered something.
+
+选项 / Choices
+
+1. 什么事情？
+1. What is it?
+
+雾行者：并不是什么值得一提的事情，只是……嗯……
+Oliver Fog: It's not really worth mentioning, it's just... um...
+
+选项 / Choices
+
+1. 你的自称变了？
+1. You've taken on the title well, Fogwalker.
+
+雾行者：嗯？
+Oliver Fog: Oh?
+
+雾行者：咳咳，请……请不要在意这种事情。
+Oliver Fog: Ahem, please... please don't concern yourself with that sort of thing.
+
+雾行者：我是为了别的事情而来的。
+Oliver Fog: Actually, I came here for another reason.
+
+雾行者：前两天，你不是提到了今天有行动需要让我参与吗……？
+Oliver Fog: The day before yesterday, you mentioned an operation planned for today. One that required my participation.
+
+选项 / Choices
+
+1. 是的，但你当时拒绝了
+1. Yes, I recall you refused it at the time...
+
+雾行者：不是，那个……嗯，我的意思是，假如维尔汀小姐能够……能够以别的方式补偿我假期的损失……我也不是，也可以，不是不能，破例加一回班。
+Oliver Fog: I... well, what I mean is, if you could... compensate me for my day off in some other way... then I might, well, that is to say it's not impossible for me to, let's say, make an exception and take on another shift.
+
+维尔汀：你说这件事情？嗯……这件事情已经解决了。
+Vertin: Is that so? Well... the thing is, the matter has been resolved.
+
+雾行者：……解决了？
+Oliver Fog: ...Resolved?
+
+维尔汀：更准确来说，在我们谈话的当天晚上，就由你与未锈铠先生一起解决了。
+Vertin: To be precise, on the evening of our conversation, you and Mr. Knight appear to have worked together to resolve the issue.
+
+雾行者：什么时候？等等……是那群魔精？
+Oliver Fog: When? Wait... You mean those critters?
+
+维尔汀：是的。我接到消息，那片森林有一群会袭击人类的魔精。
+Vertin: Yes. we received word about a horde of critters in that forest known to attack humans.
+
+维尔汀：那群魔精平时白天隐藏在森林的雾气之中，晚上才行动。
+Vertin: Those critters would usually hide in the forest's fog during the day and only strike at night.
+
+维尔汀：因此，我希望你今天白天能够吸收雾气，协助我们找出那群魔精。
+Vertin: Therefore, I had hoped that today, during the daytime, you could absorb the fog to help us locate that particular critter horde.
+
+雾行者：……为什么不是晚上？
+Oliver Fog: ... And why not at night?
+
+选项 / Choices
+
+1. 你晚上不是还要上学吗？
+1. I seem to recall you having school tonight?
+
+雾行者：……感谢你如此尊重我的受教育权，维尔汀小姐。
+Oliver Fog: ... Thank you, Miss Vertin, for so kindly respecting my rights to education.
+
+维尔汀：既然你已经与未锈铠先生解决了魔精，今天就没有工作的必要了。
+Vertin: Since you and Mr. Knight already handled the critter situation, there is no need for you to remain at work today.
+
+雾行者：……总感觉哪里不对劲。
+Oliver Fog: ... I can't help but feel something is amiss here.
+
+雾行者：对了！
+Oliver Fog: That's right!
+
+雾行者：未锈铠先生呢？你那天提到了未锈铠先生出于某种原因不能参加今天的行动，可是那天晚上他却与我……却一个人打败了那群魔精。
+Oliver Fog: What about Mr. Knight? You told me he would be unable to participate in today's operation for some reason, but that night he and I ... defeated those critters alone.
+
+选项 / Choices
+
+1. 未锈铠先生今天请假了
+1. Today, Mr. Knight has taken the day off.
+
+雾行者：请假了？
+Oliver Fog: A day off?
+
+维尔汀：嗯，他说他要在今天去凭吊那些战死的战友们……为了给予他人希望，而选择了责任的战友。
+Vertin: Correct. He told me he wished to spend the day paying tribute to his fallen brothers-in-arms... Men who chose to make the ultimate sacrifice in order to give hope to others.
+
+雾行者：……
+Oliver Fog: ...
+
+雾行者：维尔汀。
+Oliver Fog: Miss Vertin.
+
+选项 / Choices
+
+1. 嗯？
+1. Hm?
+
+雾行者：虽然我现在还是很讨厌雾，很讨厌雾行者……
+Oliver Fog: Although I still hate the fog and the other Fogwalkers just as much as I did before...
+
+雾行者：但我好像有那么一点理解了他们。
+Oliver Fog: I feel as though I understand them a little more.
+
+雾行者：或许穷极我的一生，我也没有办法改变伦敦的雾气。
+Oliver Fog: Perhaps there is nothing I can do to put an end to the fog of London.
+
+雾行者：但我如果就这么逃避了自己的责任，逃避了自己的工作，那么，我无疑是亲手剥夺了那份希望。
+Oliver Fog: But if I evade my responsibilities and duties like this, then I'll surely be depriving myself of that hope.
+
+雾行者：那份……由父亲保留下来的希望。
+Oliver Fog: The hope my father died trying to preserve.
+
+雾行者：维尔汀，我想要解决伦敦的雾气。
+不仅仅是作为雾行者，也是作为见到过那道阳光的人。
+Oliver Fog: Vertin, I'm determined to clear the fog in London. Not only as a Fogwalker but also as someone who has seen the glorious light of the sun.
+
+雾行者：……我想要成为能够吸收迷雾，为他人带来希望的人。
+Oliver Fog: ... I want to become someone who can clear the fog and bring hope to others.
+
+雾行者：为此，我打算努力学习，考上剑桥大学。
+Oliver Fog: To this end, I intend to study hard and secure a place at the University of Cambridge.
+
+维尔汀：……你是怎么得到这个结论的？
+Vertin: And what motivated you to make this decision?
+
+雾行者：因为比起精进神秘术，我觉得还是成为内阁秘书，引导政客制定一部法律会比较快一点。
+Oliver Fog: I believe that, compared to pursuing a life engaged in arcanism alone, it would be better for me to become a Cabinet Secretary, guiding our nation's politicians in the formulation and regulation of our nation's laws.
+
+雾行者：维尔汀，你的表情怎么这么奇怪？你觉得我的计划有什么缺漏吗？
+Oliver Fog: Miss Vertin, why are you looking at me so strangely? Is there some unseen flaw in my plan?
+
+维尔汀：……不，没什么，或许是你的想法太正确了，以至于我不知道该说什么。
+Vertin: No, Oliver, there's nothing wrong with it. Perhaps it's only that your plan is so fitting for you that I'm at a loss for words.
+
+雾行者：能够获得你的认同太好了，维尔汀小姐。
+Oliver Fog: Then I shall feel honored to have your approval, Miss Vertin.
+
+雾行者：那么，我便告辞了，我今天的工作还没有完成。
+Oliver Fog: Anyway, I'll say goodbye now. I haven't finished my work for today just yet.
+
+选项 / Choices
+
+1. 再见，雾行者先生
+1. Goodbye, Mr. Fog.
+
+雾行者：……
+Oliver Fog: ...
+
+雾行者：对了，还有一件事情。
+Oliver Fog: By the way, there was one more thing I wanted to say.
+
+雾行者：谢谢你，维尔汀小姐。
+Oliver Fog: Thank you, Miss Vertin.
+
+雾行者：……顺便，也替我转告一下未锈铠先生，替我向他传递我的谢意。
+Oliver Fog: Oh yes, and please convey my gratitude to Mr. Knight for me.
+
+雾行者：请转告他……或许我永远无法成为骑士，但我还是会成为奥利弗。
+Oliver Fog: Please tell him ... that perhaps I will never become a knight, but I will not rest until I become myself.
+
+雾行者：奥利弗·福葛，伦敦的雾行者。
+Oliver Fog: Oliver Fog, the Fogwalker of London.
+
+THE END
+THE END
